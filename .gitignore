@@ -1,0 +1,9 @@
+# 备份文件
+**/omegat/*.bak
+# 进入记录
+**/omegat/last_entry.properties
+# 状态
+**/omegat/project_stats.txt
+**/omegat/project_stats_match.txt
+# 输出
+**/target/
