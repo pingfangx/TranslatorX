@@ -30,6 +30,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AIDL File</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T020615Z" creationid="Admin" creationdate="20170822T020615Z">
+        <seg>AIDL 文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AIDL Folder</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T020818Z" creationid="Admin" creationdate="20170822T020818Z">
+        <seg>AIDL 文件夹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A_nnotate</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -182,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add Property Files to Resource Bundle</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T014850Z" creationid="Admin" creationdate="20170822T014850Z">
+        <seg>将资源文件添加到资源包</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add Rectangular Selection on Mouse Drag</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -192,8 +216,8 @@
       <tuv lang="EN-US">
         <seg>Add Selection for Next Occurrence</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>添加选择下发生</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T024033Z">
+        <seg>将下一个出现添加到选择</seg>
       </tuv>
     </tu>
     <tu>
@@ -240,8 +264,8 @@
       <tuv lang="EN-US">
         <seg>Add to Favorites</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>收藏</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T022046Z">
+        <seg>添加到收藏</seg>
       </tuv>
     </tu>
     <tu>
@@ -358,6 +382,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Android Component</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T015346Z" creationid="Admin" creationdate="20170822T015346Z">
+        <seg>Android组件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Android Manifest File</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T020937Z" creationid="Admin" creationdate="20170822T020937Z">
+        <seg>Android Manifest 文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Android resource directory</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T014951Z" creationid="Admin" creationdate="20170822T014951Z">
+        <seg>Android资源目录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Android resource file</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T014947Z" creationid="Admin" creationdate="20170822T014947Z">
+        <seg>Android资源文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Append Left Side</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -446,6 +502,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Assets Folder</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T020825Z" creationid="Admin" creationdate="20170822T020825Z">
+        <seg>Assets 文件夹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Associate selected file with one of file types</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -466,6 +530,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>停靠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Attach project...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T021504Z" creationid="Admin" creationdate="20170822T021504Z">
+        <seg>附加到项目...</seg>
       </tuv>
     </tu>
     <tu>
@@ -690,6 +762,30 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>生成项目 (_P)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>C++ Class</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T015015Z" creationid="Admin" creationdate="20170822T015015Z">
+        <seg>C++ 类</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>C/C++ Header File</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T015026Z" creationid="Admin" creationdate="20170822T015026Z">
+        <seg>C/C++ 头文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>C/C++ Source File</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T015020Z" creationid="Admin" creationdate="20170822T015020Z">
+        <seg>C/C++ 源文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -1064,16 +1160,16 @@
       <tuv lang="EN-US">
         <seg>Choose and re-run recent find usages</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>选择和重新运行刚刚发现用法</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T025454Z">
+        <seg>选择和重新运行最近的查找使用</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Choose scope and edit options for the Find Usages action</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>为找到使用动作选择范围和编辑选项</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T025152Z">
+        <seg>为查找使用操作选择范围和编辑选项</seg>
       </tuv>
     </tu>
     <tu>
@@ -1202,6 +1298,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>关闭项目 (_j)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Close Project</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T021558Z" creationid="Admin" creationdate="20170822T021558Z">
+        <seg>关闭项目</seg>
       </tuv>
     </tu>
     <tu>
@@ -1466,6 +1570,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>切换配色方案</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Column Selection Mode</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T012956Z" creationid="Admin" creationdate="20170822T012956Z">
+        <seg>列选择模式</seg>
       </tuv>
     </tu>
     <tu>
@@ -1934,6 +2046,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Copy Paths</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T023343Z" creationid="Admin" creationdate="20170822T023343Z">
+        <seg>复制路径</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copy Reference</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T023514Z" creationid="Admin" creationdate="20170822T023514Z">
+        <seg>复制引用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Copy URL</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -1952,16 +2080,16 @@
       <tuv lang="EN-US">
         <seg>Copy as Plain Text</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>复制纯文本</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T023428Z">
+        <seg>复制为纯文本</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Copy as Rich Text</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>复制富文本</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T023439Z">
+        <seg>复制为富文本</seg>
       </tuv>
     </tu>
     <tu>
@@ -1992,16 +2120,16 @@
       <tuv lang="EN-US">
         <seg>Copy selection to clipboard as plain text</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>复制所选的内容到剪贴板为纯文本</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T023436Z">
+        <seg>将选择复制到剪贴板作为纯文本</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Copy selection to clipboard as rich text (in RTF and HTML formats)</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>复制所选的内容到剪贴板为富文本（RTF和HTML格式）</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T023449Z">
+        <seg>将选择复制到剪贴板作为富文本（以RTF和HTML格式）</seg>
       </tuv>
     </tu>
     <tu>
@@ -2278,6 +2406,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Custom View</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T021007Z" creationid="Admin" creationdate="20170822T021007Z">
+        <seg>自定义View</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Customize Data Views...</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -2442,6 +2578,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>默认项目结构...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Default Settings...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T021642Z" creationid="Admin" creationdate="20170822T021642Z">
+        <seg>默认设置…</seg>
       </tuv>
     </tu>
     <tu>
@@ -2790,6 +2934,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Edit</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T022407Z" creationid="Admin" creationdate="20170822T022407Z">
+        <seg>编辑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Edit Changelist...</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -2826,6 +2978,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>编辑自定义VM选项...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit Macros</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T025558Z" creationid="Admin" creationdate="20170822T025558Z">
+        <seg>编辑宏</seg>
       </tuv>
     </tu>
     <tu>
@@ -3014,6 +3174,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Encode XML/HTML Special Characters</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T025738Z" creationid="Admin" creationdate="20170822T025738Z">
+        <seg>编码XML / HTML特殊字符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enter</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -3174,6 +3342,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Exit</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T022353Z" creationid="Admin" creationdate="20170822T022353Z">
+        <seg>退出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Exit Full Screen</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -3294,6 +3470,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Export Settings...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T021811Z" creationid="Admin" creationdate="20170822T021811Z">
+        <seg>导出设置...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Export T_hreads...</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -3334,10 +3518,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Export to HTML...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T022033Z" creationid="Admin" creationdate="20170822T022033Z">
+        <seg>导出到HTML...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Export to Text File</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>导出到文本文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Export to Zip File...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T021847Z" creationid="Admin" creationdate="20170822T021847Z">
+        <seg>导出到Zip文件...</seg>
       </tuv>
     </tu>
     <tu>
@@ -3494,6 +3694,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Find</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T023704Z" creationid="Admin" creationdate="20170822T023704Z">
+        <seg>查找</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find Next / Move to Next Occurrence</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T023728Z" creationid="Admin" creationdate="20170822T023728Z">
+        <seg>查找下一个/移动到下一个出现</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Find Pre_vious / Move to Previous Occurrence</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -3502,10 +3718,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Find Previous / Move to Previous Occurrence</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T023742Z" creationid="Admin" creationdate="20170822T023742Z">
+        <seg>查找上一个/移动到上一个出现</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find Usages</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T025010Z" creationid="Admin" creationdate="20170822T025010Z">
+        <seg>查找使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Find Usages Settings...</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>查找使用设置...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find Usages in File</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T025219Z" creationid="Admin" creationdate="20170822T025219Z">
+        <seg>在文件查找使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find Word at Caret</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T023846Z" creationid="Admin" creationdate="20170822T023846Z">
+        <seg>查找光标处的单词</seg>
       </tuv>
     </tu>
     <tu>
@@ -3574,6 +3822,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Find in Path...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T024114Z" creationid="Admin" creationdate="20170822T024114Z">
+        <seg>在路径中查找...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Find in _Path...</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -3618,6 +3874,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>在活跃编辑器查找插入符号的使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T023713Z" creationid="Admin" creationdate="20170822T023713Z">
+        <seg>查找...</seg>
       </tuv>
     </tu>
     <tu>
@@ -3734,6 +3998,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Folder</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T020812Z" creationid="Admin" creationdate="20170822T020812Z">
+        <seg>文件夹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Folding</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -3792,8 +4064,8 @@
       <tuv lang="EN-US">
         <seg>Force rebuild of all caches and indices on next startup</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>力重建所有缓存和索引下启动</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T022025Z">
+        <seg>在下次启动时强制重建所有缓存和索引</seg>
       </tuv>
     </tu>
     <tu>
@@ -4262,6 +4534,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Highlight Usages in File</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T025427Z" creationid="Admin" creationdate="20170822T025427Z">
+        <seg>在文件高亮显示使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Highlight usages of the symbol at caret in active editor</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -4358,6 +4638,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Image Asset</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T015235Z" creationid="Admin" creationdate="20170822T015235Z">
+        <seg>图像资源</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Implement Method</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -4398,10 +4686,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Import Module...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T014619Z" creationid="Admin" creationdate="20170822T014619Z">
+        <seg>导入Module...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Import Project</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>导入项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Import Project...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T014503Z" creationid="Admin" creationdate="20170822T014503Z">
+        <seg>导入项目...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Import Sample...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T014636Z" creationid="Admin" creationdate="20170822T014636Z">
+        <seg>导入Sample...</seg>
       </tuv>
     </tu>
     <tu>
@@ -4416,8 +4728,8 @@
       <tuv lang="EN-US">
         <seg>Import Settings...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>导入设置... (_I)</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T021802Z">
+        <seg>导入设置...</seg>
       </tuv>
     </tu>
     <tu>
@@ -4696,8 +5008,8 @@
       <tuv lang="EN-US">
         <seg>Invalidate Caches / Restart...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>作废缓存...</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T021945Z">
+        <seg>使缓存无效/重启...</seg>
       </tuv>
     </tu>
     <tu>
@@ -4718,10 +5030,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>JNI Folder</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T020828Z" creationid="Admin" creationdate="20170822T020828Z">
+        <seg>JNI 文件夹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Java Class</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>Java类</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Java Folder</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T020830Z" creationid="Admin" creationdate="20170822T020830Z">
+        <seg>Java 文件夹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Java Resources Folder</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T020838Z" creationid="Admin" creationdate="20170822T020838Z">
+        <seg>Java 资源文件夹</seg>
       </tuv>
     </tu>
     <tu>
@@ -4798,6 +5134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Kotlin File/Class</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T014934Z" creationid="Admin" creationdate="20170822T014934Z">
+        <seg>Kotlin 文件/类</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Last Edit L_ocation</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -4850,6 +5194,22 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>升级</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Line Separators</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T022251Z" creationid="Admin" creationdate="20170822T022251Z">
+        <seg>换行符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Link C++ Project with Gradle</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T021616Z" creationid="Admin" creationdate="20170822T021616Z">
+        <seg>用Gradle链接C++项目</seg>
       </tuv>
     </tu>
     <tu>
@@ -4922,6 +5282,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>宏操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Macros</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T025523Z" creationid="Admin" creationdate="20170822T025523Z">
+        <seg>宏</seg>
       </tuv>
     </tu>
     <tu>
@@ -5854,6 +6222,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>New</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T014451Z" creationid="Admin" creationdate="20170822T014451Z">
+        <seg>新建</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>New Changelist</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -5890,6 +6266,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>新组(2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Module...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T014615Z" creationid="Admin" creationdate="20170822T014603Z">
+        <seg>新建Module...</seg>
       </tuv>
     </tu>
     <tu>
@@ -6050,6 +6434,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>打开项目窗口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open Recent</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T021513Z" creationid="Admin" creationdate="20170822T021513Z">
+        <seg>打开最近</seg>
       </tuv>
     </tu>
     <tu>
@@ -6398,6 +6790,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Paste from History</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T023638Z" creationid="Admin" creationdate="20170822T023638Z">
+        <seg>从历史粘贴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Paste from X clipboard</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -6470,6 +6870,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Play Back Last Macro</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T025544Z" creationid="Admin" creationdate="20170822T025544Z">
+        <seg>回放上一个宏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Play Back last used macro</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -6528,16 +6936,16 @@
       <tuv lang="EN-US">
         <seg>Power Save Mode</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>节电模式</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T022326Z">
+        <seg>省电模式</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Power save mode disables background code analysis and other background operations</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>节电模式禁用后台代码分析和其他后台操作</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T022334Z">
+        <seg>省电模式禁用后台码分析和其他后台操作</seg>
       </tuv>
     </tu>
     <tu>
@@ -6598,6 +7006,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Previous Parameter</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T025705Z" creationid="Admin" creationdate="20170822T025705Z">
+        <seg>上一个参数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Previous Project Window</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -6646,6 +7062,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Print...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T022037Z" creationid="Admin" creationdate="20170822T022037Z">
+        <seg>打印...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Print/Export Actions</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -6666,6 +7090,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>处理 {0} 注释 (A)(_A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Profile or Debug APK...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T021431Z" creationid="Admin" creationdate="20170822T021431Z">
+        <seg>查看或调试APK...</seg>
       </tuv>
     </tu>
     <tu>
@@ -6722,6 +7154,22 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>项目视图弹出菜单设置组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project from Version Control</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T014544Z" creationid="Admin" creationdate="20170822T014544Z">
+        <seg>从版本控制中导入项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Property</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T014918Z" creationid="Admin" creationdate="20170822T014918Z">
+        <seg>属性</seg>
       </tuv>
     </tu>
     <tu>
@@ -6920,8 +7368,8 @@
       <tuv lang="EN-US">
         <seg>Recent Find Usages</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>最近查找的用法</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T025435Z">
+        <seg>最近查找的使用</seg>
       </tuv>
     </tu>
     <tu>
@@ -6954,6 +7402,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>递归</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Redo</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T023329Z" creationid="Admin" creationdate="20170822T023329Z">
+        <seg>重做</seg>
       </tuv>
     </tu>
     <tu>
@@ -7184,8 +7640,8 @@
       <tuv lang="EN-US">
         <seg>Remove the current occurrence of the word from the selection.</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>从选择中删除当前出现的单词。</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T024108Z">
+        <seg>从选择中删除当前单词的出现。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7262,6 +7718,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>RenderScript Folder</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T020841Z" creationid="Admin" creationdate="20170822T020841Z">
+        <seg>RenderScript 文件夹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reopen Project</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T021535Z" creationid="Admin" creationdate="20170822T021535Z">
+        <seg>重新打开项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Repeat the last Find/Replace operation in reverse direction, or moving to previous occurrence of selected text</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -7306,6 +7778,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>构造函数与工厂方法代替... (_a)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Replace Structurally...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T024950Z" creationid="Admin" creationdate="20170822T024950Z">
+        <seg>替换结构...</seg>
       </tuv>
     </tu>
     <tu>
@@ -7358,6 +7838,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Replace in Path...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T024118Z" creationid="Admin" creationdate="20170822T024118Z">
+        <seg>在路径中替换...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Replace inheritance with delegation</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -7378,6 +7866,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>替换选定的语句，调用新的函数方法参数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Replace...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T023716Z" creationid="Admin" creationdate="20170822T023716Z">
+        <seg>替换...</seg>
       </tuv>
     </tu>
     <tu>
@@ -7418,6 +7914,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>重新运行搜索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Res Folder</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T020850Z" creationid="Admin" creationdate="20170822T020850Z">
+        <seg>Res 文件夹</seg>
       </tuv>
     </tu>
     <tu>
@@ -7482,6 +7986,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>调整图片为实际尺寸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Resource Bundle</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T021039Z" creationid="Admin" creationdate="20170822T021039Z">
+        <seg>资源包</seg>
       </tuv>
     </tu>
     <tu>
@@ -7672,8 +8184,8 @@
       <tuv lang="EN-US">
         <seg>Run a wizard for selecting the set of enabled plugins</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>运行一个向导选择组启用插件</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T021725Z">
+        <seg>运行一个向导来选择一组可用的插件</seg>
       </tuv>
     </tu>
     <tu>
@@ -7782,6 +8294,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sample Data directory</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T015004Z" creationid="Admin" creationdate="20170822T015004Z">
+        <seg>示例数据目录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save All</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T021900Z" creationid="Admin" creationdate="20170822T021900Z">
+        <seg>保存全部</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Save Document</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -7810,6 +8338,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>将所有线程信息保存到一个文本文件或剪贴板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save as Directory-Based Format...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T021840Z" creationid="Admin" creationdate="20170822T021840Z">
+        <seg>保存为基于目录的格式...</seg>
       </tuv>
     </tu>
     <tu>
@@ -8006,6 +8542,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Search Structurally...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T024935Z" creationid="Admin" creationdate="20170822T024935Z">
+        <seg>搜索结构...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Search for values escaped from this location</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -8038,10 +8582,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select All</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T025611Z" creationid="Admin" creationdate="20170822T025611Z">
+        <seg>全选</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select All Occurrences</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>选择所有事件</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T023854Z">
+        <seg>选择所有出现</seg>
       </tuv>
     </tu>
     <tu>
@@ -8176,16 +8728,16 @@
       <tuv lang="EN-US">
         <seg>Set multiple cursors by adding all occurrences of the current word to the selection.</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>通过添加到选择当前单词所有事件设置多个游标。</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T024010Z">
+        <seg>通过将当前单词的所有出现添加到选择，来设置多个光标。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Set multiple cursors by adding the next occurrence of the current word to the selection.</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>通过将当前单词的下一个出现的选项设置多个游标。</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T024047Z">
+        <seg>通过将当前单词的下一个出现添加到选择，来设置多个光标。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8226,6 +8778,22 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>设置操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Settings Repository...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T021854Z" creationid="Admin" creationdate="20170822T021854Z">
+        <seg>设置存储库...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Settings...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T021631Z" creationid="Admin" creationdate="20170822T021631Z">
+        <seg>设置...</seg>
       </tuv>
     </tu>
     <tu>
@@ -8514,6 +9082,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>显示同级</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show Usages</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T025157Z" creationid="Admin" creationdate="20170822T025157Z">
+        <seg>显示使用</seg>
       </tuv>
     </tu>
     <tu>
@@ -9134,6 +9710,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Start/Stop Macro Recording</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T025551Z" creationid="Admin" creationdate="20170822T025551Z">
+        <seg>启动/停止录制宏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Start/Stop Macro _Recording</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -9442,6 +10026,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>切换到上一个项目窗口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Synchronize</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T021904Z" creationid="Admin" creationdate="20170822T021904Z">
+        <seg>同步</seg>
       </tuv>
     </tu>
     <tu>
@@ -9848,8 +10440,8 @@
       <tuv lang="EN-US">
         <seg>Toggle read-only attribute of current file</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>切换当前文件只读属性</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T022321Z">
+        <seg>切换当前文件的只读属性</seg>
       </tuv>
     </tu>
     <tu>
@@ -9966,6 +10558,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Translate</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T023318Z" creationid="Admin" creationdate="20170822T023318Z">
+        <seg>翻译</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Transparency Chessboard</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -10038,6 +10638,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>UI Component</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T021001Z" creationid="Admin" creationdate="20170822T021001Z">
+        <seg>UI 组件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>UI Debugger...</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -10066,6 +10674,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>打开/删除... (_w)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Undo</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T023325Z" creationid="Admin" creationdate="20170822T023325Z">
+        <seg>撤消</seg>
       </tuv>
     </tu>
     <tu>
@@ -10120,8 +10736,8 @@
       <tuv lang="EN-US">
         <seg>Unselect Occurrence</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>取消选择发生</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T024056Z">
+        <seg>取消选择出现</seg>
       </tuv>
     </tu>
     <tu>
@@ -10226,6 +10842,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>自动提示值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vector Asset</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T020010Z" creationid="Admin" creationdate="20170822T015341Z">
+        <seg>Vector资源</seg>
       </tuv>
     </tu>
     <tu>
@@ -10426,6 +11050,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>XML操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>XML Configuration File</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T021047Z" creationid="Admin" creationdate="20170822T021047Z">
+        <seg>XML配置文件</seg>
       </tuv>
     </tu>
     <tu>
