@@ -6,7 +6,7 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
-        <seg></seg>
+        <seg />
       </tuv>
       <tuv lang="ZH-CN">
         <seg>删除无版本描述</seg>
@@ -32,7 +32,7 @@
       <tuv lang="EN-US">
         <seg>AIDL File</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T020615Z" creationid="Admin" creationdate="20170822T020615Z">
+      <tuv changedate="20170822T020615Z" changeid="Admin" creationdate="20170822T020615Z" creationid="Admin" lang="ZH-CN">
         <seg>AIDL 文件</seg>
       </tuv>
     </tu>
@@ -40,16 +40,16 @@
       <tuv lang="EN-US">
         <seg>AIDL Folder</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T020818Z" creationid="Admin" creationdate="20170822T020818Z">
+      <tuv changedate="20170822T020818Z" changeid="Admin" creationdate="20170822T020818Z" creationid="Admin" lang="ZH-CN">
         <seg>AIDL 文件夹</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>A_nnotate</seg>
+        <seg>Annotate</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>注释 (_n)</seg>
+        <seg>注释</seg>
       </tuv>
     </tu>
     <tu>
@@ -94,10 +94,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Activate Navigation _Bar</seg>
+        <seg>Activate Navigation Bar</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>激活导航栏 (_B)</seg>
+        <seg>激活导航栏</seg>
       </tuv>
     </tu>
     <tu>
@@ -174,10 +174,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Add A_ll To Favorites</seg>
+        <seg>Add All To Favorites</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>全部收藏 (_l)</seg>
+        <seg>全部收藏</seg>
       </tuv>
     </tu>
     <tu>
@@ -200,7 +200,7 @@
       <tuv lang="EN-US">
         <seg>Add Property Files to Resource Bundle</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T014850Z" creationid="Admin" creationdate="20170822T014850Z">
+      <tuv changedate="20170822T014850Z" changeid="Admin" creationdate="20170822T014850Z" creationid="Admin" lang="ZH-CN">
         <seg>将资源文件添加到资源包</seg>
       </tuv>
     </tu>
@@ -216,7 +216,7 @@
       <tuv lang="EN-US">
         <seg>Add Selection for Next Occurrence</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T024033Z">
+      <tuv changedate="20170822T024033Z" changeid="Admin" lang="ZH-CN">
         <seg>将下一个出现添加到选择</seg>
       </tuv>
     </tu>
@@ -254,17 +254,17 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Add to F_avorites</seg>
+        <seg>Add to Favorites</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>收藏 (_a)</seg>
+        <seg>收藏</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Add to Favorites</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T022046Z">
+      <tuv changedate="20170822T022046Z" changeid="Admin" lang="ZH-CN">
         <seg>添加到收藏</seg>
       </tuv>
     </tu>
@@ -302,10 +302,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Analy_ze</seg>
+        <seg>Analyze</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>分析 (_z)</seg>
+        <seg>分析</seg>
       </tuv>
     </tu>
     <tu>
@@ -318,18 +318,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Analyze Data Flow _from Here</seg>
+        <seg>Analyze Data Flow from Here</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>从这里分析数据流 (_f)</seg>
+        <seg>从这里分析数据流</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Analyze Data Flow _to Here</seg>
+        <seg>Analyze Data Flow to Here</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>分析数据流到这里 (_t)</seg>
+        <seg>分析数据流到这里</seg>
       </tuv>
     </tu>
     <tu>
@@ -342,49 +342,49 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Analyze _Backward Dependencies...</seg>
+        <seg>Analyze Backward Dependencies...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>分析反向依赖... (_B)</seg>
+        <seg>分析反向依赖...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Analyze _Cyclic Dependencies...</seg>
+        <seg>Analyze Cyclic Dependencies...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>分析循环依赖... (_C)</seg>
+        <seg>分析循环依赖...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Analyze _Dependencies...</seg>
+        <seg>Analyze Dependencies...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>分析依赖... (_D)</seg>
+        <seg>分析依赖...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Analyze _Module Dependencies...</seg>
+        <seg>Analyze Module Dependencies...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>分析模块依赖... (_M)</seg>
+        <seg>分析模块依赖...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Analyze _Stacktrace...</seg>
+        <seg>Analyze Stacktrace...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>分析堆栈轨迹... (_S)</seg>
+        <seg>分析堆栈轨迹...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Android Component</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T015346Z" creationid="Admin" creationdate="20170822T015346Z">
+      <tuv changedate="20170822T015346Z" changeid="Admin" creationdate="20170822T015346Z" creationid="Admin" lang="ZH-CN">
         <seg>Android组件</seg>
       </tuv>
     </tu>
@@ -392,7 +392,7 @@
       <tuv lang="EN-US">
         <seg>Android Manifest File</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T020937Z" creationid="Admin" creationdate="20170822T020937Z">
+      <tuv changedate="20170822T020937Z" changeid="Admin" creationdate="20170822T020937Z" creationid="Admin" lang="ZH-CN">
         <seg>Android Manifest 文件</seg>
       </tuv>
     </tu>
@@ -400,7 +400,7 @@
       <tuv lang="EN-US">
         <seg>Android resource directory</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T014951Z" creationid="Admin" creationdate="20170822T014951Z">
+      <tuv changedate="20170822T014951Z" changeid="Admin" creationdate="20170822T014951Z" creationid="Admin" lang="ZH-CN">
         <seg>Android资源目录</seg>
       </tuv>
     </tu>
@@ -408,7 +408,7 @@
       <tuv lang="EN-US">
         <seg>Android resource file</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T014947Z" creationid="Admin" creationdate="20170822T014947Z">
+      <tuv changedate="20170822T014947Z" changeid="Admin" creationdate="20170822T014947Z" creationid="Admin" lang="ZH-CN">
         <seg>Android资源文件</seg>
       </tuv>
     </tu>
@@ -504,7 +504,7 @@
       <tuv lang="EN-US">
         <seg>Assets Folder</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T020825Z" creationid="Admin" creationdate="20170822T020825Z">
+      <tuv changedate="20170822T020825Z" changeid="Admin" creationdate="20170822T020825Z" creationid="Admin" lang="ZH-CN">
         <seg>Assets 文件夹</seg>
       </tuv>
     </tu>
@@ -536,7 +536,7 @@
       <tuv lang="EN-US">
         <seg>Attach project...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T021504Z" creationid="Admin" creationdate="20170822T021504Z">
+      <tuv changedate="20170822T021504Z" changeid="Admin" creationdate="20170822T021504Z" creationid="Admin" lang="ZH-CN">
         <seg>附加到项目...</seg>
       </tuv>
     </tu>
@@ -614,10 +614,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Boo_kmarks</seg>
+        <seg>Bookmarks</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>书签 (_k)</seg>
+        <seg>书签</seg>
       </tuv>
     </tu>
     <tu>
@@ -750,25 +750,25 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Build _Module</seg>
+        <seg>Build Module</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>生成模块 (_M)</seg>
+        <seg>生成模块</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Build _Project</seg>
+        <seg>Build Project</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>生成项目 (_P)</seg>
+        <seg>生成项目</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>C++ Class</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T015015Z" creationid="Admin" creationdate="20170822T015015Z">
+      <tuv changedate="20170822T015015Z" changeid="Admin" creationdate="20170822T015015Z" creationid="Admin" lang="ZH-CN">
         <seg>C++ 类</seg>
       </tuv>
     </tu>
@@ -776,7 +776,7 @@
       <tuv lang="EN-US">
         <seg>C/C++ Header File</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T015026Z" creationid="Admin" creationdate="20170822T015026Z">
+      <tuv changedate="20170822T015026Z" changeid="Admin" creationdate="20170822T015026Z" creationid="Admin" lang="ZH-CN">
         <seg>C/C++ 头文件</seg>
       </tuv>
     </tu>
@@ -784,56 +784,56 @@
       <tuv lang="EN-US">
         <seg>C/C++ Source File</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T015020Z" creationid="Admin" creationdate="20170822T015020Z">
+      <tuv changedate="20170822T015020Z" changeid="Admin" creationdate="20170822T015020Z" creationid="Admin" lang="ZH-CN">
         <seg>C/C++ 源文件</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>C_hange under caret</seg>
+        <seg>Change under caret</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>改变插入符号(_h)</seg>
+        <seg>改变插入符号</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>C_heck Project Status</seg>
+        <seg>Check Project Status</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>检查项目状态 (_h)</seg>
+        <seg>检查项目状态</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>C_onvert To Instance Method...</seg>
+        <seg>Convert To Instance Method...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>转换为实例方法... (_o)</seg>
+        <seg>转换为实例方法...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>C_opy Paths</seg>
+        <seg>Copy Paths</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>复制路径 (_o)</seg>
+        <seg>复制路径</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>C_opy...</seg>
+        <seg>Copy...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>复制... (_o)</seg>
+        <seg>复制...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Call Hierarch_y</seg>
+        <seg>Call Hierarchy</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>Call层次结构(_y)</seg>
+        <seg>Call层次结构</seg>
       </tuv>
     </tu>
     <tu>
@@ -918,18 +918,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Change Si_gnature...</seg>
+        <seg>Change Signature...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>更改签名... (_g)</seg>
+        <seg>更改签名...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Change Splitter O_rientation</seg>
+        <seg>Change Splitter Orientation</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>改变分割方向 (_r)</seg>
+        <seg>改变分割方向</seg>
       </tuv>
     </tu>
     <tu>
@@ -1054,10 +1054,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Chec_k Status</seg>
+        <seg>Check Status</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>检查状态 (_k)</seg>
+        <seg>检查状态</seg>
       </tuv>
     </tu>
     <tu>
@@ -1094,10 +1094,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Check_out from Version Control</seg>
+        <seg>Checkout from Version Control</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>从版本控制中检出 (_o)</seg>
+        <seg>从版本控制中检出</seg>
       </tuv>
     </tu>
     <tu>
@@ -1120,7 +1120,7 @@
       <tuv lang="EN-US">
         <seg>Choose Lookup Item</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170821T092245Z">
+      <tuv changedate="20170821T092245Z" changeid="Admin" lang="ZH-CN">
         <seg>选择查询项</seg>
       </tuv>
     </tu>
@@ -1128,7 +1128,7 @@
       <tuv lang="EN-US">
         <seg>Choose Lookup Item Replace</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170821T093457Z">
+      <tuv changedate="20170821T093457Z" changeid="Admin" lang="ZH-CN">
         <seg>选择查询项替换</seg>
       </tuv>
     </tu>
@@ -1136,7 +1136,7 @@
       <tuv lang="EN-US">
         <seg>Choose Lookup Item and Insert Dot</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170821T093305Z">
+      <tuv changedate="20170821T093305Z" changeid="Admin" lang="ZH-CN">
         <seg>选择查询项并插入点</seg>
       </tuv>
     </tu>
@@ -1144,7 +1144,7 @@
       <tuv lang="EN-US">
         <seg>Choose Lookup Item and Invoke Complete Statement</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170821T092519Z">
+      <tuv changedate="20170821T092519Z" changeid="Admin" lang="ZH-CN">
         <seg>选择查询项并将语句补充完整。</seg>
       </tuv>
     </tu>
@@ -1160,7 +1160,7 @@
       <tuv lang="EN-US">
         <seg>Choose and re-run recent find usages</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T025454Z">
+      <tuv changedate="20170822T025454Z" changeid="Admin" lang="ZH-CN">
         <seg>选择和重新运行最近的查找使用</seg>
       </tuv>
     </tu>
@@ -1168,7 +1168,7 @@
       <tuv lang="EN-US">
         <seg>Choose scope and edit options for the Find Usages action</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T025152Z">
+      <tuv changedate="20170822T025152Z" changeid="Admin" lang="ZH-CN">
         <seg>为查找使用操作选择范围和编辑选项</seg>
       </tuv>
     </tu>
@@ -1182,10 +1182,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Cl_ose Active Tab</seg>
+        <seg>Close Active Tab</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>关闭活动选项卡 (_o)</seg>
+        <seg>关闭活动选项卡</seg>
       </tuv>
     </tu>
     <tu>
@@ -1198,10 +1198,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Class _Name Completion</seg>
+        <seg>Class Name Completion</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>类名自动完成 (_N)</seg>
+        <seg>类名自动完成</seg>
       </tuv>
     </tu>
     <tu>
@@ -1240,7 +1240,7 @@
       <tuv lang="EN-US">
         <seg>Clone Caret Above</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170821T093612Z">
+      <tuv changedate="20170821T093612Z" changeid="Admin" lang="ZH-CN">
         <seg>在上方克隆光标</seg>
       </tuv>
     </tu>
@@ -1248,7 +1248,7 @@
       <tuv lang="EN-US">
         <seg>Clone Caret Below</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170821T093625Z">
+      <tuv changedate="20170821T093625Z" changeid="Admin" lang="ZH-CN">
         <seg>在下方克隆光标</seg>
       </tuv>
     </tu>
@@ -1294,42 +1294,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Close Pro_ject</seg>
+        <seg>Close Project</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>关闭项目 (_j)</seg>
+        <seg>关闭项目</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Close Project</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T021558Z" creationid="Admin" creationdate="20170822T021558Z">
+      <tuv changedate="20170822T021558Z" changeid="Admin" creationdate="20170822T021558Z" creationid="Admin" lang="ZH-CN">
         <seg>关闭项目</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Close _All</seg>
+        <seg>Close All</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>关闭所有 (_A)</seg>
+        <seg>关闭所有</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Close _Others</seg>
+        <seg>Close Others</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>关闭其他 (_O)</seg>
+        <seg>关闭其他</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Close _Unmodified</seg>
+        <seg>Close Unmodified</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>关闭未修改的 (_U)</seg>
+        <seg>关闭未修改的</seg>
       </tuv>
     </tu>
     <tu>
@@ -1446,10 +1446,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Co_mpare File with Editor</seg>
+        <seg>Compare File with Editor</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>用编辑器比较 (_m)</seg>
+        <seg>用编辑器比较</seg>
       </tuv>
     </tu>
     <tu>
@@ -1494,10 +1494,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Coll_apse Recursively</seg>
+        <seg>Collapse Recursively</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>折叠递归(_a)</seg>
+        <seg>折叠递归</seg>
       </tuv>
     </tu>
     <tu>
@@ -1518,10 +1518,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Collapse _All</seg>
+        <seg>Collapse All</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>全部折叠 (_A)</seg>
+        <seg>全部折叠</seg>
       </tuv>
     </tu>
     <tu>
@@ -1550,10 +1550,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Collapse d_oc comments</seg>
+        <seg>Collapse doc comments</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>折叠doc注释 (_o)</seg>
+        <seg>折叠doc注释</seg>
       </tuv>
     </tu>
     <tu>
@@ -1576,40 +1576,40 @@
       <tuv lang="EN-US">
         <seg>Column Selection Mode</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T012956Z" creationid="Admin" creationdate="20170822T012956Z">
+      <tuv changedate="20170822T012956Z" changeid="Admin" creationdate="20170822T012956Z" creationid="Admin" lang="ZH-CN">
         <seg>列选择模式</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Column Selection _Mode</seg>
+        <seg>Column Selection Mode</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>列选择模式 (_M)</seg>
+        <seg>列选择模式</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Comm_it Changes</seg>
+        <seg>Commit Changes</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>提交修改 (_i)</seg>
+        <seg>提交修改</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Comm_it File</seg>
+        <seg>Commit File</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>签入 (_i)</seg>
+        <seg>签入</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Comm_it Project</seg>
+        <seg>Commit Project</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>签入项目 (_i)</seg>
+        <seg>签入项目</seg>
       </tuv>
     </tu>
     <tu>
@@ -1630,18 +1630,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Comment with _Block Comment</seg>
+        <seg>Comment with Block Comment</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>块注释 (_B)</seg>
+        <seg>块注释</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Comment with _Line Comment</seg>
+        <seg>Comment with Line Comment</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>行注释 (_L)</seg>
+        <seg>行注释</seg>
       </tuv>
     </tu>
     <tu>
@@ -1734,10 +1734,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Compare _Files</seg>
+        <seg>Compare Files</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>比较两个文件 (_F)</seg>
+        <seg>比较两个文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -1782,26 +1782,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Compare with Clip_board</seg>
+        <seg>Compare with Clipboard</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>与剪贴板比较 (_b)</seg>
+        <seg>与剪贴板比较</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Compare with Latest Repository _Version</seg>
+        <seg>Compare with Latest Repository Version</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>与最后一个版本库比较 (_V)</seg>
+        <seg>与最后一个版本库比较</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Compare with the Same Repositor_y Version</seg>
+        <seg>Compare with the Same Repository Version</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>与同一个版本库比较 (_y)</seg>
+        <seg>与同一个版本库比较</seg>
       </tuv>
     </tu>
     <tu>
@@ -1942,18 +1942,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Conte_xt Help</seg>
+        <seg>Context Help</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>上下文帮助 (_x)</seg>
+        <seg>上下文帮助</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Convert Anon_ymous to Inner...</seg>
+        <seg>Convert Anonymous to Inner...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>将匿名转换成内部... (_y)</seg>
+        <seg>将匿名转换成内部...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2022,10 +2022,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Cop_y Reference</seg>
+        <seg>Copy Reference</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>复制引用 (_y)</seg>
+        <seg>复制引用</seg>
       </tuv>
     </tu>
     <tu>
@@ -2048,7 +2048,7 @@
       <tuv lang="EN-US">
         <seg>Copy Paths</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T023343Z" creationid="Admin" creationdate="20170822T023343Z">
+      <tuv changedate="20170822T023343Z" changeid="Admin" creationdate="20170822T023343Z" creationid="Admin" lang="ZH-CN">
         <seg>复制路径</seg>
       </tuv>
     </tu>
@@ -2056,7 +2056,7 @@
       <tuv lang="EN-US">
         <seg>Copy Reference</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T023514Z" creationid="Admin" creationdate="20170822T023514Z">
+      <tuv changedate="20170822T023514Z" changeid="Admin" creationdate="20170822T023514Z" creationid="Admin" lang="ZH-CN">
         <seg>复制引用</seg>
       </tuv>
     </tu>
@@ -2080,7 +2080,7 @@
       <tuv lang="EN-US">
         <seg>Copy as Plain Text</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T023428Z">
+      <tuv changedate="20170822T023428Z" changeid="Admin" lang="ZH-CN">
         <seg>复制为纯文本</seg>
       </tuv>
     </tu>
@@ -2088,7 +2088,7 @@
       <tuv lang="EN-US">
         <seg>Copy as Rich Text</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T023439Z">
+      <tuv changedate="20170822T023439Z" changeid="Admin" lang="ZH-CN">
         <seg>复制为富文本</seg>
       </tuv>
     </tu>
@@ -2120,7 +2120,7 @@
       <tuv lang="EN-US">
         <seg>Copy selection to clipboard as plain text</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T023436Z">
+      <tuv changedate="20170822T023436Z" changeid="Admin" lang="ZH-CN">
         <seg>将选择复制到剪贴板作为纯文本</seg>
       </tuv>
     </tu>
@@ -2128,7 +2128,7 @@
       <tuv lang="EN-US">
         <seg>Copy selection to clipboard as rich text (in RTF and HTML formats)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T023449Z">
+      <tuv changedate="20170822T023449Z" changeid="Admin" lang="ZH-CN">
         <seg>将选择复制到剪贴板作为富文本（以RTF和HTML格式）</seg>
       </tuv>
     </tu>
@@ -2390,10 +2390,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Cu_t</seg>
+        <seg>Cut</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>剪切 (_t)</seg>
+        <seg>剪切</seg>
       </tuv>
     </tu>
     <tu>
@@ -2408,7 +2408,7 @@
       <tuv lang="EN-US">
         <seg>Custom View</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T021007Z" creationid="Admin" creationdate="20170822T021007Z">
+      <tuv changedate="20170822T021007Z" changeid="Admin" creationdate="20170822T021007Z" creationid="Admin" lang="ZH-CN">
         <seg>自定义View</seg>
       </tuv>
     </tu>
@@ -2486,26 +2486,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Cyclic _Expand Word</seg>
+        <seg>Cyclic Expand Word</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>循环展开词 (_E)</seg>
+        <seg>循环展开词</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Cyclic _Expand Word (Backward)</seg>
+        <seg>Cyclic Expand Word (Backward)</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>循环展开词(向后) (_E)</seg>
+        <seg>循环展开词(向后)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>D_ebug Log Settings...</seg>
+        <seg>Debug Log Settings...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>配置调试日志设置(_e)</seg>
+        <seg>配置调试日志设置</seg>
       </tuv>
     </tu>
     <tu>
@@ -2566,10 +2566,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Def_ault Settings...</seg>
+        <seg>Default Settings...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>默认设置... (_a)</seg>
+        <seg>默认设置...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2584,7 +2584,7 @@
       <tuv lang="EN-US">
         <seg>Default Settings...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T021642Z" creationid="Admin" creationdate="20170822T021642Z">
+      <tuv changedate="20170822T021642Z" changeid="Admin" creationdate="20170822T021642Z" creationid="Admin" lang="ZH-CN">
         <seg>默认设置…</seg>
       </tuv>
     </tu>
@@ -2672,7 +2672,7 @@
       <tuv lang="EN-US">
         <seg>Delete to Line End</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170821T095202Z">
+      <tuv changedate="20170821T095202Z" changeid="Admin" lang="ZH-CN">
         <seg>删除到行尾</seg>
       </tuv>
     </tu>
@@ -2680,7 +2680,7 @@
       <tuv lang="EN-US">
         <seg>Delete to Line Start</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170821T095209Z">
+      <tuv changedate="20170821T095209Z" changeid="Admin" lang="ZH-CN">
         <seg>删除到行首</seg>
       </tuv>
     </tu>
@@ -2798,10 +2798,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Dock_ed Mode</seg>
+        <seg>Docked Mode</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>停靠模式 (_e)</seg>
+        <seg>停靠模式</seg>
       </tuv>
     </tu>
     <tu>
@@ -2838,10 +2838,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Drop _Frame</seg>
+        <seg>Drop Frame</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>丢帧(F)(_F)</seg>
+        <seg>丢帧(F)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2872,7 +2872,7 @@
       <tuv lang="EN-US">
         <seg>Duplicate Entire Lines</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170821T095412Z">
+      <tuv changedate="20170821T095412Z" changeid="Admin" lang="ZH-CN">
         <seg>重复整行</seg>
       </tuv>
     </tu>
@@ -2880,63 +2880,63 @@
       <tuv lang="EN-US">
         <seg>Duplicate Line or Selection</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170821T095320Z">
+      <tuv changedate="20170821T095320Z" changeid="Admin" lang="ZH-CN">
         <seg>重复行或选中区域</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>E_rror Description</seg>
+        <seg>Error Description</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>错误描述 (_r)</seg>
+        <seg>错误描述</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>E_xit</seg>
+        <seg>Exit</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>退出 (_x)</seg>
+        <seg>退出</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>E_xpand</seg>
+        <seg>Expand</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>展开 (_x)</seg>
+        <seg>展开</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>E_xternal Documentation</seg>
+        <seg>External Documentation</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>外部文档 (_x)</seg>
+        <seg>外部文档</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>E_xtract</seg>
+        <seg>Extract</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>提取 (_x)</seg>
+        <seg>提取</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Ed_it Scopes</seg>
+        <seg>Edit Scopes</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>编辑范围 (_i)</seg>
+        <seg>编辑范围</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Edit</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T022407Z" creationid="Admin" creationdate="20170822T022407Z">
+      <tuv changedate="20170822T022407Z" changeid="Admin" creationdate="20170822T022407Z" creationid="Admin" lang="ZH-CN">
         <seg>编辑</seg>
       </tuv>
     </tu>
@@ -2958,10 +2958,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Edit Configu_rations...</seg>
+        <seg>Edit Configurations...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>编辑结构... (_r)</seg>
+        <seg>编辑结构...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2984,7 +2984,7 @@
       <tuv lang="EN-US">
         <seg>Edit Macros</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T025558Z" creationid="Admin" creationdate="20170822T025558Z">
+      <tuv changedate="20170822T025558Z" changeid="Admin" creationdate="20170822T025558Z" creationid="Admin" lang="ZH-CN">
         <seg>编辑宏</seg>
       </tuv>
     </tu>
@@ -3142,17 +3142,17 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Editor _Tabs</seg>
+        <seg>Editor Tabs</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>编辑器标签 (_T)</seg>
+        <seg>编辑器标签</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Emacs Tab</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170821T102251Z">
+      <tuv changedate="20170821T102251Z" changeid="Admin" lang="ZH-CN">
         <seg>Emacs 选项卡</seg>
       </tuv>
     </tu>
@@ -3176,7 +3176,7 @@
       <tuv lang="EN-US">
         <seg>Encode XML/HTML Special Characters</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T025738Z" creationid="Admin" creationdate="20170822T025738Z">
+      <tuv changedate="20170822T025738Z" changeid="Admin" creationdate="20170822T025738Z" creationid="Admin" lang="ZH-CN">
         <seg>编码XML / HTML特殊字符</seg>
       </tuv>
     </tu>
@@ -3216,16 +3216,16 @@
       <tuv lang="EN-US">
         <seg>Escape</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170821T095502Z">
+      <tuv changedate="20170821T095502Z" changeid="Admin" lang="ZH-CN">
         <seg>Esc</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Evaluate E_xpression...</seg>
+        <seg>Evaluate Expression...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>计算表达式(E)...(_x)</seg>
+        <seg>计算表达式(E)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -3344,7 +3344,7 @@
       <tuv lang="EN-US">
         <seg>Exit</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T022353Z" creationid="Admin" creationdate="20170822T022353Z">
+      <tuv changedate="20170822T022353Z" changeid="Admin" creationdate="20170822T022353Z" creationid="Admin" lang="ZH-CN">
         <seg>退出</seg>
       </tuv>
     </tu>
@@ -3398,18 +3398,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Expand _Recursively</seg>
+        <seg>Expand Recursively</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>展开递归(_R)</seg>
+        <seg>展开递归</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Expand _doc comments</seg>
+        <seg>Expand doc comments</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>展开doc注释 (_d)</seg>
+        <seg>展开doc注释</seg>
       </tuv>
     </tu>
     <tu>
@@ -3430,10 +3430,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Expand all to _level</seg>
+        <seg>Expand all to level</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>展开所有层次(_l)</seg>
+        <seg>展开所有层次</seg>
       </tuv>
     </tu>
     <tu>
@@ -3454,10 +3454,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Expand to l_evel</seg>
+        <seg>Expand to level</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>展开层次(_e)</seg>
+        <seg>展开层次</seg>
       </tuv>
     </tu>
     <tu>
@@ -3472,16 +3472,16 @@
       <tuv lang="EN-US">
         <seg>Export Settings...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T021811Z" creationid="Admin" creationdate="20170822T021811Z">
+      <tuv changedate="20170822T021811Z" changeid="Admin" creationdate="20170822T021811Z" creationid="Admin" lang="ZH-CN">
         <seg>导出设置...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Export T_hreads...</seg>
+        <seg>Export Threads...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>导出线程... (_h)</seg>
+        <seg>导出线程...</seg>
       </tuv>
     </tu>
     <tu>
@@ -3520,7 +3520,7 @@
       <tuv lang="EN-US">
         <seg>Export to HTML...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T022033Z" creationid="Admin" creationdate="20170822T022033Z">
+      <tuv changedate="20170822T022033Z" changeid="Admin" creationdate="20170822T022033Z" creationid="Admin" lang="ZH-CN">
         <seg>导出到HTML...</seg>
       </tuv>
     </tu>
@@ -3536,16 +3536,16 @@
       <tuv lang="EN-US">
         <seg>Export to Zip File...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T021847Z" creationid="Admin" creationdate="20170822T021847Z">
+      <tuv changedate="20170822T021847Z" changeid="Admin" creationdate="20170822T021847Z" creationid="Admin" lang="ZH-CN">
         <seg>导出到Zip文件...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Export to _HTML...</seg>
+        <seg>Export to HTML...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>导出到HTML... (_H)</seg>
+        <seg>导出到HTML...</seg>
       </tuv>
     </tu>
     <tu>
@@ -3576,7 +3576,7 @@
       <tuv lang="EN-US">
         <seg>Extend Selection</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170821T101149Z">
+      <tuv changedate="20170821T101149Z" changeid="Admin" lang="ZH-CN">
         <seg>扩展选择</seg>
       </tuv>
     </tu>
@@ -3622,18 +3622,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>F_ile Structure</seg>
+        <seg>File Structure</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>文件结构 (_i)</seg>
+        <seg>文件结构</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>F_ind Usages in File</seg>
+        <seg>Find Usages in File</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>在文件查找用法 (_i)</seg>
+        <seg>在文件查找用法</seg>
       </tuv>
     </tu>
     <tu>
@@ -3670,10 +3670,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>File _Path</seg>
+        <seg>File Path</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>文件路径 (_P)</seg>
+        <seg>文件路径</seg>
       </tuv>
     </tu>
     <tu>
@@ -3696,7 +3696,7 @@
       <tuv lang="EN-US">
         <seg>Find</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T023704Z" creationid="Admin" creationdate="20170822T023704Z">
+      <tuv changedate="20170822T023704Z" changeid="Admin" creationdate="20170822T023704Z" creationid="Admin" lang="ZH-CN">
         <seg>查找</seg>
       </tuv>
     </tu>
@@ -3704,23 +3704,23 @@
       <tuv lang="EN-US">
         <seg>Find Next / Move to Next Occurrence</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T023728Z" creationid="Admin" creationdate="20170822T023728Z">
+      <tuv changedate="20170822T023728Z" changeid="Admin" creationdate="20170822T023728Z" creationid="Admin" lang="ZH-CN">
         <seg>查找下一个/移动到下一个出现</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Find Pre_vious / Move to Previous Occurrence</seg>
-      </tuv>
-      <tuv lang="ZH-CN">
-        <seg>查找上一个 (_v)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Find Previous / Move to Previous Occurrence</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T023742Z" creationid="Admin" creationdate="20170822T023742Z">
+      <tuv lang="ZH-CN">
+        <seg>查找上一个</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find Previous / Move to Previous Occurrence</seg>
+      </tuv>
+      <tuv changedate="20170822T023742Z" changeid="Admin" creationdate="20170822T023742Z" creationid="Admin" lang="ZH-CN">
         <seg>查找上一个/移动到上一个出现</seg>
       </tuv>
     </tu>
@@ -3728,7 +3728,7 @@
       <tuv lang="EN-US">
         <seg>Find Usages</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T025010Z" creationid="Admin" creationdate="20170822T025010Z">
+      <tuv changedate="20170822T025010Z" changeid="Admin" creationdate="20170822T025010Z" creationid="Admin" lang="ZH-CN">
         <seg>查找使用</seg>
       </tuv>
     </tu>
@@ -3744,7 +3744,7 @@
       <tuv lang="EN-US">
         <seg>Find Usages in File</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T025219Z" creationid="Admin" creationdate="20170822T025219Z">
+      <tuv changedate="20170822T025219Z" changeid="Admin" creationdate="20170822T025219Z" creationid="Admin" lang="ZH-CN">
         <seg>在文件查找使用</seg>
       </tuv>
     </tu>
@@ -3752,40 +3752,40 @@
       <tuv lang="EN-US">
         <seg>Find Word at Caret</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T023846Z" creationid="Admin" creationdate="20170822T023846Z">
+      <tuv changedate="20170822T023846Z" changeid="Admin" creationdate="20170822T023846Z" creationid="Admin" lang="ZH-CN">
         <seg>查找光标处的单词</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Find _Join Point Identified by Pointcut</seg>
+        <seg>Find Join Point Identified by Pointcut</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>找到连接点被切入点 (_J)</seg>
+        <seg>找到连接点被切入点</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Find _Next / Move to Next Occurrence</seg>
+        <seg>Find Next / Move to Next Occurrence</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>查找下一个 (_N)</seg>
+        <seg>查找下一个</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Find _Usages</seg>
+        <seg>Find Usages</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>查找使用 (_U)</seg>
+        <seg>查找使用</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Find _Word at Caret</seg>
+        <seg>Find Word at Caret</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>查找光标处的字 (_W)</seg>
+        <seg>查找光标处的字</seg>
       </tuv>
     </tu>
     <tu>
@@ -3814,26 +3814,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Find and Replace _Code Duplicates...</seg>
+        <seg>Find and Replace Code Duplicates...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>查找和替换代码副本... (_C)</seg>
+        <seg>查找和替换代码副本...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Find in Path...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T024114Z" creationid="Admin" creationdate="20170822T024114Z">
+      <tuv changedate="20170822T024114Z" changeid="Admin" creationdate="20170822T024114Z" creationid="Admin" lang="ZH-CN">
         <seg>在路径中查找...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Find in _Path...</seg>
+        <seg>Find in Path...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>在路径中查找... (_P)</seg>
+        <seg>在路径中查找...</seg>
       </tuv>
     </tu>
     <tu>
@@ -3880,7 +3880,7 @@
       <tuv lang="EN-US">
         <seg>Find...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T023713Z" creationid="Admin" creationdate="20170822T023713Z">
+      <tuv changedate="20170822T023713Z" changeid="Admin" creationdate="20170822T023713Z" creationid="Admin" lang="ZH-CN">
         <seg>查找...</seg>
       </tuv>
     </tu>
@@ -3926,10 +3926,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Floating _Mode</seg>
+        <seg>Floating Mode</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>浮动模式 (_M)</seg>
+        <seg>浮动模式</seg>
       </tuv>
     </tu>
     <tu>
@@ -3966,18 +3966,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Fold Code _Block</seg>
+        <seg>Fold Code Block</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>折叠代码块 (_B)</seg>
+        <seg>折叠代码块</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Fold _Selection / Remove region</seg>
+        <seg>Fold Selection / Remove region</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>文件夹的选择/删除区域 (_S)</seg>
+        <seg>文件夹的选择/删除区域</seg>
       </tuv>
     </tu>
     <tu>
@@ -4000,7 +4000,7 @@
       <tuv lang="EN-US">
         <seg>Folder</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T020812Z" creationid="Admin" creationdate="20170822T020812Z">
+      <tuv changedate="20170822T020812Z" changeid="Admin" creationdate="20170822T020812Z" creationid="Admin" lang="ZH-CN">
         <seg>文件夹</seg>
       </tuv>
     </tu>
@@ -4009,15 +4009,15 @@
         <seg>Folding</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>折叠 (_G)</seg>
+        <seg>折叠</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>For_ward</seg>
+        <seg>Forward</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>向前 (_w)</seg>
+        <seg>向前</seg>
       </tuv>
     </tu>
     <tu>
@@ -4030,26 +4030,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Force Run to Cur_sor</seg>
+        <seg>Force Run to Cursor</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>强制运行到光标处 (_s)</seg>
+        <seg>强制运行到光标处</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Force Step I_nto</seg>
+        <seg>Force Step Into</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>强制步入(_n)</seg>
+        <seg>强制步入</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Force Step O_ver</seg>
+        <seg>Force Step Over</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>强制步过(_v)</seg>
+        <seg>强制步过</seg>
       </tuv>
     </tu>
     <tu>
@@ -4064,7 +4064,7 @@
       <tuv lang="EN-US">
         <seg>Force rebuild of all caches and indices on next startup</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T022025Z">
+      <tuv changedate="20170822T022025Z" changeid="Admin" lang="ZH-CN">
         <seg>在下次启动时强制重建所有缓存和索引</seg>
       </tuv>
     </tu>
@@ -4102,18 +4102,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Functiona_l Parameter...</seg>
+        <seg>Functional Parameter...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>功能参数...(_l)</seg>
+        <seg>功能参数...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Ge_nerify...</seg>
+        <seg>Generify...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>泛型(N)...(_n)</seg>
+        <seg>泛型(N)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -4126,18 +4126,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Generate DTD from _XML File</seg>
+        <seg>Generate DTD from XML File</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>从XML文件生成DTD (_X)</seg>
+        <seg>从XML文件生成DTD</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Generate Java_Doc...</seg>
+        <seg>Generate JavaDoc...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>生成JavaDoc... (_D)</seg>
+        <seg>生成JavaDoc...</seg>
       </tuv>
     </tu>
     <tu>
@@ -4169,7 +4169,7 @@
         <seg>Generate...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>生成... (_G)</seg>
+        <seg>生成...</seg>
       </tuv>
     </tu>
     <tu>
@@ -4217,7 +4217,7 @@
         <seg>Go To</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>转到 (_G)</seg>
+        <seg>转到</seg>
       </tuv>
     </tu>
     <tu>
@@ -4438,10 +4438,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Hi_de Active Tool Window</seg>
+        <seg>Hide Active Tool Window</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>隐藏活动工具窗口 (_d)</seg>
+        <seg>隐藏活动工具窗口</seg>
       </tuv>
     </tu>
     <tu>
@@ -4454,10 +4454,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Hide All _Tool Windows</seg>
+        <seg>Hide All Tool Windows</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>隐藏所有工具窗口 (_T)</seg>
+        <seg>隐藏所有工具窗口</seg>
       </tuv>
     </tu>
     <tu>
@@ -4536,7 +4536,7 @@
       <tuv lang="EN-US">
         <seg>Highlight Usages in File</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T025427Z" creationid="Admin" creationdate="20170822T025427Z">
+      <tuv changedate="20170822T025427Z" changeid="Admin" creationdate="20170822T025427Z" creationid="Admin" lang="ZH-CN">
         <seg>在文件高亮显示使用</seg>
       </tuv>
     </tu>
@@ -4590,18 +4590,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>I_mplementation(s)</seg>
+        <seg>Implementation(s)</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>实现 (_m)</seg>
+        <seg>实现</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>I_nline...</seg>
+        <seg>Inline...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>内联... (_n)</seg>
+        <seg>内联...</seg>
       </tuv>
     </tu>
     <tu>
@@ -4640,7 +4640,7 @@
       <tuv lang="EN-US">
         <seg>Image Asset</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T015235Z" creationid="Admin" creationdate="20170822T015235Z">
+      <tuv changedate="20170822T015235Z" changeid="Admin" creationdate="20170822T015235Z" creationid="Admin" lang="ZH-CN">
         <seg>图像资源</seg>
       </tuv>
     </tu>
@@ -4688,7 +4688,7 @@
       <tuv lang="EN-US">
         <seg>Import Module...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T014619Z" creationid="Admin" creationdate="20170822T014619Z">
+      <tuv changedate="20170822T014619Z" changeid="Admin" creationdate="20170822T014619Z" creationid="Admin" lang="ZH-CN">
         <seg>导入Module...</seg>
       </tuv>
     </tu>
@@ -4704,7 +4704,7 @@
       <tuv lang="EN-US">
         <seg>Import Project...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T014503Z" creationid="Admin" creationdate="20170822T014503Z">
+      <tuv changedate="20170822T014503Z" changeid="Admin" creationdate="20170822T014503Z" creationid="Admin" lang="ZH-CN">
         <seg>导入项目...</seg>
       </tuv>
     </tu>
@@ -4712,7 +4712,7 @@
       <tuv lang="EN-US">
         <seg>Import Sample...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T014636Z" creationid="Admin" creationdate="20170822T014636Z">
+      <tuv changedate="20170822T014636Z" changeid="Admin" creationdate="20170822T014636Z" creationid="Admin" lang="ZH-CN">
         <seg>导入Sample...</seg>
       </tuv>
     </tu>
@@ -4728,24 +4728,24 @@
       <tuv lang="EN-US">
         <seg>Import Settings...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T021802Z">
+      <tuv changedate="20170822T021802Z" changeid="Admin" lang="ZH-CN">
         <seg>导入设置...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Import _From JBuilder...</seg>
+        <seg>Import From JBuilder...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>从JBuilder导入... (_F)</seg>
+        <seg>从JBuilder导入...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Import _Projects</seg>
+        <seg>Import Projects</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>导入项目 (_P)</seg>
+        <seg>导入项目</seg>
       </tuv>
     </tu>
     <tu>
@@ -4846,10 +4846,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Incrementa_l Search</seg>
+        <seg>Incremental Search</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>增量搜索 (_l)</seg>
+        <seg>增量搜索</seg>
       </tuv>
     </tu>
     <tu>
@@ -4878,10 +4878,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Infer _Nullity...</seg>
+        <seg>Infer Nullity...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>推断无效... (_N)</seg>
+        <seg>推断无效...</seg>
       </tuv>
     </tu>
     <tu>
@@ -4910,17 +4910,17 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Insert Live _Template...</seg>
+        <seg>Insert Live Template...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>插入活动模板... (_T)</seg>
+        <seg>插入活动模板...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Insert a secondary cursor in the line above to edit multiple lines of code simultaneously.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170821T093618Z">
+      <tuv changedate="20170821T093618Z" changeid="Admin" lang="ZH-CN">
         <seg>在上面的行中插入一个辅助光标，以同时编辑多行代码。</seg>
       </tuv>
     </tu>
@@ -4928,7 +4928,7 @@
       <tuv lang="EN-US">
         <seg>Insert a secondary cursor in the line below to edit multiple lines of code simultaneously.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170821T093628Z">
+      <tuv changedate="20170821T093628Z" changeid="Admin" lang="ZH-CN">
         <seg>在下面的行中插入一个辅助光标，以同时编辑多行代码。</seg>
       </tuv>
     </tu>
@@ -4942,10 +4942,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Inspect Code With _Editor Settings</seg>
+        <seg>Inspect Code With Editor Settings</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>检查代码编辑器设置(_E)</seg>
+        <seg>检查代码编辑器设置</seg>
       </tuv>
     </tu>
     <tu>
@@ -4966,10 +4966,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Inte_grate Project</seg>
+        <seg>Integrate Project</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>整合项目 (_g)</seg>
+        <seg>整合项目</seg>
       </tuv>
     </tu>
     <tu>
@@ -5008,16 +5008,16 @@
       <tuv lang="EN-US">
         <seg>Invalidate Caches / Restart...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T021945Z">
+      <tuv changedate="20170822T021945Z" changeid="Admin" lang="ZH-CN">
         <seg>使缓存无效/重启...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Invert _Boolean...</seg>
+        <seg>Invert Boolean...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>逆转布尔值... (_B)</seg>
+        <seg>逆转布尔值...</seg>
       </tuv>
     </tu>
     <tu>
@@ -5032,7 +5032,7 @@
       <tuv lang="EN-US">
         <seg>JNI Folder</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T020828Z" creationid="Admin" creationdate="20170822T020828Z">
+      <tuv changedate="20170822T020828Z" changeid="Admin" creationdate="20170822T020828Z" creationid="Admin" lang="ZH-CN">
         <seg>JNI 文件夹</seg>
       </tuv>
     </tu>
@@ -5048,7 +5048,7 @@
       <tuv lang="EN-US">
         <seg>Java Folder</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T020830Z" creationid="Admin" creationdate="20170822T020830Z">
+      <tuv changedate="20170822T020830Z" changeid="Admin" creationdate="20170822T020830Z" creationid="Admin" lang="ZH-CN">
         <seg>Java 文件夹</seg>
       </tuv>
     </tu>
@@ -5056,7 +5056,7 @@
       <tuv lang="EN-US">
         <seg>Java Resources Folder</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T020838Z" creationid="Admin" creationdate="20170822T020838Z">
+      <tuv changedate="20170822T020838Z" changeid="Admin" creationdate="20170822T020838Z" creationid="Admin" lang="ZH-CN">
         <seg>Java 资源文件夹</seg>
       </tuv>
     </tu>
@@ -5136,16 +5136,16 @@
       <tuv lang="EN-US">
         <seg>Kotlin File/Class</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T014934Z" creationid="Admin" creationdate="20170822T014934Z">
+      <tuv changedate="20170822T014934Z" changeid="Admin" creationdate="20170822T014934Z" creationid="Admin" lang="ZH-CN">
         <seg>Kotlin 文件/类</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Last Edit L_ocation</seg>
+        <seg>Last Edit Location</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>最后编辑位置 (_o)</seg>
+        <seg>最后编辑位置</seg>
       </tuv>
     </tu>
     <tu>
@@ -5200,7 +5200,7 @@
       <tuv lang="EN-US">
         <seg>Line Separators</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T022251Z" creationid="Admin" creationdate="20170822T022251Z">
+      <tuv changedate="20170822T022251Z" changeid="Admin" creationdate="20170822T022251Z" creationid="Admin" lang="ZH-CN">
         <seg>换行符</seg>
       </tuv>
     </tu>
@@ -5208,7 +5208,7 @@
       <tuv lang="EN-US">
         <seg>Link C++ Project with Gradle</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T021616Z" creationid="Admin" creationdate="20170822T021616Z">
+      <tuv changedate="20170822T021616Z" changeid="Admin" creationdate="20170822T021616Z" creationid="Admin" lang="ZH-CN">
         <seg>用Gradle链接C++项目</seg>
       </tuv>
     </tu>
@@ -5238,10 +5238,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Local _History</seg>
+        <seg>Local History</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>本地历史 (_H)</seg>
+        <seg>本地历史</seg>
       </tuv>
     </tu>
     <tu>
@@ -5288,7 +5288,7 @@
       <tuv lang="EN-US">
         <seg>Macros</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T025523Z" creationid="Admin" creationdate="20170822T025523Z">
+      <tuv changedate="20170822T025523Z" changeid="Admin" creationdate="20170822T025523Z" creationid="Admin" lang="ZH-CN">
         <seg>宏</seg>
       </tuv>
     </tu>
@@ -5318,10 +5318,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Make S_tatic...</seg>
+        <seg>Make Static...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>创建静态... (_t)</seg>
+        <seg>创建静态...</seg>
       </tuv>
     </tu>
     <tu>
@@ -5446,10 +5446,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Method Ob_ject...</seg>
+        <seg>Method Object...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>方法对象(J)...(_j)</seg>
+        <seg>方法对象(J)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -5510,17 +5510,17 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Module _Settings</seg>
+        <seg>Module Settings</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>模块设置 (_S)</seg>
+        <seg>模块设置</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Move Caret Backward a Paragraph</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170821T091527Z" creationid="Admin" creationdate="20170821T091042Z">
+      <tuv changedate="20170821T091527Z" changeid="Admin" creationdate="20170821T091042Z" creationid="Admin" lang="ZH-CN">
         <seg>光标向后移动一个段落</seg>
       </tuv>
     </tu>
@@ -5528,7 +5528,7 @@
       <tuv lang="EN-US">
         <seg>Move Caret Forward a Paragraph</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170821T095612Z" creationid="Admin" creationdate="20170821T095612Z">
+      <tuv changedate="20170821T095612Z" changeid="Admin" creationdate="20170821T095612Z" creationid="Admin" lang="ZH-CN">
         <seg>光标向前移动一个段落</seg>
       </tuv>
     </tu>
@@ -5584,7 +5584,7 @@
       <tuv lang="EN-US">
         <seg>Move Caret to Line Start</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170821T100450Z">
+      <tuv changedate="20170821T100450Z" changeid="Admin" lang="ZH-CN">
         <seg>移动光标到行首</seg>
       </tuv>
     </tu>
@@ -5600,7 +5600,7 @@
       <tuv lang="EN-US">
         <seg>Move Caret to Matching Brace</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170821T100539Z">
+      <tuv changedate="20170821T100539Z" changeid="Admin" lang="ZH-CN">
         <seg>移动光标到匹配的小括号</seg>
       </tuv>
     </tu>
@@ -5696,7 +5696,7 @@
       <tuv lang="EN-US">
         <seg>Move Caret to Previous Word with Selection in Different "CamelHuml" Mode</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170821T100855Z" creationid="Admin" creationdate="20170821T100855Z">
+      <tuv changedate="20170821T100855Z" changeid="Admin" creationdate="20170821T100855Z" creationid="Admin" lang="ZH-CN">
         <seg>在驼峰匹配模式中自动移动光标到上个单词并选择</seg>
       </tuv>
     </tu>
@@ -5782,18 +5782,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Move Line Do_wn</seg>
+        <seg>Move Line Down</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>移动线下来 (_w)</seg>
+        <seg>移动线下来</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Move Line _Up</seg>
+        <seg>Move Line Up</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>动线 (_U)</seg>
+        <seg>动线</seg>
       </tuv>
     </tu>
     <tu>
@@ -5814,18 +5814,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Move Statement Do_wn</seg>
+        <seg>Move Statement Down</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>向下移动声明 (_w)</seg>
+        <seg>向下移动声明</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Move Statement _Up</seg>
+        <seg>Move Statement Up</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>向上移动声明 (_U)</seg>
+        <seg>向上移动声明</seg>
       </tuv>
     </tu>
     <tu>
@@ -6038,18 +6038,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>N_ext Method</seg>
+        <seg>Next Method</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>下一方法 (_e)</seg>
+        <seg>下一方法</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Na_vigation Bar</seg>
+        <seg>Navigation Bar</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>导航栏 (_v)</seg>
+        <seg>导航栏</seg>
       </tuv>
     </tu>
     <tu>
@@ -6206,25 +6206,25 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Ne_xt Bookmark</seg>
+        <seg>Next Bookmark</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>下一个书签 (_x)</seg>
+        <seg>下一个书签</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Ne_xt Occurrence</seg>
+        <seg>Next Occurrence</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>下发生(值X后面)(_x)</seg>
+        <seg>下发生(值X后面)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>New</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T014451Z" creationid="Admin" creationdate="20170822T014451Z">
+      <tuv changedate="20170822T014451Z" changeid="Admin" creationdate="20170822T014451Z" creationid="Admin" lang="ZH-CN">
         <seg>新建</seg>
       </tuv>
     </tu>
@@ -6272,7 +6272,7 @@
       <tuv lang="EN-US">
         <seg>New Module...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T014615Z" creationid="Admin" creationdate="20170822T014603Z">
+      <tuv changedate="20170822T014615Z" changeid="Admin" creationdate="20170822T014603Z" creationid="Admin" lang="ZH-CN">
         <seg>新建Module...</seg>
       </tuv>
     </tu>
@@ -6302,10 +6302,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Next C_hange</seg>
+        <seg>Next Change</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>下一个更改 (_h)</seg>
+        <seg>下一个更改</seg>
       </tuv>
     </tu>
     <tu>
@@ -6440,16 +6440,16 @@
       <tuv lang="EN-US">
         <seg>Open Recent</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T021513Z" creationid="Admin" creationdate="20170822T021513Z">
+      <tuv changedate="20170822T021513Z" changeid="Admin" creationdate="20170822T021513Z" creationid="Admin" lang="ZH-CN">
         <seg>打开最近</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Open _Recent</seg>
+        <seg>Open Recent</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>Open Recent (_R)</seg>
+        <seg>Open Recent</seg>
       </tuv>
     </tu>
     <tu>
@@ -6622,10 +6622,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Optimi_ze Imports</seg>
+        <seg>Optimize Imports</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>优化导入... (_z)</seg>
+        <seg>优化导入...</seg>
       </tuv>
     </tu>
     <tu>
@@ -6686,26 +6686,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>P_in Active Tab</seg>
+        <seg>Pin Active Tab</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>固定活动选项卡(_i)</seg>
+        <seg>固定活动选项卡</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>P_in Active Tool Window Tab</seg>
+        <seg>Pin Active Tool Window Tab</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>固定活动工具窗口选项卡(_i)</seg>
+        <seg>固定活动工具窗口选项卡</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>P_revious Bookmark</seg>
+        <seg>Previous Bookmark</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>上一个书签 (_r)</seg>
+        <seg>上一个书签</seg>
       </tuv>
     </tu>
     <tu>
@@ -6742,10 +6742,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Parameter Ob_ject...</seg>
+        <seg>Parameter Object...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>参数对象... (_j)</seg>
+        <seg>参数对象...</seg>
       </tuv>
     </tu>
     <tu>
@@ -6758,10 +6758,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Past_e from History...</seg>
+        <seg>Paste from History...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>从历史记录粘贴... (_e)</seg>
+        <seg>从历史记录粘贴...</seg>
       </tuv>
     </tu>
     <tu>
@@ -6774,17 +6774,17 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Paste S_imple</seg>
+        <seg>Paste Simple</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>简单粘贴 (_i)</seg>
+        <seg>简单粘贴</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Paste Simple</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170821T100723Z" creationid="Admin" creationdate="20170821T100723Z">
+      <tuv changedate="20170821T100723Z" changeid="Admin" creationdate="20170821T100723Z" creationid="Admin" lang="ZH-CN">
         <seg>简单粘贴</seg>
       </tuv>
     </tu>
@@ -6792,7 +6792,7 @@
       <tuv lang="EN-US">
         <seg>Paste from History</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T023638Z" creationid="Admin" creationdate="20170822T023638Z">
+      <tuv changedate="20170822T023638Z" changeid="Admin" creationdate="20170822T023638Z" creationid="Admin" lang="ZH-CN">
         <seg>从历史粘贴</seg>
       </tuv>
     </tu>
@@ -6862,17 +6862,17 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Pla_y Back Last Macro</seg>
+        <seg>Play Back Last Macro</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>回放上一个宏 (_y)</seg>
+        <seg>回放上一个宏</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Play Back Last Macro</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T025544Z" creationid="Admin" creationdate="20170822T025544Z">
+      <tuv changedate="20170822T025544Z" changeid="Admin" creationdate="20170822T025544Z" creationid="Admin" lang="ZH-CN">
         <seg>回放上一个宏</seg>
       </tuv>
     </tu>
@@ -6936,7 +6936,7 @@
       <tuv lang="EN-US">
         <seg>Power Save Mode</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T022326Z">
+      <tuv changedate="20170822T022326Z" changeid="Admin" lang="ZH-CN">
         <seg>省电模式</seg>
       </tuv>
     </tu>
@@ -6944,7 +6944,7 @@
       <tuv lang="EN-US">
         <seg>Power save mode disables background code analysis and other background operations</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T022334Z">
+      <tuv changedate="20170822T022334Z" changeid="Admin" lang="ZH-CN">
         <seg>省电模式禁用后台码分析和其他后台操作</seg>
       </tuv>
     </tu>
@@ -6958,26 +6958,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Prev_ious Method</seg>
+        <seg>Previous Method</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>上一方法 (_i)</seg>
+        <seg>上一方法</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Previ_ous Occurrence</seg>
+        <seg>Previous Occurrence</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>之前发生 (_o)</seg>
+        <seg>之前发生</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Previous Ch_ange</seg>
+        <seg>Previous Change</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>上一个更改 (_a)</seg>
+        <seg>上一个更改</seg>
       </tuv>
     </tu>
     <tu>
@@ -7008,7 +7008,7 @@
       <tuv lang="EN-US">
         <seg>Previous Parameter</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T025705Z" creationid="Admin" creationdate="20170822T025705Z">
+      <tuv changedate="20170822T025705Z" changeid="Admin" creationdate="20170822T025705Z" creationid="Admin" lang="ZH-CN">
         <seg>上一个参数</seg>
       </tuv>
     </tu>
@@ -7064,7 +7064,7 @@
       <tuv lang="EN-US">
         <seg>Print...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T022037Z" creationid="Admin" creationdate="20170822T022037Z">
+      <tuv changedate="20170822T022037Z" changeid="Admin" creationdate="20170822T022037Z" creationid="Admin" lang="ZH-CN">
         <seg>打印...</seg>
       </tuv>
     </tu>
@@ -7078,25 +7078,25 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Process _Annotations</seg>
+        <seg>Process Annotations</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>处理注释(A)(_A)</seg>
+        <seg>处理注释(A)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Process {0} _Annotations</seg>
+        <seg>Process {0} Annotations</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>处理 {0} 注释 (A)(_A)</seg>
+        <seg>处理 {0} 注释 (A)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Profile or Debug APK...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T021431Z" creationid="Admin" creationdate="20170822T021431Z">
+      <tuv changedate="20170822T021431Z" changeid="Admin" creationdate="20170822T021431Z" creationid="Admin" lang="ZH-CN">
         <seg>查看或调试APK...</seg>
       </tuv>
     </tu>
@@ -7160,7 +7160,7 @@
       <tuv lang="EN-US">
         <seg>Project from Version Control</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T014544Z" creationid="Admin" creationdate="20170822T014544Z">
+      <tuv changedate="20170822T014544Z" changeid="Admin" creationdate="20170822T014544Z" creationid="Admin" lang="ZH-CN">
         <seg>从版本控制中导入项目</seg>
       </tuv>
     </tu>
@@ -7168,24 +7168,24 @@
       <tuv lang="EN-US">
         <seg>Property</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T014918Z" creationid="Admin" creationdate="20170822T014918Z">
+      <tuv changedate="20170822T014918Z" changeid="Admin" creationdate="20170822T014918Z" creationid="Admin" lang="ZH-CN">
         <seg>属性</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Pu_ll Members Up...</seg>
+        <seg>Pull Members Up...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>向上移动成员... (_l)</seg>
+        <seg>向上移动成员...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Pu_sh Members Down...</seg>
+        <seg>Push Members Down...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>向下移动成员... (_s)</seg>
+        <seg>向下移动成员...</seg>
       </tuv>
     </tu>
     <tu>
@@ -7206,10 +7206,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Put _Label...</seg>
+        <seg>Put Label...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>放置标签... (_L)</seg>
+        <seg>放置标签...</seg>
       </tuv>
     </tu>
     <tu>
@@ -7230,18 +7230,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Quic_k Definition</seg>
+        <seg>Quick Definition</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>快速定义 (_k)</seg>
+        <seg>快速定义</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Quick _Documentation</seg>
+        <seg>Quick Documentation</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>快捷文档 (_D)</seg>
+        <seg>快捷文档</seg>
       </tuv>
     </tu>
     <tu>
@@ -7294,50 +7294,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>R_ebuild</seg>
+        <seg>Rebuild</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>编译 (_e)</seg>
+        <seg>编译</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>R_ecent Changes</seg>
+        <seg>Recent Changes</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>最近的更改 (_e)</seg>
+        <seg>最近的更改</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>R_ecent Find Usages</seg>
+        <seg>Recent Find Usages</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>最近查找的用法 (_e)</seg>
+        <seg>最近查找的用法</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>R_efresh</seg>
+        <seg>Refresh</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>刷新 (_e)</seg>
+        <seg>刷新</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>R_efresh File Status</seg>
+        <seg>Refresh File Status</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>刷新文件状态 (_e)</seg>
+        <seg>刷新文件状态</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>R_un</seg>
+        <seg>Run</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>运行 (_u)</seg>
+        <seg>运行</seg>
       </tuv>
     </tu>
     <tu>
@@ -7358,17 +7358,17 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Rece_nt Files</seg>
+        <seg>Recent Files</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>最近的文件 (_n)</seg>
+        <seg>最近的文件</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Recent Find Usages</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T025435Z">
+      <tuv changedate="20170822T025435Z" changeid="Admin" lang="ZH-CN">
         <seg>最近查找的使用</seg>
       </tuv>
     </tu>
@@ -7408,7 +7408,7 @@
       <tuv lang="EN-US">
         <seg>Redo</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T023329Z" creationid="Admin" creationdate="20170822T023329Z">
+      <tuv changedate="20170822T023329Z" changeid="Admin" creationdate="20170822T023329Z" creationid="Admin" lang="ZH-CN">
         <seg>重做</seg>
       </tuv>
     </tu>
@@ -7534,10 +7534,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Relo_ad Changed Classes</seg>
+        <seg>Reload Changed Classes</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>重新加载已更改的类 (_a)</seg>
+        <seg>重新加载已更改的类</seg>
       </tuv>
     </tu>
     <tu>
@@ -7566,10 +7566,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Reload from Dis_k</seg>
+        <seg>Reload from Disk</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>重新从磁盘加载 (_k)</seg>
+        <seg>重新从磁盘加载</seg>
       </tuv>
     </tu>
     <tu>
@@ -7598,10 +7598,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Remove _Middleman...</seg>
+        <seg>Remove Middleman...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>移除中间者... (_M)</seg>
+        <seg>移除中间者...</seg>
       </tuv>
     </tu>
     <tu>
@@ -7640,7 +7640,7 @@
       <tuv lang="EN-US">
         <seg>Remove the current occurrence of the word from the selection.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T024108Z">
+      <tuv changedate="20170822T024108Z" changeid="Admin" lang="ZH-CN">
         <seg>从选择中删除当前单词的出现。</seg>
       </tuv>
     </tu>
@@ -7720,7 +7720,7 @@
       <tuv lang="EN-US">
         <seg>RenderScript Folder</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T020841Z" creationid="Admin" creationdate="20170822T020841Z">
+      <tuv changedate="20170822T020841Z" changeid="Admin" creationdate="20170822T020841Z" creationid="Admin" lang="ZH-CN">
         <seg>RenderScript 文件夹</seg>
       </tuv>
     </tu>
@@ -7728,7 +7728,7 @@
       <tuv lang="EN-US">
         <seg>Reopen Project</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T021535Z" creationid="Admin" creationdate="20170822T021535Z">
+      <tuv changedate="20170822T021535Z" changeid="Admin" creationdate="20170822T021535Z" creationid="Admin" lang="ZH-CN">
         <seg>重新打开项目</seg>
       </tuv>
     </tu>
@@ -7750,18 +7750,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Repl_ace in Path...</seg>
+        <seg>Replace in Path...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>在路径中替换... (_a)</seg>
+        <seg>在路径中替换...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Repla_ce Structurally...</seg>
+        <seg>Replace Structurally...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>替换结构……(_c)</seg>
+        <seg>替换结构……</seg>
       </tuv>
     </tu>
     <tu>
@@ -7774,34 +7774,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Replace Constructor with F_actory Method...</seg>
+        <seg>Replace Constructor with Factory Method...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>构造函数与工厂方法代替... (_a)</seg>
+        <seg>构造函数与工厂方法代替...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Replace Structurally...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T024950Z" creationid="Admin" creationdate="20170822T024950Z">
+      <tuv changedate="20170822T024950Z" changeid="Admin" creationdate="20170822T024950Z" creationid="Admin" lang="ZH-CN">
         <seg>替换结构...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Replace Temp with _Query...</seg>
+        <seg>Replace Temp with Query...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>取代临时与查询... (_Q)</seg>
+        <seg>取代临时与查询...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Replace _Inheritance with Delegation...</seg>
+        <seg>Replace Inheritance with Delegation...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>替换继承与代表团... (支)(_I)</seg>
+        <seg>替换继承与代表团... (支)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7840,7 +7840,7 @@
       <tuv lang="EN-US">
         <seg>Replace in Path...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T024118Z" creationid="Admin" creationdate="20170822T024118Z">
+      <tuv changedate="20170822T024118Z" changeid="Admin" creationdate="20170822T024118Z" creationid="Admin" lang="ZH-CN">
         <seg>在路径中替换...</seg>
       </tuv>
     </tu>
@@ -7872,7 +7872,7 @@
       <tuv lang="EN-US">
         <seg>Replace...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T023716Z" creationid="Admin" creationdate="20170822T023716Z">
+      <tuv changedate="20170822T023716Z" changeid="Admin" creationdate="20170822T023716Z" creationid="Admin" lang="ZH-CN">
         <seg>替换...</seg>
       </tuv>
     </tu>
@@ -7920,7 +7920,7 @@
       <tuv lang="EN-US">
         <seg>Res Folder</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T020850Z" creationid="Admin" creationdate="20170822T020850Z">
+      <tuv changedate="20170822T020850Z" changeid="Admin" creationdate="20170822T020850Z" creationid="Admin" lang="ZH-CN">
         <seg>Res 文件夹</seg>
       </tuv>
     </tu>
@@ -7992,7 +7992,7 @@
       <tuv lang="EN-US">
         <seg>Resource Bundle</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T021039Z" creationid="Admin" creationdate="20170822T021039Z">
+      <tuv changedate="20170822T021039Z" changeid="Admin" creationdate="20170822T021039Z" creationid="Admin" lang="ZH-CN">
         <seg>资源包</seg>
       </tuv>
     </tu>
@@ -8014,10 +8014,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Restore De_fault Layout</seg>
+        <seg>Restore Default Layout</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>还原默认的布局 (_f)</seg>
+        <seg>还原默认的布局</seg>
       </tuv>
     </tu>
     <tu>
@@ -8070,10 +8070,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Resume Pro_gram</seg>
+        <seg>Resume Program</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>恢复程序 (_g)</seg>
+        <seg>恢复程序</seg>
       </tuv>
     </tu>
     <tu>
@@ -8184,7 +8184,7 @@
       <tuv lang="EN-US">
         <seg>Run a wizard for selecting the set of enabled plugins</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T021725Z">
+      <tuv changedate="20170822T021725Z" changeid="Admin" lang="ZH-CN">
         <seg>运行一个向导来选择一组可用的插件</seg>
       </tuv>
     </tu>
@@ -8214,10 +8214,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Run to _Cursor</seg>
+        <seg>Run to Cursor</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>运行至光标位置 (_C)</seg>
+        <seg>运行至光标位置</seg>
       </tuv>
     </tu>
     <tu>
@@ -8246,42 +8246,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>S_uper Class</seg>
+        <seg>Super Class</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>超级类 (_u)</seg>
+        <seg>超级类</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>S_uper Method</seg>
+        <seg>Super Method</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>超级方法 (_u)</seg>
+        <seg>超级方法</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>S_uperclass...</seg>
+        <seg>Superclass...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>超级类... (_u)</seg>
+        <seg>超级类...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>S_ynchronize</seg>
+        <seg>Synchronize</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>同步 (_y)</seg>
+        <seg>同步</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Safe _Delete...</seg>
+        <seg>Safe Delete...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>安全删除... (_D)</seg>
+        <seg>安全删除...</seg>
       </tuv>
     </tu>
     <tu>
@@ -8296,7 +8296,7 @@
       <tuv lang="EN-US">
         <seg>Sample Data directory</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T015004Z" creationid="Admin" creationdate="20170822T015004Z">
+      <tuv changedate="20170822T015004Z" changeid="Admin" creationdate="20170822T015004Z" creationid="Admin" lang="ZH-CN">
         <seg>示例数据目录</seg>
       </tuv>
     </tu>
@@ -8304,7 +8304,7 @@
       <tuv lang="EN-US">
         <seg>Save All</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T021900Z" creationid="Admin" creationdate="20170822T021900Z">
+      <tuv changedate="20170822T021900Z" changeid="Admin" creationdate="20170822T021900Z" creationid="Admin" lang="ZH-CN">
         <seg>保存全部</seg>
       </tuv>
     </tu>
@@ -8318,10 +8318,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Save File as Temp_late...</seg>
+        <seg>Save File as Template...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>保存文件为模板... (_l)</seg>
+        <seg>保存文件为模板...</seg>
       </tuv>
     </tu>
     <tu>
@@ -8344,16 +8344,16 @@
       <tuv lang="EN-US">
         <seg>Save as Directory-Based Format...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T021840Z" creationid="Admin" creationdate="20170822T021840Z">
+      <tuv changedate="20170822T021840Z" changeid="Admin" creationdate="20170822T021840Z" creationid="Admin" lang="ZH-CN">
         <seg>保存为基于目录的格式...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Save as L_ive Template...</seg>
+        <seg>Save as Live Template...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>保存为活动模板... (_i)</seg>
+        <seg>保存为活动模板...</seg>
       </tuv>
     </tu>
     <tu>
@@ -8440,7 +8440,7 @@
       <tuv lang="EN-US">
         <seg>Scroll Down and Move if Necessary</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170821T101059Z">
+      <tuv changedate="20170821T101059Z" changeid="Admin" lang="ZH-CN">
         <seg>向下滚动并移动，如果需要</seg>
       </tuv>
     </tu>
@@ -8472,7 +8472,7 @@
       <tuv lang="EN-US">
         <seg>Scroll Up and Move if Necessary</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170821T101107Z">
+      <tuv changedate="20170821T101107Z" changeid="Admin" lang="ZH-CN">
         <seg>向上滚动并移动，如果需要</seg>
       </tuv>
     </tu>
@@ -8510,18 +8510,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Se_lect In...</seg>
+        <seg>Select In...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>选择... (_l)</seg>
+        <seg>选择...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Se_lect Previous Tab</seg>
+        <seg>Select Previous Tab</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>选择上一个选项卡 (_l)</seg>
+        <seg>选择上一个选项卡</seg>
       </tuv>
     </tu>
     <tu>
@@ -8534,17 +8534,17 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Search S_tructurally...</seg>
+        <seg>Search Structurally...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>搜索结构……(_t)</seg>
+        <seg>搜索结构……</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Search Structurally...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T024935Z" creationid="Admin" creationdate="20170822T024935Z">
+      <tuv changedate="20170822T024935Z" changeid="Admin" creationdate="20170822T024935Z" creationid="Admin" lang="ZH-CN">
         <seg>搜索结构...</seg>
       </tuv>
     </tu>
@@ -8584,7 +8584,7 @@
       <tuv lang="EN-US">
         <seg>Select All</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T025611Z" creationid="Admin" creationdate="20170822T025611Z">
+      <tuv changedate="20170822T025611Z" changeid="Admin" creationdate="20170822T025611Z" creationid="Admin" lang="ZH-CN">
         <seg>全选</seg>
       </tuv>
     </tu>
@@ -8592,7 +8592,7 @@
       <tuv lang="EN-US">
         <seg>Select All Occurrences</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T023854Z">
+      <tuv changedate="20170822T023854Z" changeid="Admin" lang="ZH-CN">
         <seg>选择所有出现</seg>
       </tuv>
     </tu>
@@ -8606,10 +8606,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Select Ne_xt Tab</seg>
+        <seg>Select Next Tab</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>选择下一个选项卡 (_x)</seg>
+        <seg>选择下一个选项卡</seg>
       </tuv>
     </tu>
     <tu>
@@ -8662,10 +8662,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Select _All</seg>
+        <seg>Select All</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>全选 (_A)</seg>
+        <seg>全选</seg>
       </tuv>
     </tu>
     <tu>
@@ -8728,7 +8728,7 @@
       <tuv lang="EN-US">
         <seg>Set multiple cursors by adding all occurrences of the current word to the selection.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T024010Z">
+      <tuv changedate="20170822T024010Z" changeid="Admin" lang="ZH-CN">
         <seg>通过将当前单词的所有出现添加到选择，来设置多个光标。</seg>
       </tuv>
     </tu>
@@ -8736,7 +8736,7 @@
       <tuv lang="EN-US">
         <seg>Set multiple cursors by adding the next occurrence of the current word to the selection.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T024047Z">
+      <tuv changedate="20170822T024047Z" changeid="Admin" lang="ZH-CN">
         <seg>通过将当前单词的下一个出现添加到选择，来设置多个光标。</seg>
       </tuv>
     </tu>
@@ -8744,7 +8744,7 @@
       <tuv lang="EN-US">
         <seg>Set multiple cursors in the current file to edit multiple lines of code simultaneously.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170821T090709Z">
+      <tuv changedate="20170821T090709Z" changeid="Admin" lang="ZH-CN">
         <seg>在当前文件中设置多个光标，以同时编辑多行代码。</seg>
       </tuv>
     </tu>
@@ -8784,7 +8784,7 @@
       <tuv lang="EN-US">
         <seg>Settings Repository...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T021854Z" creationid="Admin" creationdate="20170822T021854Z">
+      <tuv changedate="20170822T021854Z" changeid="Admin" creationdate="20170822T021854Z" creationid="Admin" lang="ZH-CN">
         <seg>设置存储库...</seg>
       </tuv>
     </tu>
@@ -8792,24 +8792,24 @@
       <tuv lang="EN-US">
         <seg>Settings...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T021631Z" creationid="Admin" creationdate="20170822T021631Z">
+      <tuv changedate="20170822T021631Z" changeid="Admin" creationdate="20170822T021631Z" creationid="Admin" lang="ZH-CN">
         <seg>设置...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Sh_ow Indent Guides</seg>
+        <seg>Show Indent Guides</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>显示缩进参考线 (_o)</seg>
+        <seg>显示缩进参考线</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Sh_ow Whitespaces</seg>
+        <seg>Show Whitespaces</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>显示空格 (_o)</seg>
+        <seg>显示空格</seg>
       </tuv>
     </tu>
     <tu>
@@ -8822,10 +8822,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Sho_w Source</seg>
+        <seg>Show Source</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>显示源码 (_w)</seg>
+        <seg>显示源码</seg>
       </tuv>
     </tu>
     <tu>
@@ -8870,10 +8870,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Show Code Co_verage Data</seg>
+        <seg>Show Code Coverage Data</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>显示代码覆盖率数据(_v)</seg>
+        <seg>显示代码覆盖率数据</seg>
       </tuv>
     </tu>
     <tu>
@@ -8902,10 +8902,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Show E_xecution Point</seg>
+        <seg>Show Execution Point</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>显示执行点(X)(_x)</seg>
+        <seg>显示执行点(X)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8918,10 +8918,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Show Fi_le View</seg>
+        <seg>Show File View</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>显示文件视图 (_l)</seg>
+        <seg>显示文件视图</seg>
       </tuv>
     </tu>
     <tu>
@@ -8942,10 +8942,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Show Gutter Ic_ons</seg>
+        <seg>Show Gutter Icons</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>显示Gutter图标 (_o)</seg>
+        <seg>显示Gutter图标</seg>
       </tuv>
     </tu>
     <tu>
@@ -8966,10 +8966,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Show History _for Selection</seg>
+        <seg>Show History for Selection</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>显示选区历史记录 (_f)</seg>
+        <seg>显示选区历史记录</seg>
       </tuv>
     </tu>
     <tu>
@@ -8982,10 +8982,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Show History for _Revision</seg>
+        <seg>Show History for Revision</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>显示修订历史 (_R)</seg>
+        <seg>显示修订历史</seg>
       </tuv>
     </tu>
     <tu>
@@ -9022,10 +9022,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Show L_ine Numbers</seg>
+        <seg>Show Line Numbers</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>显示行号 (_i)</seg>
+        <seg>显示行号</seg>
       </tuv>
     </tu>
     <tu>
@@ -9088,7 +9088,7 @@
       <tuv lang="EN-US">
         <seg>Show Usages</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T025157Z" creationid="Admin" creationdate="20170822T025157Z">
+      <tuv changedate="20170822T025157Z" changeid="Admin" creationdate="20170822T025157Z" creationid="Admin" lang="ZH-CN">
         <seg>显示使用</seg>
       </tuv>
     </tu>
@@ -9102,18 +9102,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Show _History</seg>
+        <seg>Show History</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>显示历史 (_H)</seg>
+        <seg>显示历史</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Show _Log in File Manager</seg>
+        <seg>Show Log in File Manager</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>打开日志文件(_L)</seg>
+        <seg>打开日志文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -9528,16 +9528,16 @@
       <tuv lang="EN-US">
         <seg>Shrink Selection</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170821T102153Z">
+      <tuv changedate="20170821T102153Z" changeid="Admin" lang="ZH-CN">
         <seg>缩小选择</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Smart Ste_p Into</seg>
+        <seg>Smart Step Into</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>智能步入 (_p)</seg>
+        <seg>智能步入</seg>
       </tuv>
     </tu>
     <tu>
@@ -9584,7 +9584,7 @@
       <tuv lang="EN-US">
         <seg>Split Line</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170821T101403Z">
+      <tuv changedate="20170821T101403Z" changeid="Admin" lang="ZH-CN">
         <seg>拆分行</seg>
       </tuv>
     </tu>
@@ -9598,18 +9598,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Split _Horizontally</seg>
+        <seg>Split Horizontally</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>水平拆分 (_H)</seg>
+        <seg>水平拆分</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Split _Vertically</seg>
+        <seg>Split Vertically</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>垂直拆分 (_V)</seg>
+        <seg>垂直拆分</seg>
       </tuv>
     </tu>
     <tu>
@@ -9672,7 +9672,7 @@
       <tuv lang="EN-US">
         <seg>Start New Line Before Current</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170821T101421Z">
+      <tuv changedate="20170821T101421Z" changeid="Admin" lang="ZH-CN">
         <seg>在当前位置之前开始新行</seg>
       </tuv>
     </tu>
@@ -9712,16 +9712,16 @@
       <tuv lang="EN-US">
         <seg>Start/Stop Macro Recording</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T025551Z" creationid="Admin" creationdate="20170822T025551Z">
+      <tuv changedate="20170822T025551Z" changeid="Admin" creationdate="20170822T025551Z" creationid="Admin" lang="ZH-CN">
         <seg>启动/停止录制宏</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Start/Stop Macro _Recording</seg>
+        <seg>Start/Stop Macro Recording</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>启动/停止录制宏 (_R)</seg>
+        <seg>启动/停止录制宏</seg>
       </tuv>
     </tu>
     <tu>
@@ -9734,26 +9734,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Step Ou_t</seg>
+        <seg>Step Out</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>步出 (_t)</seg>
+        <seg>步出</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Step _Into</seg>
+        <seg>Step Into</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>步入 (_I)</seg>
+        <seg>步入</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Step _Over</seg>
+        <seg>Step Over</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>步过 (_O)</seg>
+        <seg>步过</seg>
       </tuv>
     </tu>
     <tu>
@@ -9838,10 +9838,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Store Current La_yout as Default</seg>
+        <seg>Store Current Layout as Default</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>存储当前布局为默认布局 (_y)</seg>
+        <seg>存储当前布局为默认布局</seg>
       </tuv>
     </tu>
     <tu>
@@ -9910,10 +9910,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Submit _Feedback...</seg>
+        <seg>Submit Feedback...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>提交反馈 (_F)</seg>
+        <seg>提交反馈</seg>
       </tuv>
     </tu>
     <tu>
@@ -9958,10 +9958,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Surround with Live Tem_plate...</seg>
+        <seg>Surround with Live Template...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>环绕用活动模板... (_p)</seg>
+        <seg>环绕用活动模板...</seg>
       </tuv>
     </tu>
     <tu>
@@ -9992,7 +9992,7 @@
       <tuv lang="EN-US">
         <seg>Swap selection boundaries</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170821T101529Z">
+      <tuv changedate="20170821T101529Z" changeid="Admin" lang="ZH-CN">
         <seg>交换选择的边界</seg>
       </tuv>
     </tu>
@@ -10032,7 +10032,7 @@
       <tuv lang="EN-US">
         <seg>Synchronize</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T021904Z" creationid="Admin" creationdate="20170822T021904Z">
+      <tuv changedate="20170822T021904Z" changeid="Admin" creationdate="20170822T021904Z" creationid="Admin" lang="ZH-CN">
         <seg>同步</seg>
       </tuv>
     </tu>
@@ -10046,33 +10046,33 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>T_est</seg>
+        <seg>Test</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>测试 (_e)</seg>
+        <seg>测试</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>T_est Subject</seg>
+        <seg>Test Subject</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>测试主题 (_e)</seg>
+        <seg>测试主题</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>T_ype Migration...</seg>
+        <seg>Type Migration...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>移动类型... (_y)</seg>
+        <seg>移动类型...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Tab</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170821T101659Z" creationid="Admin" creationdate="20170821T101659Z">
+      <tuv changedate="20170821T101659Z" changeid="Admin" creationdate="20170821T101659Z" creationid="Admin" lang="ZH-CN">
         <seg>Tab键</seg>
       </tuv>
     </tu>
@@ -10302,42 +10302,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Toggle _Bookmark</seg>
+        <seg>Toggle Bookmark</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>切换书签 (_B)fa</seg>
+        <seg>切换书签fa</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Toggle _Breakpoint Enabled</seg>
+        <seg>Toggle Breakpoint Enabled</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>切换断点(_B)</seg>
+        <seg>切换断点</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Toggle _Field Watchpoint</seg>
+        <seg>Toggle Field Watchpoint</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>切换域断点(F)(_F)</seg>
+        <seg>切换域断点(F)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Toggle _Line Breakpoint</seg>
+        <seg>Toggle Line Breakpoint</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>切换行断点 (_L)</seg>
+        <seg>切换行断点</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Toggle _Method Breakpoint</seg>
+        <seg>Toggle Method Breakpoint</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>切换方法断点 (_M)</seg>
+        <seg>切换方法断点</seg>
       </tuv>
     </tu>
     <tu>
@@ -10440,7 +10440,7 @@
       <tuv lang="EN-US">
         <seg>Toggle read-only attribute of current file</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T022321Z">
+      <tuv changedate="20170822T022321Z" changeid="Admin" lang="ZH-CN">
         <seg>切换当前文件的只读属性</seg>
       </tuv>
     </tu>
@@ -10560,7 +10560,7 @@
       <tuv lang="EN-US">
         <seg>Translate</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T023318Z" creationid="Admin" creationdate="20170822T023318Z">
+      <tuv changedate="20170822T023318Z" changeid="Admin" creationdate="20170822T023318Z" creationid="Admin" lang="ZH-CN">
         <seg>翻译</seg>
       </tuv>
     </tu>
@@ -10630,17 +10630,17 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Type _Hierarchy</seg>
+        <seg>Type Hierarchy</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>类型层次结构(_H)</seg>
+        <seg>类型层次结构</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>UI Component</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T021001Z" creationid="Admin" creationdate="20170822T021001Z">
+      <tuv changedate="20170822T021001Z" changeid="Admin" creationdate="20170822T021001Z" creationid="Admin" lang="ZH-CN">
         <seg>UI 组件</seg>
       </tuv>
     </tu>
@@ -10654,33 +10654,33 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>U_nsplit All</seg>
+        <seg>Unsplit All</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>不分割所有 (_n)</seg>
+        <seg>不分割所有</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Un_split</seg>
+        <seg>Unsplit</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>不分割 (_s)</seg>
+        <seg>不分割</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Un_wrap/Remove...</seg>
+        <seg>Unwrap/Remove...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>打开/删除... (_w)</seg>
+        <seg>打开/删除...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Undo</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T023325Z" creationid="Admin" creationdate="20170822T023325Z">
+      <tuv changedate="20170822T023325Z" changeid="Admin" creationdate="20170822T023325Z" creationid="Admin" lang="ZH-CN">
         <seg>撤消</seg>
       </tuv>
     </tu>
@@ -10704,7 +10704,7 @@
       <tuv lang="EN-US">
         <seg>Unindent Line or Selection</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170821T102212Z">
+      <tuv changedate="20170821T102212Z" changeid="Admin" lang="ZH-CN">
         <seg>取消所选行或选中内容的缩进</seg>
       </tuv>
     </tu>
@@ -10736,7 +10736,7 @@
       <tuv lang="EN-US">
         <seg>Unselect Occurrence</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T024056Z">
+      <tuv changedate="20170822T024056Z" changeid="Admin" lang="ZH-CN">
         <seg>取消选择出现</seg>
       </tuv>
     </tu>
@@ -10774,10 +10774,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Use Interface _Where Possible...</seg>
+        <seg>Use Interface Where Possible...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>尽可能使用接口... (_W)</seg>
+        <seg>尽可能使用接口...</seg>
       </tuv>
     </tu>
     <tu>
@@ -10822,10 +10822,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>VC_S</seg>
+        <seg>VCS</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>VCS (_S)</seg>
+        <seg>VCS</seg>
       </tuv>
     </tu>
     <tu>
@@ -10848,7 +10848,7 @@
       <tuv lang="EN-US">
         <seg>Vector Asset</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T020010Z" creationid="Admin" creationdate="20170822T015341Z">
+      <tuv changedate="20170822T020010Z" changeid="Admin" creationdate="20170822T015341Z" creationid="Admin" lang="ZH-CN">
         <seg>Vector资源</seg>
       </tuv>
     </tu>
@@ -10870,10 +10870,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>View Brea_kpoints...</seg>
+        <seg>View Breakpoints...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>查看断点 (_k) ...</seg>
+        <seg>查看断点 ...</seg>
       </tuv>
     </tu>
     <tu>
@@ -10886,10 +10886,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>View PSI Structure of Cu_rrent File...</seg>
+        <seg>View PSI Structure of Current File...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>查看当前文件的PSI结构... (_r)</seg>
+        <seg>查看当前文件的PSI结构...</seg>
       </tuv>
     </tu>
     <tu>
@@ -10910,10 +10910,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>View _Offline Inspection Results...</seg>
+        <seg>View Offline Inspection Results...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>查看脱机检查结果... (_O)</seg>
+        <seg>查看脱机检查结果...</seg>
       </tuv>
     </tu>
     <tu>
@@ -10998,10 +10998,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>What's _New</seg>
+        <seg>What's New</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>什么是新的 (_N)</seg>
+        <seg>什么是新的</seg>
       </tuv>
     </tu>
     <tu>
@@ -11030,10 +11030,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Wrap Method Re_turn Value...</seg>
+        <seg>Wrap Method Return Value...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>包装方法的返回值(T)...(_t)</seg>
+        <seg>包装方法的返回值(T)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -11056,7 +11056,7 @@
       <tuv lang="EN-US">
         <seg>XML Configuration File</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T021047Z" creationid="Admin" creationdate="20170822T021047Z">
+      <tuv changedate="20170822T021047Z" changeid="Admin" creationdate="20170822T021047Z" creationid="Admin" lang="ZH-CN">
         <seg>XML配置文件</seg>
       </tuv>
     </tu>
@@ -11134,938 +11134,938 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_1</seg>
+        <seg>1</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>1(_1)</seg>
+        <seg>1</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_2</seg>
+        <seg>2</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>2(_2)</seg>
+        <seg>2</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_3</seg>
+        <seg>3</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>3(_3)</seg>
+        <seg>3</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_4</seg>
+        <seg>4</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>4(_4)</seg>
+        <seg>4</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_5</seg>
+        <seg>5</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>5(_5)</seg>
+        <seg>5</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_About</seg>
+        <seg>About</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>关于 (_A)</seg>
+        <seg>关于</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Add to migration roots</seg>
+        <seg>Add to migration roots</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>添加到迁移根(_A)</seg>
+        <seg>添加到迁移根</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Aspect</seg>
+        <seg>Aspect</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>外观 (_A)</seg>
+        <seg>外观</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Auto-Indent Lines</seg>
+        <seg>Auto-Indent Lines</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>自动缩进排版 (_A)</seg>
+        <seg>自动缩进排版</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Back</seg>
+        <seg>Back</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>后退 (_B)</seg>
+        <seg>后退</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Basic</seg>
+        <seg>Basic</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>基本 (_B)</seg>
+        <seg>基本</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Build</seg>
+        <seg>Build</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>生成 (_B)</seg>
+        <seg>生成</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Check for Updates...</seg>
+        <seg>Check for Updates...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>检查更新... (_C)</seg>
+        <seg>检查更新...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Class...</seg>
+        <seg>Class...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>类... (_C)</seg>
+        <seg>类...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Close</seg>
+        <seg>Close</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>关闭 (_C)</seg>
+        <seg>关闭</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Close Active Editor</seg>
+        <seg>Close Active Editor</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>关闭活动编辑窗口 (_C)</seg>
+        <seg>关闭活动编辑窗口</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Code</seg>
+        <seg>Code</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>代码 (_C)</seg>
+        <seg>代码</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Code Cleanup...</seg>
+        <seg>Code Cleanup...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>代码清理…(_C)</seg>
+        <seg>代码清理…</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Collapse</seg>
+        <seg>Collapse</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>折叠 (_C)</seg>
+        <seg>折叠</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Compare with...</seg>
+        <seg>Compare with...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>与...比较 (_C)</seg>
+        <seg>与...比较</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Completion</seg>
+        <seg>Completion</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>完成 (_C)</seg>
+        <seg>完成</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Constant...</seg>
+        <seg>Constant...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>常量... (_C)</seg>
+        <seg>常量...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Context Info</seg>
+        <seg>Context Info</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>上下文信息 (_C)</seg>
+        <seg>上下文信息</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Copy</seg>
+        <seg>Copy</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>拷贝 (_C)</seg>
+        <seg>拷贝</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Declaration</seg>
+        <seg>Declaration</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>声明 (_D)</seg>
+        <seg>声明</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Delegate Methods...</seg>
+        <seg>Delegate Methods...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>委派方法... (_D)</seg>
+        <seg>委派方法...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Delegate...</seg>
+        <seg>Delegate...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>类... (_D)</seg>
+        <seg>类...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Delete</seg>
+        <seg>Delete</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>删除 (_D)</seg>
+        <seg>删除</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Demos and Screencasts</seg>
+        <seg>Demos and Screencasts</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>JetBrains TV (_D)</seg>
+        <seg>JetBrains TV</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Edit</seg>
+        <seg>Edit</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>编辑 (_E)</seg>
+        <seg>编辑</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Edit Macros</seg>
+        <seg>Edit Macros</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>编辑宏 (_E)</seg>
+        <seg>编辑宏</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Encapsulate Fields...</seg>
+        <seg>Encapsulate Fields...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>封装字段... (_E)</seg>
+        <seg>封装字段...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Expand All</seg>
+        <seg>Expand All</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>全部展开 (_E)</seg>
+        <seg>全部展开</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Export Settings...</seg>
+        <seg>Export Settings...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>导出设置... (_E)</seg>
+        <seg>导出设置...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Expression Type</seg>
+        <seg>Expression Type</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>表达式类型 (_E)</seg>
+        <seg>表达式类型</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Field...</seg>
+        <seg>Field...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>字段... (_F)</seg>
+        <seg>字段...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_File</seg>
+        <seg>File</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>文件 (_F)</seg>
+        <seg>文件</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_File...</seg>
+        <seg>File...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>文件... (_F)</seg>
+        <seg>文件...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Find</seg>
+        <seg>Find</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>查找 (_F)</seg>
+        <seg>查找</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Find Action...</seg>
+        <seg>Find Action...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>查找操作... (_F)</seg>
+        <seg>查找操作...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Find...</seg>
+        <seg>Find...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>查找... (_F)</seg>
+        <seg>查找...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Generate</seg>
+        <seg>Generate</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>生成 (_G)</seg>
+        <seg>生成</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Generate Ant Build...</seg>
+        <seg>Generate Ant Build...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>生成 Ant Build... (_G)</seg>
+        <seg>生成 Ant Build...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Generate Coverage Report</seg>
+        <seg>Generate Coverage Report</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>生成覆盖报告 (_G)</seg>
+        <seg>生成覆盖报告</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Getting Started</seg>
+        <seg>Getting Started</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>在线文档 (_G)</seg>
+        <seg>在线文档</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Goto Next Splitter</seg>
+        <seg>Goto Next Splitter</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>转到下一个分割 (_G)</seg>
+        <seg>转到下一个分割</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Help</seg>
+        <seg>Help</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>帮助主题 (_H)</seg>
+        <seg>帮助主题</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Highlight Usages in File</seg>
+        <seg>Highlight Usages in File</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>在文件高亮使用 (_H)</seg>
+        <seg>在文件高亮使用</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Implement Methods...</seg>
+        <seg>Implement Methods...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>实现方法... (_I)</seg>
+        <seg>实现方法...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Include File...</seg>
+        <seg>Include File...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>包括文件(_I)...</seg>
+        <seg>包括文件...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Inspect Code...</seg>
+        <seg>Inspect Code...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>检查代码... (_I)</seg>
+        <seg>检查代码...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Interface...</seg>
+        <seg>Interface...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>界面... (_I)</seg>
+        <seg>界面...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Jump to Last Tool Window</seg>
+        <seg>Jump to Last Tool Window</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>跳转到上一次工具窗口 (_J)</seg>
+        <seg>跳转到上一次工具窗口</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Jump to Navigation Bar</seg>
+        <seg>Jump to Navigation Bar</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>跳转到导航栏 (_J)</seg>
+        <seg>跳转到导航栏</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Jump to Source</seg>
+        <seg>Jump to Source</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>跳转到源 (_J)</seg>
+        <seg>跳转到源</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Keymap Reference</seg>
+        <seg>Keymap Reference</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>默认快捷键映射参考文档 (_K)</seg>
+        <seg>默认快捷键映射参考文档</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Line/Column...</seg>
+        <seg>Line/Column...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>行... (_L)</seg>
+        <seg>行...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Macros</seg>
+        <seg>Macros</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>宏 (_M)</seg>
+        <seg>宏</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Method Hierarchy</seg>
+        <seg>Method Hierarchy</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>方法层次结构(_M)</seg>
+        <seg>方法层次结构</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Method...</seg>
+        <seg>Method...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>方法... (_M)</seg>
+        <seg>方法...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Migrate...</seg>
+        <seg>Migrate...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>迁移... (_M)</seg>
+        <seg>迁移...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Module...</seg>
+        <seg>Module...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>模块... (_M)</seg>
+        <seg>模块...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Move To Opposite Group</seg>
+        <seg>Move To Opposite Group</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>移动到相反的组(M)(_M)</seg>
+        <seg>移动到相反的组(M)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Move module</seg>
+        <seg>Move module</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>移动模块 (_M)</seg>
+        <seg>移动模块</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Move...</seg>
+        <seg>Move...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>移动... (_M)</seg>
+        <seg>移动...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Navigate</seg>
+        <seg>Navigate</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>导航 (_N)</seg>
+        <seg>导航</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_New</seg>
+        <seg>New</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>新建 (_N)</seg>
+        <seg>新建</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_New...</seg>
+        <seg>New...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>新建... (_N)</seg>
+        <seg>新建...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Next Highlighted Error</seg>
+        <seg>Next Highlighted Error</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>下一个高亮错误 (_N)</seg>
+        <seg>下一个高亮错误</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Open In Opposite Group</seg>
+        <seg>Open In Opposite Group</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>开放组相反(_O)</seg>
+        <seg>开放组相反</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Open...</seg>
+        <seg>Open...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>打开... (_O)</seg>
+        <seg>打开...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Override Methods...</seg>
+        <seg>Override Methods...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>重写方法... (_O)</seg>
+        <seg>重写方法...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Parameter Info</seg>
+        <seg>Parameter Info</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>参数信息 (_P)</seg>
+        <seg>参数信息</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Parameter...</seg>
+        <seg>Parameter...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>参数... (_P)</seg>
+        <seg>参数...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Paste</seg>
+        <seg>Paste</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>粘贴 (_P)</seg>
+        <seg>粘贴</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Pause Program</seg>
+        <seg>Pause Program</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>暂停程序 (_P)</seg>
+        <seg>暂停程序</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Pinned Mode</seg>
+        <seg>Pinned Mode</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>固定模式 (_P)</seg>
+        <seg>固定模式</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Previous Highlighted Error</seg>
+        <seg>Previous Highlighted Error</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>上一个高亮错误 (_P)</seg>
+        <seg>上一个高亮错误</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Print...</seg>
+        <seg>Print...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>打印... (_P)</seg>
+        <seg>打印...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Productivity Guide</seg>
+        <seg>Productivity Guide</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>产品指南 (_P)</seg>
+        <seg>产品指南</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Project...</seg>
+        <seg>Project...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>新建项目... (_P)</seg>
+        <seg>新建项目...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Quick Evaluate Expression</seg>
+        <seg>Quick Evaluate Expression</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>快速计算表达式(_Q)</seg>
+        <seg>快速计算表达式</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Quick Switch Scheme...</seg>
+        <seg>Quick Switch Scheme...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>快速切换方案... (_Q)</seg>
+        <seg>快速切换方案...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Rebuild Project</seg>
+        <seg>Rebuild Project</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>重新生成项目 (_R)</seg>
+        <seg>重新生成项目</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Redo {0}</seg>
+        <seg>Redo {0}</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>重做{0} (_R)</seg>
+        <seg>重做{0}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Refactor</seg>
+        <seg>Refactor</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>重构 (_R)</seg>
+        <seg>重构</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Reformat Code</seg>
+        <seg>Reformat Code</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>重新格式化代码... (_R)</seg>
+        <seg>重新格式化代码...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Related Symbol...</seg>
+        <seg>Related Symbol...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>相关文件... (_R)</seg>
+        <seg>相关文件...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Rename...</seg>
+        <seg>Rename...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>重命名... (_R)</seg>
+        <seg>重命名...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Reopen Project</seg>
+        <seg>Reopen Project</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>重新打开 (_R)</seg>
+        <seg>重新打开</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Replace...</seg>
+        <seg>Replace...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>替换... (_R)</seg>
+        <seg>替换...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Revert</seg>
+        <seg>Revert</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>恢复(_R)</seg>
+        <seg>恢复</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Save All</seg>
+        <seg>Save All</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>保存所有 (_S)</seg>
+        <seg>保存所有</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Search with Google</seg>
+        <seg>Search with Google</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>用Google搜索 (_S)</seg>
+        <seg>用Google搜索</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Send to Favorites</seg>
+        <seg>Send to Favorites</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>发送到收藏夹 (_S)</seg>
+        <seg>发送到收藏夹</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Show Bookmarks</seg>
+        <seg>Show Bookmarks</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>显示书签 (_S)</seg>
+        <seg>显示书签</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Show Usages</seg>
+        <seg>Show Usages</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>显示使用 (_S)</seg>
+        <seg>显示使用</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_SmartType</seg>
+        <seg>SmartType</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>SmartType (_S)</seg>
+        <seg>SmartType</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Status Bar</seg>
+        <seg>Status Bar</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>状态栏 (_S)</seg>
+        <seg>状态栏</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Support Center</seg>
+        <seg>Support Center</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>联系支持团队 (_S)</seg>
+        <seg>联系支持团队</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Surround With...</seg>
+        <seg>Surround With...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>环绕用... (_S)</seg>
+        <seg>环绕用...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Symbol...</seg>
+        <seg>Symbol...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>符号... (_S)</seg>
+        <seg>符号...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Tip of the Day</seg>
+        <seg>Tip of the Day</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>每日一贴 (_T)</seg>
+        <seg>每日一贴</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Tool Buttons</seg>
+        <seg>Tool Buttons</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>工具按钮 (_T)</seg>
+        <seg>工具按钮</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Tool Windows</seg>
+        <seg>Tool Windows</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>工具窗口 (_T)</seg>
+        <seg>工具窗口</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Toolbar</seg>
+        <seg>Toolbar</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>工具栏 (_T)</seg>
+        <seg>工具栏</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Tools</seg>
+        <seg>Tools</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>工具 (_T)</seg>
+        <seg>工具</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Type Declaration</seg>
+        <seg>Type Declaration</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>类型声明 (_T)</seg>
+        <seg>类型声明</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Undo {0}</seg>
+        <seg>Undo {0}</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>撤销{0} (_U)</seg>
+        <seg>撤销{0}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Update</seg>
+        <seg>Update</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>更新 (_U)</seg>
+        <seg>更新</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Update Project</seg>
+        <seg>Update Project</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>更新项目 (_U)</seg>
+        <seg>更新项目</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Validate</seg>
+        <seg>Validate</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>验证 (_V)</seg>
+        <seg>验证</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Variable...</seg>
+        <seg>Variable...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>变量... (_V)</seg>
+        <seg>变量...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_View</seg>
+        <seg>View</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>视图 (_V)</seg>
+        <seg>视图</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_View PSI Structure...</seg>
+        <seg>View PSI Structure...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>查看PSI结构... (_V)</seg>
+        <seg>查看PSI结构...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Window</seg>
+        <seg>Window</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>窗口 (_W)</seg>
+        <seg>窗口</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>_Windowed Mode</seg>
+        <seg>Windowed Mode</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>窗口模式 (_W)</seg>
+        <seg>窗口模式</seg>
       </tuv>
     </tu>
     <tu>
@@ -12102,12 +12102,13 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>{0,choice,0#File|1#Directory} _Path</seg>
+        <seg>{0,choice,0#File|1#Directory} Path</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>{0,choice,0#File|1#Directory} Path(_P)</seg>
+        <seg>{0,choice,0#File|1#Directory} Path</seg>
       </tuv>
     </tu>
+
 <!-- Alternative translations -->
   </body>
 </tmx>
