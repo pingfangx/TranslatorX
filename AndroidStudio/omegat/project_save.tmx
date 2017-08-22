@@ -22,6 +22,54 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>+instance</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T100532Z" creationid="Admin" creationdate="20170822T100532Z">
+        <seg>+instance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-copyWithZone:...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T100541Z" creationid="Admin" creationdate="20170822T100541Z">
+        <seg>-copyWithZone:...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-description...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T100544Z" creationid="Admin" creationdate="20170822T100544Z">
+        <seg>-description...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-init/encodeWithCoder:...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T100545Z" creationid="Admin" creationdate="20170822T100545Z">
+        <seg>-init/encodeWithCoder:...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-initWith...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T100546Z" creationid="Admin" creationdate="20170822T100546Z">
+        <seg>-initWith...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-isEqual: and -hash...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T100546Z" creationid="Admin" creationdate="20170822T100546Z">
+        <seg>-isEqual: and -hash...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -70,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>@synthesize...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T100547Z" creationid="Admin" creationdate="20170822T100547Z">
+        <seg>@synthesize...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ADB Clear App Data</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T080934Z" creationid="Admin" creationdate="20170822T080934Z">
@@ -90,6 +146,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T080823Z" creationid="Admin" creationdate="20170822T080823Z">
         <seg>ADB 杀死 App</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ADB Operations Popup...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T100055Z" creationid="Admin" creationdate="20170822T100055Z">
+        <seg>ADB 操作弹窗...</seg>
       </tuv>
     </tu>
     <tu>
@@ -134,10 +198,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ADB USB to WIFI</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T100454Z" creationid="Admin" creationdate="20170822T100454Z">
+        <seg>ADB USB to WIFI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ADB Uninstall App</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T080811Z" creationid="Admin" creationdate="20170822T080811Z">
         <seg>ADB 卸载 App</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ADB WIFI</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T100333Z" creationid="Admin" creationdate="20170822T100104Z">
+        <seg>ADB WIFI</seg>
       </tuv>
     </tu>
     <tu>
@@ -302,6 +382,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Actual Zoom</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T102432Z" creationid="Admin" creationdate="20170822T102432Z">
+        <seg>实际缩放</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Actual size</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -322,6 +410,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>全部收藏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add Cloud snapshot location</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T101630Z" creationid="Admin" creationdate="20170822T101630Z">
+        <seg>添加云快照位置</seg>
       </tuv>
     </tu>
     <tu>
@@ -366,6 +462,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add Sample Data File</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T100740Z" creationid="Admin" creationdate="20170822T100740Z">
+        <seg>添加示例数据文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add Selection for Next Occurrence</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T024033Z">
@@ -390,10 +494,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add Watchpoint</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T100554Z" creationid="Admin" creationdate="20170822T100554Z">
+        <seg>添加观察点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add as Library...</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>添加为库...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add gradle plugin</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T101725Z" creationid="Admin" creationdate="20170822T101725Z">
+        <seg>添加gradle插件</seg>
       </tuv>
     </tu>
     <tu>
@@ -450,6 +570,22 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>添加到迁移根</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add to pattern suite</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T100745Z" creationid="Admin" creationdate="20170822T100745Z">
+        <seg>添加到模式套件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add to temp suite</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T102800Z" creationid="Admin" creationdate="20170822T102800Z">
+        <seg>添加到临时套件</seg>
       </tuv>
     </tu>
     <tu>
@@ -566,10 +702,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Analyze Stacktrace From Task...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T102717Z" creationid="Admin" creationdate="20170822T102717Z">
+        <seg>从任务中分析堆栈跟踪...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Analyze Stacktrace...</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>分析堆栈轨迹...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Android ButterKnife Zelezny</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T100500Z" creationid="Admin" creationdate="20170822T100500Z">
+        <seg>Android ButterKnife Zelezny</seg>
       </tuv>
     </tu>
     <tu>
@@ -598,10 +750,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Android NDK Support</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T100525Z" creationid="Admin" creationdate="20170822T100525Z">
+        <seg>Android NDK 支持</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Android Profiler</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T100748Z" creationid="Admin" creationdate="20170822T100748Z">
+        <seg>Android Profiler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Android Studio Help</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T084250Z" creationid="Admin" creationdate="20170822T084250Z">
         <seg>Android Studio帮助</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Android Support</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T100722Z" creationid="Admin" creationdate="20170822T100722Z">
+        <seg>Android支持</seg>
       </tuv>
     </tu>
     <tu>
@@ -618,6 +794,38 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T014947Z" creationid="Admin" creationdate="20170822T014947Z">
         <seg>Android资源文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Android.DeviceExplorer.GotoDatabaseFolder</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T100732Z" creationid="Admin" creationdate="20170822T100732Z">
+        <seg>Android.DeviceExplorer.GotoDatabaseFolder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Android.DeviceExplorer.GotoSdcardFolder</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T100732Z" creationid="Admin" creationdate="20170822T100732Z">
+        <seg>Android.DeviceExplorer.GotoSdcardFolder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Android.DeviceExplorer.GotoSharedPrefsFolder</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T100730Z" creationid="Admin" creationdate="20170822T100730Z">
+        <seg>Android.DeviceExplorer.GotoSharedPrefsFolder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Android.DeviceExplorer.Help</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T100731Z" creationid="Admin" creationdate="20170822T100731Z">
+        <seg>Android.DeviceExplorer.Help</seg>
       </tuv>
     </tu>
     <tu>
@@ -866,6 +1074,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095531Z" creationid="Admin" creationdate="20170822T095531Z">
         <seg>自动导入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Automatically Render</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T102436Z" creationid="Admin" creationdate="20170822T102436Z">
+        <seg>自动渲染</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Automatically Show/Hide Tool Window</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T102440Z" creationid="Admin" creationdate="20170822T102440Z">
+        <seg>自动显示/隐藏工具窗口</seg>
       </tuv>
     </tu>
     <tu>
@@ -1206,6 +1430,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CVS Integration</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T101203Z" creationid="Admin" creationdate="20170822T101203Z">
+        <seg>CVS集成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Call Hierarchy</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -1478,6 +1710,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Check Component Functions Usage Search</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T102233Z" creationid="Admin" creationdate="20170822T102233Z">
+        <seg>Check Component Functions Usage Search</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Check Out</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -1546,6 +1786,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>检出选定的文件进行编辑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Checkout Revision</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T101421Z" creationid="Admin" creationdate="20170822T101421Z">
+        <seg>检出版本</seg>
       </tuv>
     </tu>
     <tu>
@@ -2006,6 +2254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Code Iris</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T101225Z" creationid="Admin" creationdate="20170822T101225Z">
+        <seg>Code Iris</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Code Style Scheme</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -2062,6 +2318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Collapse all</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T101800Z" creationid="Admin" creationdate="20170822T101800Z">
+        <seg>全部折叠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Collapse all documentation comments</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -2114,6 +2378,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>列选择模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Combine to Resource Bundle</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T102552Z" creationid="Admin" creationdate="20170822T102552Z">
+        <seg>合并到资源包</seg>
       </tuv>
     </tu>
     <tu>
@@ -2286,6 +2558,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Compare Subversion Properties</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T102625Z" creationid="Admin" creationdate="20170822T102625Z">
+        <seg>比较Subversion属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Compare Value with Clipboard</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -2354,6 +2634,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T081736Z" creationid="Admin" creationdate="20170822T081736Z">
         <seg>与分支/书签比较</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compare with Branch/Bookmark...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T102819Z" creationid="Admin" creationdate="20170822T102819Z">
+        <seg>与分支/书签比较...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2502,6 +2790,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Composite Build Configuration</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T101731Z" creationid="Admin" creationdate="20170822T101731Z">
+        <seg>复合构建配置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Configure CVS Roots...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T082838Z" creationid="Admin" creationdate="20170822T082838Z">
@@ -2558,10 +2854,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Configure Project Subset...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T100756Z" creationid="Admin" creationdate="20170822T100756Z">
+        <seg>配置项目子集...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Configure Servers</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T080120Z" creationid="Admin" creationdate="20170822T080120Z">
         <seg>配置服务器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Configure Servers...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T102708Z" creationid="Admin" creationdate="20170822T102708Z">
+        <seg>配置服务器...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2798,10 +3110,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Convert to PNG...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T100800Z" creationid="Admin" creationdate="20170822T100800Z">
+        <seg>转换为PNG ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Convert to Property...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T072453Z" creationid="Admin" creationdate="20170822T072453Z">
         <seg>转换为属性...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Convert to WebP...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T100804Z" creationid="Admin" creationdate="20170822T100804Z">
+        <seg>转换为WebP ...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2818,6 +3146,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>拷贝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copy Current Diagram to Clipboard</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T102445Z" creationid="Admin" creationdate="20170822T102445Z">
+        <seg>将当前图复制到剪贴板</seg>
       </tuv>
     </tu>
     <tu>
@@ -2966,6 +3302,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Copyright</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T101238Z" creationid="Admin" creationdate="20170822T101238Z">
+        <seg>版权</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Coverage</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T101256Z" creationid="Admin" creationdate="20170822T101256Z">
+        <seg>覆盖率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create 9-Patch file...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T100818Z" creationid="Admin" creationdate="20170822T100818Z">
+        <seg>创建9-Patch文件...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create Branch</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T094305Z" creationid="Admin" creationdate="20170822T094305Z">
@@ -2986,6 +3346,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T080015Z" creationid="Admin" creationdate="20170822T080015Z">
         <seg>创建修改列表...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create CodeIris Graph</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T101233Z" creationid="Admin" creationdate="20170822T101233Z">
+        <seg>创建CodeIris图</seg>
       </tuv>
     </tu>
     <tu>
@@ -3030,6 +3398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create Gist...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T101616Z" creationid="Admin" creationdate="20170822T101616Z">
+        <seg>创建Gist ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create Git Repository...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T083201Z" creationid="Admin" creationdate="20170822T083201Z">
@@ -3042,6 +3418,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T062856Z" creationid="Admin" creationdate="20170822T062856Z">
         <seg>为所有元素创建JavaDocs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create JavaDocs for the selected element</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T102024Z" creationid="Admin" creationdate="20170822T102024Z">
+        <seg>为所选元素创建JavaDoc</seg>
       </tuv>
     </tu>
     <tu>
@@ -3186,6 +3570,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>创建一个静态工厂方法并用它代替一个构造器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create backup for debugging Kotlin incremental compilation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T102243Z" creationid="Admin" creationdate="20170822T102243Z">
+        <seg>创建用于调试Kotlin增量编译的备份</seg>
       </tuv>
     </tu>
     <tu>
@@ -3702,6 +4094,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Destructor</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T100606Z" creationid="Admin" creationdate="20170822T100606Z">
+        <seg>析构函数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Detach</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -3778,6 +4178,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095649Z" creationid="Admin" creationdate="20170822T095649Z">
         <seg>从子项目继承的显示任务</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dissociate Resource Bundle</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T102604Z" creationid="Admin" creationdate="20170822T102604Z">
+        <seg>拆分资源包</seg>
       </tuv>
     </tu>
     <tu>
@@ -3886,6 +4294,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ECTranslation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T101300Z" creationid="Admin" creationdate="20170822T101300Z">
+        <seg>ECTranslation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Edit</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -3970,6 +4386,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T082222Z" creationid="Admin" creationdate="20170822T082222Z">
         <seg>编辑属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit Revision Comment</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T102631Z" creationid="Admin" creationdate="20170822T102631Z">
+        <seg>编辑修订注释</seg>
       </tuv>
     </tu>
     <tu>
@@ -4182,6 +4606,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enable value renderers</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T100611Z" creationid="Admin" creationdate="20170822T100611Z">
+        <seg>启用值渲染器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enable/disable breakpoint at the current line</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -4226,6 +4658,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>进入演示模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Equality Operators</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T100622Z" creationid="Admin" creationdate="20170822T100622Z">
+        <seg>相等运算符</seg>
       </tuv>
     </tu>
     <tu>
@@ -4334,6 +4774,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Exclude from stub generation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T101806Z" creationid="Admin" creationdate="20170822T101806Z">
+        <seg>从存根生成中排除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exclude from suite</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T100830Z" creationid="Admin" creationdate="20170822T100830Z">
+        <seg>排除套件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Exclude this usage(s) from processing</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -4418,6 +4874,22 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>执行当前语句</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Execute Gradle Task</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T101735Z" creationid="Admin" creationdate="20170822T101735Z">
+        <seg>执行Gradle任务</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Execute Kotlin Code</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T102248Z" creationid="Admin" creationdate="20170822T102248Z">
+        <seg>执行Kotlin代码</seg>
       </tuv>
     </tu>
     <tu>
@@ -4514,6 +4986,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>展开树节点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Expand all</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T101816Z" creationid="Admin" creationdate="20170822T101816Z">
+        <seg>全部展开</seg>
       </tuv>
     </tu>
     <tu>
@@ -4886,6 +5366,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Find Implicit Nothing Calls</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T102256Z" creationid="Admin" creationdate="20170822T102256Z">
+        <seg>Find Implicit Nothing Calls</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Find Join Point Identified by Pointcut</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -4906,6 +5394,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T023742Z" creationid="Admin" creationdate="20170822T023742Z">
         <seg>查找上一个/移动到上一个出现</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find Sample Code</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T101707Z" creationid="Admin" creationdate="20170822T101707Z">
+        <seg>查找示例代码</seg>
       </tuv>
     </tu>
     <tu>
@@ -4962,6 +5458,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>在多个文件中查找字符串</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find and Add Module</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T100838Z" creationid="Admin" creationdate="20170822T100838Z">
+        <seg>查找和添加模块</seg>
       </tuv>
     </tu>
     <tu>
@@ -5034,6 +5538,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>发现代码在选择的范围,可以转换成一个调用指定的方法/常数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Finish Patches</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T102824Z" creationid="Admin" creationdate="20170822T102824Z">
+        <seg>完成补丁</seg>
       </tuv>
     </tu>
     <tu>
@@ -5114,6 +5626,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>当到达断点时默认切换到该视图</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fold</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T102832Z" creationid="Admin" creationdate="20170822T102832Z">
+        <seg>折叠</seg>
       </tuv>
     </tu>
     <tu>
@@ -5270,6 +5790,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gant Script</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T101818Z" creationid="Admin" creationdate="20170822T101818Z">
+        <seg>Gant Script</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Generate</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -5290,6 +5818,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>生成 Ant Build...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Generate Butterknife Injections</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T100517Z" creationid="Admin" creationdate="20170822T100517Z">
+        <seg>生成butterknife注入</seg>
       </tuv>
     </tu>
     <tu>
@@ -5414,6 +5950,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Genymotion</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T101310Z" creationid="Admin" creationdate="20170822T101310Z">
+        <seg>Genymotion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Genymotion Device Manager</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T101406Z" creationid="Admin" creationdate="20170822T101406Z">
+        <seg>Genymotion设备管理器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Get</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T101218Z" creationid="Admin" creationdate="20170822T101218Z">
+        <seg>获取</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Get Changelist</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -5466,6 +6026,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T084308Z">
         <seg>入门</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Git Integration</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T101410Z" creationid="Admin" creationdate="20170822T101410Z">
+        <seg>Git集成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>GitHub</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T101610Z" creationid="Admin" creationdate="20170822T101610Z">
+        <seg>GitHub</seg>
       </tuv>
     </tu>
     <tu>
@@ -5638,6 +6214,46 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Google Cloud Tools Core</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T101625Z" creationid="Admin" creationdate="20170822T101625Z">
+        <seg>Google云端工具核心</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Google Cloud Tools For Android Studio</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T101651Z" creationid="Admin" creationdate="20170822T101651Z">
+        <seg>适用于Android Studio的Google云端工具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Google Developers Samples</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T101703Z" creationid="Admin" creationdate="20170822T101703Z">
+        <seg>Google Developers示例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Google Login</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T101715Z" creationid="Admin" creationdate="20170822T101715Z">
+        <seg>Google登录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Goto</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T102838Z" creationid="Admin" creationdate="20170822T102838Z">
+        <seg>转到</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Goto Error/Bookmark Actions</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -5686,10 +6302,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Goto patch</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T102855Z" creationid="Admin" creationdate="20170822T102855Z">
+        <seg>跳转到补丁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Goto previous splitter window</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>转到上一个分割窗口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gradle</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T101718Z" creationid="Admin" creationdate="20170822T101718Z">
+        <seg>Gradle</seg>
       </tuv>
     </tu>
     <tu>
@@ -5710,10 +6342,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Groovy</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T101742Z" creationid="Admin" creationdate="20170822T101742Z">
+        <seg>Groovy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Groovy Console...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T101827Z" creationid="Admin" creationdate="20170822T101827Z">
+        <seg>Groovy控制台...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Groovy IDE Scripting Shell</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T101833Z" creationid="Admin" creationdate="20170822T101833Z">
+        <seg>Groovy IDE脚本Shell</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Groovy Resources</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T074826Z" creationid="Admin" creationdate="20170822T074826Z">
         <seg>Groovy资源</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Groovy Shell...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T101837Z" creationid="Admin" creationdate="20170822T101837Z">
+        <seg>Groovy Shell...</seg>
       </tuv>
     </tu>
     <tu>
@@ -5730,6 +6394,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095645Z" creationid="Admin" creationdate="20170822T095645Z">
         <seg>组任务</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>GsonFormat</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T101847Z" creationid="Admin" creationdate="20170822T101847Z">
+        <seg>GsonFormat</seg>
       </tuv>
     </tu>
     <tu>
@@ -5822,6 +6494,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hide out-of-scope variables</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T100630Z" creationid="Admin" creationdate="20170822T100630Z">
+        <seg>隐藏超出范围的变量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hide view</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -5842,6 +6522,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>层级结构操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Highlight Non-Picked Commits</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T101444Z" creationid="Admin" creationdate="20170822T101444Z">
+        <seg>高亮未选择的提交</seg>
       </tuv>
     </tu>
     <tu>
@@ -5890,6 +6578,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>自动退格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I18n for Java</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T101900Z" creationid="Admin" creationdate="20170822T101900Z">
+        <seg>I18n for Java</seg>
       </tuv>
     </tu>
     <tu>
@@ -6006,6 +6702,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Import</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T102904Z" creationid="Admin" creationdate="20170822T102904Z">
+        <seg>导入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Import From Eclipse...</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -6098,6 +6802,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T075135Z" creationid="Admin" creationdate="20170822T075135Z">
         <seg>导入测试结果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Import an Android code sample</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T101657Z" creationid="Admin" creationdate="20170822T101657Z">
+        <seg>导入Android代码示例</seg>
       </tuv>
     </tu>
     <tu>
@@ -6286,6 +6998,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Inline Layout...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T100850Z" creationid="Admin" creationdate="20170822T100850Z">
+        <seg>内联Layout...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Inline Style...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T074432Z" creationid="Admin" creationdate="20170822T074410Z">
@@ -6414,6 +7134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Integrate to Branch</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T102635Z" creationid="Admin" creationdate="20170822T102635Z">
+        <seg>集成到分支</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IntelliJ IDEA Help</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T084302Z" creationid="Admin" creationdate="20170822T084302Z">
@@ -6478,6 +7206,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>JSONOnlineViewer</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T101915Z" creationid="Admin" creationdate="20170822T101915Z">
+        <seg>JSONOnlineViewer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>JSONViewer</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T101920Z" creationid="Admin" creationdate="20170822T101920Z">
+        <seg>JSONViewer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Java Bytecode Decompiler</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T101929Z" creationid="Admin" creationdate="20170822T101929Z">
+        <seg>Java字节码解码器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Java Class</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -6498,6 +7250,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T020838Z" creationid="Admin" creationdate="20170822T020838Z">
         <seg>Java 资源文件夹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>JavaDoc</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T101931Z" creationid="Admin" creationdate="20170822T101931Z">
+        <seg>JavaDoc</seg>
       </tuv>
     </tu>
     <tu>
@@ -6606,10 +7366,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Kotlin</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T102030Z" creationid="Admin" creationdate="20170822T102030Z">
+        <seg>Kotlin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Kotlin File/Class</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T014934Z" creationid="Admin" creationdate="20170822T014934Z">
         <seg>Kotlin 文件/类</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kotlin Internal Mode</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T102301Z" creationid="Admin" creationdate="20170822T102301Z">
+        <seg>Kotlin内部模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kotlin REPL</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T102303Z" creationid="Admin" creationdate="20170822T102303Z">
+        <seg>Kotlin REPL</seg>
       </tuv>
     </tu>
     <tu>
@@ -6642,6 +7426,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>布局配置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Layout...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T100853Z" creationid="Admin" creationdate="20170822T100853Z">
+        <seg>布局...</seg>
       </tuv>
     </tu>
     <tu>
@@ -6682,6 +7474,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>升级</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Library Properties...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T100902Z" creationid="Admin" creationdate="20170822T100902Z">
+        <seg>库属性...</seg>
       </tuv>
     </tu>
     <tu>
@@ -7010,6 +7810,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T082618Z" creationid="Admin" creationdate="20170822T082618Z">
         <seg>合并更改...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Merge With</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T102909Z" creationid="Admin" creationdate="20170822T102909Z">
+        <seg>合并</seg>
       </tuv>
     </tu>
     <tu>
@@ -7502,6 +8310,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move and Push</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T102920Z" creationid="Admin" creationdate="20170822T102920Z">
+        <seg>移动和推送</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move current element(s) to the next position in containing list of elements</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T063231Z">
@@ -7870,6 +8686,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>New Branch...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T101450Z" creationid="Admin" creationdate="20170822T101450Z">
+        <seg>新分枝...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>New Changelist</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -7938,6 +8762,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>新建临时缓冲区</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Tag...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T101457Z" creationid="Admin" creationdate="20170822T101457Z">
+        <seg>新标签...</seg>
       </tuv>
     </tu>
     <tu>
@@ -8034,6 +8866,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T060513Z">
         <seg>下一次出现</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Next Page</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T102448Z" creationid="Admin" creationdate="20170822T102448Z">
+        <seg>下一页</seg>
       </tuv>
     </tu>
     <tu>
@@ -8182,10 +9022,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Open Settings</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T102452Z" creationid="Admin" creationdate="20170822T102452Z">
+        <seg>打开设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Open Task...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T075939Z" creationid="Admin" creationdate="20170822T075939Z">
         <seg>打开任务...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open Translations Editor</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T101052Z" creationid="Admin" creationdate="20170822T101052Z">
+        <seg>打开翻译编辑器</seg>
       </tuv>
     </tu>
     <tu>
@@ -8526,6 +9382,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Parameters Function</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T102321Z" creationid="Admin" creationdate="20170822T102321Z">
+        <seg>Parameters Function</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Parameters Method</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -8662,6 +9526,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PlantUML integration</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T102413Z" creationid="Admin" creationdate="20170822T102409Z">
+        <seg>PlantUML集成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Play Back Last Macro</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T025544Z" creationid="Admin" creationdate="20170822T025544Z">
@@ -8690,6 +9562,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>播放保存的宏...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Plug-ins</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T100036Z" creationid="Admin" creationdate="20170822T100036Z">
+        <seg>插件</seg>
       </tuv>
     </tu>
     <tu>
@@ -8822,6 +9702,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Previous Page</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T102455Z" creationid="Admin" creationdate="20170822T102455Z">
+        <seg>上一页</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Previous Parameter</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T025705Z" creationid="Admin" creationdate="20170822T025705Z">
@@ -8934,6 +9822,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Profile or debug APK</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T101100Z" creationid="Admin" creationdate="20170822T101100Z">
+        <seg>查看或调试APK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Project</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T093620Z" creationid="Admin" creationdate="20170822T093620Z">
@@ -9010,6 +9906,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>新建项目...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Properties Support</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T102530Z" creationid="Admin" creationdate="20170822T102530Z">
+        <seg>属性支持</seg>
       </tuv>
     </tu>
     <tu>
@@ -9250,6 +10154,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T082813Z" creationid="Admin" creationdate="20170822T082813Z">
         <seg>Rebase 我的 GitHub fork</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rebase...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T101550Z" creationid="Admin" creationdate="20170822T101550Z">
+        <seg>Rebase...</seg>
       </tuv>
     </tu>
     <tu>
@@ -9550,10 +10462,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Relational Operators</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T100640Z" creationid="Admin" creationdate="20170822T100640Z">
+        <seg>关系运算符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reload Changed Classes</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>重新加载已更改的类</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reload PlantUml Diagrams</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T102459Z" creationid="Admin" creationdate="20170822T102459Z">
+        <seg>重新加载PlantUml图</seg>
       </tuv>
     </tu>
     <tu>
@@ -9598,6 +10526,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Relocate...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T102643Z" creationid="Admin" creationdate="20170822T102643Z">
+        <seg>重新定位...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remotes...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T082712Z" creationid="Admin" creationdate="20170822T082712Z">
@@ -9626,6 +10562,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T062901Z" creationid="Admin" creationdate="20170822T062901Z">
         <seg>删除所有元素的JavaDocs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove JavaDocs for the selected element</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T102029Z" creationid="Admin" creationdate="20170822T102029Z">
+        <seg>删除所选元素的JavaDocs</seg>
       </tuv>
     </tu>
     <tu>
@@ -9738,6 +10682,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>重命名文件...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rename Patch</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T102925Z" creationid="Admin" creationdate="20170822T102925Z">
+        <seg>重命名补丁</seg>
       </tuv>
     </tu>
     <tu>
@@ -9994,6 +10946,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>重置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reset Current Branch to Here...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T101558Z" creationid="Admin" creationdate="20170822T101558Z">
+        <seg>将当前分支复位到这里...</seg>
       </tuv>
     </tu>
     <tu>
@@ -10454,10 +11414,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Save All Diagrams in Current File</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T102507Z" creationid="Admin" creationdate="20170822T102507Z">
+        <seg>将所有图保存在当前文件中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Save Context...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T080128Z" creationid="Admin" creationdate="20170822T080128Z">
         <seg>保存上下文...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save Current Diagram Only</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T102512Z" creationid="Admin" creationdate="20170822T102512Z">
+        <seg>仅保存当前图</seg>
       </tuv>
     </tu>
     <tu>
@@ -10670,6 +11646,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Search Not Property Candidates</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T102327Z" creationid="Admin" creationdate="20170822T102327Z">
+        <seg>Search Not Property Candidates</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Search Structurally...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T024935Z" creationid="Admin" creationdate="20170822T024935Z">
@@ -10714,6 +11698,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>搜索类、文件、工具窗口,行动和偏好</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Secondary Constructor</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T102340Z" creationid="Admin" creationdate="20170822T102340Z">
+        <seg>次构造函数</seg>
       </tuv>
     </tu>
     <tu>
@@ -10834,6 +11826,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>全选</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select in Git Log</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T101603Z" creationid="Admin" creationdate="20170822T101603Z">
+        <seg>在Git Log中选择</seg>
       </tuv>
     </tu>
     <tu>
@@ -10966,6 +11966,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SetUp Function</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T102346Z" creationid="Admin" creationdate="20170822T102346Z">
+        <seg>设置方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SetUp Method</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -10998,6 +12006,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Settings Repository</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T102610Z" creationid="Admin" creationdate="20170822T102610Z">
+        <seg>设置存储库</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Settings Repository...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T021854Z" creationid="Admin" creationdate="20170822T021854Z">
@@ -11018,6 +12034,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T021631Z" creationid="Admin" creationdate="20170822T021631Z">
         <seg>设置...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Setup on Google Cloud Source Repositories</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T101644Z" creationid="Admin" creationdate="20170822T101644Z">
+        <seg>谷歌云源源库设置</seg>
       </tuv>
     </tu>
     <tu>
@@ -11122,6 +12146,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>显示代码覆盖率数据</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show Compiler Info</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T100645Z" creationid="Admin" creationdate="20170822T100645Z">
+        <seg>显示编译器信息</seg>
       </tuv>
     </tu>
     <tu>
@@ -11854,6 +12886,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Show properties</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T102647Z" creationid="Admin" creationdate="20170822T102647Z">
+        <seg>显示属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Show related stack...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095827Z" creationid="Admin" creationdate="20170822T095827Z">
@@ -12366,6 +13406,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Stream Output Operator</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T100650Z" creationid="Admin" creationdate="20170822T100650Z">
+        <seg>流输出运算符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Stretch to Bottom</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T091207Z">
@@ -12422,6 +13470,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Style...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T101122Z" creationid="Admin" creationdate="20170822T101122Z">
+        <seg>样式...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Subclass...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T073204Z" creationid="Admin" creationdate="20170822T073204Z">
@@ -12466,6 +13522,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>子类层次结构</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Subversion Integration</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T102615Z" creationid="Admin" creationdate="20170822T102615Z">
+        <seg>Subversion集成</seg>
       </tuv>
     </tu>
     <tu>
@@ -12590,6 +13654,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Switch Task</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T102724Z" creationid="Admin" creationdate="20170822T102724Z">
+        <seg>切换任务</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Switch Task...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T075916Z" creationid="Admin" creationdate="20170822T075916Z">
@@ -12618,6 +13690,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>符号...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sync Project with Gradle Files</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T101155Z" creationid="Admin" creationdate="20170822T101155Z">
+        <seg>使用Gradle文件同步项目</seg>
       </tuv>
     </tu>
     <tu>
@@ -12694,6 +13774,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Task Management</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T102658Z" creationid="Admin" creationdate="20170822T102658Z">
+        <seg>任务管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tasks &amp; Contexts</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T075912Z" creationid="Admin" creationdate="20170822T075912Z">
@@ -12706,6 +13794,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095535Z" creationid="Admin" creationdate="20170822T095535Z">
         <seg>任务激活</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TearDown Function</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T102352Z" creationid="Admin" creationdate="20170822T102352Z">
+        <seg>TearDown Function</seg>
       </tuv>
     </tu>
     <tu>
@@ -12734,6 +13830,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Test Fixture</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T100657Z" creationid="Admin" creationdate="20170822T100657Z">
+        <seg>Test Fixture</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test Function</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T102359Z" creationid="Admin" creationdate="20170822T102359Z">
+        <seg>测试方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Test Method</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -12742,10 +13854,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Test Recorder</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T102736Z" creationid="Admin" creationdate="20170822T102736Z">
+        <seg>测试记录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Test Subject</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>测试主题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TestNG-J</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T102747Z" creationid="Admin" creationdate="20170822T102747Z">
+        <seg>TestNG-J</seg>
       </tuv>
     </tu>
     <tu>
@@ -12794,6 +13922,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>抛出调试异常</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Throw cached PCE</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T102406Z" creationid="Admin" creationdate="20170822T102406Z">
+        <seg>抛出缓存PCE</seg>
       </tuv>
     </tu>
     <tu>
@@ -12994,6 +14130,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>切换方法断点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Toggle Offline Mode</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T101740Z" creationid="Admin" creationdate="20170822T101740Z">
+        <seg>切换离线模式</seg>
       </tuv>
     </tu>
     <tu>
@@ -13398,6 +14542,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Typedef...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T100704Z" creationid="Admin" creationdate="20170822T100704Z">
+        <seg>Typedef...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>UI Component</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T021001Z" creationid="Admin" creationdate="20170822T021001Z">
@@ -13434,6 +14586,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T082859Z" creationid="Admin" creationdate="20170822T082859Z">
         <seg>撤消“添加”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Undo Commit...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T101608Z" creationid="Admin" creationdate="20170822T101608Z">
+        <seg>撤消提交...</seg>
       </tuv>
     </tu>
     <tu>
@@ -13582,10 +14742,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Update PlantUml Diagrams - changes only</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T102519Z" creationid="Admin" creationdate="20170822T102519Z">
+        <seg>更新PlantUml图 - 仅更改</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Update Project</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>更新项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Update to Revision</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T102942Z" creationid="Admin" creationdate="20170822T102942Z">
+        <seg>更新到修订</seg>
       </tuv>
     </tu>
     <tu>
@@ -14078,6 +15254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>hg4idea</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T102805Z" creationid="Admin" creationdate="20170822T102805Z">
+        <seg>hg4idea</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>last operation</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -14090,6 +15274,30 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>最后撤销操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>methodMissing( )</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T101844Z" creationid="Admin" creationdate="20170822T101844Z">
+        <seg>methodMissing( )</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>propertyMissing( )</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T101845Z" creationid="Admin" creationdate="20170822T101845Z">
+        <seg>propertyMissing( )</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>toString( )</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T101846Z" creationid="Admin" creationdate="20170822T101846Z">
+        <seg>toString( )</seg>
       </tuv>
     </tu>
     <tu>
