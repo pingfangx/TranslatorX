@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>APK Project</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095655Z" creationid="Admin" creationdate="20170822T095655Z">
+        <seg>APK项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AVD Manager</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T081129Z" creationid="Admin" creationdate="20170822T081122Z">
@@ -362,6 +370,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T024033Z">
         <seg>将下一个出现添加到选择</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add Stepping Filter...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095849Z" creationid="Admin" creationdate="20170822T095849Z">
+        <seg>添加步进过滤器...</seg>
       </tuv>
     </tu>
     <tu>
@@ -742,6 +758,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Assign Shortcut...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095559Z" creationid="Admin" creationdate="20170822T095559Z">
+        <seg>分配快捷键...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Associate selected file with one of file types</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -770,6 +794,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T075748Z" creationid="Admin" creationdate="20170822T075748Z">
         <seg>将调试器附加到Android进程</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Attach external project</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095520Z" creationid="Admin" creationdate="20170822T095520Z">
+        <seg>附加外部项目</seg>
       </tuv>
     </tu>
     <tu>
@@ -826,6 +858,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>自动缩进排版</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Auto-import</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095531Z" creationid="Admin" creationdate="20170822T095531Z">
+        <seg>自动导入</seg>
       </tuv>
     </tu>
     <tu>
@@ -962,6 +1002,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T083131Z" creationid="Admin" creationdate="20170822T083131Z">
         <seg>浏览更改</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browse Changes..</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T094330Z" creationid="Admin" creationdate="20170822T094330Z">
+        <seg>浏览更改...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1486,6 +1534,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Check out project from Version Control</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095429Z" creationid="Admin" creationdate="20170822T095429Z">
+        <seg>从版本控制检出项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Check out selected files for editing</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -1558,6 +1614,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose a task to assign a shortcut</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095702Z" creationid="Admin" creationdate="20170822T095702Z">
+        <seg>选择一个任务来分配快捷键</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose and re-run recent find usages</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T025454Z">
@@ -1626,6 +1690,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T081621Z" creationid="Admin" creationdate="20170822T081621Z">
         <seg>清除项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clear</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095413Z" creationid="Admin" creationdate="20170822T095413Z">
+        <seg>清除</seg>
       </tuv>
     </tu>
     <tu>
@@ -1966,6 +2038,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Collapse Linear Branches</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095228Z" creationid="Admin" creationdate="20170822T095228Z">
+        <seg>折叠线性分支</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Collapse Recursively</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T062602Z">
@@ -2126,6 +2206,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Compare Base and Left Contents</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095024Z" creationid="Admin" creationdate="20170822T095024Z">
+        <seg>比较基本和左边内容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compare Base and Middle Contents</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095034Z" creationid="Admin" creationdate="20170822T095034Z">
+        <seg>比较基本和中边内容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compare Base and Right Contents</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095037Z" creationid="Admin" creationdate="20170822T095037Z">
+        <seg>比较基本和右边内容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Compare File with Editor</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -2160,8 +2264,8 @@
       <tuv lang="EN-US">
         <seg>Compare Middle and Right Contents</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>比较中、右内容</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095009Z">
+        <seg>比较中右内容</seg>
       </tuv>
     </tu>
     <tu>
@@ -2270,10 +2374,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Compare with Local</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T094827Z" creationid="Admin" creationdate="20170822T094827Z">
+        <seg>与本地比较</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Compare with Specified Revision</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T082921Z" creationid="Admin" creationdate="20170822T082921Z">
         <seg>与具体修订比较</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compare with Specified Revision...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T094823Z" creationid="Admin" creationdate="20170822T094823Z">
+        <seg>与具体修订比较...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2734,6 +2854,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Copy Revision Number</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095319Z" creationid="Admin" creationdate="20170822T095319Z">
+        <seg>复制版本号</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Copy URL</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -2838,6 +2966,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create Branch</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T094305Z" creationid="Admin" creationdate="20170822T094305Z">
+        <seg>创建分支</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create Branch...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T082933Z" creationid="Admin" creationdate="20170822T082933Z">
@@ -2930,6 +3066,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>创建新项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create Patch</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T094743Z" creationid="Admin" creationdate="20170822T094743Z">
+        <seg>创建补丁</seg>
       </tuv>
     </tu>
     <tu>
@@ -3114,6 +3258,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>创建{0}项目目录结构与现有的来源或转换现有的项目模型.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095854Z" creationid="Admin" creationdate="20170822T095854Z">
+        <seg>创建…</seg>
       </tuv>
     </tu>
     <tu>
@@ -3590,6 +3742,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Diff &amp; Merge</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T094801Z" creationid="Admin" creationdate="20170822T094801Z">
+        <seg>差异与合并</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Directed Orthogonal Layout</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -3610,6 +3770,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>目录/包</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Display tasks inherited from sub-projects</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095649Z" creationid="Admin" creationdate="20170822T095649Z">
+        <seg>从子项目继承的显示任务</seg>
       </tuv>
     </tu>
     <tu>
@@ -4182,6 +4350,62 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Execute After Build</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095622Z" creationid="Admin" creationdate="20170822T095622Z">
+        <seg>执行后构建</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Execute After Rebuild</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095635Z" creationid="Admin" creationdate="20170822T095635Z">
+        <seg>重建后执行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Execute After Sync</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095611Z" creationid="Admin" creationdate="20170822T095611Z">
+        <seg>同步后执行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Execute Before Build</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095619Z" creationid="Admin" creationdate="20170822T095619Z">
+        <seg>构建前执行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Execute Before Rebuild</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095637Z" creationid="Admin" creationdate="20170822T095627Z">
+        <seg>重建前执行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Execute Before Run/Debug...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095641Z" creationid="Admin" creationdate="20170822T095641Z">
+        <seg>运行/调试之前执行…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Execute Before Sync</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095604Z" creationid="Admin" creationdate="20170822T095604Z">
+        <seg>同步前执行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Execute Current Statement in Multiline Console</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -4250,6 +4474,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>全部展开</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Expand Linear Branches</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095235Z" creationid="Admin" creationdate="20170822T095235Z">
+        <seg>展开线性分支</seg>
       </tuv>
     </tu>
     <tu>
@@ -4462,10 +4694,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>External Build Systems</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095501Z" creationid="Admin" creationdate="20170822T095501Z">
+        <seg>外部构建系统</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>External Documentation</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>外部文档</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>External Settings</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095527Z" creationid="Admin" creationdate="20170822T095527Z">
+        <seg>外部设置</seg>
       </tuv>
     </tu>
     <tu>
@@ -4562,6 +4810,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>文件编码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File History</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095313Z" creationid="Admin" creationdate="20170822T095313Z">
+        <seg>文件历史记录</seg>
       </tuv>
     </tu>
     <tu>
@@ -4834,6 +5090,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>切换到启动界面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Focus Text Filter</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095154Z" creationid="Admin" creationdate="20170822T095154Z">
+        <seg>关注文本过滤</seg>
       </tuv>
     </tu>
     <tu>
@@ -5462,6 +5726,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Group Tasks</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095645Z" creationid="Admin" creationdate="20170822T095645Z">
+        <seg>组任务</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Help</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T092520Z">
@@ -5662,6 +5934,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ignore external project</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095523Z" creationid="Admin" creationdate="20170822T095523Z">
+        <seg>忽略外部项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ignore...</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -5754,6 +6034,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T014619Z" creationid="Admin" creationdate="20170822T014619Z">
         <seg>导入Module...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Import Patches...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T094740Z" creationid="Admin" creationdate="20170822T094740Z">
+        <seg>导入补丁...</seg>
       </tuv>
     </tu>
     <tu>
@@ -6486,6 +6774,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Log</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095141Z" creationid="Admin" creationdate="20170822T095141Z">
+        <seg>日志</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Look and Feel</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -6674,6 +6970,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>马克/取消标记对象,这样它就可以在调试器中视图区分观点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Match Case</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095218Z" creationid="Admin" creationdate="20170822T095218Z">
+        <seg>匹配</seg>
       </tuv>
     </tu>
     <tu>
@@ -7302,6 +7606,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move to Another Changelist</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095358Z" creationid="Admin" creationdate="20170822T095358Z">
+        <seg>移到另一个变更列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move to Another Changelist...</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -7566,6 +7878,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>New Class Level Watch...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095814Z" creationid="Admin" creationdate="20170822T095814Z">
+        <seg>新建类级别的Watch...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>New File...</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -7766,6 +8086,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Open Another Log Tab</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095307Z" creationid="Admin" creationdate="20170822T095307Z">
+        <seg>打开另一个日志选项卡</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Open Console</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -7954,6 +8282,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>打开迁移对话框</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open on GitHub</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095338Z" creationid="Admin" creationdate="20170822T095338Z">
+        <seg>在GitHub中打开</seg>
       </tuv>
     </tu>
     <tu>
@@ -8814,10 +9150,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Quick Lists</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095930Z" creationid="Admin" creationdate="20170822T095930Z">
+        <seg>快速列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Quick Settings</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095246Z" creationid="Admin" creationdate="20170822T095246Z">
+        <seg>快速设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Quick Switch Scheme...</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>快速切换方案...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>QuickList</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095938Z" creationid="Admin" creationdate="20170822T095938Z">
+        <seg>快速列表</seg>
       </tuv>
     </tu>
     <tu>
@@ -9126,6 +9486,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Refresh all external projects</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095513Z" creationid="Admin" creationdate="20170822T095513Z">
+        <seg>刷新所有外部项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Refresh external project</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095517Z" creationid="Admin" creationdate="20170822T095517Z">
+        <seg>刷新外部项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Refresh the file system tree</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -9146,6 +9522,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>刷新列表来变更的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Regex</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095201Z" creationid="Admin" creationdate="20170822T095201Z">
+        <seg>正则表达式</seg>
       </tuv>
     </tu>
     <tu>
@@ -9272,8 +9656,8 @@
       <tuv lang="EN-US">
         <seg>Remove Watch...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T083116Z" creationid="Admin" creationdate="20170822T083116Z">
-        <seg>删除 Watch...</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T094316Z" creationid="Admin" creationdate="20170822T083116Z">
+        <seg>删除Watch...</seg>
       </tuv>
     </tu>
     <tu>
@@ -9558,6 +9942,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Repository</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T094519Z" creationid="Admin" creationdate="20170822T094519Z">
+        <seg>存储库</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Repository History</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -9666,6 +10058,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>调整图片为实际尺寸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Resolve Automatically</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095002Z" creationid="Admin" creationdate="20170822T095002Z">
+        <seg>自动解决</seg>
       </tuv>
     </tu>
     <tu>
@@ -9930,6 +10330,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T063341Z" creationid="Admin" creationdate="20170822T063341Z">
         <seg>按名称运行检查...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Run Task</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095544Z" creationid="Admin" creationdate="20170822T095544Z">
+        <seg>运行任务</seg>
       </tuv>
     </tu>
     <tu>
@@ -10398,6 +10806,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select Project Data To Import</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095540Z" creationid="Admin" creationdate="20170822T095540Z">
+        <seg>选择要导入的项目数据</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select Run/Debug Configuration</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -10458,6 +10874,46 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>设置活动的变更列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set Copy to Left</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095049Z" creationid="Admin" creationdate="20170822T095049Z">
+        <seg>将副本设置为左</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set Copy to Right</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095045Z" creationid="Admin" creationdate="20170822T095045Z">
+        <seg>将副本设置为右</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set Default</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095114Z" creationid="Admin" creationdate="20170822T095114Z">
+        <seg>默认设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set Delete</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095053Z" creationid="Admin" creationdate="20170822T095053Z">
+        <seg>设置删除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set Do Nothing</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095111Z" creationid="Admin" creationdate="20170822T095111Z">
+        <seg>设置什么也不做</seg>
       </tuv>
     </tu>
     <tu>
@@ -10574,6 +11030,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Share Directory...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T094608Z" creationid="Admin" creationdate="20170822T094608Z">
+        <seg>共享目录...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Share Project (Subversion)...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T083210Z" creationid="Admin" creationdate="20170822T083210Z">
@@ -10618,6 +11082,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>显示所有受影响的文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show All Branches</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095323Z" creationid="Admin" creationdate="20170822T095323Z">
+        <seg>显示所有分支</seg>
       </tuv>
     </tu>
     <tu>
@@ -10706,6 +11178,22 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>显示差异</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show Diff Settings Popup...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T094944Z" creationid="Admin" creationdate="20170822T094836Z">
+        <seg>显示差异设置弹出窗口...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show Diff in External Tool</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T094947Z" creationid="Admin" creationdate="20170822T094947Z">
+        <seg>在外部工具中显示差异</seg>
       </tuv>
     </tu>
     <tu>
@@ -10814,6 +11302,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Show History for Selection...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T094300Z" creationid="Admin" creationdate="20170822T094300Z">
+        <seg>显示选中部分的历史...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show Ignored</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095652Z" creationid="Admin" creationdate="20170822T095652Z">
+        <seg>显示忽略</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Show Image Thumbnails</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -10870,6 +11374,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Show Local Changes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095438Z" creationid="Admin" creationdate="20170822T095438Z">
+        <seg>显示本地更改</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Show Local VCS Statistics...</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -10890,6 +11402,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T084545Z">
         <seg>在文件管理器中打开日志文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show Long Edges</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095242Z" creationid="Admin" creationdate="20170822T095242Z">
+        <seg>显示长边</seg>
       </tuv>
     </tu>
     <tu>
@@ -10918,10 +11438,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Show Root Names</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095303Z" creationid="Admin" creationdate="20170822T095303Z">
+        <seg>显示根名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Show Running List</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T075147Z" creationid="Admin" creationdate="20170822T075147Z">
         <seg>显示运行列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show Shelf</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095446Z" creationid="Admin" creationdate="20170822T095446Z">
+        <seg>显示 Shelf</seg>
       </tuv>
     </tu>
     <tu>
@@ -10950,10 +11486,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Show Tag Names</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095258Z" creationid="Admin" creationdate="20170822T095258Z">
+        <seg>显示标签名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Show Usages</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>显示使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show VCS Log</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095449Z" creationid="Admin" creationdate="20170822T095449Z">
+        <seg>显示VCS日志</seg>
       </tuv>
     </tu>
     <tu>
@@ -10968,8 +11520,8 @@
       <tuv lang="EN-US">
         <seg>Show Watchers</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T083119Z" creationid="Admin" creationdate="20170822T083119Z">
-        <seg>显示 Watchers</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T094318Z" creationid="Admin" creationdate="20170822T083119Z">
+        <seg>显示Watchers</seg>
       </tuv>
     </tu>
     <tu>
@@ -10978,6 +11530,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>显示空格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show Working Copies</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095453Z" creationid="Admin" creationdate="20170822T095453Z">
+        <seg>显示工作副本</seg>
       </tuv>
     </tu>
     <tu>
@@ -11102,10 +11662,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Show difference</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095137Z" creationid="Admin" creationdate="20170822T095137Z">
+        <seg>显示差异</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Show dropdown with the list of tabs that don't fit on the screen in single-row tab layout</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T092053Z">
         <seg>使用下拉列表来展示在单行的标签布局中容纳不下的标签。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show equal files</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095134Z" creationid="Admin" creationdate="20170822T095134Z">
+        <seg>显示相等的文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -11214,6 +11790,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Show new files on left side</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095127Z" creationid="Admin" creationdate="20170822T095127Z">
+        <seg>在左侧显示新文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show new files on right side</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095131Z" creationid="Admin" creationdate="20170822T095131Z">
+        <seg>在右侧显示新文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Show online documentation</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -11262,6 +11854,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Show related stack...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095827Z" creationid="Admin" creationdate="20170822T095827Z">
+        <seg>显示相关堆栈...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Show selected nodes with dependencies</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -11302,6 +11902,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Show types</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095831Z" creationid="Admin" creationdate="20170822T095831Z">
+        <seg>显示类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Show usages of the symbol at caret</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -11322,6 +11930,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>显示本地文件的版本控制信息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show watches in variables tab</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095755Z" creationid="Admin" creationdate="20170822T095755Z">
+        <seg>在变量选项卡中显示监视</seg>
       </tuv>
     </tu>
     <tu>
@@ -12064,8 +12680,8 @@
       <tuv lang="EN-US">
         <seg>Tag Repository...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T081943Z" creationid="Admin" creationdate="20170822T081909Z">
-        <seg>存储库打tag...</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T094642Z" creationid="Admin" creationdate="20170822T081909Z">
+        <seg>给存储库打tag...</seg>
       </tuv>
     </tu>
     <tu>
@@ -12082,6 +12698,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T075912Z" creationid="Admin" creationdate="20170822T075912Z">
         <seg>任务和上下文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tasks Activation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095535Z" creationid="Admin" creationdate="20170822T095535Z">
+        <seg>任务激活</seg>
       </tuv>
     </tu>
     <tu>
@@ -12122,6 +12746,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>测试主题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Text Filter Settings</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095158Z" creationid="Admin" creationdate="20170822T095158Z">
+        <seg>文本过滤器设置</seg>
       </tuv>
     </tu>
     <tu>
@@ -13242,6 +13874,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>虚拟文件信息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Warn When Delete</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095121Z" creationid="Admin" creationdate="20170822T095121Z">
+        <seg>删除时发出警告</seg>
       </tuv>
     </tu>
     <tu>
