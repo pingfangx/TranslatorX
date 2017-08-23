@@ -4924,8 +4924,8 @@
       <tuv lang="EN-US">
         <seg>Encode XML/HTML Special Characters</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T025738Z" creationid="Admin" creationdate="20170822T025738Z">
-        <seg>编码XML / HTML特殊字符</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170823T070221Z" creationid="Admin" creationdate="20170822T025738Z">
+        <seg>编码XML/HTML特殊字符</seg>
       </tuv>
     </tu>
     <tu>
@@ -10302,8 +10302,8 @@
       <tuv lang="EN-US">
         <seg>Primary direction for mixed LTR/RTL text</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T055148Z" creationid="Admin" creationdate="20170822T055148Z">
-        <seg>混合LTR / RTL文本的主要方向</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170823T070241Z" creationid="Admin" creationdate="20170822T055148Z">
+        <seg>混合LTR/RTL文本的主要方向</seg>
       </tuv>
     </tu>
     <tu>
