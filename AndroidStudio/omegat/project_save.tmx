@@ -633,7 +633,7 @@
         <seg>Add to Watches</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T074053Z">
-        <seg>添加到监视点</seg>
+        <seg>添加到观察点</seg>
       </tuv>
     </tu>
     <tu>
@@ -4573,7 +4573,7 @@
         <seg>Duplicate Watch</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T074215Z" creationid="Admin" creationdate="20170824T074215Z">
-        <seg>复制监测点</seg>
+        <seg>复制观察点</seg>
       </tuv>
     </tu>
     <tu>
@@ -4733,7 +4733,7 @@
         <seg>Edit Watch</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>编辑监测</seg>
+        <seg>编辑观察点</seg>
       </tuv>
     </tu>
     <tu>
@@ -4741,7 +4741,7 @@
         <seg>Edit and Watch</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T083018Z" creationid="Admin" creationdate="20170822T083018Z">
-        <seg>编辑和监测</seg>
+        <seg>编辑和观察点</seg>
       </tuv>
     </tu>
     <tu>
@@ -8895,7 +8895,7 @@
         <seg>Move Watch Down</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T074231Z" creationid="Admin" creationdate="20170824T074231Z">
-        <seg>下移监测点</seg>
+        <seg>下移观察点</seg>
       </tuv>
     </tu>
     <tu>
@@ -8903,7 +8903,7 @@
         <seg>Move Watch Up</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T074226Z" creationid="Admin" creationdate="20170824T074226Z">
-        <seg>上移监测点</seg>
+        <seg>上移观察点</seg>
       </tuv>
     </tu>
     <tu>
@@ -9399,7 +9399,7 @@
         <seg>New Watch</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>新建监测</seg>
+        <seg>新建观察点</seg>
       </tuv>
     </tu>
     <tu>
@@ -11215,7 +11215,7 @@
         <seg>Remove All Watches</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>移除所有监测</seg>
+        <seg>移除所有观察点</seg>
       </tuv>
     </tu>
     <tu>
@@ -11271,7 +11271,7 @@
         <seg>Remove Watch</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T074137Z" creationid="Admin" creationdate="20170822T083116Z">
-        <seg>删除监测</seg>
+        <seg>删除观察点</seg>
       </tuv>
     </tu>
     <tu>
@@ -13887,7 +13887,7 @@
         <seg>Show watches in variables tab</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T095755Z" creationid="Admin" creationdate="20170822T095755Z">
-        <seg>在变量选项卡中显示监视</seg>
+        <seg>在变量选项卡中显示观察点</seg>
       </tuv>
     </tu>
     <tu>
