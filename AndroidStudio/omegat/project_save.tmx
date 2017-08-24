@@ -3821,7 +3821,7 @@
         <seg>Create new changelist</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>创建新的变更列表</seg>
+        <seg>创建新的更改列表</seg>
       </tuv>
     </tu>
     <tu>
@@ -4181,7 +4181,7 @@
         <seg>Delete Applied Shelved Changes</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>删除已应用的搁置的变更</seg>
+        <seg>删除已应用的搁置的更改</seg>
       </tuv>
     </tu>
     <tu>
@@ -4605,7 +4605,7 @@
         <seg>Edit Changelist</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>编辑变更列表</seg>
+        <seg>编辑更改列表</seg>
       </tuv>
     </tu>
     <tu>
@@ -4757,7 +4757,7 @@
         <seg>Edit name and description of selected changelist</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>编辑选中变更列表的名称和描述</seg>
+        <seg>编辑选中更改列表的名称和描述</seg>
       </tuv>
     </tu>
     <tu>
@@ -6397,7 +6397,7 @@
         <seg>Get Changelist</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>获得变更列表</seg>
+        <seg>获得更改列表</seg>
       </tuv>
     </tu>
     <tu>
@@ -9031,7 +9031,7 @@
         <seg>Move to Another Changelist</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>移到另一个变更列表</seg>
+        <seg>移到另一个更改列表</seg>
       </tuv>
     </tu>
     <tu>
@@ -9311,7 +9311,7 @@
         <seg>New Changelist</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>新变更列表</seg>
+        <seg>新更改列表</seg>
       </tuv>
     </tu>
     <tu>
@@ -12687,7 +12687,7 @@
         <seg>Set Active Changelist</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>设置活动的变更列表</seg>
+        <seg>设置活动的更改列表</seg>
       </tuv>
     </tu>
     <tu>
@@ -12759,7 +12759,7 @@
         <seg>Set changelist to which new changes are placed by default</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T080218Z">
-        <seg>设置默认情况下新的更改放置的变更列</seg>
+        <seg>设置默认情况下新的更改放置的更改列</seg>
       </tuv>
     </tu>
     <tu>
@@ -13895,7 +13895,7 @@
         <seg>Show/Hide Applied Shelved Changes</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>显示/隐藏已应用的搁置变更</seg>
+        <seg>显示/隐藏已应用的搁置更改</seg>
       </tuv>
     </tu>
     <tu>
@@ -16047,7 +16047,7 @@
         <seg>View complete information about the selected changelist</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>查看选中变更列表的完整信息</seg>
+        <seg>查看选中更改列表的完整信息</seg>
       </tuv>
     </tu>
     <tu>
