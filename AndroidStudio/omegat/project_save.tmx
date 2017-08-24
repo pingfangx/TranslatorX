@@ -601,7 +601,7 @@
         <seg>Add selected element to migration roots</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>添加选定的元素到迁移根</seg>
+        <seg>添加选中元素到迁移根</seg>
       </tuv>
     </tu>
     <tu>
@@ -609,7 +609,7 @@
         <seg>Add selected node to favorites</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T042335Z">
-        <seg>将所选节点添加到收藏</seg>
+        <seg>将选中节点添加到收藏</seg>
       </tuv>
     </tu>
     <tu>
@@ -1065,7 +1065,7 @@
         <seg>Apply the reverse of the selected changes to the working copy</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T081315Z">
-        <seg>将所选更改的反向应用于工作副本</seg>
+        <seg>将选中更改的反向应用于工作副本</seg>
       </tuv>
     </tu>
     <tu>
@@ -1097,7 +1097,7 @@
         <seg>Associate selected file with one of file types</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T075110Z">
-        <seg>将所选文件与文件类型之一相关联</seg>
+        <seg>将选中文件与文件类型之一相关联</seg>
       </tuv>
     </tu>
     <tu>
@@ -1145,7 +1145,7 @@
         <seg>Attach selected views to the debugger tool window</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T072725Z">
-        <seg>将所选视图附加到调试器工具窗口</seg>
+        <seg>将选中视图附加到调试器工具窗口</seg>
       </tuv>
     </tu>
     <tu>
@@ -1417,7 +1417,7 @@
         <seg>Browse code chosen analysis item depends on</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T070048Z">
-        <seg>浏览所选代码分析依赖的项目</seg>
+        <seg>浏览选中代码分析依赖的项目</seg>
       </tuv>
     </tu>
     <tu>
@@ -1425,7 +1425,7 @@
         <seg>Browse code chosen analysis item used in</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T070102Z">
-        <seg>浏览所选代码分析用于的项目</seg>
+        <seg>浏览选中代码分析用于的项目</seg>
       </tuv>
     </tu>
     <tu>
@@ -1433,7 +1433,7 @@
         <seg>Browse code chosen analysis item used in cycles</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T070120Z">
-        <seg>浏览所选代码分析循环依赖的项目</seg>
+        <seg>浏览选中代码分析循环依赖的项目</seg>
       </tuv>
     </tu>
     <tu>
@@ -1613,7 +1613,7 @@
         <seg>Cancel exclusion for the selected directory to make its files processable by IDE's actions</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170822T130513Z" creationid="Administrator" creationdate="20170822T130513Z">
-        <seg>取消所选目录的排除，使其文件可以通过IDE的操作进行处理</seg>
+        <seg>取消选中目录的排除，使其文件可以通过IDE的操作进行处理</seg>
       </tuv>
     </tu>
     <tu>
@@ -1861,7 +1861,7 @@
         <seg>Change signature of the selected method or class and correct all references</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T070328Z">
-        <seg>更改所选方法或类的签名，并更正所有引用</seg>
+        <seg>更改选中方法或类的签名，并更正所有引用</seg>
       </tuv>
     </tu>
     <tu>
@@ -1989,7 +1989,7 @@
         <seg>Check out selected files for editing</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>检出选定的文件进行编辑</seg>
+        <seg>检出选中文件进行编辑</seg>
       </tuv>
     </tu>
     <tu>
@@ -2661,7 +2661,7 @@
         <seg>Comment/uncomment current line or selected block with line comments</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>注释/取消注释当前行或所选块</seg>
+        <seg>注释/取消注释当前行或选中块</seg>
       </tuv>
     </tu>
     <tu>
@@ -2701,7 +2701,7 @@
         <seg>Commit the changes in selected changelist</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T080001Z">
-        <seg>提交所选更改列表中的更改</seg>
+        <seg>提交选中更改列表中的更改</seg>
       </tuv>
     </tu>
     <tu>
@@ -2821,7 +2821,7 @@
         <seg>Compare current selection with clipboard</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>将剪贴板中与当前所选内容进行比较</seg>
+        <seg>将剪贴板中与当前选中内容进行比较</seg>
       </tuv>
     </tu>
     <tu>
@@ -2837,7 +2837,7 @@
         <seg>Compare selected file with editor</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>将所选文件和编辑窗口进行比较</seg>
+        <seg>将选中文件和编辑窗口进行比较</seg>
       </tuv>
     </tu>
     <tu>
@@ -2845,7 +2845,7 @@
         <seg>Compare two selected files or folders</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>比较两个选定的文件</seg>
+        <seg>比较两个选中文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -2853,7 +2853,7 @@
         <seg>Compare value of selected node with clipboard text</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T074025Z">
-        <seg>将所选节点的值与剪贴板文本进行比较</seg>
+        <seg>将选中节点的值与剪贴板文本进行比较</seg>
       </tuv>
     </tu>
     <tu>
@@ -3317,7 +3317,7 @@
         <seg>Convert the indentation in the file or selected block to use spaces instead of tabs</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T082029Z">
-        <seg>转换文件中或选定块的缩进，用空格代替制表符</seg>
+        <seg>转换文件中或选中块的缩进，用空格代替制表符</seg>
       </tuv>
     </tu>
     <tu>
@@ -3501,7 +3501,7 @@
         <seg>Copy name of selected node to clipboard</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>将所选节点的名称复制到剪贴板</seg>
+        <seg>将选中节点的名称复制到剪贴板</seg>
       </tuv>
     </tu>
     <tu>
@@ -3509,7 +3509,7 @@
         <seg>Copy paths corresponding to selected files or directories to clipboard</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>复制选定文件或目录的路径到剪贴板</seg>
+        <seg>复制选中文件或目录的路径到剪贴板</seg>
       </tuv>
     </tu>
     <tu>
@@ -3517,7 +3517,7 @@
         <seg>Copy reference to selected class, method or function</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T060959Z">
-        <seg>复制对选择的类、方法或函数的引用</seg>
+        <seg>复制对选中类、方法或函数的引用</seg>
       </tuv>
     </tu>
     <tu>
@@ -3533,7 +3533,7 @@
         <seg>Copy selection to clipboard as rich text (in RTF and HTML formats)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T061035Z">
-        <seg>将所选复制到剪贴板作为富文本（以RTF和HTML格式）</seg>
+        <seg>将选中复制到剪贴板作为富文本（以RTF和HTML格式）</seg>
       </tuv>
     </tu>
     <tu>
@@ -3557,7 +3557,7 @@
         <seg>Copy value of selected node to clipboard</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>将所选节点的值复制到剪贴板</seg>
+        <seg>将选中节点的值复制到剪贴板</seg>
       </tuv>
     </tu>
     <tu>
@@ -3677,7 +3677,7 @@
         <seg>Create JavaDocs for the selected element</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T102024Z" creationid="Admin" creationdate="20170822T102024Z">
-        <seg>为所选元素创建JavaDoc</seg>
+        <seg>为选中元素创建JavaDoc</seg>
       </tuv>
     </tu>
     <tu>
@@ -3757,7 +3757,7 @@
         <seg>Create a copy of the selected class, file(s) or directory(es)</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>创建选定的类、文件或目录的副本</seg>
+        <seg>创建选中类、文件或目录的副本</seg>
       </tuv>
     </tu>
     <tu>
@@ -3789,7 +3789,7 @@
         <seg>Create a patch from the selected changes</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>从选定的更改中创建一个补丁</seg>
+        <seg>从选中更改中创建一个补丁</seg>
       </tuv>
     </tu>
     <tu>
@@ -3901,7 +3901,7 @@
         <seg>Creates new scratch file with chosen language</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>用选定的语言创建新的scratch文件</seg>
+        <seg>用选中语言创建新的scratch文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -4229,7 +4229,7 @@
         <seg>Delete all favorites the selected node belongs to</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T040525Z">
-        <seg>删除所选节点所属的所有收藏夹</seg>
+        <seg>删除选中节点所属的所有收藏夹</seg>
       </tuv>
     </tu>
     <tu>
@@ -4237,7 +4237,7 @@
         <seg>Delete selected item</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>删除选定的项</seg>
+        <seg>删除选中项</seg>
       </tuv>
     </tu>
     <tu>
@@ -4245,7 +4245,7 @@
         <seg>Delete the selected class, method or field, checking for usages</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T070433Z">
-        <seg>删除选定的类、方法或字段，并检查使用</seg>
+        <seg>删除选中类、方法或字段，并检查使用</seg>
       </tuv>
     </tu>
     <tu>
@@ -4453,7 +4453,7 @@
         <seg>Do not show selected files as unversioned</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T080617Z">
-        <seg>不将所选文件显示为未加入版本控制</seg>
+        <seg>不将选中文件显示为未加入版本控制</seg>
       </tuv>
     </tu>
     <tu>
@@ -4757,7 +4757,7 @@
         <seg>Edit name and description of selected changelist</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>编辑选定的变更列表的名称和描述</seg>
+        <seg>编辑选中变更列表的名称和描述</seg>
       </tuv>
     </tu>
     <tu>
@@ -5093,7 +5093,7 @@
         <seg>Evaluate selected expression</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T072128Z">
-        <seg>计算选定的表达式</seg>
+        <seg>计算选中表达式</seg>
       </tuv>
     </tu>
     <tu>
@@ -5605,7 +5605,7 @@
         <seg>Extract interface from the selected class</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>从选定的类提取接口</seg>
+        <seg>从选中类提取接口</seg>
       </tuv>
     </tu>
     <tu>
@@ -5613,7 +5613,7 @@
         <seg>Extract module from the selected class</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T070937Z">
-        <seg>从所选类中提取模块</seg>
+        <seg>从选中类中提取模块</seg>
       </tuv>
     </tu>
     <tu>
@@ -5621,7 +5621,7 @@
         <seg>Extract superclass from the selected class</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>从选定的类提取超类</seg>
+        <seg>从选中类提取超类</seg>
       </tuv>
     </tu>
     <tu>
@@ -5909,7 +5909,7 @@
         <seg>Finds code in selected scope that can be transformed into a call of selected method/constant</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T070514Z">
-        <seg>查找所选范围内的代码，可以转换为所选方法的调用/常量</seg>
+        <seg>查找选中范围内的代码，可以转换为选中方法的调用/常量</seg>
       </tuv>
     </tu>
     <tu>
@@ -6117,7 +6117,7 @@
         <seg>Force recompilation for selected module, file or package</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T071506Z">
-        <seg>强制重新编译所选的模块，文件或软件包</seg>
+        <seg>强制重新编译选中模块，文件或软件包</seg>
       </tuv>
     </tu>
     <tu>
@@ -6405,7 +6405,7 @@
         <seg>Get latest version of files modified in selected changelist</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T080748Z">
-        <seg>获取在所选更改列表中文件的最新版本的修改</seg>
+        <seg>获取在选中更改列表中文件的最新版本的修改</seg>
       </tuv>
     </tu>
     <tu>
@@ -7413,7 +7413,7 @@
         <seg>Indent Selection</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>缩进所选内容</seg>
+        <seg>缩进选中内容</seg>
       </tuv>
     </tu>
     <tu>
@@ -7421,7 +7421,7 @@
         <seg>Indent current line or selected block according to the code style settings</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T065710Z">
-        <seg>根据代码风格设置缩进当前行或者所选块</seg>
+        <seg>根据代码风格设置缩进当前行或者选中块</seg>
       </tuv>
     </tu>
     <tu>
@@ -7477,7 +7477,7 @@
         <seg>Inline delegate to the selected field methods</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>内联委托给选定的字段的方法</seg>
+        <seg>内联委托给选中字段的方法</seg>
       </tuv>
     </tu>
     <tu>
@@ -7485,7 +7485,7 @@
         <seg>Inline the selected method or variable</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>内联选定的方法或变量</seg>
+        <seg>内联选中方法或变量</seg>
       </tuv>
     </tu>
     <tu>
@@ -7589,7 +7589,7 @@
         <seg>Integrate selected files or directories</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T082118Z">
-        <seg>整合选定的文件或目录</seg>
+        <seg>整合选中文件或目录</seg>
       </tuv>
     </tu>
     <tu>
@@ -8671,7 +8671,7 @@
         <seg>Move Caret to Page Bottom with Selection</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T042911Z">
-        <seg>移动插入符号到页的底部并选中</seg>
+        <seg>移动插入符号到页的底部并选择</seg>
       </tuv>
     </tu>
     <tu>
@@ -8687,7 +8687,7 @@
         <seg>Move Caret to Page Top with Selection</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T042909Z">
-        <seg>移动插入符号到页的顶部并选中</seg>
+        <seg>移动插入符号到页的顶部并选择</seg>
       </tuv>
     </tu>
     <tu>
@@ -8783,7 +8783,7 @@
         <seg>Move Down and Scroll with Selection</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>向下滚动并选中</seg>
+        <seg>向下滚动并选择</seg>
       </tuv>
     </tu>
     <tu>
@@ -8887,7 +8887,7 @@
         <seg>Move Up and Scroll with Selection</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>向上滚动并选中</seg>
+        <seg>向上滚动并选择</seg>
       </tuv>
     </tu>
     <tu>
@@ -8975,7 +8975,7 @@
         <seg>Move selected changes to another changelist</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T080259Z">
-        <seg>将选定的更改移动到另一个更改列表</seg>
+        <seg>将选中更改移动到另一个更改列表</seg>
       </tuv>
     </tu>
     <tu>
@@ -8983,7 +8983,7 @@
         <seg>Move selected lines one line down</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>把选定的行向下移动一行</seg>
+        <seg>把选中行向下移动一行</seg>
       </tuv>
     </tu>
     <tu>
@@ -8991,7 +8991,7 @@
         <seg>Move selected lines one line up</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>把选定的行向上移动一行</seg>
+        <seg>把选中行向上移动一行</seg>
       </tuv>
     </tu>
     <tu>
@@ -8999,7 +8999,7 @@
         <seg>Move selected statements one line down</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>把选定的语句向下移动一行</seg>
+        <seg>把选中语句向下移动一行</seg>
       </tuv>
     </tu>
     <tu>
@@ -9007,7 +9007,7 @@
         <seg>Move selected statements one line up</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>把选定的语句向上移动一行</seg>
+        <seg>把选中语句向上移动一行</seg>
       </tuv>
     </tu>
     <tu>
@@ -9015,7 +9015,7 @@
         <seg>Move the selected class, method, package or static member to another package or class and correct all references</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T070409Z">
-        <seg>将所选的类，方法，包或静态成员移动到另一个包或类，并更正所有引用</seg>
+        <seg>将选中类，方法，包或静态成员移动到另一个包或类，并更正所有引用</seg>
       </tuv>
     </tu>
     <tu>
@@ -9191,7 +9191,7 @@
         <seg>Navigate to the implementation(s) of the selected class or method</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T064225Z">
-        <seg>导航到所选的类或方法的实现</seg>
+        <seg>导航到选中类或方法的实现</seg>
       </tuv>
     </tu>
     <tu>
@@ -9263,7 +9263,7 @@
         <seg>Navigate to the subject of the selected test</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T064513Z">
-        <seg>导航到所选测试的主题</seg>
+        <seg>导航到选中测试的主题</seg>
       </tuv>
     </tu>
     <tu>
@@ -9271,7 +9271,7 @@
         <seg>Navigate to the test of the selected class</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T064454Z">
-        <seg>导航到所选类的测试</seg>
+        <seg>导航到选中类的测试</seg>
       </tuv>
     </tu>
     <tu>
@@ -9687,7 +9687,7 @@
         <seg>Open Selected</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170822T130557Z" creationid="Administrator" creationdate="20170822T130557Z">
-        <seg>打开选定的</seg>
+        <seg>打开选中</seg>
       </tuv>
     </tu>
     <tu>
@@ -9743,7 +9743,7 @@
         <seg>Open browser with documentation for the selected item</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T063408Z">
-        <seg>为选定的项目文件打开浏览器</seg>
+        <seg>为选中项目文件打开浏览器</seg>
       </tuv>
     </tu>
     <tu>
@@ -9751,7 +9751,7 @@
         <seg>Open console for selected entity</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170822T130526Z">
-        <seg>打开所选实体的控制台</seg>
+        <seg>打开选中实体的控制台</seg>
       </tuv>
     </tu>
     <tu>
@@ -9775,7 +9775,7 @@
         <seg>Open editor for the selected item</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T063237Z">
-        <seg>打开所选项目的编辑器</seg>
+        <seg>打开选中项目的编辑器</seg>
       </tuv>
     </tu>
     <tu>
@@ -9783,7 +9783,7 @@
         <seg>Open editor for the selected item and give focus to it</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T063254Z">
-        <seg>打开所选项目的编辑器并放置焦点</seg>
+        <seg>打开选中项目的编辑器并放置焦点</seg>
       </tuv>
     </tu>
     <tu>
@@ -9791,7 +9791,7 @@
         <seg>Open editor for the selected item in new window and give focus to it</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T063336Z">
-        <seg>在新窗口打开所选项目的编辑器并放置焦点</seg>
+        <seg>在新窗口打开选中项目的编辑器并放置焦点</seg>
       </tuv>
     </tu>
     <tu>
@@ -9839,7 +9839,7 @@
         <seg>Open settings dialog for selected module</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>为所选模块打开设置对话框</seg>
+        <seg>为选中模块打开设置对话框</seg>
       </tuv>
     </tu>
     <tu>
@@ -9855,7 +9855,7 @@
         <seg>Open source of the selected item</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>打开所选项的源码</seg>
+        <seg>打开选中项的源码</seg>
       </tuv>
     </tu>
     <tu>
@@ -9863,7 +9863,7 @@
         <seg>Open source of the selected value's type</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T074042Z">
-        <seg>打开所选值类型的源码</seg>
+        <seg>打开选中值类型的源码</seg>
       </tuv>
     </tu>
     <tu>
@@ -10671,7 +10671,7 @@
         <seg>Put a result of the selected expression into a field</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T070816Z">
-        <seg>将所选表达式的结果放入字段中</seg>
+        <seg>将选中表达式的结果放入字段中</seg>
       </tuv>
     </tu>
     <tu>
@@ -10679,7 +10679,7 @@
         <seg>Put a result of the selected expression into a variable</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T070609Z">
-        <seg>将所选表达式的结果放入变量中</seg>
+        <seg>将选中表达式的结果放入变量中</seg>
       </tuv>
     </tu>
     <tu>
@@ -11231,7 +11231,7 @@
         <seg>Remove JavaDocs for the selected element</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T102029Z" creationid="Admin" creationdate="20170822T102029Z">
-        <seg>删除所选元素的JavaDocs</seg>
+        <seg>删除选中元素的JavaDocs</seg>
       </tuv>
     </tu>
     <tu>
@@ -11255,7 +11255,7 @@
         <seg>Remove Selected from Welcome Screen</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170822T130925Z" creationid="Administrator" creationdate="20170822T130925Z">
-        <seg>从欢迎屏幕中删除所选项</seg>
+        <seg>从欢迎屏幕中删除选中项</seg>
       </tuv>
     </tu>
     <tu>
@@ -11375,7 +11375,7 @@
         <seg>Rename selected file</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T071057Z">
-        <seg>重命名所选文件</seg>
+        <seg>重命名选中文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -11391,7 +11391,7 @@
         <seg>Rename the selected symbol and correct all references</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T064749Z">
-        <seg>重命名所选符号并更正所有引用</seg>
+        <seg>重命名选中符号并更正所有引用</seg>
       </tuv>
     </tu>
     <tu>
@@ -11423,7 +11423,7 @@
         <seg>Repeat the last Find/Replace operation in reverse direction, or moving to previous occurrence of selected text</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T061300Z">
-        <seg>反方向重复上一次查找/替换操作，或移动到所选文本的上一个出现</seg>
+        <seg>反方向重复上一次查找/替换操作，或移动到选中文本的上一个出现</seg>
       </tuv>
     </tu>
     <tu>
@@ -11431,7 +11431,7 @@
         <seg>Repeat the last Find/Replace operation, or moving to next occurrence of selected text</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T061210Z">
-        <seg>重复上一次查找/替换操作，或移动到所选文本的下一个出现</seg>
+        <seg>重复上一次查找/替换操作，或移动到选中文本的下一个出现</seg>
       </tuv>
     </tu>
     <tu>
@@ -11511,7 +11511,7 @@
         <seg>Replace direct access to fields in the selected class with use of accessor methods</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T071123Z">
-        <seg>使用访问器方法替换所选类中的字段的直接访问</seg>
+        <seg>使用访问器方法替换选中类中的字段的直接访问</seg>
       </tuv>
     </tu>
     <tu>
@@ -11535,7 +11535,7 @@
         <seg>Replace selected expression with a constant (static final field)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T070847Z">
-        <seg>用常量（static final字段）替换选定的表达式</seg>
+        <seg>用常量（static final字段）替换选中表达式</seg>
       </tuv>
     </tu>
     <tu>
@@ -11543,7 +11543,7 @@
         <seg>Replace selected statements with a call to new functional method parameter</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T070926Z">
-        <seg>通过调用新的功能方法参数来替换所选语句</seg>
+        <seg>通过调用新的功能方法参数来替换选中语句</seg>
       </tuv>
     </tu>
     <tu>
@@ -11855,7 +11855,7 @@
         <seg>Revert selected changes</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T080017Z">
-        <seg>还原所选更改</seg>
+        <seg>还原选中更改</seg>
       </tuv>
     </tu>
     <tu>
@@ -11919,7 +11919,7 @@
         <seg>Rollback changes in selected lines</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T075211Z">
-        <seg>回滚更改所选行</seg>
+        <seg>回滚更改选中行</seg>
       </tuv>
     </tu>
     <tu>
@@ -11935,7 +11935,7 @@
         <seg>Run Annotation Processors on the selected scope</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T071526Z">
-        <seg>在所选范围内运行注释处理器</seg>
+        <seg>在选中范围内运行注释处理器</seg>
       </tuv>
     </tu>
     <tu>
@@ -12103,7 +12103,7 @@
         <seg>Safely unwraps or removes the selected scope</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T065159Z">
-        <seg>对选中的范围安全地解除包裹或删除</seg>
+        <seg>对选中范围安全地解除包裹或删除</seg>
       </tuv>
     </tu>
     <tu>
@@ -12223,7 +12223,7 @@
         <seg>Save the selected text as live template</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>将选定的文本保存为代码模板</seg>
+        <seg>将选中文本保存为代码模板</seg>
       </tuv>
     </tu>
     <tu>
@@ -12255,7 +12255,7 @@
         <seg>Schedule selected files to be removed from VCS</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T080433Z">
-        <seg>将所选文件从VCS移除</seg>
+        <seg>将选中文件从VCS移除</seg>
       </tuv>
     </tu>
     <tu>
@@ -12447,7 +12447,7 @@
         <seg>Search for values which can be assigned to selected expression</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T081435Z">
-        <seg>搜索可以分配给所选表达式的值</seg>
+        <seg>搜索可以分配给选中表达式的值</seg>
       </tuv>
     </tu>
     <tu>
@@ -12455,7 +12455,7 @@
         <seg>Search selection with Google</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>用Google搜索选定内容</seg>
+        <seg>用Google搜索选中内容</seg>
       </tuv>
     </tu>
     <tu>
@@ -13175,7 +13175,7 @@
         <seg>Show History for Selection</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T042315Z" creationid="Admin" creationdate="20170822T094300Z">
-        <seg>显示所选的历史</seg>
+        <seg>显示选中历史</seg>
       </tuv>
     </tu>
     <tu>
@@ -13511,7 +13511,7 @@
         <seg>Show all changes made in the chosen revision</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T080818Z">
-        <seg>显示所选修订中所做的所有更改</seg>
+        <seg>显示选中修订中所做的所有更改</seg>
       </tuv>
     </tu>
     <tu>
@@ -13535,7 +13535,7 @@
         <seg>Show call hierarchy for selected method</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>显示所选方法的调用层次结构</seg>
+        <seg>显示选中方法的调用层次结构</seg>
       </tuv>
     </tu>
     <tu>
@@ -13583,7 +13583,7 @@
         <seg>Show diff for selected change</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>显示选定更改的差异</seg>
+        <seg>显示选中更改的差异</seg>
       </tuv>
     </tu>
     <tu>
@@ -13647,7 +13647,7 @@
         <seg>Show hierarchy for method of selected class/interface</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>显示所选类/接口的方法的层次结构</seg>
+        <seg>显示选中类/接口的方法的层次结构</seg>
       </tuv>
     </tu>
     <tu>
@@ -13655,7 +13655,7 @@
         <seg>Show history for editor selection</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T042321Z">
-        <seg>显示编辑器所选的历史</seg>
+        <seg>显示编辑器选中历史</seg>
       </tuv>
     </tu>
     <tu>
@@ -13663,7 +13663,7 @@
         <seg>Show history for selected file revision</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T042308Z">
-        <seg>显示所选文件的修订历史</seg>
+        <seg>显示选中文件的修订历史</seg>
       </tuv>
     </tu>
     <tu>
@@ -13815,7 +13815,7 @@
         <seg>Show selected nodes with dependencies</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>显示所选节点的依赖</seg>
+        <seg>显示选中节点的依赖</seg>
       </tuv>
     </tu>
     <tu>
@@ -13847,7 +13847,7 @@
         <seg>Show type of the selected expression</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>显示所选表达式的类型</seg>
+        <seg>显示选中表达式的类型</seg>
       </tuv>
     </tu>
     <tu>
@@ -14519,7 +14519,7 @@
         <seg>Surround selected code fragment with if, while, try/catch or other construct</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T065100Z">
-        <seg>用if/while/try-catch或其他结构环绕选定的代码片段</seg>
+        <seg>用if/while/try-catch或其他结构环绕选中代码片段</seg>
       </tuv>
     </tu>
     <tu>
@@ -14663,7 +14663,7 @@
         <seg>Synchronize selected file</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170822T132223Z">
-        <seg>同步所选文件</seg>
+        <seg>同步选中文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -15463,7 +15463,7 @@
         <seg>Turn the selected code fragment into a method</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>把选中的代码片段转换为一个方法</seg>
+        <seg>把选中代码片段转换为一个方法</seg>
       </tuv>
     </tu>
     <tu>
@@ -15471,7 +15471,7 @@
         <seg>Turn the selected code fragment into included file</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T071324Z">
-        <seg>将所选代码片段转换为包含的文件</seg>
+        <seg>将选中代码片段转换为包含的文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -15479,7 +15479,7 @@
         <seg>Turn the selected expression into method parameter</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T070853Z">
-        <seg>将所选表达式转换为方法参数</seg>
+        <seg>将选中表达式转换为方法参数</seg>
       </tuv>
     </tu>
     <tu>
@@ -15487,7 +15487,7 @@
         <seg>Turn the selected variable into a method</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T071137Z">
-        <seg>将所选变量转换为方法</seg>
+        <seg>将选中变量转换为方法</seg>
       </tuv>
     </tu>
     <tu>
@@ -15623,7 +15623,7 @@
         <seg>Unindent Line or Selection</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170821T102212Z">
-        <seg>取消所选行或选中内容的缩进</seg>
+        <seg>取消选中行或选中内容的缩进</seg>
       </tuv>
     </tu>
     <tu>
@@ -16047,7 +16047,7 @@
         <seg>View complete information about the selected changelist</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>查看选定的变更列表的完整信息</seg>
+        <seg>查看选中变更列表的完整信息</seg>
       </tuv>
     </tu>
     <tu>
@@ -16071,7 +16071,7 @@
         <seg>View text value of selected node in a separate pane</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T074634Z">
-        <seg>在单独的窗格中查看所选节点的文本值</seg>
+        <seg>在单独的窗格中查看选中节点的文本值</seg>
       </tuv>
     </tu>
     <tu>
