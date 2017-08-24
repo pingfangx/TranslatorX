@@ -4877,7 +4877,7 @@
         <seg>Editor Tabs</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>编辑器标签</seg>
+        <seg>编辑器选项卡</seg>
       </tuv>
     </tu>
     <tu>
@@ -6861,7 +6861,7 @@
         <seg>Group Tabs</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T090831Z">
-        <seg>切换标签显示样式</seg>
+        <seg>切换选项卡显示样式</seg>
       </tuv>
     </tu>
     <tu>
@@ -9647,7 +9647,7 @@
         <seg>Open New Tabs At The End</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T092322Z" creationid="Admin" creationdate="20170822T084100Z">
-        <seg>打开的新标签放在最后</seg>
+        <seg>打开的新选项卡放在最后</seg>
       </tuv>
     </tu>
     <tu>
@@ -10151,7 +10151,7 @@
         <seg>Pin Active Tab</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170822T130658Z">
-        <seg>固定活动标签页</seg>
+        <seg>固定活动选项卡</seg>
       </tuv>
     </tu>
     <tu>
@@ -11407,7 +11407,7 @@
         <seg>Reopen Closed Tab</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T083819Z" creationid="Admin" creationdate="20170822T083819Z">
-        <seg>重新打开已关闭的标签</seg>
+        <seg>重新打开已关闭的选项卡</seg>
       </tuv>
     </tu>
     <tu>
@@ -13247,7 +13247,7 @@
         <seg>Show List of Tabs</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>显示标签页列表</seg>
+        <seg>显示选项卡列表</seg>
       </tuv>
     </tu>
     <tu>
@@ -13607,7 +13607,7 @@
         <seg>Show dropdown with the list of tabs that don't fit on the screen in single-row tab layout</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T092053Z">
-        <seg>使用下拉列表来展示在单行的标签布局中容纳不下的标签。</seg>
+        <seg>使用下拉列表来展示在单行的选项卡布局中容纳不下的选项卡。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14015,7 +14015,7 @@
         <seg>Sort Tabs By Filename</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T084048Z" creationid="Admin" creationdate="20170822T084048Z">
-        <seg>按文件名排序标签</seg>
+        <seg>按文件名排序选项卡</seg>
       </tuv>
     </tu>
     <tu>
@@ -14703,7 +14703,7 @@
         <seg>Tabbed Activity</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170822T132958Z" creationid="Administrator" creationdate="20170822T132958Z">
-        <seg>标签Activity</seg>
+        <seg>选项卡Activity</seg>
       </tuv>
     </tu>
     <tu>
@@ -14711,7 +14711,7 @@
         <seg>Tabs Placement</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T084021Z" creationid="Admin" creationdate="20170822T084021Z">
-        <seg>标签放置</seg>
+        <seg>选项卡放置</seg>
       </tuv>
     </tu>
     <tu>
@@ -14719,7 +14719,7 @@
         <seg>Tag</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T082556Z" creationid="Admin" creationdate="20170822T082556Z">
-        <seg>标签</seg>
+        <seg>选项卡</seg>
       </tuv>
     </tu>
     <tu>
