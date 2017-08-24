@@ -585,7 +585,7 @@
         <seg>Add or Remove Caret</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T043050Z">
-        <seg>添加或移除光标</seg>
+        <seg>添加或移除插入符号</seg>
       </tuv>
     </tu>
     <tu>
@@ -1877,7 +1877,7 @@
         <seg>Change under caret</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T065011Z">
-        <seg>修改光标处</seg>
+        <seg>修改插入符号处</seg>
       </tuv>
     </tu>
     <tu>
@@ -2229,7 +2229,7 @@
         <seg>Clone Caret Above</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170821T093612Z">
-        <seg>在上方克隆光标</seg>
+        <seg>在上方克隆插入符号</seg>
       </tuv>
     </tu>
     <tu>
@@ -2237,7 +2237,7 @@
         <seg>Clone Caret Below</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170821T093625Z">
-        <seg>在下方克隆光标</seg>
+        <seg>在下方克隆插入符号</seg>
       </tuv>
     </tu>
     <tu>
@@ -2573,7 +2573,7 @@
         <seg>Collapse block at caret recursively</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T063758Z">
-        <seg>在光标处递归折叠块</seg>
+        <seg>在插入符号处递归折叠块</seg>
       </tuv>
     </tu>
     <tu>
@@ -2589,7 +2589,7 @@
         <seg>Collapse folding region at caret</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>在光标处折叠可折叠区</seg>
+        <seg>在插入符号处折叠可折叠区</seg>
       </tuv>
     </tu>
     <tu>
@@ -3541,7 +3541,7 @@
         <seg>Copy the URL under caret to clipboard</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T060931Z">
-        <seg>将光标下的URL复制到剪贴板</seg>
+        <seg>将插入符号下的URL复制到剪贴板</seg>
       </tuv>
     </tu>
     <tu>
@@ -5421,7 +5421,7 @@
         <seg>Expand block at caret recursively</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T063703Z">
-        <seg>在光标处递归展开块</seg>
+        <seg>在插入符号处递归展开块</seg>
       </tuv>
     </tu>
     <tu>
@@ -5437,7 +5437,7 @@
         <seg>Expand folding region at caret</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T063740Z">
-        <seg>在光标处展开可折叠区域</seg>
+        <seg>在插入符号处展开可折叠区域</seg>
       </tuv>
     </tu>
     <tu>
@@ -5813,7 +5813,7 @@
         <seg>Find Word at Caret</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>查找光标处的字</seg>
+        <seg>查找插入符号处的字</seg>
       </tuv>
     </tu>
     <tu>
@@ -5877,7 +5877,7 @@
         <seg>Find next occurrence of the word at caret</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T061315Z">
-        <seg>找到光标处的字的下一个出现</seg>
+        <seg>找到插入符号处的字的下一个出现</seg>
       </tuv>
     </tu>
     <tu>
@@ -5893,7 +5893,7 @@
         <seg>Find usages of the symbol at caret</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T061359Z">
-        <seg>找到光标处符号的使用</seg>
+        <seg>找到插入符号处符号的使用</seg>
       </tuv>
     </tu>
     <tu>
@@ -5901,7 +5901,7 @@
         <seg>Find usages of the symbol at caret in active editor</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T061455Z">
-        <seg>在活动编辑器中查找光标处符号的使用</seg>
+        <seg>在活动编辑器中查找插入符号处符号的使用</seg>
       </tuv>
     </tu>
     <tu>
@@ -7021,7 +7021,7 @@
         <seg>Highlight usages of the symbol at caret in active editor</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T061551Z">
-        <seg>在活动编辑器中高亮显示光标处符号的使用</seg>
+        <seg>在活动编辑器中高亮显示插入符号处符号的使用</seg>
       </tuv>
     </tu>
     <tu>
@@ -7781,7 +7781,7 @@
         <seg>Jump to Colors and Fonts option at caret</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170822T125732Z" creationid="Administrator" creationdate="20170822T125732Z">
-        <seg>跳转到光标处的颜色和字体选项</seg>
+        <seg>跳转到插入符号处的颜色和字体选项</seg>
       </tuv>
     </tu>
     <tu>
@@ -8543,7 +8543,7 @@
         <seg>Move Caret Backward a Paragraph</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170821T091527Z" creationid="Admin" creationdate="20170821T091042Z">
-        <seg>光标向后移动一个段落</seg>
+        <seg>插入符号向后移动一个段落</seg>
       </tuv>
     </tu>
     <tu>
@@ -8551,7 +8551,7 @@
         <seg>Move Caret Forward a Paragraph</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170821T095612Z" creationid="Admin" creationdate="20170821T095612Z">
-        <seg>光标向前移动一个段落</seg>
+        <seg>插入符号向前移动一个段落</seg>
       </tuv>
     </tu>
     <tu>
@@ -8559,7 +8559,7 @@
         <seg>Move Caret to Code Block End</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>移动光标到代码块结尾处</seg>
+        <seg>移动插入符号到代码块结尾处</seg>
       </tuv>
     </tu>
     <tu>
@@ -8567,7 +8567,7 @@
         <seg>Move Caret to Code Block End with Selection</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>移动光标到代码块结尾处并选择</seg>
+        <seg>移动插入符号到代码块结尾处并选择</seg>
       </tuv>
     </tu>
     <tu>
@@ -8575,7 +8575,7 @@
         <seg>Move Caret to Code Block Start</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>移动光标到代码块开始处</seg>
+        <seg>移动插入符号到代码块开始处</seg>
       </tuv>
     </tu>
     <tu>
@@ -8583,7 +8583,7 @@
         <seg>Move Caret to Code Block Start with Selection</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>移动光标到代码块开始处并选择</seg>
+        <seg>移动插入符号到代码块开始处并选择</seg>
       </tuv>
     </tu>
     <tu>
@@ -8591,7 +8591,7 @@
         <seg>Move Caret to Line End</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>移动光标到行尾</seg>
+        <seg>移动插入符号到行尾</seg>
       </tuv>
     </tu>
     <tu>
@@ -8599,7 +8599,7 @@
         <seg>Move Caret to Line End with Selection</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>移动光标到行尾并选择</seg>
+        <seg>移动插入符号到行尾并选择</seg>
       </tuv>
     </tu>
     <tu>
@@ -8607,7 +8607,7 @@
         <seg>Move Caret to Line Start</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170821T100450Z">
-        <seg>移动光标到行首</seg>
+        <seg>移动插入符号到行首</seg>
       </tuv>
     </tu>
     <tu>
@@ -8615,7 +8615,7 @@
         <seg>Move Caret to Line Start with Selection</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>移动光标到行首并选择</seg>
+        <seg>移动插入符号到行首并选择</seg>
       </tuv>
     </tu>
     <tu>
@@ -8623,7 +8623,7 @@
         <seg>Move Caret to Matching Brace</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170821T100539Z">
-        <seg>移动光标到匹配的小括号</seg>
+        <seg>移动插入符号到匹配的小括号</seg>
       </tuv>
     </tu>
     <tu>
@@ -8631,7 +8631,7 @@
         <seg>Move Caret to Next Word</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>移动光标到下个单词</seg>
+        <seg>移动插入符号到下个单词</seg>
       </tuv>
     </tu>
     <tu>
@@ -8639,7 +8639,7 @@
         <seg>Move Caret to Next Word in Different "CamelHumps" Mode</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>在驼峰匹配模式中自动移动光标到下个单词</seg>
+        <seg>在驼峰匹配模式中自动移动插入符号到下个单词</seg>
       </tuv>
     </tu>
     <tu>
@@ -8647,7 +8647,7 @@
         <seg>Move Caret to Next Word with Selection</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>移动光标到下个单词并选择</seg>
+        <seg>移动插入符号到下个单词并选择</seg>
       </tuv>
     </tu>
     <tu>
@@ -8655,7 +8655,7 @@
         <seg>Move Caret to Next Word with Selection in Different "CamelHumps" Mode</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>在驼峰匹配模式中自动移动光标到下个单词并选择</seg>
+        <seg>在驼峰匹配模式中自动移动插入符号到下个单词并选择</seg>
       </tuv>
     </tu>
     <tu>
@@ -8663,7 +8663,7 @@
         <seg>Move Caret to Page Bottom</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>移动光标到页的底部</seg>
+        <seg>移动插入符号到页的底部</seg>
       </tuv>
     </tu>
     <tu>
@@ -8671,7 +8671,7 @@
         <seg>Move Caret to Page Bottom with Selection</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T042911Z">
-        <seg>移动光标到页的底部并选中</seg>
+        <seg>移动插入符号到页的底部并选中</seg>
       </tuv>
     </tu>
     <tu>
@@ -8679,7 +8679,7 @@
         <seg>Move Caret to Page Top</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>移动光标到页的顶部</seg>
+        <seg>移动插入符号到页的顶部</seg>
       </tuv>
     </tu>
     <tu>
@@ -8687,7 +8687,7 @@
         <seg>Move Caret to Page Top with Selection</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T042909Z">
-        <seg>移动光标到页的顶部并选中</seg>
+        <seg>移动插入符号到页的顶部并选中</seg>
       </tuv>
     </tu>
     <tu>
@@ -8695,7 +8695,7 @@
         <seg>Move Caret to Previous Word</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>移动光标到上个单词</seg>
+        <seg>移动插入符号到上个单词</seg>
       </tuv>
     </tu>
     <tu>
@@ -8703,7 +8703,7 @@
         <seg>Move Caret to Previous Word in Different "CamelHumps" Mode</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>在驼峰匹配模式中自动移动光标到上个单词</seg>
+        <seg>在驼峰匹配模式中自动移动插入符号到上个单词</seg>
       </tuv>
     </tu>
     <tu>
@@ -8711,7 +8711,7 @@
         <seg>Move Caret to Previous Word with Selection</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>移动光标到上个单词并选择</seg>
+        <seg>移动插入符号到上个单词并选择</seg>
       </tuv>
     </tu>
     <tu>
@@ -8719,7 +8719,7 @@
         <seg>Move Caret to Previous Word with Selection in Different "CamelHuml" Mode</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170821T100855Z" creationid="Admin" creationdate="20170821T100855Z">
-        <seg>在驼峰匹配模式中自动移动光标到上个单词并选择</seg>
+        <seg>在驼峰匹配模式中自动移动插入符号到上个单词并选择</seg>
       </tuv>
     </tu>
     <tu>
@@ -8727,7 +8727,7 @@
         <seg>Move Caret to Previous Word with Selection in Different "CamelHumps" Mode</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>在驼峰匹配模式中自动移动光标到上个单词并选择</seg>
+        <seg>在驼峰匹配模式中自动移动插入符号到上个单词并选择</seg>
       </tuv>
     </tu>
     <tu>
@@ -8735,7 +8735,7 @@
         <seg>Move Caret to Text End</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>移动光标到文本的末尾处</seg>
+        <seg>移动插入符号到文本的末尾处</seg>
       </tuv>
     </tu>
     <tu>
@@ -8743,7 +8743,7 @@
         <seg>Move Caret to Text End with Selection</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>移动光标到文本的末尾并选择</seg>
+        <seg>移动插入符号到文本的末尾并选择</seg>
       </tuv>
     </tu>
     <tu>
@@ -8751,7 +8751,7 @@
         <seg>Move Caret to Text Start</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>移动光标到文本的开始处</seg>
+        <seg>移动插入符号到文本的开始处</seg>
       </tuv>
     </tu>
     <tu>
@@ -8759,7 +8759,7 @@
         <seg>Move Caret to Text Start with Selection</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>移动光标到文本的开始并选择</seg>
+        <seg>移动插入符号到文本的开始并选择</seg>
       </tuv>
     </tu>
     <tu>
@@ -9167,7 +9167,7 @@
         <seg>Navigate to the declaration of the advice, error or warning declaration that affects a join point at caret</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T064624Z">
-        <seg>导航到在光标处影响连接点的建议，错误或警告声明的声明</seg>
+        <seg>导航到在插入符号处影响连接点的建议，错误或警告声明的声明</seg>
       </tuv>
     </tu>
     <tu>
@@ -9175,7 +9175,7 @@
         <seg>Navigate to the declaration of the symbol at caret</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T064206Z">
-        <seg>导航到光标处的符号的声明</seg>
+        <seg>导航到插入符号处的符号的声明</seg>
       </tuv>
     </tu>
     <tu>
@@ -9183,7 +9183,7 @@
         <seg>Navigate to the declaration of the symbol's type at caret</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T064321Z">
-        <seg>导航光标处到的符号类型的声明</seg>
+        <seg>导航插入符号处到的符号类型的声明</seg>
       </tuv>
     </tu>
     <tu>
@@ -9783,7 +9783,7 @@
         <seg>Open editor for the selected item and give focus to it</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T063254Z">
-        <seg>打开所选项目的编辑器并放置光标</seg>
+        <seg>打开所选项目的编辑器并放置焦点</seg>
       </tuv>
     </tu>
     <tu>
@@ -9791,7 +9791,7 @@
         <seg>Open editor for the selected item in new window and give focus to it</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T063336Z">
-        <seg>在新窗口打开所选项目的编辑器并放置光标</seg>
+        <seg>在新窗口打开所选项目的编辑器并放置焦点</seg>
       </tuv>
     </tu>
     <tu>
@@ -12047,7 +12047,7 @@
         <seg>Run to the line where the caret is</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>强制运行到光标所在行</seg>
+        <seg>强制运行到插入符号所在行</seg>
       </tuv>
     </tu>
     <tu>
@@ -12519,7 +12519,7 @@
         <seg>Select Line at Caret</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>选择光标所在行</seg>
+        <seg>选择插入符号所在行</seg>
       </tuv>
     </tu>
     <tu>
@@ -13479,7 +13479,7 @@
         <seg>Show a popup window with documentation for the symbol at caret</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T062141Z">
-        <seg>为光标处的符号弹窗显示一个文档</seg>
+        <seg>为插入符号处的符号弹窗显示一个文档</seg>
       </tuv>
     </tu>
     <tu>
@@ -13575,7 +13575,7 @@
         <seg>Show description of error or warning at caret</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T062936Z">
-        <seg>显示光标处的错误或警告说明</seg>
+        <seg>显示插入符号处的错误或警告说明</seg>
       </tuv>
     </tu>
     <tu>
@@ -13767,7 +13767,7 @@
         <seg>Show parameters of the method call at caret</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T062256Z">
-        <seg>显示光标处的方法的参数</seg>
+        <seg>显示插入符号处的方法的参数</seg>
       </tuv>
     </tu>
     <tu>
@@ -13863,7 +13863,7 @@
         <seg>Show usages of the symbol at caret</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T061411Z">
-        <seg>显示光标处符号的使用</seg>
+        <seg>显示插入符号处符号的使用</seg>
       </tuv>
     </tu>
     <tu>
@@ -15223,7 +15223,7 @@
         <seg>Toggle field watchpoint for the field at caret</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T072321Z">
-        <seg>为光标处的字段切换观察点</seg>
+        <seg>为插入符号处的字段切换观察点</seg>
       </tuv>
     </tu>
     <tu>
@@ -15239,7 +15239,7 @@
         <seg>Toggle line breakpoint at caret</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T072157Z">
-        <seg>在光标入切换线断点</seg>
+        <seg>在插入符号入切换线断点</seg>
       </tuv>
     </tu>
     <tu>
@@ -15247,7 +15247,7 @@
         <seg>Toggle method breakpoint for the method at caret</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T072226Z">
-        <seg>为光标处的方法切换方法断点</seg>
+        <seg>为插入符号处的方法切换方法断点</seg>
       </tuv>
     </tu>
     <tu>
@@ -15279,7 +15279,7 @@
         <seg>Toggle temporary line breakpoint at caret</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T072447Z">
-        <seg>在光标入临时切换线断点</seg>
+        <seg>在插入符号入临时切换线断点</seg>
       </tuv>
     </tu>
     <tu>
