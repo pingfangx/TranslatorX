@@ -5357,7 +5357,7 @@
         <seg>Expand Live Template / Emmet Abbreviation</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>展开活动模板/Emmet缩写</seg>
+        <seg>展开代码模板/Emmet缩写</seg>
       </tuv>
     </tu>
     <tu>
@@ -5365,7 +5365,7 @@
         <seg>Expand Live Template by Tab</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T065409Z">
-        <seg>按Tab展开活动模板</seg>
+        <seg>按Tab展开代码模板</seg>
       </tuv>
     </tu>
     <tu>
@@ -7501,7 +7501,7 @@
         <seg>Insert Live Template</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>插入活动模板</seg>
+        <seg>插入代码模板</seg>
       </tuv>
     </tu>
     <tu>
@@ -7661,7 +7661,7 @@
         <seg>Invoke the live template that bound to 'Custom shortcut' with the prefix typed in the editor</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T065554Z">
-        <seg>使用编辑器中键入的前缀调用绑定到“自定义快捷方式”的活动模板</seg>
+        <seg>使用编辑器中键入的前缀调用绑定到“自定义快捷方式”的代码模板</seg>
       </tuv>
     </tu>
     <tu>
@@ -12191,7 +12191,7 @@
         <seg>Save as Live Template</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>保存为活动模板</seg>
+        <seg>保存为代码模板</seg>
       </tuv>
     </tu>
     <tu>
@@ -12223,7 +12223,7 @@
         <seg>Save the selected text as live template</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>将选定的文本保存为活动模板</seg>
+        <seg>将选定的文本保存为代码模板</seg>
       </tuv>
     </tu>
     <tu>
@@ -13783,7 +13783,7 @@
         <seg>Show popup list of live templates starting with the specified prefix</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170824T065352Z">
-        <seg>弹出以指定前缀开头的活动模板列表</seg>
+        <seg>弹出以指定前缀开头的代码模板列表</seg>
       </tuv>
     </tu>
     <tu>
@@ -14535,7 +14535,7 @@
         <seg>Surround with Live Template</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170822T062759Z">
-        <seg>用活动模板环绕</seg>
+        <seg>用代码模板环绕</seg>
       </tuv>
     </tu>
     <tu>
