@@ -4092,32 +4092,32 @@
       <tuv lang="EN-US">
         <seg>Cyclic Expand Word</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>循环展开词</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170825T013849Z">
+        <seg>循环扩展词</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Cyclic Expand Word (Backward)</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>循环展开词(向后)</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170825T015734Z">
+        <seg>循环扩展词(向后)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Cyclic Expand word</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>循环展开词</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170825T013913Z">
+        <seg>循环扩展词</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Cyclic Expand word (Backward)</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>循环展开词(向后)</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170825T015737Z">
+        <seg>循环扩展词(向后)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6684,48 +6684,48 @@
       <tuv lang="EN-US">
         <seg>Go to Bookmark 4</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>转到收藏4</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170825T015933Z">
+        <seg>转到书签4</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Go to Bookmark 5</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>转到收藏5</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170825T015936Z">
+        <seg>转到书签5</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Go to Bookmark 6</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>转到收藏6</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170825T015940Z">
+        <seg>转到书签6</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Go to Bookmark 7</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>转到收藏7</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170825T015942Z">
+        <seg>转到书签7</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Go to Bookmark 8</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>转到收藏8</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170825T015945Z">
+        <seg>转到书签8</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Go to Bookmark 9</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>转到收藏9</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170825T015948Z">
+        <seg>转到书签9</seg>
       </tuv>
     </tu>
     <tu>
