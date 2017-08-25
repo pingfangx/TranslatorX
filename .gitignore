@@ -1,4 +1,4 @@
-# 备份文件
+﻿# 备份文件
 **/omegat/*.bak
 # 进入记录
 **/omegat/last_entry.properties
@@ -7,3 +7,7 @@
 **/omegat/project_stats_match.txt
 # 输出
 **/target/
+# 各记忆文件，只需要omegat/project_save.tmx即可
+**/*-level1.tmx
+**/*-level2.tmx
+**/*-omegat.tmx
