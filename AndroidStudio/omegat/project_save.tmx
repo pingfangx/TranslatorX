@@ -248,16 +248,16 @@
       <tuv lang="EN-US">
         <seg>&lt;s0&gt;&amp;shortcut:CommentByBlockComment;&lt;/s0&gt; encloses the selected block in a block comment (&lt;s1&gt;/*...*/&lt;/s1&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170827T001635Z" creationid="Administrator" creationdate="20170827T001605Z">
-        <seg>&lt;s0&gt;&amp;shortcut:CommentByBlockComment;&lt;/s0&gt; 用块注释 (&lt;s1&gt;/*...*/&lt;/s1&gt;)围住选中块。</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170830T101802Z" creationid="Administrator" creationdate="20170827T001605Z">
+        <seg>&lt;s0&gt;&amp;shortcut:CommentByBlockComment;&lt;/s0&gt; 用块注释 (&lt;s1&gt;/*...*/&lt;/s1&gt;)围住所选块。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>&lt;s0&gt;&amp;shortcut:CommentByLineComment;&lt;/s0&gt; comments or uncomments the current line or selected block with single line comments (&lt;s1&gt;//...&lt;/s1&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170827T001545Z" creationid="Administrator" creationdate="20170827T001545Z">
-        <seg>&lt;s0&gt;&amp;shortcut:CommentByLineComment;&lt;/s0&gt;使用单行注释(&lt;s1&gt;//...&lt;/s1&gt;)来注释或取消注释单前行或选中块。</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170830T101752Z" creationid="Administrator" creationdate="20170827T001545Z">
+        <seg>&lt;s0&gt;&amp;shortcut:CommentByLineComment;&lt;/s0&gt; 使用单行注释(&lt;s1&gt;//...&lt;/s1&gt;)来注释或取消注释单前行或选中块。</seg>
       </tuv>
     </tu>
     <tu>
@@ -272,8 +272,8 @@
       <tuv lang="EN-US">
         <seg>&lt;s0&gt;&amp;shortcut:EditorDuplicate;&lt;/s0&gt; in the editor duplicates the selected block or the current line when no block is selected.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170827T010550Z" creationid="Administrator" creationdate="20170827T010550Z">
-        <seg>&lt;s0&gt;&amp;shortcut:EditorDuplicate;&lt;/s0&gt; 可以在编辑器中重复所选块或当前行（如果没有块选中）。</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170830T102408Z" creationid="Administrator" creationdate="20170827T010550Z">
+        <seg>&lt;s0&gt;&amp;shortcut:EditorDuplicate;&lt;/s0&gt; 可以在编辑器中重复所选块（如果没有选中块则重复当前行）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -296,16 +296,16 @@
       <tuv lang="EN-US">
         <seg>&lt;s0&gt;&amp;shortcut:HideActiveWindow;&lt;/s0&gt; moves the focus to the editor and also hides the current (or last active) tool window.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170827T025411Z" creationid="Administrator" creationdate="20170827T025411Z">
-        <seg>&lt;s0&gt;&amp;shortcut:HideActiveWindow;&lt;/s0&gt; 将焦点移动到编辑器，同时也隐藏的（或上一次激活的）当前工具窗口。</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170830T100448Z" creationid="Administrator" creationdate="20170827T025411Z">
+        <seg>&lt;s0&gt;&amp;shortcut:HideActiveWindow;&lt;/s0&gt; 将焦点移动到编辑器，同时也隐藏当前的（或上一次激活的）工具窗口。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>&lt;s0&gt;&amp;shortcut:JumpToLastChange;&lt;/s0&gt; (&lt;s1&gt;Navigate | Last Edit Location&lt;/s1&gt;) brings you back to the last place where you made changes in the code.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170827T045741Z" creationid="Administrator" creationdate="20170827T045741Z">
-        <seg>&lt;s0&gt;&amp;shortcut:JumpToLastChange;&lt;/s0&gt; (&lt;s1&gt;Navigate | Last Edit Location&lt;/s1&gt;) 将你带回代码中你更改的上一个地方。</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170830T103106Z" creationid="Administrator" creationdate="20170827T045741Z">
+        <seg>&lt;s0&gt;&amp;shortcut:JumpToLastChange;&lt;/s0&gt; (&lt;s1&gt;Navigate | Last Edit Location&lt;/s1&gt;) 可以将你带回代码中你更改的上一个地方。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1720,8 +1720,8 @@
       <tuv lang="EN-US">
         <seg>Besides recent files, you can bring up results of the usage searches you have performed recently.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170827T071708Z" creationid="Administrator" creationdate="20170827T071708Z">
-        <seg>除了最近的文件，您可以找出最近执行的使用搜索结果。</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170830T103447Z" creationid="Administrator" creationdate="20170827T071708Z">
+        <seg>除了最近的文件，您还可以找出最近执行的使用搜索结果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5164,8 +5164,8 @@
       <tuv lang="EN-US">
         <seg>Did you know that you can close tabs in the editor and the tool windows of &amp;productName; without actually using the context menu commands?</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170827T090157Z" creationid="Administrator" creationdate="20170827T090157Z">
-        <seg>你知道吗？你可以关闭&amp;productName;的编辑器中的选项卡和工具窗口，而没有实际使用上下文菜单命令。</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170830T095924Z" creationid="Administrator" creationdate="20170827T090157Z">
+        <seg>你知道吗？你可以关闭&amp;productName;的编辑器中的选项卡和工具窗口，而不使用上下文菜单命令。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7100,8 +7100,8 @@
       <tuv lang="EN-US">
         <seg>For example, it may select a method name, then the expression that calls this method, then the whole statement, then the containing block, etc.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170827T011318Z" creationid="Administrator" creationdate="20170827T011318Z">
-        <seg>例如，它可以选择方法名称，然后选择调用此方法的表达式，然后整个语句，然后包含的块等。</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170830T101340Z" creationid="Administrator" creationdate="20170827T011318Z">
+        <seg>例如，它也许会选择方法名称，然后选择调用此方法的表达式，然后整个语句，然后包含语句的代码块等等。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8508,8 +8508,8 @@
       <tuv lang="EN-US">
         <seg>If you notice that &amp;productName; works slowly, consider the possibility to reduce the number of folders under antivirus protection.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170826T133812Z" creationid="Administrator" creationdate="20170826T133812Z">
-        <seg>如果你注意到 &amp;productName; 工作缓慢，考虑减少防病毒保护下的文件夹数量的可能性。</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170830T110534Z" creationid="Administrator" creationdate="20170826T133812Z">
+        <seg>如果你注意到 &amp;productName; 工作缓慢，考虑一下减少防病毒保护下的文件夹数量的可能性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12246,8 +12246,8 @@
       <tuv lang="EN-US">
         <seg>Press &lt;s0&gt;&amp;shortcut:EditorContextInfo;&lt;/s0&gt; (&lt;s1&gt;View | Context Info&lt;/s1&gt;) to see the declaration of the current method without the need to scroll to it.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170827T005116Z" creationid="Administrator" creationdate="20170827T005116Z">
-        <seg>按下 &lt;s0&gt;&amp;shortcut:EditorContextInfo;&lt;/s0&gt; (&lt;s1&gt;View | Context Info&lt;/s1&gt;) 查看当前方法的申明而不需要滚动到方法定义处。</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170830T103409Z" creationid="Administrator" creationdate="20170827T005116Z">
+        <seg>按下 &lt;s0&gt;&amp;shortcut:EditorContextInfo;&lt;/s0&gt; (&lt;s1&gt;View | Context Info&lt;/s1&gt;) 查看当前方法的申明而不需要滚动到方法声明处。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12286,8 +12286,8 @@
       <tuv lang="EN-US">
         <seg>Pressing &lt;s0&gt;&amp;shortcut:JumpToLastChange;&lt;/s0&gt; a few times moves you deeper into your changes history.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170827T045821Z" creationid="Administrator" creationdate="20170827T045821Z">
-        <seg>按 &lt;s0&gt;&amp;shortcut:JumpToLastChange;&lt;/s0&gt; 几次让你深入到你的更改历史。</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170830T103045Z" creationid="Administrator" creationdate="20170827T045821Z">
+        <seg>按 &lt;s0&gt;&amp;shortcut:JumpToLastChange;&lt;/s0&gt; 多次可以让你深入到你的更改历史中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14870,8 +14870,8 @@
       <tuv lang="EN-US">
         <seg>Select an element you want to navigate to and press the &lt;s0&gt;Enter&lt;/s0&gt; key or the &lt;s1&gt;&amp;shortcut:EditSource;&lt;/s1&gt; key.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170827T031504Z" creationid="Administrator" creationdate="20170827T031504Z">
-        <seg>选择一个你想到导航到的元素，然后按 &lt;s0&gt;Enter&lt;/s0&gt; 键 &lt;s1&gt;&amp;shortcut:EditSource;&lt;/s1&gt; 。</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170830T095023Z" creationid="Administrator" creationdate="20170827T031504Z">
+        <seg>选择一个你想到导航到的元素，然后按 &lt;s0&gt;Enter&lt;/s0&gt; 或 &lt;s1&gt;&amp;shortcut:EditSource;&lt;/s1&gt; 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16430,8 +16430,8 @@
       <tuv lang="EN-US">
         <seg>So doing, &lt;s0&gt;&amp;productName;&lt;/s0&gt; pinpoints the top five most suitable results and highlights them on the blue background.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170827T083456Z" creationid="Administrator" creationdate="20170827T083456Z">
-        <seg>这样做， &lt;s0&gt;&amp;productName;&lt;/s0&gt; 确定了前五名最适合的结果，并将它们突出显示在蓝色背景上。</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170830T095700Z" creationid="Administrator" creationdate="20170827T083456Z">
+        <seg>这样做的话， &lt;s0&gt;&amp;productName;&lt;/s0&gt; 会确定前五名最适合的结果，并将它们突出显示在蓝色背景上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17430,8 +17430,8 @@
       <tuv lang="EN-US">
         <seg>The &lt;s0&gt;&amp;shortcut:EditorEscape;&lt;/s0&gt; key in any tool window moves the focus to the editor.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170827T025317Z" creationid="Administrator" creationdate="20170827T025317Z">
-        <seg>在任何工具窗口，&lt;s0&gt;&amp;shortcut:EditorEscape;&lt;/s0&gt; 将焦点移动到编辑器。</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170830T100431Z" creationid="Administrator" creationdate="20170827T025317Z">
+        <seg>&lt;s0&gt;&amp;shortcut:EditorEscape;&lt;/s0&gt; 将焦点从任何工具窗口移动到编辑器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17446,8 +17446,8 @@
       <tuv lang="EN-US">
         <seg>The &lt;s0&gt;Code | Move Statement Up/Down&lt;/s0&gt; action is useful for reorganizing the code lines in your file, e.g., for bringing a variable declaration closer to variable usage.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170827T053140Z" creationid="Administrator" creationdate="20170827T053140Z">
-        <seg>&lt;s0&gt;Code | Move Statement Up/Down&lt;/s0&gt; 操作对在文件中组织代码行很有用，比如移动一个变量声明接近变量的使用。</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170830T110101Z" creationid="Administrator" creationdate="20170827T053140Z">
+        <seg>&lt;s0&gt;Code | Move Statement Up/Down&lt;/s0&gt; 操作对在文件中组织代码行很有用，比如移动一个变量声明使其接近变量的使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17470,8 +17470,8 @@
       <tuv lang="EN-US">
         <seg>The &lt;s0&gt;Version Control&lt;/s0&gt; tool window shows all deleted, modified, and unversioned files in a single view.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170826T135627Z" creationid="Administrator" creationdate="20170826T135627Z">
-        <seg>&lt;s0&gt;Version Control&lt;/s0&gt;工具窗口在一个视图中显示所有删除，修改和未加入版本控制的文件。</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170830T110416Z" creationid="Administrator" creationdate="20170826T135627Z">
+        <seg>&lt;s0&gt;Version Control&lt;/s0&gt;工具窗口在一个视图中显示所有删除、修改和未加入版本控制的文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17486,8 +17486,8 @@
       <tuv lang="EN-US">
         <seg>The Code Completion feature lets you quickly complete different kinds of statements in the code.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170826T143144Z" creationid="Administrator" creationdate="20170826T143144Z">
-        <seg>代码补全功能可以让您快速完成代码中不同类型的语句。</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170830T094327Z" creationid="Administrator" creationdate="20170826T143144Z">
+        <seg>代码补全功能可以让您快速补全代码中不同类型的语句。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17510,8 +17510,8 @@
       <tuv lang="EN-US">
         <seg>The SmartType code completion greatly helps to find methods and variables that are suitable in the current context, by analyzing the expected type of the whole expression.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170827T083420Z" creationid="Administrator" creationdate="20170827T083420Z">
-        <seg>通过分析整个表达式的预期类型，智能代码补全大大有助于查找在当前上下文中适用的方法和变量。</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170830T095756Z" creationid="Administrator" creationdate="20170827T083420Z">
+        <seg>通过分析整个表达式的预期类型，智能类型代码补全大大有助于查找在当前上下文中适用的方法和变量。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17526,8 +17526,8 @@
       <tuv lang="EN-US">
         <seg>The SmartType completion also works after the &lt;s0&gt;&lt;s1&gt;return&lt;/s1&gt;&lt;/s0&gt; keyword, in an assignment, in an argument list of a method call and other places.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170827T083717Z" creationid="Administrator" creationdate="20170827T083717Z">
-        <seg>智能类型补全也适用于 &lt;s0&gt;&lt;s1&gt;return&lt;/s1&gt;&lt;/s0&gt; 关键字之后，在变量申明处，方法调用的参数列表中以及其他地方。</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170830T095828Z" creationid="Administrator" creationdate="20170827T083717Z">
+        <seg>智能类型补全也适用于 &lt;s0&gt;&lt;s1&gt;return&lt;/s1&gt;&lt;/s0&gt; 关键字之后、变量申明处、方法调用的参数列表中以及其他地方。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17542,8 +17542,8 @@
       <tuv lang="EN-US">
         <seg>The catch blocks for all the exceptions thrown inside the block will be generated automatically.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170827T085807Z" creationid="Administrator" creationdate="20170827T085807Z">
-        <seg>块内部抛出的所有异常的catch块将自动生成。</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170830T100745Z" creationid="Administrator" creationdate="20170827T085807Z">
+        <seg>代码块内部抛出的所有异常的catch块将自动生成。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17646,16 +17646,16 @@
       <tuv lang="EN-US">
         <seg>The selected name is automatically entered in the editor followed by the entered character.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170827T024229Z" creationid="Administrator" creationdate="20170827T024229Z">
-        <seg>选择的名称将在编辑器中自动输入，并且后跟输入的符号。</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170830T104755Z" creationid="Administrator" creationdate="20170827T024229Z">
+        <seg>选择的名称将在编辑器中自动输入，并且后面加上所输入的符号。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The shortcuts such as &lt;s0&gt;&amp;shortcut:QuickJavaDoc;&lt;/s0&gt; (&lt;s1&gt;View | Quick Documentation&lt;/s1&gt;), &lt;s2&gt;&amp;shortcut:ParameterInfo;&lt;/s2&gt; (&lt;s3&gt;View | Parameter Info&lt;/s3&gt;), &lt;s4&gt;&amp;shortcut:GotoDeclaration;&lt;/s4&gt; (&lt;s5&gt;Navigate | Declaration&lt;/s5&gt;) and others can be used not only in the editor but in the code completion popup list as well.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170827T070348Z" creationid="Administrator" creationdate="20170827T070348Z">
-        <seg>快捷键如 &lt;s0&gt;&amp;shortcut:QuickJavaDoc;&lt;/s0&gt; (&lt;s1&gt;View | Quick Documentation&lt;/s1&gt;)， &lt;s2&gt;&amp;shortcut:ParameterInfo;&lt;/s2&gt; (&lt;s3&gt;View | Parameter Info&lt;/s3&gt;)， &lt;s4&gt;&amp;shortcut:GotoDeclaration;&lt;/s4&gt; (&lt;s5&gt;Navigate | Declaration&lt;/s5&gt;) 等，即可以用于编辑器，也可以用于弹窗中的代码补全。</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170830T104708Z" creationid="Administrator" creationdate="20170827T070348Z">
+        <seg>快捷键如 &lt;s0&gt;&amp;shortcut:QuickJavaDoc;&lt;/s0&gt; (&lt;s1&gt;View | Quick Documentation&lt;/s1&gt;) ， &lt;s2&gt;&amp;shortcut:ParameterInfo;&lt;/s2&gt; (&lt;s3&gt;View | Parameter Info&lt;/s3&gt;) ， &lt;s4&gt;&amp;shortcut:GotoDeclaration;&lt;/s4&gt; (&lt;s5&gt;Navigate | Declaration&lt;/s5&gt;) 等，即可以用于编辑器，也可以用于弹窗中的代码补全。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17750,8 +17750,8 @@
       <tuv lang="EN-US">
         <seg>This can be useful, for example, when you need to create a class which has much in common with some existing class and it's not feasible to put the shared functionality in a common superclass.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170827T005248Z" creationid="Administrator" creationdate="20170827T005248Z">
-        <seg>这是有用的，例如，当您需要创建一个与现有类有很多共同点的类，而将共享功能放在一个共同的超类中又是不可行的时。</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170830T104051Z" creationid="Administrator" creationdate="20170827T005248Z">
+        <seg>这有时是有用的，比如，当您需要创建一个与现有类有很多共同点的类，而将共享功能放在一个共同的超类中又是不可行的时候。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17846,8 +17846,8 @@
       <tuv lang="EN-US">
         <seg>To access the corresponding settings, use &lt;s1&gt;File | Settings | Code Style | Imports&lt;/s1&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170827T050112Z" creationid="Administrator" creationdate="20170827T050112Z">
-        <seg>要访问相应的设置，使用 &lt;s1&gt;File | Settings | Code Style | Imports&lt;/s1&gt;。</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170830T103237Z" creationid="Administrator" creationdate="20170827T050112Z">
+        <seg>要访问相应的设置，使用 &lt;s1&gt;File | Settings | Code Style | Imports&lt;/s1&gt; 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17950,8 +17950,8 @@
       <tuv lang="EN-US">
         <seg>To do that, use the same &lt;s0&gt;&amp;shortcut:RecentFiles;&lt;/s0&gt; shortcut with the &lt;s1&gt;Find&lt;/s1&gt; tool window having the focus, and select the desired find usages result from the &lt;s2&gt;Recent Find Usages&lt;/s2&gt; popup.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170827T071857Z" creationid="Administrator" creationdate="20170827T071857Z">
-        <seg>要做到这一点，当&lt;s1&gt;Find&lt;/s1&gt; 工具窗口有焦点时，使用相同的 &lt;s0&gt;&amp;shortcut:RecentFiles;&lt;/s0&gt; ，然后从 &lt;s2&gt;Recent Find Usages&lt;/s2&gt; 弹窗中选择所需的查找使用结果。</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170830T103610Z" creationid="Administrator" creationdate="20170827T071857Z">
+        <seg>要做到这一点，当&lt;s1&gt;Find&lt;/s1&gt; 工具窗口有焦点时，使用相同的 &lt;s0&gt;&amp;shortcut:RecentFiles;&lt;/s0&gt; ，然后从 &lt;s2&gt;Recent Find Usages&lt;/s2&gt; 弹窗中选择所需的使用查找结果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18006,8 +18006,8 @@
       <tuv lang="EN-US">
         <seg>To navigate to the declaration of a class, method or variable used somewhere in the code, position the caret at the usage and press &lt;s0&gt;&amp;shortcut:GotoDeclaration;&lt;/s0&gt; (&lt;s1&gt;Navigate | Declaration&lt;/s1&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170827T034626Z" creationid="Administrator" creationdate="20170827T034626Z">
-        <seg>要从类，方法或字段在代码中的使用处导航到定义处，将插入符号定位到使用处，按 &lt;s0&gt;&amp;shortcut:GotoDeclaration;&lt;/s0&gt; (&lt;s1&gt;Navigate | Declaration&lt;/s1&gt;)。</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170830T094733Z" creationid="Administrator" creationdate="20170827T034626Z">
+        <seg>要从类，方法或字段在代码中的使用处导航到定义处，请将插入符号定位到使用处，然后按 &lt;s0&gt;&amp;shortcut:GotoDeclaration;&lt;/s0&gt; (&lt;s1&gt;Navigate | Declaration&lt;/s1&gt;)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18054,8 +18054,8 @@
       <tuv lang="EN-US">
         <seg>To open your browser with documentation for the element at the editor's caret, press &lt;s0&gt;&amp;shortcut:ExternalJavaDoc;&lt;/s0&gt; (&lt;s1&gt;View | External Documentation&lt;/s1&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170827T030557Z" creationid="Administrator" creationdate="20170827T030557Z">
-        <seg>要在浏览器中打开插入符处的元素的文档，按 &lt;s0&gt;&amp;shortcut:ExternalJavaDoc;&lt;/s0&gt; (&lt;s1&gt;View | External Documentation&lt;/s1&gt;)。</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170830T101950Z" creationid="Administrator" creationdate="20170827T030557Z">
+        <seg>要在浏览器中打开插入符号处的元素的文档，按 &lt;s0&gt;&amp;shortcut:ExternalJavaDoc;&lt;/s0&gt; (&lt;s1&gt;View | External Documentation&lt;/s1&gt;)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18102,8 +18102,8 @@
       <tuv lang="EN-US">
         <seg>To quickly select the currently edited element (class, file, method or field) in any view (&lt;s0&gt;Project&lt;/s0&gt; view, &lt;s1&gt;Structure&lt;/s1&gt; view or other), press &lt;s2&gt;&amp;shortcut:SelectIn;&lt;/s2&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170827T082146Z" creationid="Administrator" creationdate="20170827T082146Z">
-        <seg>要在任何视图(&lt;s0&gt;Project&lt;/s0&gt; view, &lt;s1&gt;Structure&lt;/s1&gt; view or other)中选择当前编辑的元素（类，文件，方法或字段），按下 &lt;s2&gt;&amp;shortcut:SelectIn;&lt;/s2&gt;。</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170830T100313Z" creationid="Administrator" creationdate="20170827T082146Z">
+        <seg>要在任何视图(&lt;s0&gt;Project&lt;/s0&gt; 视图, &lt;s1&gt;Structure&lt;/s1&gt; 视图或其他)中选择当前编辑的元素（类，文件，方法或字段），请按 &lt;s2&gt;&amp;shortcut:SelectIn;&lt;/s2&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19254,16 +19254,16 @@
       <tuv lang="EN-US">
         <seg>Use &lt;s0&gt;&amp;shortcut:InsertLiveTemplate;&lt;/s0&gt; to complete any valid &lt;s1&gt;Live Template&lt;/s1&gt; abbreviation if you don't remember it.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170827T044709Z" creationid="Administrator" creationdate="20170827T044709Z">
-        <seg>使用 &lt;s0&gt;&amp;shortcut:InsertLiveTemplate;&lt;/s0&gt; 来补全任何有效的 &lt;s1&gt;Live Template&lt;/s1&gt; 缩写，如果你不记得的话。</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170830T103834Z" creationid="Administrator" creationdate="20170827T044709Z">
+        <seg>如果你不记得完整缩写的话，可以使用 &lt;s0&gt;&amp;shortcut:InsertLiveTemplate;&lt;/s0&gt; 来补全任何有效的 &lt;s1&gt;Live Template（代码模板）&lt;/s1&gt; 缩写。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Use &lt;s0&gt;&amp;shortcut:MethodUp;&lt;/s0&gt; and &lt;s1&gt;&amp;shortcut:MethodDown;&lt;/s1&gt; keys to quickly move between methods in the editor.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170827T052510Z" creationid="Administrator" creationdate="20170827T052510Z">
-        <seg>使用 &lt;s0&gt;&amp;shortcut:MethodUp;&lt;/s0&gt; 和 &lt;s1&gt;&amp;shortcut:MethodDown;&lt;/s1&gt; 在编辑器中的方法间快速移动。</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170830T103942Z" creationid="Administrator" creationdate="20170827T052510Z">
+        <seg>使用 &lt;s0&gt;&amp;shortcut:MethodUp;&lt;/s0&gt; 和 &lt;s1&gt;&amp;shortcut:MethodDown;&lt;/s1&gt; 可以在编辑器中的方法间快速移动。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19278,8 +19278,8 @@
       <tuv lang="EN-US">
         <seg>Use &lt;s0&gt;&amp;shortcut:QuickImplementations;&lt;/s0&gt; (&lt;s1&gt;View | Quick Definition&lt;/s1&gt;), to quickly review definition or content of the symbol at caret, without the need to open it in a new editor tab.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170827T010925Z" creationid="Administrator" creationdate="20170827T010925Z">
-        <seg>使用 &lt;s0&gt;&amp;shortcut:QuickImplementations;&lt;/s0&gt; (&lt;s1&gt;View | Quick Definition&lt;/s1&gt;)，可以快速查看插入符所在处的符号的定义或内容，而不需要在新的编辑器选项卡中打开它。</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170830T105932Z" creationid="Administrator" creationdate="20170827T010925Z">
+        <seg>使用 &lt;s0&gt;&amp;shortcut:QuickImplementations;&lt;/s0&gt; (&lt;s1&gt;View | Quick Definition&lt;/s1&gt;)，可以快速查看插入符所在处的符号的定义或内容，而无需在新的编辑器选项卡中打开它。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19318,16 +19318,16 @@
       <tuv lang="EN-US">
         <seg>Use &lt;s0&gt;Basic Completion&lt;/s0&gt; (&lt;s1&gt;&amp;shortcut:CodeCompletion;&lt;/s1&gt;) within HTML, CSS and other files, for completing image file names.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170827T044512Z" creationid="Administrator" creationdate="20170827T044512Z">
-        <seg>在 HTML， CSS 和其他文件中，使用&lt;s0&gt;Basic Completion&lt;/s0&gt; (&lt;s1&gt;&amp;shortcut:CodeCompletion;&lt;/s1&gt;)  来补全图片文件名。</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170830T105530Z" creationid="Administrator" creationdate="20170827T044512Z">
+        <seg>在 HTML， CSS 和其他文件中，使用&lt;s0&gt;Basic Completion（基本补全）&lt;/s0&gt; (&lt;s1&gt;&amp;shortcut:CodeCompletion;&lt;/s1&gt;)  来补全图片文件名。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Use &lt;s0&gt;Code | Reformat Code&lt;/s0&gt; to reformat code according to your code style preferences (&lt;s1&gt;File | Settings | Code Style&lt;/s1&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170827T050013Z" creationid="Administrator" creationdate="20170827T050013Z">
-        <seg>使用 &lt;s0&gt;Code | Reformat Code&lt;/s0&gt; 来根据你的代码风格(&lt;s1&gt;File | Settings | Code Style&lt;/s1&gt;)格式化代码。</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170830T103221Z" creationid="Administrator" creationdate="20170827T050013Z">
+        <seg>使用 &lt;s0&gt;Code | Reformat Code&lt;/s0&gt; 来根据你的代码风格(&lt;s1&gt;File | Settings | Code Style&lt;/s1&gt;) 格式化代码。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19342,8 +19342,8 @@
       <tuv lang="EN-US">
         <seg>Use &lt;s1&gt;&amp;shortcut:ActivateChangesToolWindow;&lt;/s1&gt; keyboard shortcut to show or hide this tool window.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170826T135703Z" creationid="Administrator" creationdate="20170826T135703Z">
-        <seg>使用&lt;s1&gt;&amp;shortcut:ActivateChangesToolWindow;&lt;/s1&gt; 来显示或隐藏该工具窗口。</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170830T110500Z" creationid="Admin" creationdate="20170830T110500Z">
+        <seg>使用 &lt;s1&gt;&amp;shortcut:ActivateChangesToolWindow;&lt;/s1&gt; 来显示或隐藏该工具窗口。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19446,8 +19446,8 @@
       <tuv lang="EN-US">
         <seg>Use the same context menu item to see the history of changes on a directory.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170827T051920Z" creationid="Administrator" creationdate="20170827T051920Z">
-        <seg>使用相同的上下文菜单项来查看目录上的更改历史记录。</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170830T103315Z" creationid="Administrator" creationdate="20170827T051920Z">
+        <seg>使用相同的上下文菜单项来还可查看目录上的更改历史记录。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19902,8 +19902,8 @@
       <tuv lang="EN-US">
         <seg>When nothing is selected in the editor, the line at the cursor will be moved.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170827T053312Z" creationid="Administrator" creationdate="20170827T053312Z">
-        <seg>当编辑器中没有选择任何内容时，光标上的行将被移动。</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170830T110214Z" creationid="Administrator" creationdate="20170827T053312Z">
+        <seg>当编辑器中没有选择任何内容时，光标上处行将被移动。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20086,8 +20086,8 @@
       <tuv lang="EN-US">
         <seg>When you want to catch exceptions thrown by some code fragment, select it in the editor, press &lt;s0&gt;&amp;shortcut:SurroundWith;&lt;/s0&gt; (&lt;s1&gt;Code | Surround With&lt;/s1&gt;) and choose &lt;s2&gt;try / catch&lt;/s2&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170827T085754Z" creationid="Administrator" creationdate="20170827T085754Z">
-        <seg>当你想要捕获一些代码片段抛出的异常时，在编辑器中选择，然后按下 &lt;s0&gt;&amp;shortcut:SurroundWith;&lt;/s0&gt; (&lt;s1&gt;Code | Surround With&lt;/s1&gt;) 并选择 &lt;s2&gt;try / catch&lt;/s2&gt;。</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170830T100719Z" creationid="Administrator" creationdate="20170827T085754Z">
+        <seg>当你想要捕获一些代码片段内抛出的异常时，在编辑器中选择，然后按下 &lt;s0&gt;&amp;shortcut:SurroundWith;&lt;/s0&gt; (&lt;s1&gt;Code | Surround With&lt;/s1&gt;) 并选择 &lt;s2&gt;try / catch&lt;/s2&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20142,8 +20142,8 @@
       <tuv lang="EN-US">
         <seg>With a single keystroke, you can apply another code style/coloring scheme or keymap right from the editor.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170827T070744Z" creationid="Administrator" creationdate="20170827T070744Z">
-        <seg>通过单次击键，您可以从编辑器中应用另一种代码样式/着色方案或键盘映射。</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170830T105653Z" creationid="Administrator" creationdate="20170827T070744Z">
+        <seg>通过单次击键，您就可以从编辑器中应用另一种代码样式/颜色方案或快捷键设置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20222,8 +20222,8 @@
       <tuv lang="EN-US">
         <seg>You can also click the mouse on usages with the &lt;s2&gt;Ctrl&lt;/s2&gt; key pressed to jump to declarations.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170827T034755Z" creationid="Administrator" creationdate="20170827T034755Z">
-        <seg>你也可以按住 &lt;s2&gt;Ctrl&lt;/s2&gt; 键，在使用处点击鼠标，跳转到申明处。</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170830T094804Z" creationid="Administrator" creationdate="20170827T034755Z">
+        <seg>你也可以按住 &lt;s2&gt;Ctrl&lt;/s2&gt; 键，在使用处点击鼠标，即可跳转到定义处。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20302,8 +20302,8 @@
       <tuv lang="EN-US">
         <seg>You can comment or uncomment lines and blocks of code using &lt;s0&gt;&amp;shortcut:CommentByLineComment;&lt;/s0&gt; and &lt;s1&gt;&amp;shortcut:CommentByBlockComment;&lt;/s1&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170827T001214Z" creationid="Administrator" creationdate="20170827T001214Z">
-        <seg>你可以使用&lt;s0&gt;&amp;shortcut:CommentByLineComment;&lt;/s0&gt; 和 &lt;s1&gt;&amp;shortcut:CommentByBlockComment;&lt;/s1&gt;来注释/取消注释行或代码块。</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170830T101730Z" creationid="Administrator" creationdate="20170827T001214Z">
+        <seg>你可以使用 &lt;s0&gt;&amp;shortcut:CommentByLineComment;&lt;/s0&gt; 和 &lt;s1&gt;&amp;shortcut:CommentByBlockComment;&lt;/s1&gt; 来注释/取消注释行或代码块。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20326,16 +20326,16 @@
       <tuv lang="EN-US">
         <seg>You can customize name prefixes for local variables, parameters, instance and static fields in &lt;s0&gt;File | Settings | Code Style&lt;/s0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170827T100016Z" creationid="Administrator" creationdate="20170827T100016Z">
-        <seg>你可以在&lt;s0&gt;File | Settings | Code Style&lt;/s0&gt;中为局部变量，参数，实例和静态字段自定义前缀。</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170830T102905Z" creationid="Administrator" creationdate="20170827T100016Z">
+        <seg>你可以在 &lt;s0&gt;File | Settings | Code Style&lt;/s0&gt; 中为局部变量，参数，实例和静态字段自定义前缀。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>You can customize the bodies of the generated catch blocks on the &lt;s0&gt;Code&lt;/s0&gt; tab of &lt;s1&gt;File | Settings | File and Code Templates&lt;/s1&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170827T085854Z" creationid="Administrator" creationdate="20170827T085854Z">
-        <seg>你可以在 &lt;s1&gt;File | Settings | File and Code Templates&lt;/s1&gt;的 &lt;s0&gt;Code&lt;/s0&gt;选项卡自定义生成的catch块的主体。</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170830T100832Z" creationid="Administrator" creationdate="20170827T085854Z">
+        <seg>你可以在 &lt;s1&gt;File | Settings | File and Code Templates&lt;/s1&gt; 的 &lt;s0&gt;Code&lt;/s0&gt; 选项卡自定义生成的catch块的主体。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20422,8 +20422,8 @@
       <tuv lang="EN-US">
         <seg>You can open any file in your project in a similar way by using &lt;s0&gt;&amp;shortcut:GotoFile;&lt;/s0&gt; (&lt;s1&gt;Navigate | File&lt;/s1&gt;)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170827T034149Z" creationid="Administrator" creationdate="20170827T034149Z">
-        <seg>你可以用相似的方法，使用 &lt;s0&gt;&amp;shortcut:GotoFile;&lt;/s0&gt; (&lt;s1&gt;Navigate | File&lt;/s1&gt;)打开项目中的任何文件。</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170830T094233Z" creationid="Administrator" creationdate="20170827T034149Z">
+        <seg>你可以用类似的方法，使用 &lt;s0&gt;&amp;shortcut:GotoFile;&lt;/s0&gt; (&lt;s1&gt;Navigate | File&lt;/s1&gt;)打开项目中的任何文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20438,8 +20438,8 @@
       <tuv lang="EN-US">
         <seg>You can quickly find all places where a particular class, method or variable is used in the whole project by positioning the caret at the symbol's name or at its usage in code and pressing &lt;s0&gt;&amp;shortcut:FindUsages;&lt;/s0&gt; (&lt;s1&gt;Edit | Find | Find Usages&lt;/s1&gt; in the popup menu).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170827T032213Z" creationid="Administrator" creationdate="20170827T032213Z">
-        <seg>你可以很快地找到特定类，方法或字段在整个项目中的所有使用，只需将插入符号定位于是符号名字或代码中的使用处，然后按 &lt;s0&gt;&amp;shortcut:FindUsages;&lt;/s0&gt; (&lt;s1&gt;Edit | Find | Find Usages&lt;/s1&gt; )。</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170830T094544Z" creationid="Administrator" creationdate="20170827T032213Z">
+        <seg>你可以很快地找到特定类，方法或变量在整个项目中的所有使用，只需将插入符号定位于符号的名字处或代码中的使用处，然后按 &lt;s0&gt;&amp;shortcut:FindUsages;&lt;/s0&gt; (&lt;s1&gt;Edit | Find | Find Usages&lt;/s1&gt; )。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20454,16 +20454,16 @@
       <tuv lang="EN-US">
         <seg>You can quickly get familiar with the main features of the IDE by reading these tips.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170827T100400Z" creationid="Administrator" creationdate="20170827T100400Z">
-        <seg>您可以通过阅读这些技巧快速了解IDE的主要功能。</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170830T094029Z" creationid="Administrator" creationdate="20170827T100400Z">
+        <seg>您可以通过阅读这些技巧来快速了解IDE的主要功能。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>You can quickly navigate in the currently edited file with &lt;s0&gt;&amp;shortcut:FileStructurePopup;&lt;/s0&gt; (&lt;s1&gt;Navigate | File Structure&lt;/s1&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170827T031308Z" creationid="Administrator" creationdate="20170827T031308Z">
-        <seg>你可以快速导航到当前编辑的文件，通过 &lt;s0&gt;&amp;shortcut:FileStructurePopup;&lt;/s0&gt; (&lt;s1&gt;Navigate | File Structure&lt;/s1&gt;)。</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170830T094946Z" creationid="Administrator" creationdate="20170827T031308Z">
+        <seg>通过 &lt;s0&gt;&amp;shortcut:FileStructurePopup;&lt;/s0&gt; (&lt;s1&gt;Navigate | File Structure&lt;/s1&gt;)，你可以在当前编辑的文件快速导航。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20638,8 +20638,8 @@
       <tuv lang="EN-US">
         <seg>You may try out the features described in the tips while this dialog stays open on the screen.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170827T100415Z" creationid="Administrator" creationdate="20170827T100415Z">
-        <seg>当对话框在屏幕上保持打开状态时，您可以尝试提示中描述的功能。</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170830T094051Z" creationid="Administrator" creationdate="20170827T100415Z">
+        <seg>当对话框在屏幕上保持打开状态时，您也可以尝试提示中描述的功能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20750,8 +20750,8 @@
       <tuv lang="EN-US">
         <seg>and press &lt;s0&gt;&amp;shortcut:CodeCompletion;&lt;/s0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170827T095804Z" creationid="Administrator" creationdate="20170827T095804Z">
-        <seg>然后按下 &lt;s0&gt;&amp;shortcut:CodeCompletion;&lt;/s0&gt;。</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170830T102846Z" creationid="Administrator" creationdate="20170827T095804Z">
+        <seg>然后按下 &lt;s0&gt;&amp;shortcut:CodeCompletion;&lt;/s0&gt; 。</seg>
       </tuv>
     </tu>
     <tu>
