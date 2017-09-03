@@ -20940,6 +20940,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>commit ctrl K</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170903T021313Z" creationid="Administrator" creationdate="20170903T021313Z">
+        <seg>提交更改</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>commit ctrl k</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170831T093230Z" creationid="Admin" creationdate="20170831T093230Z">
@@ -21060,6 +21068,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ctrl D</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170903T021240Z" creationid="Administrator" creationdate="20170903T021240Z">
+        <seg>重复行或块</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ctrl W</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170903T021236Z" creationid="Administrator" creationdate="20170903T021236Z">
+        <seg>扩展选择</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ctrl d</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170831T092304Z" creationid="Admin" creationdate="20170831T091514Z">
@@ -21072,6 +21096,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170831T094617Z" creationid="Admin" creationdate="20170831T094617Z">
         <seg>在查找列表中按Ctrl+点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ctrl shift I</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170903T021303Z" creationid="Administrator" creationdate="20170903T021303Z">
+        <seg>快速定义</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ctrl shift I for lookup</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170903T021309Z" creationid="Administrator" creationdate="20170903T021309Z">
+        <seg>查找列表中查看定义</seg>
       </tuv>
     </tu>
     <tu>
@@ -21208,6 +21248,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170831T091417Z" creationid="Admin" creationdate="20170831T091417Z">
         <seg>外部 java 文档</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>favorites tool window 1</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170903T021334Z" creationid="Administrator" creationdate="20170903T021334Z">
+        <seg>收藏夹工具窗口1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>favorites tool window 2</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170903T021339Z" creationid="Administrator" creationdate="20170903T021339Z">
+        <seg>收藏夹工具窗口2</seg>
       </tuv>
     </tu>
     <tu>
@@ -22636,6 +22692,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>local VCS</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170903T021258Z" creationid="Administrator" creationdate="20170903T021258Z">
+        <seg>本地VCS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>local v c s</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170831T091628Z" creationid="Admin" creationdate="20170831T091628Z">
@@ -22724,10 +22788,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>multicursor 1</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170903T021350Z" creationid="Administrator" creationdate="20170903T021350Z">
+        <seg>多个光标1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>multicursor1</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170831T095141Z" creationid="Admin" creationdate="20170831T095141Z">
         <seg>多个光标1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>multiselection 1</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170903T021355Z" creationid="Administrator" creationdate="20170903T021355Z">
+        <seg>多选1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>multiselection 2</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170903T021358Z" creationid="Administrator" creationdate="20170903T021358Z">
+        <seg>多选2</seg>
       </tuv>
     </tu>
     <tu>
@@ -22800,6 +22888,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170831T095013Z" creationid="Admin" creationdate="20170831T095013Z">
         <seg>后缀完成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>preview TODO</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170903T021325Z" creationid="Administrator" creationdate="20170903T021325Z">
+        <seg>预览TODO</seg>
       </tuv>
     </tu>
     <tu>
@@ -22976,6 +23072,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170831T093831Z" creationid="Admin" creationdate="20170831T093831Z">
         <seg>分组运行配置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>scopes in TODO</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170903T021319Z" creationid="Administrator" creationdate="20170903T021319Z">
+        <seg>TODO 中的范围</seg>
       </tuv>
     </tu>
     <tu>
