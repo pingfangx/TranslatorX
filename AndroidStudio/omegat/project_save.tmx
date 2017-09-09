@@ -462,6 +462,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a href="{1}"&gt;Show in {2}&lt;/a&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102412Z" creationid="Administrator" creationdate="20170909T102412Z">
+        <seg>&lt;a href="{1}"&gt;在 {2} 中显示&lt;/a&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;all other imports&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T053857Z" creationid="Administrator" creationdate="20170909T053857Z">
@@ -774,6 +782,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;html&gt;You have JVM property "{0}" set to "{1}".&lt;br&gt;This may lead to incorrect behaviour.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T103025Z" creationid="Administrator" creationdate="20170909T103025Z">
+        <seg>&lt;html&gt;你的 JVM 属性 "{0}" 设置为 "{1}" 。&lt;br&gt;这可能导致不正确的行为。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;You have JVM property 'java.net.useSystemProxies' set to true.&lt;br&gt;This will cause some network calls to go through operating system-defined proxy.&lt;br&gt;If you didn't intend to use system-defined proxy, disable this property</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102849Z" creationid="Administrator" creationdate="20170909T102737Z">
+        <seg>&lt;html&gt;你的 JVM 属性 'java.net.useSystemProxies' 设置为 true。&lt;br&gt;该参数将使部分网络操作使用系统代理设置。&lt;br&gt;如果您不想使用系统代理设置, 请禁用该属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;no attributes&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T085604Z" creationid="Administrator" creationdate="20170909T085604Z">
@@ -882,6 +906,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T084252Z" creationid="Administrator" creationdate="20170909T084252Z">
         <seg>接受子类作为equals()方法的参数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Access is denied</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T101940Z" creationid="Administrator" creationdate="20170909T101940Z">
+        <seg>访问被拒绝</seg>
       </tuv>
     </tu>
     <tu>
@@ -1694,6 +1726,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An attempt was made to load a program with an incorrect format</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102050Z" creationid="Administrator" creationdate="20170909T102050Z">
+        <seg>试图使用不正确的格式加载程序</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Analysing font: {0}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T070822Z" creationid="Administrator" creationdate="20170909T070822Z">
@@ -2446,6 +2486,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Auto-detect proxy settings</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T101328Z" creationid="Administrator" creationdate="20170909T101328Z">
+        <seg>自动检测代理设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Auto-insert when only one choice on:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T052820Z" creationid="Administrator" creationdate="20170909T052820Z">
@@ -2458,6 +2506,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T052836Z" creationid="Administrator" creationdate="20170909T052836Z">
         <seg>自动补全常见的前缀</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Automatic proxy configuration URL:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T103244Z" creationid="Administrator" creationdate="20170909T103237Z">
+        <seg>自动代理配置URL：</seg>
       </tuv>
     </tu>
     <tu>
@@ -2870,6 +2926,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Broken link</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102730Z" creationid="Administrator" creationdate="20170909T102730Z">
+        <seg>无效连接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Browse</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T042235Z" creationid="Administrator" creationdate="20170909T042235Z">
@@ -3198,6 +3262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cannot Redo</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102502Z" creationid="Administrator" creationdate="20170909T102447Z">
+        <seg>无法重复</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cannot Run ANT</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051427Z" creationid="Administrator" creationdate="20170909T051427Z">
@@ -3210,6 +3282,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T093623Z" creationid="Administrator" creationdate="20170909T093623Z">
         <seg>无法保存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot Undo</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102422Z" creationid="Administrator" creationdate="20170909T102422Z">
+        <seg>无法撤销</seg>
       </tuv>
     </tu>
     <tu>
@@ -3248,6 +3328,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cannot create directory {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T101459Z" creationid="Administrator" creationdate="20170909T101459Z">
+        <seg>无法创建目录{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot delete temporary file {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102725Z" creationid="Administrator" creationdate="20170909T102725Z">
+        <seg>无法删除临时文件{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cannot fetch remote documentation: internal error</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T092638Z" creationid="Administrator" creationdate="20170909T092638Z">
@@ -3260,6 +3356,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T083426Z" creationid="Administrator" creationdate="20170909T083426Z">
         <seg>不能生成 equals() 和 hashCode()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot redo</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102543Z" creationid="Administrator" creationdate="20170909T102543Z">
+        <seg>无法重复</seg>
       </tuv>
     </tu>
     <tu>
@@ -3304,10 +3408,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cannot save {0}.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102630Z" creationid="Administrator" creationdate="20170909T102630Z">
+        <seg>无法保存{0}。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cannot start {0}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051101Z" creationid="Administrator" creationdate="20170909T051101Z">
         <seg>不能开始 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot undo</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102536Z" creationid="Administrator" creationdate="20170909T102536Z">
+        <seg>无法撤销</seg>
       </tuv>
     </tu>
     <tu>
@@ -3356,6 +3476,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T024920Z" creationid="Administrator" creationdate="20170909T024920Z">
         <seg>捕获内存快照</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Captured snapshot ''{0}'' is placed in user home directory.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102401Z" creationid="Administrator" creationdate="20170909T102401Z">
+        <seg>捕获的快照“{0}”被放置在用户主目录中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Capturing Memory Snapshot</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102344Z" creationid="Administrator" creationdate="20170909T102344Z">
+        <seg>捕捉内存快照</seg>
       </tuv>
     </tu>
     <tu>
@@ -3744,6 +3880,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose Date</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T101242Z" creationid="Administrator" creationdate="20170909T101242Z">
+        <seg>选择日期</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose Declaration</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T093227Z" creationid="Administrator" creationdate="20170909T093227Z">
@@ -4084,6 +4228,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051800Z" creationid="Administrator" creationdate="20170909T051800Z">
         <seg>类路径:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clear passwords</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102900Z" creationid="Administrator" creationdate="20170909T102900Z">
+        <seg>清除密码</seg>
       </tuv>
     </tu>
     <tu>
@@ -4920,6 +5072,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Compressing Memory Snapshot</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102346Z" creationid="Administrator" creationdate="20170909T102346Z">
+        <seg>压缩内存快照</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Config Folder or Installation Home Required</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T052408Z" creationid="Administrator" creationdate="20170909T052408Z">
@@ -5100,6 +5260,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T065439Z" creationid="Administrator" creationdate="20170909T065439Z">
         <seg>连续缩进：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Continue</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T101425Z" creationid="Administrator" creationdate="20170909T101425Z">
+        <seg>继续</seg>
       </tuv>
     </tu>
     <tu>
@@ -5960,6 +6128,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Data error (cyclic redundancy check)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102227Z" creationid="Administrator" creationdate="20170909T102227Z">
+        <seg>数据错误 (循环冗余检查)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Deannotate</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T100009Z" creationid="Administrator" creationdate="20170909T100009Z">
@@ -6440,6 +6616,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Directory is invalid {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T101510Z" creationid="Administrator" creationdate="20170909T101510Z">
+        <seg>目录无效{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Directory is not readable {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T101506Z" creationid="Administrator" creationdate="20170909T101506Z">
+        <seg>目录不可读{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Directory/Package</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T030213Z" creationid="Administrator" creationdate="20170909T030213Z">
@@ -6508,6 +6700,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T041230Z" creationid="Administrator" creationdate="20170909T041230Z">
         <seg>不将选中文件显示为未加入版本控制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do not show this dialog in the future</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T101226Z" creationid="Administrator" creationdate="20170909T101226Z">
+        <seg>以后不再显示这个对话框</seg>
       </tuv>
     </tu>
     <tu>
@@ -6678,6 +6878,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T033430Z" creationid="Administrator" creationdate="20170909T033430Z">
         <seg>丢帧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dummy</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102529Z" creationid="Administrator" creationdate="20170909T102529Z">
+        <seg>虚拟的</seg>
       </tuv>
     </tu>
     <tu>
@@ -6894,6 +7102,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T035031Z" creationid="Administrator" creationdate="20170909T035031Z">
         <seg>编辑观察点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit application preferences</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T101539Z" creationid="Administrator" creationdate="20170909T101539Z">
+        <seg>编辑应用程序首选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit application settings</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T101538Z" creationid="Administrator" creationdate="20170909T101538Z">
+        <seg>编辑应用程序设置</seg>
       </tuv>
     </tu>
     <tu>
@@ -7322,6 +7546,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Error reading color scheme from {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102553Z" creationid="Administrator" creationdate="20170909T102553Z">
+        <seg>从{0}读取颜色方案时出错</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Error stripe mark</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T070731Z" creationid="Administrator" creationdate="20170909T070731Z">
@@ -7382,6 +7614,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T033454Z" creationid="Administrator" creationdate="20170909T033454Z">
         <seg>计算选中表达式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example: *.domain.com, 192.168.*</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T103233Z" creationid="Administrator" creationdate="20170909T103224Z">
+        <seg>便如: *.domain.com, 192.168.*</seg>
       </tuv>
     </tu>
     <tu>
@@ -7922,10 +8162,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Failed to capture snapshot: {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102419Z" creationid="Administrator" creationdate="20170909T102419Z">
+        <seg>无法捕获快照：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Failed to load type(s)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T052134Z" creationid="Administrator" creationdate="20170909T052134Z">
         <seg>未能加载类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to make the following files writable:{0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102326Z" creationid="Administrator" creationdate="20170909T102326Z">
+        <seg>未能将下列文件改为可写: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to make {0} writeable</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102332Z" creationid="Administrator" creationdate="20170909T102332Z">
+        <seg>未能将文件改为可写: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -8126,6 +8390,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T082719Z" creationid="Administrator" creationdate="20170909T082719Z">
         <seg>文件{0}是只读的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File | Settings</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T101547Z" creationid="Administrator" creationdate="20170909T101547Z">
+        <seg>文件 | 设置</seg>
       </tuv>
     </tu>
     <tu>
@@ -8502,6 +8774,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T083137Z" creationid="Administrator" creationdate="20170909T083137Z">
         <seg>折叠数据</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Following files affected by this action have been already changed:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102429Z" creationid="Administrator" creationdate="20170909T102429Z">
+        <seg>受此操作影响的以下文件已更改：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Following files have changes that cannot be undone:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102434Z" creationid="Administrator" creationdate="20170909T102434Z">
+        <seg>以下文件有无法撤消的更改：</seg>
       </tuv>
     </tu>
     <tu>
@@ -9244,6 +9532,22 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>HTTP</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102857Z" creationid="Administrator" creationdate="20170909T102857Z">
+        <seg>HTTP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HTTP Proxy Settings</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T101422Z" creationid="Administrator" creationdate="20170909T101422Z">
+        <seg>HTTP代理设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hard coded string literal: {0}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T090433Z" creationid="Administrator" creationdate="20170909T090433Z">
@@ -9476,6 +9780,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Host name:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T101419Z" creationid="Administrator" creationdate="20170909T101419Z">
+        <seg>主机名:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hungry Backspace</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T025507Z" creationid="Administrator" creationdate="20170909T025507Z">
@@ -9672,6 +9984,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T090327Z" creationid="Administrator" creationdate="20170909T090249Z">
         <seg>忽略值与现有完全限定类名相等的文字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ignore spaces</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102625Z" creationid="Administrator" creationdate="20170909T102625Z">
+        <seg>忽略空格</seg>
       </tuv>
     </tu>
     <tu>
@@ -10008,6 +10328,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T040845Z" creationid="Administrator" creationdate="20170909T040830Z">
         <seg>将这些使用包含进来</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Incorrect function</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T101922Z" creationid="Administrator" creationdate="20170909T101922Z">
+        <seg>功能不正确</seg>
       </tuv>
     </tu>
     <tu>
@@ -11252,6 +11580,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Load File</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102601Z" creationid="Administrator" creationdate="20170909T102601Z">
+        <seg>加载文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Load Modules From JBuilder Project</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T031124Z" creationid="Administrator" creationdate="20170909T031124Z">
@@ -11328,6 +11664,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T061052Z" creationid="Administrator" creationdate="20170909T061048Z">
         <seg>逻辑运算符 (\&amp;\&amp;, ||)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Login:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T101311Z" creationid="Administrator" creationdate="20170909T101304Z">
+        <seg>登录:</seg>
       </tuv>
     </tu>
     <tu>
@@ -11528,6 +11872,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T041518Z" creationid="Administrator" creationdate="20170909T041518Z">
         <seg>管理已安装的插件，以及从存储库下载新的插件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Manual proxy configuration</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T101317Z" creationid="Administrator" creationdate="20170909T101317Z">
+        <seg>手动代理配置</seg>
       </tuv>
     </tu>
     <tu>
@@ -13174,6 +13526,14 @@ for this anonymous class.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No for All</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T101443Z" creationid="Administrator" creationdate="20170909T101443Z">
+        <seg>全否</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No implementations found</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T092741Z" creationid="Administrator" creationdate="20170909T092741Z">
@@ -13210,6 +13570,14 @@ for this anonymous class.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T071017Z" creationid="Administrator" creationdate="20170909T071017Z">
         <seg>没有路径变量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No proxy</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102855Z" creationid="Administrator" creationdate="20170909T102855Z">
+        <seg>没有代理</seg>
       </tuv>
     </tu>
     <tu>
@@ -13286,10 +13654,34 @@ for this anonymous class.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Not enough storage is available to complete this operation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102133Z" creationid="Administrator" creationdate="20170909T102133Z">
+        <seg>没有足够的存储可用来完成此操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not enough storage is available to process this command</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102023Z" creationid="Administrator" creationdate="20170909T102023Z">
+        <seg>没有足够的存储可用于处理此命令</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OK</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T052526Z" creationid="Administrator" creationdate="20170909T052526Z">
         <seg>确定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102606Z" creationid="Administrator" creationdate="20170909T102606Z">
+        <seg>一次 {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -13942,6 +14334,14 @@ for this anonymous class.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Password:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T101255Z" creationid="Administrator" creationdate="20170909T101255Z">
+        <seg>密码:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Paste</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T025440Z" creationid="Administrator" creationdate="20170909T025440Z">
@@ -14318,6 +14718,14 @@ for this anonymous class.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Port number:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T101414Z" creationid="Administrator" creationdate="20170909T101414Z">
+        <seg>端口号:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Portrait</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T082358Z" creationid="Administrator" creationdate="20170909T082358Z">
@@ -14378,6 +14786,14 @@ for this anonymous class.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T053942Z" creationid="Administrator" creationdate="20170909T053942Z">
         <seg>每页指令一个import语句</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Preferences</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T101530Z" creationid="Administrator" creationdate="20170909T101530Z">
+        <seg>首选项</seg>
       </tuv>
     </tu>
     <tu>
@@ -14944,6 +15360,22 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Proxy authentication</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T101323Z" creationid="Administrator" creationdate="20170909T101323Z">
+        <seg>代理验证</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Proxy should be set in Settings | HTTP Proxy&lt;br&gt;This JVM property is old and its usage is not recommended by Oracle.&lt;br&gt;(Note: It could have been assigned by some code dynamically.)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T103220Z" creationid="Administrator" creationdate="20170909T103220Z">
+        <seg>代理应“设置| HTTP代理”中设置&lt;br&gt;该 JVM 属性已过旧，不被 Oracle 推荐使用。&lt;br&gt;(注意：它可能由一些代码动态设置。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pull Members Up</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T033054Z" creationid="Administrator" creationdate="20170909T033054Z">
@@ -15220,6 +15652,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T042237Z" creationid="Administrator" creationdate="20170909T042237Z">
         <seg>递归</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Redo</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102437Z" creationid="Administrator" creationdate="20170909T102437Z">
+        <seg>重做</seg>
       </tuv>
     </tu>
     <tu>
@@ -15532,6 +15972,22 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T031136Z" creationid="Administrator" creationdate="20170909T031136Z">
         <seg>重新从磁盘加载</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remember password</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T101301Z" creationid="Administrator" creationdate="20170909T101301Z">
+        <seg>记住密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remember, don't ask again</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T101238Z" creationid="Administrator" creationdate="20170909T101238Z">
+        <seg>记住，不再询问</seg>
       </tuv>
     </tu>
     <tu>
@@ -16224,6 +16680,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Retry</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T101253Z" creationid="Administrator" creationdate="20170909T101253Z">
+        <seg>重试</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Returns:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T092517Z" creationid="Administrator" creationdate="20170909T092517Z">
@@ -16540,6 +17004,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051425Z" creationid="Administrator" creationdate="20170909T051425Z">
         <seg>运行 Ant: ''{0}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SOCKS</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102858Z" creationid="Administrator" creationdate="20170909T102858Z">
+        <seg>SOCKS</seg>
       </tuv>
     </tu>
     <tu>
@@ -17372,6 +17844,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T025702Z" creationid="Administrator" creationdate="20170909T025702Z">
         <seg>在当前文件中设置多个光标，以同时编辑多行代码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set up HTTP proxy settings</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T101249Z" creationid="Administrator" creationdate="20170909T101249Z">
+        <seg>设置HTTP代理</seg>
       </tuv>
     </tu>
     <tu>
@@ -19826,6 +20306,38 @@ already exists in group "{1}".</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The access code is invalid</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102106Z" creationid="Administrator" creationdate="20170909T102106Z">
+        <seg>访问代码无效</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The data is invalid</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102109Z" creationid="Administrator" creationdate="20170909T102109Z">
+        <seg>数据无效</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The device does not recognize the command</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102220Z" creationid="Administrator" creationdate="20170909T102220Z">
+        <seg>设备无法识别该命令</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The device is not ready</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102215Z" creationid="Administrator" creationdate="20170909T102215Z">
+        <seg>设备尚未准备就绪</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The directory ''{0}'' is not empty.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T041550Z" creationid="Administrator" creationdate="20170909T041550Z">
@@ -19834,10 +20346,42 @@ already exists in group "{1}".</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The directory cannot be removed</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102141Z" creationid="Administrator" creationdate="20170909T102141Z">
+        <seg>目录无法被删除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The documentation for this element is not found.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T093014Z" creationid="Administrator" creationdate="20170909T093014Z">
         <seg>找不到此元素的文档。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The drive cannot find the sector requested</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102316Z" creationid="Administrator" creationdate="20170909T102316Z">
+        <seg>驱动器无法找到请求的扇区</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The drive cannot locate a specific area or track on the disk</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102251Z" creationid="Administrator" creationdate="20170909T102251Z">
+        <seg>驱动器无法在磁盘上找到指定区域或磁道</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The environment is incorrect</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102039Z" creationid="Administrator" creationdate="20170909T102039Z">
+        <seg>环境不正确</seg>
       </tuv>
     </tu>
     <tu>
@@ -19858,10 +20402,58 @@ already exists in group "{1}".</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The file left unchanged</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102644Z" creationid="Administrator" creationdate="20170909T102644Z">
+        <seg>文件保持不变</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The file left unchanged.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102702Z" creationid="Administrator" creationdate="20170909T102648Z">
+        <seg>文件保持不变。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The file was renamed to {1}.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102714Z" creationid="Administrator" creationdate="20170909T102714Z">
+        <seg>该文件已重命名为{1}。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The following rule{0, choice, 1# is|2#s are} violated: {1}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T045917Z" creationid="Administrator" creationdate="20170909T045810Z">
         <seg>以下规则{0, choice, 1#被|2#被}违反: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The handle is invalid</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102026Z" creationid="Administrator" creationdate="20170909T102001Z">
+        <seg>句柄无效</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The media is write protected</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102159Z" creationid="Administrator" creationdate="20170909T102159Z">
+        <seg>媒体是写保护的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The program issued a command but the command length is incorrect</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102241Z" creationid="Administrator" creationdate="20170909T102241Z">
+        <seg>程序提供了一个命令, 但命令长度不正确</seg>
       </tuv>
     </tu>
     <tu>
@@ -19890,10 +20482,90 @@ already exists in group "{1}".</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The specified disk or diskette cannot be accessed</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102304Z" creationid="Administrator" creationdate="20170909T102304Z">
+        <seg>指定的磁盘或软盘无法访问</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The storage control block address is invalid</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102037Z" creationid="Administrator" creationdate="20170909T102037Z">
+        <seg>存储控制块地址无效</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The storage control blocks were destroyed</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102010Z" creationid="Administrator" creationdate="20170909T102010Z">
+        <seg>存储控制块被破坏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The system cannot find the device specified</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102205Z" creationid="Administrator" creationdate="20170909T102205Z">
+        <seg>系统无法找到指定设备</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The system cannot find the drive specified</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102138Z" creationid="Administrator" creationdate="20170909T102138Z">
+        <seg>系统无法找到指定的驱动器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The system cannot find the file specified</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T101929Z" creationid="Administrator" creationdate="20170909T101929Z">
+        <seg>系统无法找到指定的文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The system cannot find the path specified</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T101933Z" creationid="Administrator" creationdate="20170909T101933Z">
+        <seg>系统无法找到指定的路径</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The system cannot move the file to a different disk drive</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102148Z" creationid="Administrator" creationdate="20170909T102148Z">
+        <seg>系统无法将文件移到不同的磁盘驱动器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The system cannot open the file</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T101936Z" creationid="Administrator" creationdate="20170909T101936Z">
+        <seg>系统无法打开文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There are no classes found where this method can be implemented</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T091343Z" creationid="Administrator" creationdate="20170909T091343Z">
         <seg>没有找到可以实现此方法的类</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are no more files</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102155Z" creationid="Administrator" creationdate="20170909T102155Z">
+        <seg>没有更多文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -19926,6 +20598,14 @@ already exists in group "{1}".</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T031550Z" creationid="Administrator" creationdate="20170909T031550Z">
         <seg>使用搜索需要索引，并且在索引被建立之前不能被执行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This will attempt to use your system settings and is useful if your system uses a proxy autoconfiguration file (.pac)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T101406Z" creationid="Administrator" creationdate="20170909T101406Z">
+        <seg>这将尝试使用您的系统设置，这将有用如果您的系统使用代理自动配置文件（.pac）</seg>
       </tuv>
     </tu>
     <tu>
@@ -20006,6 +20686,14 @@ already exists in group "{1}".</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T072606Z" creationid="Administrator" creationdate="20170909T072606Z">
         <seg>到:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Today</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T101705Z" creationid="Administrator" creationdate="20170909T101705Z">
+        <seg>今天</seg>
       </tuv>
     </tu>
     <tu>
@@ -20514,6 +21202,22 @@ already exists in group "{1}".</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Trim space</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102624Z" creationid="Administrator" creationdate="20170909T102624Z">
+        <seg>清除空格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Try again</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T101250Z" creationid="Administrator" creationdate="20170909T101250Z">
+        <seg>重试</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Turn the method into its own object so that all the parameters become fields on that object</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T033123Z" creationid="Administrator" creationdate="20170909T033123Z">
@@ -20642,6 +21346,14 @@ already exists in group "{1}".</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unable to create a temporary file ({1}).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102638Z" creationid="Administrator" creationdate="20170909T102638Z">
+        <seg>无法创建临时文件（{1}）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unable to import settings.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T052327Z" creationid="Administrator" creationdate="20170909T052327Z">
@@ -20710,6 +21422,14 @@ already exists in group "{1}".</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T070738Z" creationid="Administrator" creationdate="20170909T070738Z">
         <seg>波浪下划线</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Undo</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102436Z" creationid="Administrator" creationdate="20170909T102436Z">
+        <seg>撤消</seg>
       </tuv>
     </tu>
     <tu>
@@ -21866,6 +22586,22 @@ already exists in group "{1}".</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Yes for All</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T101433Z" creationid="Administrator" creationdate="20170909T101433Z">
+        <seg>全是</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yesterday</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T101706Z" creationid="Administrator" creationdate="20170909T101706Z">
+        <seg>昨天</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can check out an entire project from a Version Control System.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T041406Z" creationid="Administrator" creationdate="20170909T041406Z">
@@ -21926,6 +22662,22 @@ already exists in group "{1}".</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T041122Z" creationid="Administrator" creationdate="20170909T041122Z">
         <seg>您将无法通过早期版本的IDEA打开该项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your changes were written to {1}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102707Z" creationid="Administrator" creationdate="20170909T102707Z">
+        <seg>您的更改已写入{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your changes were written to {2}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102720Z" creationid="Administrator" creationdate="20170909T102720Z">
+        <seg>您的更改已写入{2}</seg>
       </tuv>
     </tu>
     <tu>
@@ -22290,6 +23042,62 @@ already exists in group "{1}".</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>in a few moments</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T101718Z" creationid="Administrator" creationdate="20170909T101718Z">
+        <seg>稍后</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>in {0,choice, 0#zero days|1#one day|2#{0,number} days}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T101900Z" creationid="Administrator" creationdate="20170909T101900Z">
+        <seg>{0,number} 天内</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>in {0,choice, 0#zero hours|1#one hour|2#{0,number} hours}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T101902Z" creationid="Administrator" creationdate="20170909T101902Z">
+        <seg>{0,number} 小时内</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>in {0,choice, 0#zero minutes|1#one minute|2#{0,number} minutes}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T101901Z" creationid="Administrator" creationdate="20170909T101901Z">
+        <seg>{0,number} 分钟内</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>in {0,choice, 0#zero months|1#one month|2#{0,number} months}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T101903Z" creationid="Administrator" creationdate="20170909T101903Z">
+        <seg>{0,number} 个月内</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>in {0,choice, 0#zero weeks|1#one week|2#{0,number} weeks}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T101904Z" creationid="Administrator" creationdate="20170909T101904Z">
+        <seg>{0,number} 星期内</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>in {0,choice, 0#zero years|1#one year|2#{0,number} years}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T101905Z" creationid="Administrator" creationdate="20170909T101905Z">
+        <seg>{0,number} 年内</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>iterableComponentType(ArrayOrIterable)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T093947Z" creationid="Administrator" creationdate="20170909T093947Z">
@@ -22326,6 +23134,14 @@ already exists in group "{1}".</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T031218Z" creationid="Administrator" creationdate="20170909T031218Z">
         <seg>最后撤销操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>less than a minute</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T101558Z" creationid="Administrator" creationdate="20170909T101558Z">
+        <seg>不到一分钟</seg>
       </tuv>
     </tu>
     <tu>
@@ -22382,6 +23198,14 @@ already exists in group "{1}".</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T082339Z" creationid="Administrator" creationdate="20170909T082339Z">
         <seg>毫米</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>moments ago</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T101710Z" creationid="Administrator" creationdate="20170909T101710Z">
+        <seg>刚才</seg>
       </tuv>
     </tu>
     <tu>
@@ -22446,6 +23270,14 @@ already exists in group "{1}".</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T093952Z" creationid="Administrator" creationdate="20170909T093952Z">
         <seg>qualifiedClassName()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>right now</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T101612Z" creationid="Administrator" creationdate="20170909T101612Z">
+        <seg>马上</seg>
       </tuv>
     </tu>
     <tu>
@@ -22618,6 +23450,110 @@ already exists in group "{1}".</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{0,choice, 0#Moments|1#A minute|2#{0,number} minutes|60#1 hour} ago</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T101703Z" creationid="Administrator" creationdate="20170909T101703Z">
+        <seg>{0,choice, 0#片刻|1#1 分钟|2#{0,number} 分钟|60#1 小时} 之前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0,choice, 0#zero days|1#one day|2#{0,number} days}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T101835Z" creationid="Administrator" creationdate="20170909T101742Z">
+        <seg>{0,number} 天</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0,choice, 0#zero days|1#one day|2#{0,number} days} ago</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T101906Z" creationid="Administrator" creationdate="20170909T101906Z">
+        <seg>{0,number} 天前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0,choice, 0#zero hours|1#one hour|2#{0,number} hours}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T101842Z" creationid="Administrator" creationdate="20170909T101842Z">
+        <seg>{0,number} 小时</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0,choice, 0#zero hours|1#one hour|2#{0,number} hours} ago</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T101908Z" creationid="Administrator" creationdate="20170909T101908Z">
+        <seg>{0,number} 小时前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0,choice, 0#zero minutes|1#one minute|2#{0,number} minutes}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T101827Z" creationid="Administrator" creationdate="20170909T101827Z">
+        <seg>{0,number} 分钟</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0,choice, 0#zero minutes|1#one minute|2#{0,number} minutes} ago</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T101907Z" creationid="Administrator" creationdate="20170909T101907Z">
+        <seg>{0,number} 分钟前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0,choice, 0#zero months|1#one month|2#{0,number} months}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T101852Z" creationid="Administrator" creationdate="20170909T101852Z">
+        <seg>{0,number} 月</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0,choice, 0#zero months|1#one month|2#{0,number} months} ago</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T101909Z" creationid="Administrator" creationdate="20170909T101909Z">
+        <seg>{0,number} 个月前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0,choice, 0#zero weeks|1#one week|2#{0,number} weeks}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T101855Z" creationid="Administrator" creationdate="20170909T101855Z">
+        <seg>{0,number} 个星期</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0,choice, 0#zero weeks|1#one week|2#{0,number} weeks} ago</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T101911Z" creationid="Administrator" creationdate="20170909T101911Z">
+        <seg>{0,number} 星期前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0,choice, 0#zero years|1#one year|2#{0,number} years}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T101856Z" creationid="Administrator" creationdate="20170909T101856Z">
+        <seg>{0,number} 年</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0,choice, 0#zero years|1#one year|2#{0,number} years} ago</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T101912Z" creationid="Administrator" creationdate="20170909T101912Z">
+        <seg>{0,number} 年前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{0,choice,0#File|1#Directory} Path</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T031700Z" creationid="Administrator" creationdate="20170909T031700Z">
@@ -22778,6 +23714,14 @@ already exists in group "{1}".</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{0} with name ''{1}'' already exists</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102618Z" creationid="Administrator" creationdate="20170909T102618Z">
+        <seg>名称为“{1}”的{0}已经存在</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{0} x {1} {2}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T082337Z" creationid="Administrator" creationdate="20170909T082337Z">
@@ -22798,6 +23742,30 @@ already exists in group "{1}".</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T085428Z" creationid="Administrator" creationdate="20170909T085035Z">
         <seg>找到{1}的{0} {0, choice, 1#个使用|2#个使用}  (再按 {2} 移除高亮，按Esc移除所有高亮)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0}Kb</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102338Z" creationid="Administrator" creationdate="20170909T102338Z">
+        <seg>{0}Kb</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0}Mb</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102340Z" creationid="Administrator" creationdate="20170909T102340Z">
+        <seg>{0}Mb</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0}b</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102336Z" creationid="Administrator" creationdate="20170909T102336Z">
+        <seg>{0}b</seg>
       </tuv>
     </tu>
     <tu>
