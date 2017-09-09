@@ -14490,6 +14490,14 @@ for this anonymous class.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No suggestions of type {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T112810Z" creationid="Administrator" creationdate="20170909T112810Z">
+        <seg>没有 {0} 类型的建议</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No surround templates defined in this context</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T093316Z" creationid="Administrator" creationdate="20170909T093316Z">
@@ -15850,10 +15858,58 @@ for this anonymous class.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Press {0} again to view all accessible classes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T112927Z" creationid="Administrator" creationdate="20170909T112927Z">
+        <seg>再按 {0} 查看所有可访问的类</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press {0} once more to find arrays of {1}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T112915Z" creationid="Administrator" creationdate="20170909T112915Z">
+        <seg>再按 {0} 查找 {1} 的数组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press {0} once more to find collections of {1}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T112904Z" creationid="Administrator" creationdate="20170909T112904Z">
+        <seg>再按 {0} 查找 {1} 的集合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press {0} once more to ignore module dependencies while searching</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T112943Z" creationid="Administrator" creationdate="20170909T112943Z">
+        <seg>再按 {0} 在搜索时忽略模块依赖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press {0} once more to search across chained method calls</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T112858Z" creationid="Administrator" creationdate="20170909T112847Z">
+        <seg>再按 {0} 搜索链式的方法调用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Press {0} to search for matching files of any type</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T100241Z" creationid="Administrator" creationdate="20170909T100241Z">
         <seg>按{0}搜索任何类型的匹配文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press {0} to show only variants that are suitable by type</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T112841Z" creationid="Administrator" creationdate="20170909T112841Z">
+        <seg>按 {0} 显示仅适用于类型的变量</seg>
       </tuv>
     </tu>
     <tu>
@@ -22716,6 +22772,14 @@ Any JAR files created will be named after the name of the main module</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unknown type {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T112812Z" creationid="Administrator" creationdate="20170909T112812Z">
+        <seg>未知类型 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unknown version</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051724Z" creationid="Administrator" creationdate="20170909T051724Z">
@@ -24296,6 +24360,14 @@ Any JAR files created will be named after the name of the main module</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T060353Z" creationid="Administrator" creationdate="20170909T060353Z">
         <seg>for ():</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>generate anonymous body</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T112750Z" creationid="Administrator" creationdate="20170909T112750Z">
+        <seg>生成匿名体</seg>
       </tuv>
     </tu>
     <tu>
