@@ -1054,6 +1054,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Advanced</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T082350Z" creationid="Administrator" creationdate="20170909T082350Z">
+        <seg>高级</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After ':'</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T062049Z" creationid="Administrator" creationdate="20170909T062049Z">
@@ -1290,6 +1298,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T052920Z" creationid="Administrator" creationdate="20170909T050000Z">
         <seg>所有</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All files in directory {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T082307Z" creationid="Administrator" creationdate="20170909T082307Z">
+        <seg>目录{0}中的所有文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -1706,6 +1722,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T041318Z" creationid="Administrator" creationdate="20170909T041318Z">
         <seg>附加右侧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Apply</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T082446Z" creationid="Administrator" creationdate="20170909T082446Z">
+        <seg>应用</seg>
       </tuv>
     </tu>
     <tu>
@@ -2614,6 +2638,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Calculating number of pages</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T082541Z" creationid="Administrator" creationdate="20170909T082541Z">
+        <seg>计算页数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Call Hierarchy</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T031820Z" creationid="Administrator" creationdate="20170909T031820Z">
@@ -2820,6 +2852,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T052903Z" creationid="Administrator" creationdate="20170909T052903Z">
         <seg>区分大小写补全:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Center</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T082530Z" creationid="Administrator" creationdate="20170909T082530Z">
+        <seg>中心</seg>
       </tuv>
     </tu>
     <tu>
@@ -3740,6 +3780,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T040239Z" creationid="Administrator" creationdate="20170909T040239Z">
         <seg>切换配色方案</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color printing</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T082407Z" creationid="Administrator" creationdate="20170909T082407Z">
+        <seg>彩印</seg>
       </tuv>
     </tu>
     <tu>
@@ -5514,6 +5562,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Draw border</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T082354Z" creationid="Administrator" creationdate="20170909T082354Z">
+        <seg>绘制边界</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Drop An Error</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T033852Z" creationid="Administrator" creationdate="20170909T033852Z">
@@ -6706,6 +6762,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>File - $FILE$</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T082453Z" creationid="Administrator" creationdate="20170909T082453Z">
+        <seg>文件 - $FILE$</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>File Encoding</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T041253Z" creationid="Administrator" creationdate="20170909T041253Z">
@@ -6754,6 +6818,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>File not found: {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T082619Z" creationid="Administrator" creationdate="20170909T082619Z">
+        <seg>文件未找到:{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>File watcher failed to start</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T071709Z" creationid="Administrator" creationdate="20170909T071709Z">
@@ -6766,6 +6838,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T071715Z" creationid="Administrator" creationdate="20170909T071715Z">
         <seg>文件监视器放弃操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T082245Z" creationid="Administrator" creationdate="20170909T082245Z">
+        <seg>文件{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -7122,6 +7202,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Footer</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T082524Z" creationid="Administrator" creationdate="20170909T082524Z">
+        <seg>页脚</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For statement</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T060249Z" creationid="Administrator" creationdate="20170909T060249Z">
@@ -7354,6 +7442,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Generate hyperlinks to classes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T082329Z" creationid="Administrator" creationdate="20170909T082329Z">
+        <seg>生成超链接指向类</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Generate or fix doc comment for the current context</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T031706Z" creationid="Administrator" creationdate="20170909T031706Z">
@@ -7366,6 +7462,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T053450Z" creationid="Administrator" creationdate="20170909T053450Z">
         <seg>生成的引号:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Generating file: {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T082334Z" creationid="Administrator" creationdate="20170909T082334Z">
+        <seg>正在生成文件:{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -7736,6 +7840,30 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T062904Z" creationid="Administrator" creationdate="20170909T062904Z">
         <seg>HTML样式的属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HTML files will be exported to this directory</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T082318Z" creationid="Administrator" creationdate="20170909T082318Z">
+        <seg>HTML文件将导出至该目录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Header</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T082523Z" creationid="Administrator" creationdate="20170909T082523Z">
+        <seg>页眉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Header and Footer</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T082349Z" creationid="Administrator" creationdate="20170909T082349Z">
+        <seg>页眉和页脚</seg>
       </tuv>
     </tu>
     <tu>
@@ -8280,6 +8408,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T040820Z" creationid="Administrator" creationdate="20170909T040820Z">
         <seg>包含到提交里</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Include subdirectories</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T082310Z" creationid="Administrator" creationdate="20170909T082310Z">
+        <seg>包含子目录</seg>
       </tuv>
     </tu>
     <tu>
@@ -9100,6 +9236,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Landscape</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T082404Z" creationid="Administrator" creationdate="20170909T082404Z">
+        <seg>横向</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Last Edit Location</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T032218Z" creationid="Administrator" creationdate="20170909T032218Z">
@@ -9192,6 +9336,22 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T031929Z" creationid="Administrator" creationdate="20170909T031929Z">
         <seg>行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Line #1</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T082436Z" creationid="Administrator" creationdate="20170909T082436Z">
+        <seg>行 #1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Line #2</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T082437Z" creationid="Administrator" creationdate="20170909T082437Z">
+        <seg>行 #2</seg>
       </tuv>
     </tu>
     <tu>
@@ -9496,6 +9656,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T041518Z" creationid="Administrator" creationdate="20170909T041518Z">
         <seg>管理已安装的插件，以及从存储库下载新的插件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Margins (inches)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T082432Z" creationid="Administrator" creationdate="20170909T082432Z">
+        <seg>边距（英寸）</seg>
       </tuv>
     </tu>
     <tu>
@@ -11036,6 +11204,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No wrap</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T082417Z" creationid="Administrator" creationdate="20170909T082417Z">
+        <seg>不换行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>None</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T052915Z" creationid="Administrator" creationdate="20170909T052915Z">
@@ -11220,6 +11396,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Open generated HTML in browser</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T082332Z" creationid="Administrator" creationdate="20170909T082332Z">
+        <seg>在浏览器中打开生成的HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Open image in external editor</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T042205Z" creationid="Administrator" creationdate="20170909T042205Z">
@@ -11372,6 +11556,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Orientation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T082355Z" creationid="Administrator" creationdate="20170909T082355Z">
+        <seg>方向</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Orthogonal Layout</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T040950Z" creationid="Administrator" creationdate="20170909T040950Z">
@@ -11408,6 +11600,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T041642Z" creationid="Administrator" creationdate="20170909T041642Z">
         <seg>其他设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Output directory:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T082312Z" creationid="Administrator" creationdate="20170909T082312Z">
+        <seg>输出目录:</seg>
       </tuv>
     </tu>
     <tu>
@@ -11492,6 +11692,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Page $PAGE$ of $TOTALPAGES$</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T082522Z" creationid="Administrator" creationdate="20170909T082501Z">
+        <seg>页 $PAGE$ / $TOTALPAGES$</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Page Down</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T025426Z" creationid="Administrator" creationdate="20170909T025426Z">
@@ -11520,6 +11728,22 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T025427Z" creationid="Administrator" creationdate="20170909T025427Z">
         <seg>上翻页并选择</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Page {1} of {2}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T082601Z" creationid="Administrator" creationdate="20170909T082601Z">
+        <seg>页 {1} / {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Paper size</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T082351Z" creationid="Administrator" creationdate="20170909T082351Z">
+        <seg>纸张大小</seg>
       </tuv>
     </tu>
     <tu>
@@ -11772,6 +11996,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Placement</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T082445Z" creationid="Administrator" creationdate="20170909T082445Z">
+        <seg>定位</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Placement:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T063314Z" creationid="Administrator" creationdate="20170909T063314Z">
@@ -11888,6 +12120,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T031654Z" creationid="Administrator" creationdate="20170909T031654Z">
         <seg>弹出当前文件的结构，用于快速导航</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Portrait</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T082358Z" creationid="Administrator" creationdate="20170909T082358Z">
+        <seg>纵向</seg>
       </tuv>
     </tu>
     <tu>
@@ -12100,6 +12340,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Print as graphics</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T082413Z" creationid="Administrator" creationdate="20170909T082413Z">
+        <seg>作为图形打印</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Print file</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T031152Z" creationid="Administrator" creationdate="20170909T031152Z">
@@ -12112,6 +12360,22 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T041648Z" creationid="Administrator" creationdate="20170909T041648Z">
         <seg>打印/导出操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Printing</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T082447Z" creationid="Administrator" creationdate="20170909T082447Z">
+        <seg>正在打印</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Printing {0}.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T082551Z" creationid="Administrator" creationdate="20170909T082544Z">
+        <seg>打印中 {0}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14246,6 +14510,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select output directory</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T082314Z" creationid="Administrator" creationdate="20170909T082314Z">
+        <seg>选择输出目录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select package to analyze from the left tree</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T045315Z" creationid="Administrator" creationdate="20170909T045315Z">
@@ -14290,6 +14562,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T050148Z" creationid="Administrator" creationdate="20170909T050148Z">
         <seg>选定的文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Selected text</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T082259Z" creationid="Administrator" creationdate="20170909T082259Z">
+        <seg>所选文本</seg>
       </tuv>
     </tu>
     <tu>
@@ -15430,6 +15710,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Skipping page {1} of {2}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T082612Z" creationid="Administrator" creationdate="20170909T082612Z">
+        <seg>跳过页 {1} / {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Slider or Ctrl+Wheel change font size</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T070856Z" creationid="Administrator" creationdate="20170909T070856Z">
@@ -15966,6 +16254,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Style</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T082405Z" creationid="Administrator" creationdate="20170909T082405Z">
+        <seg>样式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Submit Feedback</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T041030Z" creationid="Administrator" creationdate="20170909T041030Z">
@@ -16182,6 +16478,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Syntax printing</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T082411Z" creationid="Administrator" creationdate="20170909T082411Z">
+        <seg>语法印刷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>System-Dependent</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T065730Z" creationid="Administrator" creationdate="20170909T065730Z">
@@ -16394,6 +16698,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T073138Z" creationid="Administrator" creationdate="20170909T073138Z">
         <seg>文本文件和不支持的文件类型：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Text line</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T082439Z" creationid="Administrator" creationdate="20170909T082439Z">
+        <seg>文本行</seg>
       </tuv>
     </tu>
     <tu>
@@ -18054,6 +18366,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Wrap at word breaks</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T082425Z" creationid="Administrator" creationdate="20170909T082425Z">
+        <seg>分字换行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Wrap attributes:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T053528Z" creationid="Administrator" creationdate="20170909T053528Z">
@@ -18114,6 +18434,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T065759Z" creationid="Administrator" creationdate="20170909T065759Z">
         <seg>当键入到右页边距的时候换行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wrapping</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T082415Z" creationid="Administrator" creationdate="20170909T082415Z">
+        <seg>自动换行</seg>
       </tuv>
     </tu>
     <tu>
@@ -18430,6 +18758,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>mm</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T082339Z" creationid="Administrator" creationdate="20170909T082339Z">
+        <seg>毫米</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>only in</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T045947Z" creationid="Administrator" creationdate="20170909T045947Z">
@@ -18594,6 +18930,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T045255Z" creationid="Administrator" creationdate="20170909T045255Z">
         <seg>{0}整个项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} x {1} {2}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T082337Z" creationid="Administrator" creationdate="20170909T082337Z">
+        <seg>{0}x{1}{2}</seg>
       </tuv>
     </tu>
     <tu>
