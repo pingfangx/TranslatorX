@@ -438,6 +438,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(multiple choices...)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T113720Z" creationid="Administrator" creationdate="20170909T113626Z">
+        <seg>(多重选择...)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- negate the pattern (allowed only at the start of a pattern)
 Use ; (semicolon) to separate resource patterns;
 Escape the "!" character with a backslash ("\").</seg>
@@ -550,6 +558,22 @@ Use ; (分号) 来分隔资源模式;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b&gt;{0}&lt;/b&gt; {1} found</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T113255Z" creationid="Administrator" creationdate="20170909T113255Z">
+        <seg>发现 &lt;b&gt;{0}&lt;/b&gt;{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b&gt;{0}&lt;/b&gt; {1} found so far</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T113247Z" creationid="Administrator" creationdate="20170909T113247Z">
+        <seg>目前发现 &lt;b&gt;{0}&lt;/b&gt;{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;blank line&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T053858Z" creationid="Administrator" creationdate="20170909T053858Z">
@@ -626,6 +650,30 @@ Use ; (分号) 来分隔资源模式;
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T092729Z" creationid="Administrator" creationdate="20170909T092729Z">
         <seg>&lt;html&gt;&lt;body&gt;选择 &lt;b&gt;{0}&lt;/b&gt; 的实现方法({1} 找到)&lt;/body&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;&lt;body&gt;Choose Implementation of &lt;b&gt;{0}&lt;/b&gt; ({1} methods found)&lt;/body&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T113447Z" creationid="Administrator" creationdate="20170909T113404Z">
+        <seg>&lt;html&gt;&lt;body&gt;选择 &lt;b&gt;{0}&lt;/b&gt; 的实现({1} 个方法已找到)&lt;/body&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;&lt;body&gt;Choose Overriding Method of &lt;b&gt;{0}&lt;/b&gt; ({1} methods found)&lt;/body&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T113502Z" creationid="Administrator" creationdate="20170909T113440Z">
+        <seg>&lt;html&gt;&lt;body&gt;选择&lt;b&gt;{0}&lt;/b&gt;的重写方法({1}个方法已找到)&lt;/body&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;&lt;body&gt;Choose Subclass of &lt;b&gt;{0}&lt;/b&gt; ({1} classes found{2})&lt;/body&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T113526Z" creationid="Administrator" creationdate="20170909T113526Z">
+        <seg>&lt;html&gt;&lt;body&gt;选择&lt;b&gt;{0}&lt;/b&gt;的子类({1}个类已找到)&lt;/body&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1874,6 +1922,14 @@ Use ; (分号) 来分隔资源模式;
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T041745Z" creationid="Administrator" creationdate="20170909T041745Z">
         <seg>分析操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Analysis completed</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T113213Z" creationid="Administrator" creationdate="20170909T113213Z">
+        <seg>分析完成</seg>
       </tuv>
     </tu>
     <tu>
@@ -4076,6 +4132,14 @@ Use ; (分号) 来分隔资源模式;
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T111200Z" creationid="Administrator" creationdate="20170909T111200Z">
         <seg>检查依赖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Checking red files</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T113207Z" creationid="Administrator" creationdate="20170909T113207Z">
+        <seg>检查红色文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -10266,6 +10330,22 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Has implementations</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T113031Z" creationid="Administrator" creationdate="20170909T113031Z">
+        <seg>已经实现</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Has subclasses</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T113040Z" creationid="Administrator" creationdate="20170909T113040Z">
+        <seg>有子类</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Header</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T082523Z" creationid="Administrator" creationdate="20170909T082523Z">
@@ -10828,6 +10908,22 @@ Compilation will proceed without clearing output directories</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T092732Z" creationid="Administrator" creationdate="20170909T092732Z">
         <seg>{0}的实现</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Implements method ''{0}'' in &lt;a href="#javaClass/{1}"&gt;{1}&lt;/a&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T113110Z" creationid="Administrator" creationdate="20170909T113110Z">
+        <seg>在 &lt;a href="#javaClass/{1}"&gt;{1}&lt;/a&gt; 中的实现方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Implements method in &lt;a href="#javaClass/{1}"&gt;{1}&lt;/a&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T113109Z" creationid="Administrator" creationdate="20170909T113109Z">
+        <seg>在 &lt;a href="#javaClass/{1}"&gt;{1}&lt;/a&gt; 中的实现方法</seg>
       </tuv>
     </tu>
     <tu>
@@ -11544,6 +11640,14 @@ Compilation will proceed without clearing output directories</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Inspections</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T113203Z" creationid="Administrator" creationdate="20170909T113203Z">
+        <seg>检查</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Instance fields</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T053231Z" creationid="Administrator" creationdate="20170909T053231Z">
@@ -11732,6 +11836,46 @@ Compilation will proceed without clearing output directories</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T032419Z" creationid="Administrator" creationdate="20170909T032419Z">
         <seg>使用编辑器中键入的前缀调用绑定到“自定义快捷方式”的代码模板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Is implemented by&lt;br&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T113313Z" creationid="Administrator" creationdate="20170909T113313Z">
+        <seg>已由&lt;br&gt; 实现</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Is implemented in &lt;br&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T113259Z" creationid="Administrator" creationdate="20170909T113259Z">
+        <seg>已实现于&lt;br&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Is overridden in &lt;br&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T113302Z" creationid="Administrator" creationdate="20170909T113302Z">
+        <seg>已覆盖于&lt;br&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Is overridden in subclasses</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T113038Z" creationid="Administrator" creationdate="20170909T113038Z">
+        <seg>在子类中被覆盖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Is subclassed by&lt;br&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T113609Z" creationid="Administrator" creationdate="20170909T113350Z">
+        <seg>已被&lt;br&gt;作为子类</seg>
       </tuv>
     </tu>
     <tu>
@@ -14370,6 +14514,14 @@ for this anonymous class.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No analysis has been performed</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T113136Z" creationid="Administrator" creationdate="20170909T113136Z">
+        <seg>没有执行任何分析</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No coverage</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T095528Z" creationid="Administrator" creationdate="20170909T095528Z">
@@ -14442,6 +14594,22 @@ for this anonymous class.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No inspections performed</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T113146Z" creationid="Administrator" creationdate="20170909T113146Z">
+        <seg>没有执行任何检查</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No inspections performed {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T113157Z" creationid="Administrator" creationdate="20170909T113157Z">
+        <seg>没有执行检查{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No java.lang.Object</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T083440Z" creationid="Administrator" creationdate="20170909T083440Z">
@@ -14474,6 +14642,22 @@ for this anonymous class.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No problems found</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T113231Z" creationid="Administrator" creationdate="20170909T113231Z">
+        <seg>没有发现问题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No problems found so far</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T113237Z" creationid="Administrator" creationdate="20170909T113237Z">
+        <seg>到目前为止没有发现问题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No proxy</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102855Z" creationid="Administrator" creationdate="20170909T102855Z">
@@ -14502,6 +14686,22 @@ for this anonymous class.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T093316Z" creationid="Administrator" creationdate="20170909T093316Z">
         <seg>在此上下文中没有定义包围模板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No syntax highlighting performed</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T113140Z" creationid="Administrator" creationdate="20170909T113140Z">
+        <seg>没有执行任何语法高亮</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No syntax highlighting performed for {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T113153Z" creationid="Administrator" creationdate="20170909T113153Z">
+        <seg>没有为{0}执行语法高亮</seg>
       </tuv>
     </tu>
     <tu>
@@ -15098,6 +15298,22 @@ for this anonymous class.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Overrides method ''{0}'' in &lt;a href="#javaClass/{1}"&gt;{1}&lt;/a&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T113126Z" creationid="Administrator" creationdate="20170909T113126Z">
+        <seg>在 &lt;a href="#javaClass/{1}"&gt;{1}&lt;/a&gt; 中的覆盖方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Overrides method in &lt;a href="#javaClass/{1}"&gt;{1}&lt;/a&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T113125Z" creationid="Administrator" creationdate="20170909T113125Z">
+        <seg>在 &lt;a href="#javaClass/{1}"&gt;{1}&lt;/a&gt; 中的覆盖方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Overrides:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T092624Z" creationid="Administrator" creationdate="20170909T092624Z">
@@ -15438,6 +15654,14 @@ for this anonymous class.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T110626Z" creationid="Administrator" creationdate="20170909T110626Z">
         <seg>在这个目标中执行任何构建初始化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Performing code analysis</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T113611Z" creationid="Administrator" creationdate="20170909T113611Z">
+        <seg>执行代码分析</seg>
       </tuv>
     </tu>
     <tu>
@@ -20172,6 +20396,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Slow Inspections</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T113211Z" creationid="Administrator" creationdate="20170909T113211Z">
+        <seg>慢速检查</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Smart Enter:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T065225Z" creationid="Administrator" creationdate="20170909T065225Z">
@@ -20932,6 +21164,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Super Methods of {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T113358Z" creationid="Administrator" creationdate="20170909T113358Z">
+        <seg>{0}的超类方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Super methods of {0}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T092949Z" creationid="Administrator" creationdate="20170909T092949Z">
@@ -21176,6 +21416,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T040736Z" creationid="Administrator" creationdate="20170909T040736Z">
         <seg>同步选中文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Syntax analysis</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T113159Z" creationid="Administrator" creationdate="20170909T113159Z">
+        <seg>语法分析</seg>
       </tuv>
     </tu>
     <tu>
@@ -24548,6 +24796,14 @@ Any JAR files created will be named after the name of the main module</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>less</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T113612Z" creationid="Administrator" creationdate="20170909T113612Z">
+        <seg>更少</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>less than a minute</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T101558Z" creationid="Administrator" creationdate="20170909T101558Z">
@@ -24624,6 +24880,14 @@ Any JAR files created will be named after the name of the main module</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T101710Z" creationid="Administrator" creationdate="20170909T101710Z">
         <seg>刚才</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>more</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T113611Z" creationid="Administrator" creationdate="20170909T113611Z">
+        <seg>更多</seg>
       </tuv>
     </tu>
     <tu>
@@ -25212,6 +25476,14 @@ Please enter pattern string in a new format.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T111748Z" creationid="Administrator" creationdate="20170909T111748Z">
         <seg>{0} {0,choice, 0#个警告|1#个警告|2#个警告}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0}?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T113616Z" creationid="Administrator" creationdate="20170909T113616Z">
+        <seg>{0}?</seg>
       </tuv>
     </tu>
     <tu>
