@@ -6,10 +6,42 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>''{0}'' does not exist</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T052107Z" creationid="Administrator" creationdate="20170909T052107Z">
+        <seg>''{0}'' 不存在</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>''{0}'' has unsupported format</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T052205Z" creationid="Administrator" creationdate="20170909T052205Z">
+        <seg>''{0}''有不支持的格式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>''{0}'' has unsupported xml format.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T052218Z" creationid="Administrator" creationdate="20170909T052218Z">
+        <seg>''{0}'' 有不支持的XML格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>')' expected</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T045759Z" creationid="Administrator" creationdate="20170909T045759Z">
         <seg>')' 预期</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(actual attribute value''{0}'')</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T050805Z" creationid="Administrator" creationdate="20170909T050805Z">
+        <seg>(实际属性值''{0}'')</seg>
       </tuv>
     </tu>
     <tu>
@@ -54,6 +86,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;The list of build files is empty&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051649Z" creationid="Administrator" creationdate="20170909T051649Z">
+        <seg>&lt;生成文件列表是空的&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;Unnamed&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051830Z" creationid="Administrator" creationdate="20170909T051830Z">
+        <seg>&lt;未命名的&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;br/&gt;You can also open a project or edit a file by drag and drop onto Welcome screen</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T041439Z" creationid="Administrator" creationdate="20170909T041439Z">
@@ -70,10 +118,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;default target&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T050916Z" creationid="Administrator" creationdate="20170909T050916Z">
+        <seg>&lt;默认目标&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;unknown&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T045723Z" creationid="Administrator" creationdate="20170909T045704Z">
         <seg>&lt;unknown&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ANT ''{0}'' is not configured</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051737Z" creationid="Administrator" creationdate="20170909T051737Z">
+        <seg>ANT ''{0}'' 未配置</seg>
       </tuv>
     </tu>
     <tu>
@@ -206,10 +270,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051543Z" creationid="Administrator" creationdate="20170909T051543Z">
+        <seg>添加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add All To Favorites</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T025306Z" creationid="Administrator" creationdate="20170909T025306Z">
         <seg>全部收藏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add All in Directory</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051819Z" creationid="Administrator" creationdate="20170909T051819Z">
+        <seg>将目录中的全部添加</seg>
       </tuv>
     </tu>
     <tu>
@@ -246,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add an existing Ant build file to the list</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051546Z" creationid="Administrator" creationdate="20170909T051546Z">
+        <seg>将现有的Ant构建文件添加到列表中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add as Library</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T042042Z" creationid="Administrator" creationdate="20170909T042042Z">
@@ -258,6 +346,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T025659Z" creationid="Administrator" creationdate="20170909T025659Z">
         <seg>添加或移除插入符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add property definition ''{0}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T052041Z" creationid="Administrator" creationdate="20170909T052041Z">
+        <seg>添加属性定义''{0}''</seg>
       </tuv>
     </tu>
     <tu>
@@ -310,10 +406,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Additional Classpath</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051921Z" creationid="Administrator" creationdate="20170909T051921Z">
+        <seg>附加类路径</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adjust Range</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T035010Z" creationid="Administrator" creationdate="20170909T035010Z">
         <seg>调整范围</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After Compilation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051738Z" creationid="Administrator" creationdate="20170909T051738Z">
+        <seg>编译后</seg>
       </tuv>
     </tu>
     <tu>
@@ -478,6 +590,174 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ant Build</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T050939Z" creationid="Administrator" creationdate="20170909T050939Z">
+        <seg>构建Ant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ant Build Input</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051433Z" creationid="Administrator" creationdate="20170909T051433Z">
+        <seg>Ant 构建输入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ant Build Progress</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051422Z" creationid="Administrator" creationdate="20170909T051422Z">
+        <seg>Ant 构建进度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ant Command Line</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051924Z" creationid="Administrator" creationdate="20170909T051924Z">
+        <seg>Ant 命令行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ant Process is active.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051046Z" creationid="Administrator" creationdate="20170909T051046Z">
+        <seg>Ant进程处于活动状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ant Setup</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051947Z" creationid="Administrator" creationdate="20170909T051947Z">
+        <seg>Ant 设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ant build aborted in {0} at {1}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051105Z" creationid="Administrator" creationdate="20170909T051105Z">
+        <seg>Ant构建中止在{0} {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ant build completed successfully in {0} at {1}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051108Z" creationid="Administrator" creationdate="20170909T051108Z">
+        <seg>Ant构建成功完成在{0} {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ant build completed with {0, choice, 0#no errors|1#one error|2#{0} errors} and {1, choice, 0#no warnings|1#one warning|2#{1} warnings} in {2} at {3}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051218Z" creationid="Administrator" creationdate="20170909T051159Z">
+        <seg>Ant构建完成，有 {0, choice, 0#no errors|1#one error|2#{0} errors} 和 {1, choice, 0#no warnings|1#one warning|2#{1} warnings} 在 {2}  {3}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ant build completed with {0, choice, 0#no warnings|1#one warning|2#{0} warnings} in {1} at {2}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051144Z" creationid="Administrator" creationdate="20170909T051111Z">
+        <seg>Ant构建完成，有 {0, choice, 0#no warnings|1#one warning|2#{0} warnings} 在 {1}  {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ant build started</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051430Z" creationid="Administrator" creationdate="20170909T051430Z">
+        <seg>Ant 构建开始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ant command line:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051922Z" creationid="Administrator" creationdate="20170909T051922Z">
+        <seg>Ant 命令行:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ant inspections</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T052147Z" creationid="Administrator" creationdate="20170909T052147Z">
+        <seg>Ant 检查</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ant installation is not configured.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051405Z" creationid="Administrator" creationdate="20170909T051405Z">
+        <seg>Ant安装未配置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ant process from the same build file is active.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051026Z" creationid="Administrator" creationdate="20170909T051026Z">
+        <seg>来自相同构建文件的Ant进程处于活动状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ant project name</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051948Z" creationid="Administrator" creationdate="20170909T051948Z">
+        <seg>Ant 项目名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ant properties declaration</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T050808Z" creationid="Administrator" creationdate="20170909T050808Z">
+        <seg>Ant 属性声明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ant property</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T050814Z" creationid="Administrator" creationdate="20170909T050814Z">
+        <seg>Ant 属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ant target</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T050812Z" creationid="Administrator" creationdate="20170909T050812Z">
+        <seg>Ant 目标</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ant task</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T050819Z" creationid="Administrator" creationdate="20170909T050819Z">
+        <seg>Ant 任务</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Apache Ant version {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051733Z" creationid="Administrator" creationdate="20170909T051733Z">
+        <seg>Apache Ant 版本 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Append Left Side</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T041318Z" creationid="Administrator" creationdate="20170909T041318Z">
@@ -574,6 +854,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Assign Shortcut</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051646Z" creationid="Administrator" creationdate="20170909T051646Z">
+        <seg>分配快捷键</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Associate selected file with one of file types</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T040735Z" creationid="Administrator" creationdate="20170909T040735Z">
@@ -614,6 +902,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Attribute ''{0}'' is not allowed here</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T052054Z" creationid="Administrator" creationdate="20170909T052054Z">
+        <seg>属性''{0}''在这里不允许</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Attribute ''{0}'' should have an integer value</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T052110Z" creationid="Administrator" creationdate="20170909T052110Z">
+        <seg>属性''{0}''应该有一个整数值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Auto</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T035438Z" creationid="Administrator" creationdate="20170909T035438Z">
@@ -642,6 +946,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T032212Z" creationid="Administrator" creationdate="20170909T032212Z">
         <seg>后退</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Background</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051420Z" creationid="Administrator" creationdate="20170909T051420Z">
+        <seg>后台</seg>
       </tuv>
     </tu>
     <tu>
@@ -714,6 +1026,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T032327Z" creationid="Administrator" creationdate="20170909T032327Z">
         <seg>基本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Before Compilation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051739Z" creationid="Administrator" creationdate="20170909T051739Z">
+        <seg>编译前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Before Run/Debug</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051626Z" creationid="Administrator" creationdate="20170909T051626Z">
+        <seg>运行/调试之前</seg>
       </tuv>
     </tu>
     <tu>
@@ -854,10 +1182,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Build File Properties</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051854Z" creationid="Administrator" creationdate="20170909T051854Z">
+        <seg>构建文件属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Build sequence {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051751Z" creationid="Administrator" creationdate="20170909T051751Z">
+        <seg>构建序列 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Build:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051435Z" creationid="Administrator" creationdate="20170909T051435Z">
+        <seg>构建:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Building dependencies graph</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T045317Z" creationid="Administrator" creationdate="20170909T045317Z">
         <seg>构建依赖关系图</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bundled Ant</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051750Z" creationid="Administrator" creationdate="20170909T051750Z">
+        <seg>捆绑 Ant</seg>
       </tuv>
     </tu>
     <tu>
@@ -870,6 +1230,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Can''t read from {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051734Z" creationid="Administrator" creationdate="20170909T051734Z">
+        <seg>不能从{0}中读取</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can''t resolve property: {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T050756Z" creationid="Administrator" creationdate="20170909T050756Z">
+        <seg>无法解析属性: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051413Z" creationid="Administrator" creationdate="20170909T051413Z">
+        <seg>取消</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Canceled</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T045643Z" creationid="Administrator" creationdate="20170909T045643Z">
@@ -878,10 +1262,76 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Canceled by user</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051432Z" creationid="Administrator" creationdate="20170909T051432Z">
+        <seg>用户取消</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot Add Build File</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T050859Z" creationid="Administrator" creationdate="20170909T050859Z">
+        <seg>无法添加构建文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot Add Files</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051518Z" creationid="Administrator" creationdate="20170909T051518Z">
+        <seg>无法添加文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot Run ANT</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051427Z" creationid="Administrator" creationdate="20170909T051427Z">
+        <seg>不能运行 ANT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot add build files from excluded directories
+{0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T050851Z" creationid="Administrator" creationdate="20170909T050851Z">
+        <seg>无法从被排除的目录中添加构建文件
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot add file {0}: {1}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051723Z" creationid="Administrator" creationdate="20170909T051723Z">
+        <seg>无法添加文件{0}: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cannot create directory ''{0}''</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T041537Z" creationid="Administrator" creationdate="20170909T041537Z">
         <seg>无法创建目录 ''{0}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot resolve ''{0}'' refid</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T052103Z" creationid="Administrator" creationdate="20170909T052103Z">
+        <seg>无法解析''{0}'' refid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot start {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051101Z" creationid="Administrator" creationdate="20170909T051101Z">
+        <seg>不能开始 {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -1166,6 +1616,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Check out Ant build file properties</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051413Z" creationid="Administrator" creationdate="20170909T051413Z">
+        <seg>检查Ant构建文件属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Check out from Version Control</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T041400Z" creationid="Administrator" creationdate="20170909T041400Z">
@@ -1194,6 +1652,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T031146Z" creationid="Administrator" creationdate="20170909T031146Z">
         <seg>从版本控制中检出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose Ant Target to Execute</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T052130Z" creationid="Administrator" creationdate="20170909T052130Z">
+        <seg>选择 Ant 目标来执行</seg>
       </tuv>
     </tu>
     <tu>
@@ -1302,6 +1768,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Classpath:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051800Z" creationid="Administrator" creationdate="20170909T051800Z">
+        <seg>类路径:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Clear text</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T041113Z" creationid="Administrator" creationdate="20170909T041113Z">
@@ -1394,6 +1868,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T033550Z" creationid="Administrator" creationdate="20170909T033550Z">
         <seg>关闭所有未固定的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Close Ant Build Messages</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051059Z" creationid="Administrator" creationdate="20170909T051059Z">
+        <seg>关闭 Ant 构建消息</seg>
       </tuv>
     </tu>
     <tu>
@@ -1506,6 +1988,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T034454Z" creationid="Administrator" creationdate="20170909T034454Z">
         <seg>关闭当前焦点的内容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Close message view if no error occurred</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051834Z" creationid="Administrator" creationdate="20170909T051834Z">
+        <seg>如果没有发生错误，关闭消息视图</seg>
       </tuv>
     </tu>
     <tu>
@@ -1626,6 +2116,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T030007Z" creationid="Administrator" creationdate="20170909T030007Z">
         <seg>折叠树节点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Collapse all build file nodes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051450Z" creationid="Administrator" creationdate="20170909T051450Z">
+        <seg>折叠所有构建文件节点</seg>
       </tuv>
     </tu>
     <tu>
@@ -1974,6 +2472,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Configure Ant</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051823Z" creationid="Administrator" creationdate="20170909T051823Z">
+        <seg>配置 Ant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Configure Current File Analysis</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T041902Z" creationid="Administrator" creationdate="20170909T041902Z">
@@ -2030,10 +2536,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Configure highlighting</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T052158Z" creationid="Administrator" creationdate="20170909T052158Z">
+        <seg>配置高亮</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Configure project structure</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T031054Z" creationid="Administrator" creationdate="20170909T031054Z">
         <seg>配置项目结构</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Confirm Remove</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051542Z" creationid="Administrator" creationdate="20170909T051542Z">
+        <seg>确认删除</seg>
       </tuv>
     </tu>
     <tu>
@@ -2286,6 +2808,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Could Not Start Process</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051428Z" creationid="Administrator" creationdate="20170909T051428Z">
+        <seg>无法启动程序</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create Command-line Launcher</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T042054Z" creationid="Administrator" creationdate="20170909T042054Z">
@@ -2306,6 +2836,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T031132Z" creationid="Administrator" creationdate="20170909T031132Z">
         <seg>为所有模块创建Eclipse项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create Meta Target</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051632Z" creationid="Administrator" creationdate="20170909T051632Z">
+        <seg>创建元目标</seg>
       </tuv>
     </tu>
     <tu>
@@ -2354,6 +2892,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T025334Z" creationid="Administrator" creationdate="20170909T025334Z">
         <seg>创建运行配置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create Target</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T050809Z" creationid="Administrator" creationdate="20170909T050809Z">
+        <seg>创建目标</seg>
       </tuv>
     </tu>
     <tu>
@@ -2414,6 +2960,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create macrodef</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T052120Z" creationid="Administrator" creationdate="20170909T052120Z">
+        <seg>创建宏定义</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create new changelist</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T041135Z" creationid="Administrator" creationdate="20170909T041135Z">
@@ -2454,6 +3008,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create presetdef</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T052125Z" creationid="Administrator" creationdate="20170909T052125Z">
+        <seg>创建预设定义</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create project from Eclipse projects</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T031128Z" creationid="Administrator" creationdate="20170909T031128Z">
@@ -2470,10 +3032,58 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create property</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T052039Z" creationid="Administrator" creationdate="20170909T052039Z">
+        <seg>创建属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create property ''{0}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T052049Z" creationid="Administrator" creationdate="20170909T052049Z">
+        <seg>创建属性 ''{0}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create property ''{0}'' in file ''{1}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T052050Z" creationid="Administrator" creationdate="20170909T052050Z">
+        <seg>创建属性''{0}'' 文件''{1}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create run configuration</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051614Z" creationid="Administrator" creationdate="20170909T051614Z">
+        <seg>创建运行配置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create run configuration from context</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T025335Z" creationid="Administrator" creationdate="20170909T025335Z">
         <seg>根据当前文本创建运行配置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create target</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T052111Z" creationid="Administrator" creationdate="20170909T052111Z">
+        <seg>创建目标</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create target ''{0}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T050810Z" creationid="Administrator" creationdate="20170909T050810Z">
+        <seg>创建目标 ''{0}''</seg>
       </tuv>
     </tu>
     <tu>
@@ -2798,6 +3408,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Delete selected Ant configuration?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T052046Z" creationid="Administrator" creationdate="20170909T052046Z">
+        <seg>删除选定的Ant配置？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete selected Ant configurations?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T052047Z" creationid="Administrator" creationdate="20170909T052047Z">
+        <seg>删除选定的Ant配置？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Delete selected item</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T031252Z" creationid="Administrator" creationdate="20170909T031252Z">
@@ -2918,6 +3544,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Description</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051858Z" creationid="Administrator" creationdate="20170909T051858Z">
+        <seg>描述</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Desktop Directory</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T041340Z" creationid="Administrator" creationdate="20170909T041340Z">
@@ -2994,6 +3628,16 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T050033Z" creationid="Administrator" creationdate="20170909T050033Z">
         <seg>你要在DSM分析之前继续编译项目吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do you want to remove the reference to
+{0}?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051540Z" creationid="Administrator" creationdate="20170909T051540Z">
+        <seg>是否要删除该引用吗？
+{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -3098,6 +3742,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T025847Z" creationid="Administrator" creationdate="20170909T025847Z">
         <seg>重复行或选中区域</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Duplicate targets</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T052148Z" creationid="Administrator" creationdate="20170909T052148Z">
+        <seg>重复目标</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Duplicate targets in imported files</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T052150Z" creationid="Administrator" creationdate="20170909T052150Z">
+        <seg>导入文件中的重复目标</seg>
       </tuv>
     </tu>
     <tu>
@@ -3326,6 +3986,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Element ''{0}'' is undefined</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T052052Z" creationid="Administrator" creationdate="20170909T052052Z">
+        <seg>元素''{0}''未定义</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Emacs Tab</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T025625Z" creationid="Administrator" creationdate="20170909T025625Z">
@@ -3510,6 +4178,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Execute Target Before Run/Debug</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051711Z" creationid="Administrator" creationdate="20170909T051711Z">
+        <seg>运行/调试之前执行目标</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Execute current statement in multiline console</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T042143Z" creationid="Administrator" creationdate="20170909T042143Z">
@@ -3522,6 +4198,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T042138Z" creationid="Administrator" creationdate="20170909T042127Z">
         <seg>在单行控制台执行当前语句</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Execute on</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051543Z" creationid="Administrator" creationdate="20170909T051543Z">
+        <seg>执行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Executing task: {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051441Z" creationid="Administrator" creationdate="20170909T051441Z">
+        <seg>执行任务: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Execution</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051904Z" creationid="Administrator" creationdate="20170909T051904Z">
+        <seg>执行</seg>
       </tuv>
     </tu>
     <tu>
@@ -3594,6 +4294,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T030005Z" creationid="Administrator" creationdate="20170909T030005Z">
         <seg>展开树节点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Expand all build file nodes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051448Z" creationid="Administrator" creationdate="20170909T051448Z">
+        <seg>展开所有构建文件节点</seg>
       </tuv>
     </tu>
     <tu>
@@ -3806,6 +4514,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Failed to load type(s)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T052134Z" creationid="Administrator" creationdate="20170909T052134Z">
+        <seg>未能加载类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Favorites View Popup Menu</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T041914Z" creationid="Administrator" creationdate="20170909T041914Z">
@@ -3882,6 +4598,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T041234Z" creationid="Administrator" creationdate="20170909T041234Z">
         <seg>过滤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Filter targets</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051615Z" creationid="Administrator" creationdate="20170909T051615Z">
+        <seg>过滤目标</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Filters</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051859Z" creationid="Administrator" creationdate="20170909T051859Z">
+        <seg>过滤器</seg>
       </tuv>
     </tu>
     <tu>
@@ -4766,6 +5498,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Home:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051821Z" creationid="Administrator" creationdate="20170909T051821Z">
+        <seg>首页</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Horizontal Toolbars</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T033529Z" creationid="Administrator" creationdate="20170909T033529Z">
@@ -5110,6 +5850,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Insert Macro</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051824Z" creationid="Administrator" creationdate="20170909T051824Z">
+        <seg>插入宏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Insert a secondary cursor in the line above to edit multiple lines of code simultaneously</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T025714Z" creationid="Administrator" creationdate="20170909T025714Z">
@@ -5242,6 +5990,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T032419Z" creationid="Administrator" creationdate="20170909T032419Z">
         <seg>使用编辑器中键入的前缀调用绑定到“自定义快捷方式”的代码模板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>JDK ({0}) needed to run this ANT target is incorrectly configured.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051323Z" creationid="Administrator" creationdate="20170909T051323Z">
+        <seg>运行此ANT目标所需的JDK（{0}）配置不正确。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>JDK ({0}) needed to run this ANT target is not configured.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051236Z" creationid="Administrator" creationdate="20170909T051236Z">
+        <seg>未配置运行此ANT目标的JDK（{0}）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5462,6 +6226,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Loading Ant configuration</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T052157Z" creationid="Administrator" creationdate="20170909T052157Z">
+        <seg>加载Ant配置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Local History</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T030528Z" creationid="Administrator" creationdate="20170909T030528Z">
@@ -5506,6 +6278,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T033803Z" creationid="Administrator" creationdate="20170909T033803Z">
         <seg>宏操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Macro attribute ''{0}'' is unknown</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T052106Z" creationid="Administrator" creationdate="20170909T052106Z">
+        <seg>宏属性''{0}''未知</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Macrodef element</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T052023Z" creationid="Administrator" creationdate="20170909T052023Z">
+        <seg>宏定义元素</seg>
       </tuv>
     </tu>
     <tu>
@@ -5562,6 +6350,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T032743Z" creationid="Administrator" creationdate="20170909T032743Z">
         <seg>静态化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make build in background</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051853Z" creationid="Administrator" creationdate="20170909T051853Z">
+        <seg>使构建在后台</seg>
       </tuv>
     </tu>
     <tu>
@@ -5670,6 +6466,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Maximum heap size (Mb):</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051837Z" creationid="Administrator" creationdate="20170909T051837Z">
+        <seg>最大堆大小 (Mb):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Maximum stack size (Mb):</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T052200Z" creationid="Administrator" creationdate="20170909T052200Z">
+        <seg>最大堆栈大小 (Mb):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Memory Management</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T033824Z" creationid="Administrator" creationdate="20170909T033824Z">
@@ -5746,6 +6558,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T034014Z" creationid="Administrator" creationdate="20170909T034014Z">
         <seg>最小化当前窗口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Missing properties file</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T052152Z" creationid="Administrator" creationdate="20170909T052152Z">
+        <seg>丢失属性文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -6126,6 +6946,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move Up</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051719Z" creationid="Administrator" creationdate="20170909T051719Z">
+        <seg>向上移动</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move Up and Scroll</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T025648Z" creationid="Administrator" creationdate="20170909T025648Z">
@@ -6326,6 +7154,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Name</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051855Z" creationid="Administrator" creationdate="20170909T051855Z">
+        <seg>名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051716Z" creationid="Administrator" creationdate="20170909T051716Z">
+        <seg>名称:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Narrow down the list on typing</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T052044Z" creationid="Administrator" creationdate="20170909T052044Z">
+        <seg>缩小键入的列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Navigate</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T031906Z" creationid="Administrator" creationdate="20170909T031906Z">
@@ -6486,6 +7338,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Nested element ''{0}'' is not allowed here</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T052056Z" creationid="Administrator" creationdate="20170909T052056Z">
+        <seg>嵌套元素''{0}''在这里不允许</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>New</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T030207Z" creationid="Administrator" creationdate="20170909T030207Z">
@@ -6614,6 +7474,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Next Error/Warning</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051444Z" creationid="Administrator" creationdate="20170909T051444Z">
+        <seg>下一错误/警告</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Next Highlighted Error</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T032151Z" creationid="Administrator" creationdate="20170909T032151Z">
@@ -6666,6 +7534,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T042153Z" creationid="Administrator" creationdate="20170909T042153Z">
         <seg>控制台历史中的下一项输入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No ANT configured</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051736Z" creationid="Administrator" creationdate="20170909T051736Z">
+        <seg>没有配置 ANT</seg>
       </tuv>
     </tu>
     <tu>
@@ -7142,6 +8018,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Path {0} does not exist</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051725Z" creationid="Administrator" creationdate="20170909T051725Z">
+        <seg>路径 {0} 不存在</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pause Output</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T050908Z" creationid="Administrator" creationdate="20170909T050908Z">
+        <seg>暂停输出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pause Program</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T033444Z" creationid="Administrator" creationdate="20170909T033444Z">
@@ -7226,6 +8118,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T033801Z" creationid="Administrator" creationdate="20170909T033801Z">
         <seg>播放保存的宏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please set a property here</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T052132Z" creationid="Administrator" creationdate="20170909T052132Z">
+        <seg>请在这里设置一个属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please update your settings in the Project | Libraries menu</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051342Z" creationid="Administrator" creationdate="20170909T051316Z">
+        <seg>请在 Project | Libraries （项目 | 库）菜单更新设置</seg>
       </tuv>
     </tu>
     <tu>
@@ -7326,6 +8234,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Previous Error/Warning</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051446Z" creationid="Administrator" creationdate="20170909T051446Z">
+        <seg>上一错误/警告</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Previous Highlighted Error</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T032155Z" creationid="Administrator" creationdate="20170909T032155Z">
@@ -7414,6 +8330,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Probably missing doctype</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T052238Z" creationid="Administrator" creationdate="20170909T052238Z">
+        <seg>也许缺少文档类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Process Annotations</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T033206Z" creationid="Administrator" creationdate="20170909T033206Z">
@@ -7486,6 +8410,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Project JDK (not specified)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051828Z" creationid="Administrator" creationdate="20170909T051828Z">
+        <seg>项目 JDK (未指定)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project JDK ({0})</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051826Z" creationid="Administrator" creationdate="20170909T051826Z">
+        <seg>项目 JDK ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project JDK not specified</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051220Z" creationid="Administrator" creationdate="20170909T051220Z">
+        <seg>工程JDK没有指定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Project Structure</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T031052Z" creationid="Administrator" creationdate="20170909T031052Z">
@@ -7546,6 +8494,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T050015Z" creationid="Administrator" creationdate="20170909T050015Z">
         <seg>项目类文件已过期。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Properties</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T050900Z" creationid="Administrator" creationdate="20170909T050900Z">
+        <seg>属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Property ''{0}'' is unknown</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T052104Z" creationid="Administrator" creationdate="20170909T052104Z">
+        <seg>属性''{0}''未知</seg>
       </tuv>
     </tu>
     <tu>
@@ -7918,6 +8882,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Registering Ant build file ''{0}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T052154Z" creationid="Administrator" creationdate="20170909T052154Z">
+        <seg>注册Ant构建文件 ''{0}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Registry</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T042009Z" creationid="Administrator" creationdate="20170909T042009Z">
@@ -7990,6 +8962,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remove Build File</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051642Z" creationid="Administrator" creationdate="20170909T051642Z">
+        <seg>移除构建文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove Meta Target</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051641Z" creationid="Administrator" creationdate="20170909T051641Z">
+        <seg>移除元目标</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove Meta Targets</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051644Z" creationid="Administrator" creationdate="20170909T051644Z">
+        <seg>移除元目标对象</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remove Middleman</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T032831Z" creationid="Administrator" creationdate="20170909T032831Z">
@@ -8038,10 +9034,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remove selected meta target(s)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051640Z" creationid="Administrator" creationdate="20170909T051640Z">
+        <seg>移除选定的元目标对象</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remove the current occurrence of the word from the selection</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T025722Z" creationid="Administrator" creationdate="20170909T025722Z">
         <seg>从选择中删除当前单词的出现。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove the selected build file from the list</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051548Z" creationid="Administrator" creationdate="20170909T051548Z">
+        <seg>从列表中删除选定的构建文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -8542,10 +9554,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Run ANT</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051425Z" creationid="Administrator" creationdate="20170909T051425Z">
+        <seg>运行 ANT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Run Annotation Processors on the selected scope</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T033215Z" creationid="Administrator" creationdate="20170909T033215Z">
         <seg>在选中范围内运行注解处理器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Run Ant target</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T052128Z" creationid="Administrator" creationdate="20170909T052128Z">
+        <seg>运行 Ant 目标</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Run Ant target ''{0}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T052127Z" creationid="Administrator" creationdate="20170909T052127Z">
+        <seg>运行 Ant 目标''{0}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Run Build</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051610Z" creationid="Administrator" creationdate="20170909T051610Z">
+        <seg>运行构建</seg>
       </tuv>
     </tu>
     <tu>
@@ -8562,6 +9606,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T025134Z" creationid="Administrator" creationdate="20170909T025134Z">
         <seg>运行垃圾回收器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Run Target</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051610Z" creationid="Administrator" creationdate="20170909T051610Z">
+        <seg>运行目标</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Run Targets</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051612Z" creationid="Administrator" creationdate="20170909T051612Z">
+        <seg>运行目标对象</seg>
       </tuv>
     </tu>
     <tu>
@@ -8598,6 +9658,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Run the selected build file or selected target(s) with Ant</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051608Z" creationid="Administrator" creationdate="20170909T051608Z">
+        <seg>使用Ant运行所选的构建文件或选定的目标</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Run to Cursor</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T033347Z" creationid="Administrator" creationdate="20170909T033347Z">
@@ -8622,10 +9690,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Run under JDK:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051928Z" creationid="Administrator" creationdate="20170909T051928Z">
+        <seg>JDK下运行:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Run with Ant:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051933Z" creationid="Administrator" creationdate="20170909T051933Z">
+        <seg>用 Ant 运行:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Run/Debug</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T033239Z" creationid="Administrator" creationdate="20170909T033239Z">
         <seg>运行/调试</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Running Ant: ''{0}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051425Z" creationid="Administrator" creationdate="20170909T051425Z">
+        <seg>运行 Ant: ''{0}''</seg>
       </tuv>
     </tu>
     <tu>
@@ -8718,6 +9810,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Save selected targets as a meta-target</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051635Z" creationid="Administrator" creationdate="20170909T051635Z">
+        <seg>保存选定目标为元目标</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Save the selected text as live template</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T033745Z" creationid="Administrator" creationdate="20170909T033745Z">
@@ -8794,6 +9894,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T041204Z" creationid="Administrator" creationdate="20170909T041204Z">
         <seg>将选中文件从VCS移除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scriptdef element</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T052037Z" creationid="Administrator" creationdate="20170909T052037Z">
+        <seg>脚本定义元素</seg>
       </tuv>
     </tu>
     <tu>
@@ -8958,6 +10066,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select Ant build file</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051451Z" creationid="Administrator" creationdate="20170909T051451Z">
+        <seg>选择 Ant 构建文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select In</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T031701Z" creationid="Administrator" creationdate="20170909T031701Z">
@@ -9062,6 +10178,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select one or more build.xml files to be added to the list</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051516Z" creationid="Administrator" creationdate="20170909T051516Z">
+        <seg>选择添加到列表中的一个或多个build.xml文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select opposite pane in diff view</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T041309Z" creationid="Administrator" creationdate="20170909T041309Z">
@@ -9130,6 +10254,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T041152Z" creationid="Administrator" creationdate="20170909T041145Z">
         <seg>设置活动更改列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set Default</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051934Z" creationid="Administrator" creationdate="20170909T051934Z">
+        <seg>默认设置</seg>
       </tuv>
     </tu>
     <tu>
@@ -9234,6 +10366,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T041302Z" creationid="Administrator" creationdate="20170909T041302Z">
         <seg>显示所有受影响的文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show All Messages</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T050917Z" creationid="Administrator" creationdate="20170909T050917Z">
+        <seg>显示所有消息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show Ant build file properties dialog</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T050903Z" creationid="Administrator" creationdate="20170909T050903Z">
+        <seg>显示 Ant 构建文件属性对话框</seg>
       </tuv>
     </tu>
     <tu>
@@ -9570,6 +10718,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T041303Z" creationid="Administrator" creationdate="20170909T041303Z">
         <seg>显示选中修订中所做的所有更改</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show all messages produces by ant build</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T050934Z" creationid="Administrator" creationdate="20170909T050934Z">
+        <seg>显示由 Ant 构建产生的所有的消息</seg>
       </tuv>
     </tu>
     <tu>
@@ -10198,6 +11354,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Starting Ant Build</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051040Z" creationid="Administrator" creationdate="20170909T051040Z">
+        <seg>开始 Ant 构建</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Status Bar</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T031638Z" creationid="Administrator" creationdate="20170909T031638Z">
@@ -10398,10 +11562,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Substitution not allowed</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T050753Z" creationid="Administrator" creationdate="20170909T050753Z">
+        <seg>不允许替换</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Subtypes Hierarchy</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T040740Z" creationid="Administrator" creationdate="20170909T040740Z">
         <seg>子类层次结构</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Such sequence of targets already exists</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051716Z" creationid="Administrator" creationdate="20170909T051716Z">
+        <seg>这样的目标序列已经存在</seg>
       </tuv>
     </tu>
     <tu>
@@ -10574,10 +11754,90 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Target</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T050822Z" creationid="Administrator" creationdate="20170909T050822Z">
+        <seg>目标</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Target ''{0}'' is duplicated</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T052144Z" creationid="Administrator" creationdate="20170909T052144Z">
+        <seg>目标 ''{0}'' 是重复的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Target ''{0}'' is duplicated in file ''{1}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T052146Z" creationid="Administrator" creationdate="20170909T052146Z">
+        <seg>在文件''{1}''中，目标''{0}''是重复的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Target ''{0}'' is unknown</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T052057Z" creationid="Administrator" creationdate="20170909T052057Z">
+        <seg>目标''{0}''未知</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Target:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051436Z" creationid="Administrator" creationdate="20170909T051436Z">
+        <seg>目标:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Target: {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051437Z" creationid="Administrator" creationdate="20170909T051437Z">
+        <seg>目标: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Targets:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051717Z" creationid="Administrator" creationdate="20170909T051717Z">
+        <seg>目标</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Task:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051436Z" creationid="Administrator" creationdate="20170909T051436Z">
+        <seg>任务:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>TearDown Method</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T030015Z" creationid="Administrator" creationdate="20170909T030015Z">
         <seg>TearDown方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Terminate Ant process?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051057Z" creationid="Administrator" creationdate="20170909T051057Z">
+        <seg>终止 Ant 进程？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Terminate it?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051038Z" creationid="Administrator" creationdate="20170909T051038Z">
+        <seg>终止它？</seg>
       </tuv>
     </tu>
     <tu>
@@ -11022,6 +12282,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Toggle tree/text mode</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T050905Z" creationid="Administrator" creationdate="20170909T050905Z">
+        <seg>切换树/文本模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Toggle using soft wraps in current editor</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T025936Z" creationid="Administrator" creationdate="20170909T025936Z">
@@ -11270,6 +12538,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unknown version</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051724Z" creationid="Administrator" creationdate="20170909T051724Z">
+        <seg>未知版本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unmark Object</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T035427Z" creationid="Administrator" creationdate="20170909T035427Z">
@@ -11406,6 +12682,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use "-J" prefix to specify JVM arguments</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T052203Z" creationid="Administrator" creationdate="20170909T052203Z">
+        <seg>使用"-J"前缀来指定 JVM 参数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use Interface Where Possible</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T033042Z" creationid="Administrator" creationdate="20170909T033042Z">
@@ -11426,6 +12710,38 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T025938Z" creationid="Administrator" creationdate="20170909T025938Z">
         <seg>在编辑器预览中使用自动换行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use custom Ant:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051940Z" creationid="Administrator" creationdate="20170909T051940Z">
+        <seg>使用自定义的Ant:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use project default Ant:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051945Z" creationid="Administrator" creationdate="20170909T051945Z">
+        <seg>使用项目默认Ant:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>User task</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051950Z" creationid="Administrator" creationdate="20170909T051950Z">
+        <seg>用户任务</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using definition which type failed to load</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T052142Z" creationid="Administrator" creationdate="20170909T052142Z">
+        <seg>使用定义类型加载失败</seg>
       </tuv>
     </tu>
     <tu>
@@ -11474,6 +12790,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T033806Z" creationid="Administrator" creationdate="20170909T033806Z">
         <seg>验证当前的XML文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Value</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051856Z" creationid="Administrator" creationdate="20170909T051856Z">
+        <seg>值</seg>
       </tuv>
     </tu>
     <tu>
@@ -11726,6 +13050,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Wrong name format: {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051755Z" creationid="Administrator" creationdate="20170909T051755Z">
+        <seg>错误的名称格式: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>XML Actions</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T041737Z" creationid="Administrator" creationdate="20170909T041737Z">
@@ -11806,6 +13138,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ant.jar not found in directory ''{0}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051730Z" creationid="Administrator" creationdate="20170909T051730Z">
+        <seg>ant.jar 未找到目录 ''{0}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>createUI(...)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T030020Z" creationid="Administrator" creationdate="20170909T030020Z">
@@ -11830,6 +13170,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>implicit ant properties</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T050801Z" creationid="Administrator" creationdate="20170909T050801Z">
+        <seg>隐含的 Ant 属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>in</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T045932Z" creationid="Administrator" creationdate="20170909T045932Z">
@@ -11850,6 +13198,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T031218Z" creationid="Administrator" creationdate="20170909T031218Z">
         <seg>最后撤销操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>lib directory not found in {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051727Z" creationid="Administrator" creationdate="20170909T051727Z">
+        <seg>{0}中未找到lib目录</seg>
       </tuv>
     </tu>
     <tu>
@@ -11890,6 +13246,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T045800Z" creationid="Administrator" creationdate="20170909T045800Z">
         <seg>{0} 在位置 {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} is directory</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051730Z" creationid="Administrator" creationdate="20170909T051730Z">
+        <seg>{0}是目录</seg>
       </tuv>
     </tu>
     <tu>
