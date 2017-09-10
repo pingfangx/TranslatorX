@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>''{0}'' has no default constructor</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T063536Z" creationid="Administrator" creationdate="20170910T063536Z">
+        <seg>''{0}'' 没有默认的构造函数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>''{0}'' has unsupported format</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T052205Z" creationid="Administrator" creationdate="20170909T052205Z">
@@ -118,10 +126,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>''{0}'' is not a concrete class</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T063530Z" creationid="Administrator" creationdate="20170910T063530Z">
+        <seg>''{0}'' 不是一个具体的类</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>''{0}'' is not assignable to ''{1}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T063524Z" creationid="Administrator" creationdate="20170910T063524Z">
+        <seg>''{0}''不能分配给''{1}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>''{0}'' is not public</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T063534Z" creationid="Administrator" creationdate="20170910T063534Z">
+        <seg>''{0}'' 不是公共的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>''{0}'' plugin</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T095705Z" creationid="Administrator" creationdate="20170909T095705Z">
         <seg>''{0}''插件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>''{0}'' should have default constructor or implement ''Decorator'' pattern</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T063554Z" creationid="Administrator" creationdate="20170910T063554Z">
+        <seg>''{0}''应该有默认构造函数或实现''Decorator''模式</seg>
       </tuv>
     </tu>
     <tu>
@@ -1286,6 +1326,14 @@ Use ; (分号) 来分隔资源模式;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Abstract class is not allowed</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T063621Z" creationid="Administrator" creationdate="20170910T063601Z">
+        <seg>抽象类是不允许的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Accept</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T062007Z" creationid="Administrator" creationdate="20170910T062007Z">
@@ -1470,10 +1518,26 @@ Use ; (分号) 来分隔资源模式;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add "{0}" attribute</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T063335Z" creationid="Administrator" creationdate="20170910T063335Z">
+        <seg>添加 "{0}" 属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add '@Override' annotation</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T090709Z" creationid="Administrator" creationdate="20170909T090659Z">
         <seg>添加 '@Override' 注解</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add &lt;{0}&gt; element</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T063318Z" creationid="Administrator" creationdate="20170910T063318Z">
+        <seg>添加 &lt;{0}&gt; 元素</seg>
       </tuv>
     </tu>
     <tu>
@@ -1642,6 +1706,14 @@ Use ; (分号) 来分隔资源模式;
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T042042Z" creationid="Administrator" creationdate="20170909T042042Z">
         <seg>添加为库</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add attribute/element</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T063341Z" creationid="Administrator" creationdate="20170910T063341Z">
+        <seg>添加属性/元素</seg>
       </tuv>
     </tu>
     <tu>
@@ -3394,6 +3466,14 @@ Use ; (分号) 来分隔资源模式;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bad quotation for ''{0}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T063437Z" creationid="Administrator" creationdate="20170910T063437Z">
+        <seg>对''{0}''无效的引用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Balloon Layout</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T040942Z" creationid="Administrator" creationdate="20170909T040942Z">
@@ -4368,6 +4448,22 @@ Use ; (分号) 来分隔资源模式;
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T013005Z" creationid="Administrator" creationdate="20170910T013005Z">
         <seg>无法使用传输“{0}”连接：未找到所需的连接器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot convert empty string to target class ''{0}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T063515Z" creationid="Administrator" creationdate="20170910T063515Z">
+        <seg>无法将空字符串转换为目标类''{0}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot convert string ''{0}'' to target class ''{1}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T063507Z" creationid="Administrator" creationdate="20170910T063507Z">
+        <seg>无法将字符串''{0}'转换为目标类''{1}''</seg>
       </tuv>
     </tu>
     <tu>
@@ -5444,6 +5540,14 @@ Use ; (分号) 来分隔资源模式;
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T084154Z" creationid="Administrator" creationdate="20170909T084154Z">
         <seg>选择要包含在hashCode()中的字段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose file</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T063454Z" creationid="Administrator" creationdate="20170910T063454Z">
+        <seg>选择文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -7664,6 +7768,14 @@ Use ; (分号) 来分隔资源模式;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create new element</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T063453Z" creationid="Administrator" creationdate="20170910T063453Z">
+        <seg>创建新元素</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create new file</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T041335Z" creationid="Administrator" creationdate="20170909T041335Z">
@@ -7684,6 +7796,14 @@ Use ; (分号) 来分隔资源模式;
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T030633Z" creationid="Administrator" creationdate="20170909T030633Z">
         <seg>添加新模块到该项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create new {0} ''{1}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T063452Z" creationid="Administrator" creationdate="20170910T063452Z">
+        <seg>创建新的{0}''{1}''</seg>
       </tuv>
     </tu>
     <tu>
@@ -9816,6 +9936,14 @@ Use ; (分号) 来分隔资源模式;
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T055847Z" creationid="Administrator" creationdate="20170909T055847Z">
         <seg>枚举常量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enum is not allowed</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T063606Z" creationid="Administrator" creationdate="20170910T063558Z">
+        <seg>枚举类型是不允许的</seg>
       </tuv>
     </tu>
     <tu>
@@ -14186,6 +14314,14 @@ Compilation will proceed without clearing output directories</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T033031Z" creationid="Administrator" creationdate="20170909T033031Z">
         <seg>接口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Interface is not allowed</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T063603Z" creationid="Administrator" creationdate="20170910T063557Z">
+        <seg>接口是不允许的</seg>
       </tuv>
     </tu>
     <tu>
@@ -20840,6 +20976,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remove "{0}" attribute</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T063352Z" creationid="Administrator" creationdate="20170910T063352Z">
+        <seg>移除 "{0}" 属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remove 'catch...'</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T084054Z" creationid="Administrator" creationdate="20170909T084050Z">
@@ -20852,6 +20996,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T084016Z" creationid="Administrator" creationdate="20170909T084012Z">
         <seg>除除 'else...'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove &lt;{0}&gt; element</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T063351Z" creationid="Administrator" creationdate="20170910T063351Z">
+        <seg>移除 &lt;{0}&gt; 元素</seg>
       </tuv>
     </tu>
     <tu>
@@ -20932,6 +21084,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T095949Z" creationid="Administrator" creationdate="20170909T095949Z">
         <seg>移除注解</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove attribute/element</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T063354Z" creationid="Administrator" creationdate="20170910T063354Z">
+        <seg>移除属性/元素</seg>
       </tuv>
     </tu>
     <tu>
@@ -30328,6 +30488,14 @@ Please enter pattern string in a new format.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{0} in XML descriptor</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T063449Z" creationid="Administrator" creationdate="20170910T063449Z">
+        <seg>{0}在XML描述符中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{0} in class {1}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T092617Z" creationid="Administrator" creationdate="20170909T092537Z">
@@ -30428,6 +30596,14 @@ Please enter pattern string in a new format.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T061625Z" creationid="Administrator" creationdate="20170910T061625Z">
         <seg>{0}vs 编辑器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} vs {1}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T063329Z" creationid="Administrator" creationdate="20170910T063323Z">
+        <seg>{0} 与 {1}</seg>
       </tuv>
     </tu>
     <tu>
