@@ -830,6 +830,14 @@ Use ; (分号) 来分隔资源模式;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;html&gt;&lt;body&gt;Documentation for &lt;b&gt;{0}&lt;/b&gt; property&lt;/body&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T042539Z" creationid="Administrator" creationdate="20170910T042539Z">
+        <seg>&lt;html&gt;&lt;body&gt; &lt;b&gt;{0}&lt;/b&gt; 属性的文档&lt;/body&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;html&gt;&lt;body&gt;The current project is configured to use its own code style.&lt;br&gt;Changes made to global code style settings will not affect formatting in the current project.&lt;br&gt;See Project Settings | Code Style.&lt;br&gt;Press \&amp;quot;Edit Global Settings\&amp;quot; button below if you still want to edit global settings.&lt;/body&gt;&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T060641Z" creationid="Administrator" creationdate="20170909T060641Z">
@@ -6352,6 +6360,14 @@ Use ; (分号) 来分隔资源模式;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Component Tree</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T040608Z" creationid="Administrator" creationdate="20170910T040608Z">
+        <seg>组件树</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Compressing Memory Snapshot</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102346Z" creationid="Administrator" creationdate="20170909T102346Z">
@@ -7832,6 +7848,14 @@ Use ; (分号) 来分隔资源模式;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Delete Selection</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T040626Z" creationid="Administrator" creationdate="20170910T040626Z">
+        <seg>删除所选</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Delete all favorites except these</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T025326Z" creationid="Administrator" creationdate="20170909T025326Z">
@@ -8036,6 +8060,14 @@ Use ; (分号) 来分隔资源模式;
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T093521Z" creationid="Administrator" creationdate="20170909T093521Z">
         <seg>描述:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Designer</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T040607Z" creationid="Administrator" creationdate="20170910T040607Z">
+        <seg>设计器</seg>
       </tuv>
     </tu>
     <tu>
@@ -9288,6 +9320,14 @@ to {1}:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Error getting value: {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T042704Z" creationid="Administrator" creationdate="20170910T042704Z">
+        <seg>获取值错误：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Error highlighting</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T065242Z" creationid="Administrator" creationdate="20170909T065242Z">
@@ -9300,6 +9340,14 @@ to {1}:
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102553Z" creationid="Administrator" creationdate="20170909T102553Z">
         <seg>从{0}读取颜色方案时出错</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error setting value: {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T042712Z" creationid="Administrator" creationdate="20170910T042712Z">
+        <seg>设置值错误：{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -13078,6 +13126,14 @@ Compilation will proceed without clearing output directories</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Insert Component</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T040612Z" creationid="Administrator" creationdate="20170910T040612Z">
+        <seg>插入组件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Insert Live Template</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T032354Z" creationid="Administrator" creationdate="20170909T032354Z">
@@ -13426,6 +13482,14 @@ Compilation will proceed without clearing output directories</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T083913Z" creationid="Administrator" creationdate="20170909T083843Z">
         <seg>Catch Body无效的文件模板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid Input</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T042715Z" creationid="Administrator" creationdate="20170910T042715Z">
+        <seg>无效的输入</seg>
       </tuv>
     </tu>
     <tu>
@@ -15624,6 +15688,14 @@ for this anonymous class.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move Component</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T040610Z" creationid="Administrator" creationdate="20170910T040610Z">
+        <seg>移动组件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move Down</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T093345Z" creationid="Administrator" creationdate="20170909T034510Z">
@@ -16764,6 +16836,14 @@ for this anonymous class.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T014703Z" creationid="Administrator" creationdate="20170910T014703Z">
         <seg>没有标签为''{0}''的循环语句</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No message</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T042714Z" creationid="Administrator" creationdate="20170910T042714Z">
+        <seg>无消息</seg>
       </tuv>
     </tu>
     <tu>
@@ -19040,6 +19120,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Property</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T042607Z" creationid="Administrator" creationdate="20170910T042607Z">
+        <seg>属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Property ''{0}'' already exists in the file ''{1}''.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T090558Z" creationid="Administrator" creationdate="20170909T090558Z">
@@ -20520,6 +20608,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Restore default value</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T042605Z" creationid="Administrator" creationdate="20170910T042605Z">
+        <seg>重置默认值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Restore tool window size</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T034401Z" creationid="Administrator" creationdate="20170909T034401Z">
@@ -21776,6 +21872,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Set Property Value</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T040628Z" creationid="Administrator" creationdate="20170910T040628Z">
+        <seg>设置属性值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Set Value</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T034921Z" creationid="Administrator" creationdate="20170909T034921Z">
@@ -22464,6 +22568,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Show columns</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T042510Z" creationid="Administrator" creationdate="20170910T042510Z">
+        <seg>显示列</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Show commit message history</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T025226Z" creationid="Administrator" creationdate="20170909T025226Z">
@@ -22512,10 +22624,26 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Show documentation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T042510Z" creationid="Administrator" creationdate="20170910T042510Z">
+        <seg>显示文档</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Show dropdown with the list of tabs that don't fit on the screen in single-row tab layout</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T042256Z" creationid="Administrator" creationdate="20170909T042256Z">
         <seg>使用下拉列表来展示在单行的选项卡布局中容纳不下的选项卡。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show expert properties</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T042507Z" creationid="Administrator" creationdate="20170910T042507Z">
+        <seg>显示 expert 属性</seg>
       </tuv>
     </tu>
     <tu>
@@ -27176,6 +27304,14 @@ Any JAR files created will be named after the name of the main module</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T063719Z" creationid="Administrator" creationdate="20170909T063719Z">
         <seg>虚拟空间</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Visual Edit Operation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T040617Z" creationid="Administrator" creationdate="20170910T040617Z">
+        <seg>可视化编辑操作</seg>
       </tuv>
     </tu>
     <tu>
