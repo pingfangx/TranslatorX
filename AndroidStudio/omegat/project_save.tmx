@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>''{0}'' not found</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T064331Z" creationid="Administrator" creationdate="20170910T064331Z">
+        <seg>''{0}''未找到</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>''{0}'' plugin</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T095705Z" creationid="Administrator" creationdate="20170909T095705Z">
@@ -834,6 +842,14 @@ Use ; (分号) 来分隔资源模式;
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T062939Z" creationid="Administrator" creationdate="20170909T062939Z">
         <seg>&lt;html&gt;"闭包"(匿名类实现一个方法，Java8之前)&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;(The higher the value is the slower it works.&lt;br&gt; Values greater than 0 cause looking for more abstract code structure)&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T064020Z" creationid="Administrator" creationdate="20170910T063948Z">
+        <seg>&lt;html&gt;(值越高，运行越慢。&lt;br&gt; 大于0的值导致寻找更抽象的代码结构)&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2606,6 +2622,70 @@ Use ; (分号) 来分隔资源模式;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Anonymize Fields</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T063823Z" creationid="Administrator" creationdate="20170910T063823Z">
+        <seg>匿名字段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Anonymize Functions</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T064408Z" creationid="Administrator" creationdate="20170910T064408Z">
+        <seg>匿名函数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Anonymize Literals</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T063818Z" creationid="Administrator" creationdate="20170910T063818Z">
+        <seg>匿名文字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Anonymize Local Variables</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T063825Z" creationid="Administrator" creationdate="20170910T063825Z">
+        <seg>匿名局部变量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Anonymize Methods</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T063821Z" creationid="Administrator" creationdate="20170910T063821Z">
+        <seg>匿名方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Anonymize Types</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T063820Z" creationid="Administrator" creationdate="20170910T063820Z">
+        <seg>匿名类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Anonymize Variables</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T064401Z" creationid="Administrator" creationdate="20170910T064401Z">
+        <seg>匿名变量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Anonymize uncommon subexpressions simpler than</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T063929Z" creationid="Administrator" creationdate="20170910T063929Z">
+        <seg>比...更简单的匿名不常见的子表达式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Anonymous Class</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T095818Z" creationid="Administrator" creationdate="20170909T095818Z">
@@ -4086,6 +4166,14 @@ Use ; (分号) 来分隔资源模式;
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T071157Z" creationid="Administrator" creationdate="20170909T071157Z">
         <seg>构建包含的索引</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Building search index</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T064249Z" creationid="Administrator" creationdate="20170910T064249Z">
+        <seg>构建搜索索引</seg>
       </tuv>
     </tu>
     <tu>
@@ -5864,6 +5952,14 @@ Use ; (分号) 来分隔资源模式;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click arrow to show selected item as left/right diff version</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T064353Z" creationid="Administrator" creationdate="20170910T064353Z">
+        <seg>单击箭头将所选项目显示为左/右差异版本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click here to view object tree</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T035628Z" creationid="Administrator" creationdate="20170910T035628Z">
@@ -6196,6 +6292,22 @@ Use ; (分号) 来分隔资源模式;
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T041736Z" creationid="Administrator" creationdate="20170909T041736Z">
         <seg>代码覆盖率的操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Code Duplication Analysis</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T063736Z" creationid="Administrator" creationdate="20170910T063736Z">
+        <seg>代码重复分析</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Code Duplication Analysis Settings</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T063744Z" creationid="Administrator" creationdate="20170910T063744Z">
+        <seg>代码重复分析设置</seg>
       </tuv>
     </tu>
     <tu>
@@ -8968,6 +9080,14 @@ Use ; (分号) 来分隔资源模式;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do not show duplicates simpler than</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T063833Z" creationid="Administrator" creationdate="20170910T063833Z">
+        <seg>不显示比...更简单的重复</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do not show selected files as unversioned</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T041230Z" creationid="Administrator" creationdate="20170909T041230Z">
@@ -9238,6 +9358,22 @@ Use ; (分号) 来分隔资源模式;
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T072304Z" creationid="Administrator" creationdate="20170909T072304Z">
         <seg>重复的规则将被忽略</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Duplicates</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T063746Z" creationid="Administrator" creationdate="20170910T063746Z">
+        <seg>重复</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Duplicates cannot proceed</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T064317Z" creationid="Administrator" creationdate="20170910T064317Z">
+        <seg>重复无法继续</seg>
       </tuv>
     </tu>
     <tu>
@@ -9632,6 +9768,14 @@ Use ; (分号) 来分隔资源模式;
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T052052Z" creationid="Administrator" creationdate="20170909T052052Z">
         <seg>元素''{0}''未定义</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Eliminate duplicates</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T064358Z" creationid="Administrator" creationdate="20170910T064358Z">
+        <seg>消除重复</seg>
       </tuv>
     </tu>
     <tu>
@@ -11430,6 +11574,14 @@ Reason: {1}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Find Duplicates</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T063802Z" creationid="Administrator" creationdate="20170910T063802Z">
+        <seg>发现有重复</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Find Join Point Identified by Pointcut</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T031625Z" creationid="Administrator" creationdate="20170909T031625Z">
@@ -13190,6 +13342,14 @@ Compilation will proceed without clearing output directories</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ignore duplicated code in sources marked as generated</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T064429Z" creationid="Administrator" creationdate="20170910T064426Z">
+        <seg>忽略标记为生成的源码中的重复</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ignore for JUnit assert arguments</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T090146Z" creationid="Administrator" creationdate="20170909T090146Z">
@@ -14362,6 +14522,14 @@ Compilation will proceed without clearing output directories</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T090831Z" creationid="Administrator" creationdate="20170909T090831Z">
         <seg>引入局部变量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T064145Z" creationid="Administrator" creationdate="20170910T064145Z">
+        <seg>无效</seg>
       </tuv>
     </tu>
     <tu>
@@ -17704,6 +17872,14 @@ for this anonymous class.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No code duplicates found</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T063811Z" creationid="Administrator" creationdate="20170910T063800Z">
+        <seg>未找到代码重复</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No coverage</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T095528Z" creationid="Administrator" creationdate="20170909T095528Z">
@@ -18436,6 +18612,14 @@ for this anonymous class.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T041415Z" creationid="Administrator" creationdate="20170909T041415Z">
         <seg>打开 {0} 文件或项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Opening project</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T064250Z" creationid="Administrator" creationdate="20170910T064250Z">
+        <seg>打开项目</seg>
       </tuv>
     </tu>
     <tu>
@@ -22592,6 +22776,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Searching for duplicates:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T064246Z" creationid="Administrator" creationdate="20170910T064246Z">
+        <seg>搜索重复:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Searching for usages in: {0}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T045642Z" creationid="Administrator" creationdate="20170909T045642Z">
@@ -23044,6 +23236,22 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T025328Z" creationid="Administrator" creationdate="20170909T025328Z">
         <seg>发送到收藏夹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Send to Left</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T064147Z" creationid="Administrator" creationdate="20170910T064147Z">
+        <seg>发送到左边</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Send to Right</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T064157Z" creationid="Administrator" creationdate="20170910T064157Z">
+        <seg>发送到右边</seg>
       </tuv>
     </tu>
     <tu>
@@ -24148,6 +24356,22 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T062826Z" creationid="Administrator" creationdate="20170909T062826Z">
         <seg>显示右边距(代码样式选项中配置)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show selected item as left diff version</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T064156Z" creationid="Administrator" creationdate="20170910T064156Z">
+        <seg>将所选项目显示为左侧差异版本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show selected item as right diff version</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T064210Z" creationid="Administrator" creationdate="20170910T064210Z">
+        <seg>将所选项目显示为右侧差异版本</seg>
       </tuv>
     </tu>
     <tu>
@@ -26138,6 +26362,14 @@ already exists in group "{1}".</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The JDK is not configured properly for this project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T064329Z" creationid="Administrator" creationdate="20170910T064329Z">
+        <seg>此项目未正确配置JDK。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The access code is invalid</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102106Z" creationid="Administrator" creationdate="20170909T102106Z">
@@ -26592,6 +26824,14 @@ Any JAR files created will be named after the name of the main module</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T044545Z" creationid="Administrator" creationdate="20170910T044545Z">
         <seg>该插件不是JetBrains的产品。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This project contains no modules.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T064257Z" creationid="Administrator" creationdate="20170910T064257Z">
+        <seg>该项目不包含模块。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28692,6 +28932,14 @@ Any JAR files created will be named after the name of the main module</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Visible from outside of the scope only</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T064059Z" creationid="Administrator" creationdate="20170910T064059Z">
+        <seg>仅从外部可见的范围</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Visual Edit Operation</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T040617Z" creationid="Administrator" creationdate="20170910T040617Z">
@@ -29836,6 +30084,14 @@ Any JAR files created will be named after the name of the main module</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>line {0} in {1}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T064129Z" creationid="Administrator" creationdate="20170910T064101Z">
+        <seg>{1}中的{0}行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>lineNumber()</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T093948Z" creationid="Administrator" creationdate="20170909T093948Z">
@@ -29848,6 +30104,14 @@ Any JAR files created will be named after the name of the main module</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T053608Z" creationid="Administrator" creationdate="20170909T053608Z">
         <seg>行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>lines {0} to {1} in {2}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T064144Z" creationid="Administrator" creationdate="20170910T064144Z">
+        <seg>{2}中的{0}到{1}行</seg>
       </tuv>
     </tu>
     <tu>
@@ -30456,6 +30720,30 @@ Any JAR files created will be named after the name of the main module</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T052353Z" creationid="Administrator" creationdate="20170909T052353Z">
         <seg>''{0}'' 不存在</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} duplicates</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T064212Z" creationid="Administrator" creationdate="20170910T064212Z">
+        <seg>{0} 重复</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} duplicates, Cost: {1} in {2}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T064235Z" creationid="Administrator" creationdate="20170910T064228Z">
+        <seg>{0} 重复, Cost: {1} in {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} duplicates, Cost: {1} in {2} files</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T064242Z" creationid="Administrator" creationdate="20170910T064237Z">
+        <seg>{0} 重复, Cost: {1} in {2} files</seg>
       </tuv>
     </tu>
     <tu>
