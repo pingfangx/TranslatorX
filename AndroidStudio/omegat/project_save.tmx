@@ -510,6 +510,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Read-only)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T063045Z" creationid="Administrator" creationdate="20170910T063045Z">
+        <seg>(只读)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(actual attribute value''{0}'')</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T050805Z" creationid="Administrator" creationdate="20170909T050805Z">
@@ -650,6 +658,14 @@ Use ; (分号) 来分隔资源模式;
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T031157Z" creationid="Administrator" creationdate="20170910T031157Z">
         <seg>&lt;无&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;Not available&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T061640Z" creationid="Administrator" creationdate="20170910T061640Z">
+        <seg>&lt;无法使用&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1266,6 +1282,22 @@ Use ; (分号) 来分隔资源模式;
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T095925Z" creationid="Administrator" creationdate="20170909T095925Z">
         <seg>Abstract</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Accept</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T062007Z" creationid="Administrator" creationdate="20170910T062007Z">
+        <seg>接受</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Accept Changes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T062715Z" creationid="Administrator" creationdate="20170910T062715Z">
+        <seg>接受更改</seg>
       </tuv>
     </tu>
     <tu>
@@ -2126,6 +2158,38 @@ Use ; (分号) 来分隔资源模式;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All Changes Processed</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T063023Z" creationid="Administrator" creationdate="20170910T063023Z">
+        <seg>所有更改已处理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All changes have been processed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T063013Z" creationid="Administrator" creationdate="20170910T063013Z">
+        <seg>所有更改已处理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All changes have been processed.&lt;br&gt;&lt;a href=""&gt;Save changes and finish merging&lt;/a&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T062822Z" creationid="Administrator" creationdate="20170910T062801Z">
+        <seg>已处理所有更改。&lt;br&gt;&lt;a href=""&gt;保存更改并完成合并&lt;/a&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All conflicts resolved</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T062037Z" creationid="Administrator" creationdate="20170910T062037Z">
+        <seg>所有冲突已解决</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All elements are null</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T034213Z" creationid="Administrator" creationdate="20170910T034213Z">
@@ -2154,6 +2218,22 @@ Use ; (分号) 来分隔资源模式;
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T082307Z" creationid="Administrator" creationdate="20170909T082307Z">
         <seg>目录{0}中的所有文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All hunks have been processed.&lt;br&gt;&lt;a href=""&gt;Save changes and finish resolve&lt;/a&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T063005Z" creationid="Administrator" creationdate="20170910T063005Z">
+        <seg>已处理所有块。&lt;br&gt;&lt;a href=""&gt;保存更改并完成解决&lt;/a&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All hunks resolved</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T062154Z" creationid="Administrator" creationdate="20170910T062154Z">
+        <seg>所有的区块已解决</seg>
       </tuv>
     </tu>
     <tu>
@@ -2696,6 +2776,14 @@ Use ; (分号) 来分隔资源模式;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Apply Changes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T062714Z" creationid="Administrator" creationdate="20170910T062714Z">
+        <seg>应用更改</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Apply Non-Conflicting Changes from the Left Side</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T041323Z" creationid="Administrator" creationdate="20170909T041323Z">
@@ -2768,6 +2856,14 @@ Use ; (分号) 来分隔资源模式;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Apply selected change side</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T062029Z" creationid="Administrator" creationdate="20170910T062029Z">
+        <seg>应用所选一边的更改</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Apply the reverse of the selected changes to the working copy</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T041526Z" creationid="Administrator" creationdate="20170909T041526Z">
@@ -2792,10 +2888,34 @@ Use ; (分号) 来分隔资源模式;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Are you sure you want to discard your changes and accept {0, choice, 0#left|1#right} side?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T062754Z" creationid="Administrator" creationdate="20170910T062727Z">
+        <seg>你确定你要放弃更改并接受 {0, choice, 0#左|1#右} 边吗?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are you sure you want to exit without applying changes?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T062131Z" creationid="Administrator" creationdate="20170910T062131Z">
+        <seg>您确定要退出且不应用更改吗?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Are you sure you want to exit {0}?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T071025Z" creationid="Administrator" creationdate="20170909T071025Z">
         <seg>确定要退出{0}吗?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are you sure you want to save changes and finish merging?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T062708Z" creationid="Administrator" creationdate="20170910T062708Z">
+        <seg>您确定要保存更改并完成合并吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -3442,6 +3562,22 @@ Use ; (分号) 来分隔资源模式;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Binary files are different</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T061824Z" creationid="Administrator" creationdate="20170910T061824Z">
+        <seg>二进制文件不同</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Binary files are identical</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T061820Z" creationid="Administrator" creationdate="20170910T061820Z">
+        <seg>二进制文件相同</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Binary operation</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T060239Z" creationid="Administrator" creationdate="20170909T060239Z">
@@ -3898,6 +4034,22 @@ Use ; (分号) 来分隔资源模式;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By line</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T063205Z" creationid="Administrator" creationdate="20170910T063205Z">
+        <seg>按行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By word</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T063202Z" creationid="Administrator" creationdate="20170910T063202Z">
+        <seg>按词</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Calculating changes</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T082841Z" creationid="Administrator" creationdate="20170909T082841Z">
@@ -3938,6 +4090,38 @@ Use ; (分号) 来分隔资源模式;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Can not show diff</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T063153Z" creationid="Administrator" creationdate="20170910T063153Z">
+        <seg>不能显示差异</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can not show diff for unknown file type</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T063151Z" creationid="Administrator" creationdate="20170910T063151Z">
+        <seg>无法显示未知文件类型的差异</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can''t apply {0, number} of {1, number} hunks</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T062249Z" creationid="Administrator" creationdate="20170910T062233Z">
+        <seg>不能应用 {0, number} / {1, number} 块</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can''t apply {0, number} {0, choice, 1#hunk|2#hunks}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T062232Z" creationid="Administrator" creationdate="20170910T062218Z">
+        <seg>不能应用 {0, number} {0, choice, 1#块|2#块}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Can''t create properties file ''{0}'' because its name is associated with the {1}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T095804Z" creationid="Administrator" creationdate="20170909T095804Z">
@@ -3970,10 +4154,26 @@ Use ; (分号) 来分隔资源模式;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Can't Launch Diff Tool</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T061815Z" creationid="Administrator" creationdate="20170910T061815Z">
+        <seg>无法启动差异工具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cancel</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051413Z" creationid="Administrator" creationdate="20170909T051413Z">
         <seg>取消</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cancel Visual Merge</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T062136Z" creationid="Administrator" creationdate="20170910T062136Z">
+        <seg>取消可视合并</seg>
       </tuv>
     </tu>
     <tu>
@@ -4180,6 +4380,14 @@ Use ; (分号) 来分隔资源模式;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cannot create diff element from: {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T061457Z" creationid="Administrator" creationdate="20170910T061457Z">
+        <seg>无法从{0}创建差异无素</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cannot create directory ''{0}''</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T041537Z" creationid="Administrator" creationdate="20170909T041537Z">
@@ -4308,6 +4516,14 @@ Use ; (分号) 来分隔资源模式;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cannot find file: {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T061448Z" creationid="Administrator" creationdate="20170910T061448Z">
+        <seg>无法找到文件:{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cannot find home directory ''{1}'' for JDK ''{0}''.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T111507Z" creationid="Administrator" creationdate="20170909T111507Z">
@@ -4368,6 +4584,14 @@ Use ; (分号) 来分隔资源模式;
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T035116Z" creationid="Administrator" creationdate="20170910T035116Z">
         <seg>无法加载文件''{0}'';该文件的断点将被忽略</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot load file: {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T061713Z" creationid="Administrator" creationdate="20170910T061713Z">
+        <seg>无法加载文件:{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -4812,6 +5036,14 @@ Use ; (分号) 来分隔资源模式;
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T040532Z" creationid="Administrator" creationdate="20170909T040532Z">
         <seg>改变视图模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Changed</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T063123Z" creationid="Administrator" creationdate="20170910T063108Z">
+        <seg>更改</seg>
       </tuv>
     </tu>
     <tu>
@@ -5556,6 +5788,30 @@ Use ; (分号) 来分隔资源模式;
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T034002Z" creationid="Administrator" creationdate="20170909T034002Z">
         <seg>单击以显示/隐藏后台任务窗口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clipboard vs Editor</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T061554Z" creationid="Administrator" creationdate="20170910T061554Z">
+        <seg>剪贴板 vs 编辑器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clipboard vs Selected Value</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T063139Z" creationid="Administrator" creationdate="20170910T063139Z">
+        <seg>剪贴板与选中的值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clipboard vs {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T061557Z" creationid="Administrator" creationdate="20170910T061557Z">
+        <seg>剪贴板 vs {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -6672,6 +6928,14 @@ Use ; (分号) 来分隔资源模式;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Conflict</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T063126Z" creationid="Administrator" creationdate="20170910T063114Z">
+        <seg>冲突</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Conflict between custom compilers should be resolved manually</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T112533Z" creationid="Administrator" creationdate="20170909T112533Z">
@@ -6732,6 +6996,46 @@ Use ; (分号) 来分隔资源模式;
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T053246Z" creationid="Administrator" creationdate="20170909T053246Z">
         <seg>构造方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contents are identical</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T061857Z" creationid="Administrator" creationdate="20170910T061857Z">
+        <seg>内容是相同的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contents have differences only in encoding</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T061916Z" creationid="Administrator" creationdate="20170910T061916Z">
+        <seg>内容只有在编码上有差异</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contents have differences only in line separators</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T061907Z" creationid="Administrator" creationdate="20170910T061907Z">
+        <seg>内容仅在行分隔符中有差异</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contents have differences only in line separators and encoding</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T061927Z" creationid="Administrator" creationdate="20170910T061927Z">
+        <seg>内容只有在行分隔符和编码上有差异</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contents have differences only in line separators or whitespaces</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T061948Z" creationid="Administrator" creationdate="20170910T061948Z">
+        <seg>内容只有在行分隔符或空白上有差异</seg>
       </tuv>
     </tu>
     <tu>
@@ -8112,6 +8416,14 @@ Use ; (分号) 来分隔资源模式;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Deleted</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T063125Z" creationid="Administrator" creationdate="20170910T063111Z">
+        <seg>删除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Demos and Screencasts</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T034827Z" creationid="Administrator" creationdate="20170909T034827Z">
@@ -8296,10 +8608,42 @@ Use ; (分号) 来分隔资源模式;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Diff Options</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T061832Z" creationid="Administrator" creationdate="20170910T061832Z">
+        <seg>差异选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Diff \&amp; Merge</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T070809Z" creationid="Administrator" creationdate="20170909T070809Z">
         <seg>差异 \&amp; 合并</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Diff manager cannot compare ''{0}'' and ''{1}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T061525Z" creationid="Administrator" creationdate="20170910T061511Z">
+        <seg>差异管理器无法比较 ''{0}'' 和 ''{1}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Differences highlighting is off</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T061808Z" creationid="Administrator" creationdate="20170910T061808Z">
+        <seg>差异高亮已关闭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Differences ignored</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T061746Z" creationid="Administrator" creationdate="20170910T061746Z">
+        <seg>差异忽略</seg>
       </tuv>
     </tu>
     <tu>
@@ -8468,6 +8812,22 @@ Use ; (分号) 来分隔资源模式;
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T054700Z" creationid="Administrator" creationdate="20170909T054700Z">
         <seg>不要强制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do not highlight</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T063207Z" creationid="Administrator" creationdate="20170910T063207Z">
+        <seg>不高亮</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do not ignore</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T061628Z" creationid="Administrator" creationdate="20170910T061628Z">
+        <seg>不要忽略</seg>
       </tuv>
     </tu>
     <tu>
@@ -9032,6 +9392,14 @@ Use ; (分号) 来分隔资源模式;
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T035034Z" creationid="Administrator" creationdate="20170909T035034Z">
         <seg>编辑节点源码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Editor</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T061533Z" creationid="Administrator" creationdate="20170910T061533Z">
+        <seg>编辑器</seg>
       </tuv>
     </tu>
     <tu>
@@ -10830,6 +11198,22 @@ Reason: {1}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Files Are Different</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T061828Z" creationid="Administrator" creationdate="20170910T061828Z">
+        <seg>文件是不同的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Files Are Identical</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T061822Z" creationid="Administrator" creationdate="20170910T061822Z">
+        <seg>文件是相同的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Files: {0} - Classes: {1}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T111452Z" creationid="Administrator" creationdate="20170909T111452Z">
@@ -11434,6 +11818,14 @@ Reason: {1}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T030214Z" creationid="Administrator" creationdate="20170909T030214Z">
         <seg>从模板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>From сlipboard</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T061550Z" creationid="Administrator" creationdate="20170910T061550Z">
+        <seg>从剪贴板</seg>
       </tuv>
     </tu>
     <tu>
@@ -12384,6 +12776,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Highlight:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T063211Z" creationid="Administrator" creationdate="20170910T063211Z">
+        <seg>高亮:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Highlights the file in platform's file manager</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T042200Z" creationid="Administrator" creationdate="20170909T042200Z">
@@ -12742,6 +13142,22 @@ Compilation will proceed without clearing output directories</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ignore whitespace:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T061638Z" creationid="Administrator" creationdate="20170910T061638Z">
+        <seg>忽略空白：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ignored</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T063038Z" creationid="Administrator" creationdate="20170910T063038Z">
+        <seg>忽略的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Illegal scheme name</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T070435Z" creationid="Administrator" creationdate="20170909T070435Z">
@@ -12970,6 +13386,14 @@ Compilation will proceed without clearing output directories</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T031030Z" creationid="Administrator" creationdate="20170909T030855Z">
         <seg>根据现有的源码目录创建模块或转换现有的项目模型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Important</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T063035Z" creationid="Administrator" creationdate="20170910T063035Z">
+        <seg>重要的</seg>
       </tuv>
     </tu>
     <tu>
@@ -13398,6 +13822,14 @@ Compilation will proceed without clearing output directories</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Insert</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T061715Z" creationid="Administrator" creationdate="20170910T061715Z">
+        <seg>插入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Insert '('</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T052800Z" creationid="Administrator" creationdate="20170909T052800Z">
@@ -13554,6 +13986,14 @@ Compilation will proceed without clearing output directories</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T091501Z" creationid="Administrator" creationdate="20170909T091501Z">
         <seg>将下划线插入文字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inserted</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T063122Z" creationid="Administrator" creationdate="20170910T063051Z">
+        <seg>插入</seg>
       </tuv>
     </tu>
     <tu>
@@ -14630,6 +15070,14 @@ Compilation will proceed without clearing output directories</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Leading and trailing</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T061631Z" creationid="Administrator" creationdate="20170910T061631Z">
+        <seg>首位的与末尾的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Learn how to increase your coding productivity</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T034638Z" creationid="Administrator" creationdate="20170909T034638Z">
@@ -15434,6 +15882,14 @@ Compilation will proceed without clearing output directories</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T033821Z" creationid="Administrator" creationdate="20170909T033821Z">
         <seg>合并</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Merge Color Options</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T063042Z" creationid="Administrator" creationdate="20170910T063042Z">
+        <seg>合并颜色选项</seg>
       </tuv>
     </tu>
     <tu>
@@ -17060,6 +17516,14 @@ for this anonymous class.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T091346Z" creationid="Administrator" creationdate="20170909T091346Z">
         <seg>没有找到的类</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No Differences</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T062000Z" creationid="Administrator" creationdate="20170910T062000Z">
+        <seg>没有差异</seg>
       </tuv>
     </tu>
     <tu>
@@ -21008,6 +21472,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Resolve</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T062035Z" creationid="Administrator" creationdate="20170910T062035Z">
+        <seg>解决</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Resolved value:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T100525Z" creationid="Administrator" creationdate="20170909T100525Z">
@@ -21616,6 +22088,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Save and Finish</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T063026Z" creationid="Administrator" creationdate="20170910T063026Z">
+        <seg>保存并完成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Save as Live Template</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T033744Z" creationid="Administrator" creationdate="20170909T033744Z">
@@ -22032,6 +22512,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select Change</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T061641Z" creationid="Administrator" creationdate="20170910T061641Z">
+        <seg>选择改变</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select Classes to Import</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T082934Z" creationid="Administrator" creationdate="20170909T082934Z">
@@ -22044,6 +22532,22 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T082936Z" creationid="Administrator" creationdate="20170909T082936Z">
         <seg>选择要导入的元素</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select External Diff Program</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T061850Z" creationid="Administrator" creationdate="20170910T061850Z">
+        <seg>选择外部差异程序</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select External Merge Program</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T061854Z" creationid="Administrator" creationdate="20170910T061854Z">
+        <seg>选择外部合并程序</seg>
       </tuv>
     </tu>
     <tu>
@@ -22224,6 +22728,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select changed text in this version and corresponding in other</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T061711Z" creationid="Administrator" creationdate="20170910T061711Z">
+        <seg>选择此版本中的更改文本，及在其他版本中对应的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select in Left Tree</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T045219Z" creationid="Administrator" creationdate="20170909T045219Z">
@@ -22320,6 +22832,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Selected Value</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T063134Z" creationid="Administrator" creationdate="20170910T063134Z">
+        <seg>选中的值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Selected files</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T050148Z" creationid="Administrator" creationdate="20170909T050148Z">
@@ -22332,6 +22852,22 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T082259Z" creationid="Administrator" creationdate="20170909T082259Z">
         <seg>所选文本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Selection from Editor</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T061619Z" creationid="Administrator" creationdate="20170910T061619Z">
+        <seg>从编辑器选择</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Selection from {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T061622Z" creationid="Administrator" creationdate="20170910T061622Z">
+        <seg>从{0}选择</seg>
       </tuv>
     </tu>
     <tu>
@@ -23116,6 +23652,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T031731Z" creationid="Administrator" creationdate="20170909T031731Z">
         <seg>显示插入符号处的错误或警告说明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show diff anyway?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T061957Z" creationid="Administrator" creationdate="20170910T061957Z">
+        <seg>仍显示差异?</seg>
       </tuv>
     </tu>
     <tu>
@@ -25852,6 +26396,14 @@ Any JAR files created will be named after the name of the main module</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There {0, choice, 0#'{1, choice, 1#is|2#are}'|1#'{1, choice, 0#is|1#are}'|2#are} {0, choice, 0#|1#one change|2#{0, number} changes}{0, choice, 0#|1#'{1, choice, 0#|1# and }'}{1, choice, 0#|1#one conflict|2#{1, number} conflicts} left unprocessed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T062701Z" creationid="Administrator" creationdate="20170910T062412Z">
+        <seg>There {0, choice, 0#'{1, choice, 1#is|2#are}'|1#'{1, choice, 0#is|1#are}'|2#are} {0, choice, 0#|1#1个更改|2#{0, number} 个更改}{0, choice, 0#|1#'{1, choice, 0#|1# 和 }'}{1, choice, 0#|1#1个冲突|2#{1, number} 个冲突} 未处理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This file is indented with tabs instead of {0} spaces</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T073019Z" creationid="Administrator" creationdate="20170909T073019Z">
@@ -26972,6 +27524,14 @@ Any JAR files created will be named after the name of the main module</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unknown file type: {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T061528Z" creationid="Administrator" creationdate="20170910T061528Z">
+        <seg>未知文件类型:{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unknown type {0}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T112812Z" creationid="Administrator" creationdate="20170909T112812Z">
@@ -27268,6 +27828,22 @@ Any JAR files created will be named after the name of the main module</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Usage: {0} diff &lt;left file&gt; &lt;right file&gt; [&lt;base file&gt;]</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T061441Z" creationid="Administrator" creationdate="20170910T061307Z">
+        <seg>用法: {0} diff &lt;left file&gt; &lt;right file&gt; [&lt;base file&gt;]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Usage: {0} merge &lt;left file&gt; &lt;right file&gt; [&lt;base file&gt;] &lt;output file&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T061446Z" creationid="Administrator" creationdate="20170910T061443Z">
+        <seg>用法: {0} merge &lt;left file&gt; &lt;right file&gt; [&lt;base file&gt;] &lt;output file&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Usages of package ''{0}'' in package ''{1}''</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T045313Z" creationid="Administrator" creationdate="20170909T045313Z">
@@ -27440,6 +28016,30 @@ Any JAR files created will be named after the name of the main module</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T071201Z" creationid="Administrator" creationdate="20170909T071201Z">
         <seg>使用外部注释</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use external merge tool:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T061842Z" creationid="Administrator" creationdate="20170910T061842Z">
+        <seg>使用外部合并工具:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use external tool to compare files:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T061836Z" creationid="Administrator" creationdate="20170910T061836Z">
+        <seg>使用外部工具来比较文件:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use external tool to compare folders:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T061839Z" creationid="Administrator" creationdate="20170910T061839Z">
+        <seg>使用外部工具来比较文件夹:</seg>
       </tuv>
     </tu>
     <tu>
@@ -28136,6 +28736,14 @@ Any JAR files created will be named after the name of the main module</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T031023Z" creationid="Administrator" creationdate="20170910T031023Z">
         <seg>你仍想重新加载修改过的类吗?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Would you like to save changes and finish merging?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T063020Z" creationid="Administrator" creationdate="20170910T063020Z">
+        <seg>你想保存更改并完成合并吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -28988,6 +29596,14 @@ Any JAR files created will be named after the name of the main module</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>initMergeContent</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T063033Z" creationid="Administrator" creationdate="20170910T063033Z">
+        <seg>初始化合并内容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>iterableComponentType(ArrayOrIterable)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T093947Z" creationid="Administrator" creationdate="20170909T093947Z">
@@ -29436,6 +30052,22 @@ Any JAR files created will be named after the name of the main module</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{0, choice, 0#No changes|1#One change|2#{0, number} changes}.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T062059Z" creationid="Administrator" creationdate="20170910T062059Z">
+        <seg>{0, choice, 0#无更改|1#1 更改|2#{0, number} 更改}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0, choice, 0#No differences|1#1 difference|2#{0, number} differences}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T061743Z" creationid="Administrator" creationdate="20170910T061720Z">
+        <seg>{0, choice, 0#无差异|1#1 差异|2#{0, number} 差异}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{0, choice, 0#No matches|1#One match|2#{0} matches}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T073124Z" creationid="Administrator" creationdate="20170909T073124Z">
@@ -29456,6 +30088,14 @@ Any JAR files created will be named after the name of the main module</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T112248Z" creationid="Administrator" creationdate="20170909T112248Z">
         <seg>{0, choice, 1#文件|2#文件} {1} {0, choice, 1#已经|2#已经} 打包在 {2}里</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0, number} {0, choice, 1#hunk is|2#hunks are} already applied</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T062212Z" creationid="Administrator" creationdate="20170910T062212Z">
+        <seg>{0, number} {0, choice, 1#块|2#块} 已应用</seg>
       </tuv>
     </tu>
     <tu>
@@ -29784,6 +30424,14 @@ Please enter pattern string in a new format.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{0} vs Editor</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T061625Z" creationid="Administrator" creationdate="20170910T061625Z">
+        <seg>{0}vs 编辑器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{0} with name ''{1}'' already exists</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102618Z" creationid="Administrator" creationdate="20170909T102618Z">
@@ -29892,6 +30540,14 @@ Please enter pattern string in a new format.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T095934Z" creationid="Administrator" creationdate="20170909T095934Z">
         <seg>{0}类初始化器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{1, choice, 0#No conflicts|1#One conflict|2#{0, number} conflicts}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T062119Z" creationid="Administrator" creationdate="20170910T062119Z">
+        <seg>{1, choice, 0#无冲突|1#1 冲突|2#{0, number} 冲突}</seg>
       </tuv>
     </tu>
     <tu>
