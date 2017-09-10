@@ -518,6 +518,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(current value: {0})</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T043035Z" creationid="Administrator" creationdate="20170910T043035Z">
+        <seg>(当前值: {0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(expr)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T083831Z" creationid="Administrator" creationdate="20170909T083831Z">
@@ -530,6 +538,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T113720Z" creationid="Administrator" creationdate="20170909T113626Z">
         <seg>(多重选择...)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(no errors)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T044623Z" creationid="Administrator" creationdate="20170910T044623Z">
+        <seg>(没有错误)</seg>
       </tuv>
     </tu>
     <tu>
@@ -766,6 +782,22 @@ Use ; (分号) 来分隔资源模式;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;html&gt;&lt;a href="#"&gt;Set up HTTP proxy settings&lt;/a&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T043145Z" creationid="Administrator" creationdate="20170910T043145Z">
+        <seg>&lt;html&gt;&lt;a href="#"&gt;设置 HTTP 代理&lt;/a&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;&lt;b&gt;Changes will be saved to&lt;/b&gt; ''{0}''&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T043028Z" creationid="Administrator" creationdate="20170910T043028Z">
+        <seg>&lt;html&gt;&lt;b&gt;修改将被保存到&lt;/b&gt; ''{0}''&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;html&gt;&lt;body&gt;&lt;font face="verdana" size="-1"&gt;You have selected the postfix completion language.&lt;br&gt;By clicking the checkbox, you can enable/disable all postfix templates for the language.&lt;br&gt;To enable/disable a postfix template select it inside the group.&lt;br&gt;&lt;/font&gt;&lt;/body&gt;&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T092257Z" creationid="Administrator" creationdate="20170909T092031Z">
@@ -838,6 +870,14 @@ Use ; (分号) 来分隔资源模式;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;html&gt;&lt;body&gt;IDE internal error occurred.&lt;br&gt;Click to see details and submit a bug report.&lt;/body&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T044028Z" creationid="Administrator" creationdate="20170910T044028Z">
+        <seg>&lt;html&gt;&lt;body&gt;IDE内部错误.&lt;br&gt;单击以查看详细信息并发送bug报告给JetBrains.&lt;/body&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;html&gt;&lt;body&gt;The current project is configured to use its own code style.&lt;br&gt;Changes made to global code style settings will not affect formatting in the current project.&lt;br&gt;See Project Settings | Code Style.&lt;br&gt;Press \&amp;quot;Edit Global Settings\&amp;quot; button below if you still want to edit global settings.&lt;/body&gt;&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T060641Z" creationid="Administrator" creationdate="20170909T060641Z">
@@ -850,6 +890,14 @@ Use ; (分号) 来分隔资源模式;
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T084746Z" creationid="Administrator" creationdate="20170909T084344Z">
         <seg>&lt;html&gt;&lt;body&gt;虽然在Object.equals()的规范通常不接受子类，&lt;br&gt;但为了在框架能正常工作，接受子类可能是必须的。&lt;br&gt;就像Hibernate生成代理子类一样。&lt;/body&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;&lt;u&gt;P&lt;/u&gt;lease fill in any details that may be important: steps to reproduce, what were you doing when problem occurred, etc.:&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T044343Z" creationid="Administrator" creationdate="20170910T044343Z">
+        <seg>&lt;html&gt;&lt;u&gt;请&lt;/u&gt;填写可能重要的任何细节:重现步骤，当问题发生时，你在做什么等.&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -898,6 +946,22 @@ Use ; (分号) 来分隔资源模式;
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T062915Z" creationid="Administrator" creationdate="20170909T062915Z">
         <seg>&lt;html&gt;匿名类&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;Are you sure to disable plugin &lt;b&gt;{0}&lt;/b&gt;?&lt;br/&gt;Functionality provided by the plugin will no longer be available.&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T044457Z" creationid="Administrator" creationdate="20170910T044457Z">
+        <seg>&lt;html&gt;确实要禁用插件&lt;b&gt;{0}&lt;/b&gt;?&lt;br/&gt;该插件提供的功能将不再可用.&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;Are you sure you would like to disable plugin &lt;b&gt;{0}&lt;/b&gt;?&lt;br/&gt;Functionality provided by the plugin and dependent plugins will no longer be available.&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T044443Z" creationid="Administrator" creationdate="20170910T044443Z">
+        <seg>&lt;html&gt;您确实想要禁用插件&lt;b&gt;{0}&lt;/b&gt;吗?&lt;br/&gt;该插件及依赖该插件的提供的功能将不再可用.&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -974,6 +1038,14 @@ Use ; (分号) 来分隔资源模式;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;html&gt;If you would like to get notified when the exceptions you submit are fixed,&lt;br&gt;please fill in your JetBrains Account login and password.&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T043122Z" creationid="Administrator" creationdate="20170910T043122Z">
+        <seg>&lt;html&gt;如果您想得知您所报告的问题的处理结果, &lt;br&gt;请填写您的JetBrains登录账号和密码.&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;html&gt;Inline parameter names for literal call arguments&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T063204Z" creationid="Administrator" creationdate="20170909T063204Z">
@@ -1014,6 +1086,22 @@ Use ; (分号) 来分隔资源模式;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;html&gt;Submit report anonymously or use &lt;a&gt;JetBrains Account...&lt;/a&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T043557Z" creationid="Administrator" creationdate="20170910T043557Z">
+        <seg>&lt;html&gt;匿名或使用&lt;a&gt;JetBrains帐户...&lt;/a&gt; 提交报告&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;Submit report as &lt;a&gt;{0}&lt;/a&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T043602Z" creationid="Administrator" creationdate="20170910T043602Z">
+        <seg>&lt;html&gt;以&lt;a&gt;{0}&lt;/a&gt;提交报告&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;html&gt;The JRE you are running {0} with might have&lt;br&gt;functional and performance issues related to ligatures support.&lt;br&gt;To avoid such issues, run {0} with &lt;a href="https://confluence.jetbrains.com/display/IDEADEV/JetBrains+Runtime+Environment"&gt;JetBrains Runtime&lt;/a&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T070703Z" creationid="Administrator" creationdate="20170909T070703Z">
@@ -1042,6 +1130,14 @@ Use ; (分号) 来分隔资源模式;
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T083135Z" creationid="Administrator" creationdate="20170909T083135Z">
         <seg>&lt;html&gt;您粘贴的代码片段使用的是在新上下文中导入时不可访问的元素。&lt;br/&gt;选择您要导入到新文件的元素。&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;There is not enough memory to perform the requested operation.&lt;br&gt;Please increase ''{0}'' setting and restart the IDE for change to take effect.&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T043022Z" creationid="Administrator" creationdate="20170910T043022Z">
+        <seg>&lt;html&gt;没有足够的内存来执行请求的操作。&lt;br&gt;请增加 {0} 设置并重启IDE使更改生效。&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1710,6 +1806,14 @@ Use ; (分号) 来分隔资源模式;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Additional information (steps to reproduce, what were you doing when the exception occurred):</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T043611Z" creationid="Administrator" creationdate="20170910T043611Z">
+        <seg>附加信息(当发生异常时,你的操作步骤是):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Additional settings</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T072251Z" creationid="Administrator" creationdate="20170909T072251Z">
@@ -1830,6 +1934,14 @@ Use ; (分号) 来分隔资源模式;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After disabling the plugin please restart {0} to apply changes in plugin configuration</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T044525Z" creationid="Administrator" creationdate="20170910T044525Z">
+        <seg>禁用插件后,请重启{0}应用插件配置的更改</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After imports:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T053008Z" creationid="Administrator" creationdate="20170909T053008Z">
@@ -1890,6 +2002,14 @@ Use ; (分号) 来分隔资源模式;
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T062103Z" creationid="Administrator" creationdate="20170909T062103Z">
         <seg>在类型转换之后</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alias:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T044134Z" creationid="Administrator" creationdate="20170910T044134Z">
+        <seg>别名:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2924,6 +3044,14 @@ Use ; (分号) 来分隔资源模式;
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T033650Z" creationid="Administrator" creationdate="20170909T033646Z">
         <seg>附加 {0} 视图</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Attachments</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T044627Z" creationid="Administrator" creationdate="20170910T044627Z">
+        <seg>附件</seg>
       </tuv>
     </tu>
     <tu>
@@ -4688,6 +4816,14 @@ Use ; (分号) 来分隔资源模式;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Changes in plugin configuration will take effect after {0} restart</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T044518Z" creationid="Administrator" creationdate="20170910T044518Z">
+        <seg>{0} 重启后,插件配置更改将生效</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Changes orientation of splitter</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T034520Z" creationid="Administrator" creationdate="20170909T034520Z">
@@ -5332,6 +5468,30 @@ Use ; (分号) 来分隔资源模式;
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051800Z" creationid="Administrator" creationdate="20170909T051800Z">
         <seg>类路径:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clear</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T044602Z" creationid="Administrator" creationdate="20170910T044602Z">
+        <seg>清除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clear And Close</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T044003Z" creationid="Administrator" creationdate="20170910T044003Z">
+        <seg>清除并关闭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clear all</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T044622Z" creationid="Administrator" creationdate="20170910T044622Z">
+        <seg>清除全部</seg>
       </tuv>
     </tu>
     <tu>
@@ -8112,6 +8272,14 @@ Use ; (分号) 来分隔资源模式;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Details</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T044344Z" creationid="Administrator" creationdate="20170910T044344Z">
+        <seg>详细信息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Detect all externally changed files and reload them from disk</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T031135Z" creationid="Administrator" creationdate="20170909T031135Z">
@@ -8208,10 +8376,42 @@ Use ; (分号) 来分隔资源模式;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Disable Plugin</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T044527Z" creationid="Administrator" creationdate="20170910T044527Z">
+        <seg>禁用插件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Disable again</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T035827Z" creationid="Administrator" creationdate="20170910T035827Z">
         <seg>再次禁用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disable and Restart</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T044529Z" creationid="Administrator" creationdate="20170910T044529Z">
+        <seg>禁用并重启</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disable plugin</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T044014Z" creationid="Administrator" creationdate="20170910T044009Z">
+        <seg>禁用插件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disable plugin {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T044017Z" creationid="Administrator" creationdate="20170910T044017Z">
+        <seg>禁用插件 {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -8366,6 +8566,14 @@ Use ; (分号) 来分隔资源模式;
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051540Z" creationid="Administrator" creationdate="20170909T051540Z">
         <seg>是否要删除该引用吗？
 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do you want to try again?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T043649Z" creationid="Administrator" creationdate="20170910T043649Z">
+        <seg>你想重试吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -8680,6 +8888,14 @@ Use ; (分号) 来分隔资源模式;
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T093243Z" creationid="Administrator" creationdate="20170909T093243Z">
         <seg>编辑代码模板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit Log Files Aliases</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T044133Z" creationid="Administrator" creationdate="20170910T044133Z">
+        <seg>编辑日志文件别名</seg>
       </tuv>
     </tu>
     <tu>
@@ -9268,6 +9484,14 @@ Use ; (分号) 来分隔资源模式;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Error Report</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T043720Z" creationid="Administrator" creationdate="20170910T043714Z">
+        <seg>错误报告</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Error connecting to remote process.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T013439Z" creationid="Administrator" creationdate="20170910T013439Z">
@@ -9304,6 +9528,14 @@ to {1}:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Error description (optional):</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T043406Z" creationid="Administrator" creationdate="20170910T043406Z">
+        <seg>错误描述（可选）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Error evaluating field : ''{0}''</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T020648Z" creationid="Administrator" creationdate="20170910T020459Z">
@@ -9336,10 +9568,26 @@ to {1}:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Error message</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T044231Z" creationid="Administrator" creationdate="20170910T044231Z">
+        <seg>错误消息(</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Error reading color scheme from {0}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102553Z" creationid="Administrator" creationdate="20170909T102553Z">
         <seg>从{0}读取颜色方案时出错</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error report sending failed</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T043718Z" creationid="Administrator" creationdate="20170910T043718Z">
+        <seg>错误报告发送失败了</seg>
       </tuv>
     </tu>
     <tu>
@@ -9540,6 +9788,30 @@ to {1}:
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T012203Z" creationid="Administrator" creationdate="20170910T012203Z">
         <seg>异常断点达到</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exception in &lt;b&gt;unknown plugin&lt;/b&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T043950Z" creationid="Administrator" creationdate="20170910T043950Z">
+        <seg>异常在 &lt;b&gt;未知插件&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exception in &lt;b&gt;{0} core&lt;/b&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T043935Z" creationid="Administrator" creationdate="20170910T043919Z">
+        <seg>错误在 &lt;b&gt;{0} 核心&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exception in plugin &lt;b&gt;{0}&lt;/b&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T043946Z" creationid="Administrator" creationdate="20170910T043937Z">
+        <seg>错误在插件 &lt;b&gt;{0}&lt;/b&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10474,6 +10746,14 @@ Reason: {1}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T083745Z" creationid="Administrator" creationdate="20170909T083745Z">
         <seg>文件模板错误</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File content</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T044629Z" creationid="Administrator" creationdate="20170910T044629Z">
+        <seg>文件内容</seg>
       </tuv>
     </tu>
     <tu>
@@ -11872,6 +12152,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>HTTP Result code: {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T042940Z" creationid="Administrator" creationdate="20170910T042940Z">
+        <seg>HTTP 返回代码: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hard coded string literal: {0}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T090433Z" creationid="Administrator" creationdate="20170909T090433Z">
@@ -12252,6 +12540,22 @@ Compilation will proceed without clearing output directories</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IDE Error Occurred</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T044038Z" creationid="Administrator" creationdate="20170910T044038Z">
+        <seg>IDE错误发生</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IDE Fatal Errors</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T043955Z" creationid="Administrator" creationdate="20170910T043955Z">
+        <seg>IDE 致命错误</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IDE Scripting Console</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T032619Z" creationid="Administrator" creationdate="20170909T032619Z">
@@ -12282,6 +12586,14 @@ Compilation will proceed without clearing output directories</seg>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T112156Z" creationid="Administrator" creationdate="20170909T112156Z">
         <seg>IO 错误:
 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ITN returns wrong data</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T042910Z" creationid="Administrator" creationdate="20170910T042910Z">
+        <seg>ITN返回错误的数据</seg>
       </tuv>
     </tu>
     <tu>
@@ -13654,6 +13966,14 @@ Compilation will proceed without clearing output directories</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Is Active</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T044130Z" creationid="Administrator" creationdate="20170910T044130Z">
+        <seg>是活跃的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Is implemented by&lt;br&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T113313Z" creationid="Administrator" creationdate="20170909T113313Z">
@@ -13954,6 +14274,22 @@ Compilation will proceed without clearing output directories</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T111653Z" creationid="Administrator" creationdate="20170909T111653Z">
         <seg>Javac 选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>JetBrains Account</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T043354Z" creationid="Administrator" creationdate="20170910T043354Z">
+        <seg>JetBrains 账户</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>JetBrains Account authentication failed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T043634Z" creationid="Administrator" creationdate="20170910T043634Z">
+        <seg>JetBrains 账户认证失败。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14598,6 +14934,22 @@ Compilation will proceed without clearing output directories</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Log File Entry</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T044128Z" creationid="Administrator" creationdate="20170910T044128Z">
+        <seg>日志文件条目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Log File Location:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T044137Z" creationid="Administrator" creationdate="20170910T044137Z">
+        <seg>日志文件位置:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Log evaluated expression</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T031606Z" creationid="Administrator" creationdate="20170910T031606Z">
@@ -14610,6 +14962,14 @@ Compilation will proceed without clearing output directories</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T031745Z" creationid="Administrator" creationdate="20170910T031745Z">
         <seg>日志表达式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Log files to be shown in console</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T044120Z" creationid="Administrator" creationdate="20170910T044120Z">
+        <seg>日志文件将显示在控制台</seg>
       </tuv>
     </tu>
     <tu>
@@ -15054,6 +15414,14 @@ Compilation will proceed without clearing output directories</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Memory Dump</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T043056Z" creationid="Administrator" creationdate="20170910T043056Z">
+        <seg>内存转储</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Memory Management</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T033824Z" creationid="Administrator" creationdate="20170909T033824Z">
@@ -15444,6 +15812,14 @@ for this anonymous class.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T110619Z" creationid="Administrator" creationdate="20170909T110619Z">
         <seg>模块</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Monitoring stopped</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T044105Z" creationid="Administrator" creationdate="20170910T044105Z">
+        <seg>监测停止</seg>
       </tuv>
     </tu>
     <tu>
@@ -16480,6 +16856,14 @@ for this anonymous class.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>New build {0} is available</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T043726Z" creationid="Administrator" creationdate="20170910T043726Z">
+        <seg>新构建{0}是可用的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>New line after '('</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T055448Z" creationid="Administrator" creationdate="20170909T055426Z">
@@ -16688,6 +17072,14 @@ for this anonymous class.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No IDE fatal errors</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T044030Z" creationid="Administrator" creationdate="20170910T044030Z">
+        <seg>没有IDE致命错误</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No analysis has been performed</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T113136Z" creationid="Administrator" creationdate="20170909T113136Z">
@@ -16828,6 +17220,14 @@ for this anonymous class.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T083437Z" creationid="Administrator" creationdate="20170909T083437Z">
         <seg>找不到java.lang.Object类</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No log files attached</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T044111Z" creationid="Administrator" creationdate="20170910T044111Z">
+        <seg>没有附加日志文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -17180,6 +17580,14 @@ for this anonymous class.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T034539Z" creationid="Administrator" creationdate="20170910T034539Z">
         <seg>预期对象引用，而不是{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Occurred {1,choice,1#once|2#{1} times} since the last clear</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T043852Z" creationid="Administrator" creationdate="20170910T043745Z">
+        <seg>自从上一次清除后，发生 {1,choice,1#1次|2#{1} 次} </seg>
       </tuv>
     </tu>
     <tu>
@@ -17620,6 +18028,14 @@ for this anonymous class.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T041642Z" creationid="Administrator" creationdate="20170909T041642Z">
         <seg>其他设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Out of Memory</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T043031Z" creationid="Administrator" creationdate="20170910T043031Z">
+        <seg>内存不足</seg>
       </tuv>
     </tu>
     <tu>
@@ -18304,6 +18720,22 @@ for this anonymous class.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please report the problem to plugin vendor</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T044553Z" creationid="Administrator" creationdate="20170910T044553Z">
+        <seg>请将问题报告给插件供应商。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please report the problem to plugin vendor:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T044602Z" creationid="Administrator" creationdate="20170910T044602Z">
+        <seg>请将问题报告给插件供应商：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please select JSP text to I18nize.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T095305Z" creationid="Administrator" creationdate="20170909T095305Z">
@@ -18396,6 +18828,14 @@ for this anonymous class.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T031654Z" creationid="Administrator" creationdate="20170909T031654Z">
         <seg>弹出当前文件的结构，用于快速导航</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Popup this window immediately next time internal error occurs</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T044001Z" creationid="Administrator" creationdate="20170910T044001Z">
+        <seg>下次发生内部错误时,立即弹出这个窗口</seg>
       </tuv>
     </tu>
     <tu>
@@ -20424,10 +20864,42 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Report posting failed: {0}.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T043703Z" creationid="Administrator" creationdate="20170910T043703Z">
+        <seg>报告发布失败:{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Report to JetBrains</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T043619Z" creationid="Administrator" creationdate="20170910T043619Z">
+        <seg>报告给 JetBrains</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Report use of deprecated features</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T111649Z" creationid="Administrator" creationdate="20170909T111649Z">
         <seg>报告使用已弃用的功能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Report will include &lt;a&gt;{0} attachments&lt;/a&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T044644Z" creationid="Administrator" creationdate="20170910T044644Z">
+        <seg>报告将包括&lt;a&gt;{0}附件&lt;/a&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Report will include attachment: ''&lt;a&gt;{0}&lt;/a&gt;''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T044637Z" creationid="Administrator" creationdate="20170910T044637Z">
+        <seg>报告将包括附件:''&lt;a&gt;{0}&lt;/a&gt;''</seg>
       </tuv>
     </tu>
     <tu>
@@ -20564,6 +21036,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T111548Z" creationid="Administrator" creationdate="20170909T111548Z">
         <seg>资源模式：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Restart</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T044007Z" creationid="Administrator" creationdate="20170910T044007Z">
+        <seg>重启</seg>
       </tuv>
     </tu>
     <tu>
@@ -21512,6 +21992,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See Details and Submit Report</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T044045Z" creationid="Administrator" creationdate="20170910T044045Z">
+        <seg>查看细节及提交报告</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select All</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T031242Z" creationid="Administrator" creationdate="20170909T031242Z">
@@ -21848,10 +22336,26 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Send</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T043056Z" creationid="Administrator" creationdate="20170910T043056Z">
+        <seg>发送</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Send to Favorites</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T025328Z" creationid="Administrator" creationdate="20170909T025328Z">
         <seg>发送到收藏夹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sending failed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T044653Z" creationid="Administrator" creationdate="20170910T044653Z">
+        <seg>发送失败。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22492,6 +22996,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T041303Z" creationid="Administrator" creationdate="20170909T041303Z">
         <seg>显示选中修订中所做的所有更改</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show all files coverable by pattern</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T044221Z" creationid="Administrator" creationdate="20170910T044221Z">
+        <seg>显示所有符合模式的文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -23192,6 +23704,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shutdown</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T044002Z" creationid="Administrator" creationdate="20170910T044002Z">
+        <seg>关掉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Simple blocks in one line</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T054652Z" creationid="Administrator" creationdate="20170909T054652Z">
@@ -23244,6 +23764,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T082802Z" creationid="Administrator" creationdate="20170909T082802Z">
         <seg>跳过</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Skip Content</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T044131Z" creationid="Administrator" creationdate="20170910T044131Z">
+        <seg>跳过内容</seg>
       </tuv>
     </tu>
     <tu>
@@ -24144,6 +24672,22 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Submission failed</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T043855Z" creationid="Administrator" creationdate="20170910T043855Z">
+        <seg>提交失败</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Submit</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T044004Z" creationid="Administrator" creationdate="20170910T044004Z">
+        <seg>提交</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Submit Feedback</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T041030Z" creationid="Administrator" creationdate="20170909T041030Z">
@@ -24164,6 +24708,30 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T041032Z" creationid="Administrator" creationdate="20170909T041032Z">
         <seg>提交反馈到JetBrains Web站点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Submitted</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T043913Z" creationid="Administrator" creationdate="20170910T043913Z">
+        <seg>已提交</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Submitted as &lt;a href="{0}"&gt;{1}&lt;/a&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T043909Z" creationid="Administrator" creationdate="20170910T043859Z">
+        <seg>作为 &lt;a href="{0}"&gt;{1}&lt;/a&gt; 提交</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Submitting Error Report</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T044227Z" creationid="Administrator" creationdate="20170910T044227Z">
+        <seg>提交错误报告</seg>
       </tuv>
     </tu>
     <tu>
@@ -24850,6 +25418,14 @@ already exists in group "{1}".</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Thank you for your feedback!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T043624Z" creationid="Administrator" creationdate="20170910T043624Z">
+        <seg>感谢您的反馈！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The I18nized Expression template is not a valid expression</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T094038Z" creationid="Administrator" creationdate="20170909T094038Z">
@@ -25296,6 +25872,14 @@ Any JAR files created will be named after the name of the main module</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T073011Z" creationid="Administrator" creationdate="20170909T073011Z">
         <seg>此文件缩进用的 {0} 空格,而不是 {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This plugin is not a production of JetBrains.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T044545Z" creationid="Administrator" creationdate="20170910T044545Z">
+        <seg>该插件不是JetBrains的产品。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25876,6 +26460,14 @@ Any JAR files created will be named after the name of the main module</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Too many IDE fatal errors.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T044059Z" creationid="Administrator" creationdate="20170910T044059Z">
+        <seg>太多的IDE致命错误。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tool Buttons</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T031641Z" creationid="Administrator" creationdate="20170909T031641Z">
@@ -26364,6 +26956,14 @@ Any JAR files created will be named after the name of the main module</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unknown</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T043036Z" creationid="Administrator" creationdate="20170910T043036Z">
+        <seg>未知</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unknown enum value ''{0}''</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T095725Z" creationid="Administrator" creationdate="20170909T095725Z">
@@ -26416,6 +27016,14 @@ Any JAR files created will be named after the name of the main module</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T070404Z" creationid="Administrator" creationdate="20170909T070404Z">
         <seg>未命名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unread</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T043844Z" creationid="Administrator" creationdate="20170910T043844Z">
+        <seg>未读的</seg>
       </tuv>
     </tu>
     <tu>
@@ -26732,6 +27340,14 @@ Any JAR files created will be named after the name of the main module</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use JetBrains Account</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T043418Z" creationid="Administrator" creationdate="20170910T043418Z">
+        <seg>使用 JetBrains 账户</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use Soft Wraps</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T025934Z" creationid="Administrator" creationdate="20170909T025934Z">
@@ -26968,6 +27584,14 @@ Any JAR files created will be named after the name of the main module</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051950Z" creationid="Administrator" creationdate="20170909T051950Z">
         <seg>用户任务</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Username:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T043356Z" creationid="Administrator" creationdate="20170910T043356Z">
+        <seg>用户名:</seg>
       </tuv>
     </tu>
     <tu>
@@ -27868,10 +28492,26 @@ Any JAR files created will be named after the name of the main module</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[Duplicate]</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T043912Z" creationid="Administrator" creationdate="20170910T043912Z">
+        <seg>[重复]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>a : b'</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T084047Z" creationid="Administrator" creationdate="20170909T084047Z">
         <seg>a : b'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>all</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T044224Z" creationid="Administrator" creationdate="20170910T044224Z">
+        <seg>所有</seg>
       </tuv>
     </tu>
     <tu>
@@ -28116,6 +28756,14 @@ Any JAR files created will be named after the name of the main module</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>errors</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T044222Z" creationid="Administrator" creationdate="20170910T044222Z">
+        <seg>错误</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>expectedType()</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T093809Z" creationid="Administrator" creationdate="20170909T093809Z">
@@ -28328,6 +28976,14 @@ Any JAR files created will be named after the name of the main module</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T101905Z" creationid="Administrator" creationdate="20170909T101905Z">
         <seg>{0,number} 年内</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>infos</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T044228Z" creationid="Administrator" creationdate="20170910T044228Z">
+        <seg>信息</seg>
       </tuv>
     </tu>
     <tu>
@@ -28752,6 +29408,14 @@ Any JAR files created will be named after the name of the main module</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T030253Z" creationid="Administrator" creationdate="20170910T030253Z">
         <seg>等待 {0} 释放锁 {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>warnings</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T044223Z" creationid="Administrator" creationdate="20170910T044223Z">
+        <seg>警告</seg>
       </tuv>
     </tu>
     <tu>
