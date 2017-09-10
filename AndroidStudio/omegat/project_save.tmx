@@ -2622,6 +2622,14 @@ Use ; (分号) 来分隔资源模式;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Annotations</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T064644Z" creationid="Administrator" creationdate="20170910T064644Z">
+        <seg>注释</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Anonymize Fields</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T063823Z" creationid="Administrator" creationdate="20170910T063823Z">
@@ -3324,6 +3332,14 @@ Use ; (分号) 来分隔资源模式;
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T044627Z" creationid="Administrator" creationdate="20170910T044627Z">
         <seg>附件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Attempt to modify read-only document</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T064555Z" creationid="Administrator" creationdate="20170910T064555Z">
+        <seg>试图修改只读文档</seg>
       </tuv>
     </tu>
     <tu>
@@ -6080,6 +6096,14 @@ Use ; (分号) 来分隔资源模式;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Close Annotations</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T064643Z" creationid="Administrator" creationdate="20170910T064643Z">
+        <seg>关闭注释</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Close Ant Build Messages</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051059Z" creationid="Administrator" creationdate="20170909T051059Z">
@@ -8104,6 +8128,14 @@ Use ; (分号) 来分隔资源模式;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Customize Highlighting Level</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T064613Z" creationid="Administrator" creationdate="20170910T064613Z">
+        <seg>自定义高亮级别</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Customize Threads View</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T035029Z" creationid="Administrator" creationdate="20170909T035029Z">
@@ -9218,6 +9250,14 @@ Use ; (分号) 来分隔资源模式;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Don't show again</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T064759Z" creationid="Administrator" creationdate="20170910T064759Z">
+        <seg>不再显示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dont Wrap If Inline Content Only</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T053431Z" creationid="Administrator" creationdate="20170909T053431Z">
@@ -9330,10 +9370,26 @@ Use ; (分号) 来分隔资源模式;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Duplicate Line</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T064716Z" creationid="Administrator" creationdate="20170910T064716Z">
+        <seg>重复行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Duplicate Line or Selection</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T025847Z" creationid="Administrator" creationdate="20170909T025847Z">
         <seg>重复行或选中区域</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Duplicate Selection</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T064715Z" creationid="Administrator" creationdate="20170910T064715Z">
+        <seg>重复所选</seg>
       </tuv>
     </tu>
     <tu>
@@ -12576,6 +12632,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Go to high priority problems only</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T064604Z" creationid="Administrator" creationdate="20170910T064604Z">
+        <seg>只转到高优先级问题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Go to home directory</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T041338Z" creationid="Administrator" creationdate="20170909T041338Z">
@@ -12596,6 +12660,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T032235Z" creationid="Administrator" creationdate="20170909T032235Z">
         <seg>转到下一个更改</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to next problem</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T064611Z" creationid="Administrator" creationdate="20170910T064611Z">
+        <seg>转到下一个问题</seg>
       </tuv>
     </tu>
     <tu>
@@ -12772,6 +12844,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T072053Z" creationid="Administrator" creationdate="20170909T072053Z">
         <seg>分组规则</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Guarded Block Modification Attempt</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T064638Z" creationid="Administrator" creationdate="20170910T064638Z">
+        <seg>尝试修改守护块</seg>
       </tuv>
     </tu>
     <tu>
@@ -12976,6 +13056,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hide notification</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T064753Z" creationid="Administrator" creationdate="20170910T064753Z">
+        <seg>隐藏通知</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hide null array elements</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T023615Z" creationid="Administrator" creationdate="20170910T023615Z">
@@ -13060,6 +13148,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T063211Z" creationid="Administrator" creationdate="20170910T063211Z">
         <seg>高亮:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Highlighting Level</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T064702Z" creationid="Administrator" creationdate="20170910T064702Z">
+        <seg>高亮级别</seg>
       </tuv>
     </tu>
     <tu>
@@ -13674,6 +13770,14 @@ Compilation will proceed without clearing output directories</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T031030Z" creationid="Administrator" creationdate="20170909T030855Z">
         <seg>根据现有的源码目录创建模块或转换现有的项目模型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Import popup</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T064701Z" creationid="Administrator" creationdate="20170910T064701Z">
+        <seg>导入弹窗</seg>
       </tuv>
     </tu>
     <tu>
@@ -16832,6 +16936,14 @@ for this anonymous class.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move Cursor</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T064649Z" creationid="Administrator" creationdate="20170910T064649Z">
+        <seg>移动光标</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move Down</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T093345Z" creationid="Administrator" creationdate="20170909T034510Z">
@@ -16972,6 +17084,14 @@ for this anonymous class.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T095212Z" creationid="Administrator" creationdate="20170909T095211Z">
         <seg>将赋值移到字段声明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move caret</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T064618Z" creationid="Administrator" creationdate="20170910T064618Z">
+        <seg>移动插入符</seg>
       </tuv>
     </tu>
     <tu>
@@ -17124,6 +17244,14 @@ for this anonymous class.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T032515Z" creationid="Administrator" creationdate="20170909T032515Z">
         <seg>把选中语句向上移动一行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move selection</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T064652Z" creationid="Administrator" creationdate="20170910T064652Z">
+        <seg>移动所选</seg>
       </tuv>
     </tu>
     <tu>
@@ -18284,6 +18412,14 @@ for this anonymous class.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T022754Z" creationid="Administrator" creationdate="20170910T022754Z">
         <seg>没有内容重新加载</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification actions</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T064802Z" creationid="Administrator" creationdate="20170910T064802Z">
+        <seg>通知操作</seg>
       </tuv>
     </tu>
     <tu>
@@ -24872,6 +25008,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Soft wraps were forcibly enabled to improve editor performance</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T064751Z" creationid="Administrator" creationdate="20170910T064751Z">
+        <seg>自动换行被强制启用，以提高编辑器的性能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Soft-Wrap All Files</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T042102Z" creationid="Administrator" creationdate="20170909T042102Z">
@@ -25992,6 +26136,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Syntax</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T064703Z" creationid="Administrator" creationdate="20170910T064703Z">
+        <seg>语法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Syntax analysis</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T113159Z" creationid="Administrator" creationdate="20170909T113159Z">
@@ -26792,6 +26944,14 @@ Any JAR files created will be named after the name of the main module</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T062701Z" creationid="Administrator" creationdate="20170910T062412Z">
         <seg>There {0, choice, 0#'{1, choice, 1#is|2#are}'|1#'{1, choice, 0#is|1#are}'|2#are} {0, choice, 0#|1#1个更改|2#{0, number} 个更改}{0, choice, 0#|1#'{1, choice, 0#|1# 和 }'}{1, choice, 0#|1#1个冲突|2#{1, number} 个冲突} 未处理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This document contains very long lines.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T064725Z" creationid="Administrator" creationdate="20170910T064725Z">
+        <seg>本文档包含很长的行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27768,6 +27928,14 @@ Any JAR files created will be named after the name of the main module</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T013432Z" creationid="Administrator" creationdate="20170910T013432Z">
         <seg>无法打开调试器端口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unable to perform an action since it changes read-only fragments of the current document</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T064630Z" creationid="Administrator" creationdate="20170910T064630Z">
+        <seg>无法执行操作，因为它会更改当前文档的只读片段</seg>
       </tuv>
     </tu>
     <tu>
