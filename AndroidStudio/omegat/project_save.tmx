@@ -1620,6 +1620,14 @@ Use ; (分号) 来分隔资源模式;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;html&gt;&lt;body&gt;Please read the following license agreement carefully.&lt;br&gt;To proceed you must agree to all terms of this license by selecting the checkbox.&lt;/html&gt;&lt;/body&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T163427Z" creationid="Administrator" creationdate="20170911T163407Z">
+        <seg>&lt;html&gt;&lt;body&gt;请仔细阅读以下许可协议。&lt;br&gt;要继续，您必须通过选择复选框来同意本许可证的所有条款。&lt;/html&gt;&lt;/body&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;html&gt;&lt;body&gt;Suggest @Nullable annotation for methods that may possibly return null and &lt;br&gt;report nullable values passed to non-annotated parameters&lt;/body&gt;&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T093016Z" creationid="Admin" creationdate="20170911T093016Z">
@@ -2344,6 +2352,14 @@ Use ; (分号) 来分隔资源模式;
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T041316Z" creationid="Administrator" creationdate="20170909T041316Z">
         <seg>接受右侧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Accept all terms of the license</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T163437Z" creationid="Administrator" creationdate="20170911T163437Z">
+        <seg>接受许可协议的所有条款</seg>
       </tuv>
     </tu>
     <tu>
@@ -24310,6 +24326,22 @@ Cannot generate JavaDoc</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T111911Z" creationid="Administrator" creationdate="20170909T111911Z">
         <seg>库文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>License Agreement</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T163329Z" creationid="Administrator" creationdate="20170911T163329Z">
+        <seg>许可证协议</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>License Agreement for {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T163332Z" creationid="Administrator" creationdate="20170911T163332Z">
+        <seg>{0} 的许可证协议</seg>
       </tuv>
     </tu>
     <tu>
