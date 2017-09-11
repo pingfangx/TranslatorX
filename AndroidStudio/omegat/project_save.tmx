@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"{0}" is not a directory</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T145209Z" creationid="Administrator" creationdate="20170911T145209Z">
+        <seg>"{0}" 不是一个目录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"{0}" not found</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T040222Z" creationid="Admin" creationdate="20170911T040222Z">
@@ -5208,6 +5216,14 @@ as well as for the standard SDK classes resolution</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Automatically insert closing tag</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T161344Z" creationid="Administrator" creationdate="20170911T161344Z">
+        <seg>自动插入关闭标签</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Automatically show first error in editor</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T112617Z" creationid="Administrator" creationdate="20170909T112617Z">
@@ -5462,6 +5478,14 @@ as well as for the standard SDK classes resolution</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T032827Z" creationid="Admin" creationdate="20170911T032827Z">
         <seg>基本代码补全</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Basic options</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T145228Z" creationid="Administrator" creationdate="20170911T145228Z">
+        <seg>基本选项</seg>
       </tuv>
     </tu>
     <tu>
@@ -5958,6 +5982,14 @@ as well as for the standard SDK classes resolution</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T051708Z" creationid="Admin" creationdate="20170911T051708Z">
         <seg>浏览方法层次结构</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browse Output directory</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T161321Z" creationid="Administrator" creationdate="20170911T161321Z">
+        <seg>浏览输出目录</seg>
       </tuv>
     </tu>
     <tu>
@@ -11786,6 +11818,14 @@ as well as for the standard SDK classes resolution</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Creation of "{0}" failed</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T145202Z" creationid="Administrator" creationdate="20170911T145202Z">
+        <seg>创建 "{0}" 失败</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Creation of multi-dimensional arrays not supported</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T020011Z" creationid="Administrator" creationdate="20170910T015958Z">
@@ -13704,6 +13744,14 @@ as well as for the standard SDK classes resolution</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T034243Z" creationid="Administrator" creationdate="20170909T034243Z">
         <seg>停靠模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Document these tags</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T145226Z" creationid="Administrator" creationdate="20170911T145226Z">
+        <seg>为这些标签生成文档</seg>
       </tuv>
     </tu>
     <tu>
@@ -18858,8 +18906,8 @@ Do you want overwrite it or to append?</seg>
       <tuv lang="EN-US">
         <seg>Generate JavaDoc</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T033747Z" creationid="Administrator" creationdate="20170909T033747Z">
-        <seg>生成JavaDoc</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T145044Z" creationid="Administrator" creationdate="20170909T033747Z">
+        <seg>生成 JavaDoc</seg>
       </tuv>
     </tu>
     <tu>
@@ -18896,6 +18944,14 @@ Do you want overwrite it or to append?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Generate hierarchy tree</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T145245Z" creationid="Administrator" creationdate="20170911T145245Z">
+        <seg>生成层次树</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Generate hyperlinks to classes</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T082329Z" creationid="Administrator" creationdate="20170909T082329Z">
@@ -18904,10 +18960,26 @@ Do you want overwrite it or to append?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Generate index</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T145240Z" creationid="Administrator" creationdate="20170911T145240Z">
+        <seg>生成索引</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Generate multiple-file ant build (requires ant 1.6 or later to execute)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T105500Z" creationid="Administrator" creationdate="20170909T105500Z">
         <seg>生成多个文件Ant构建 (需要 Ant 1.6或更高版本来执行)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Generate navigation bar</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T145244Z" creationid="Administrator" creationdate="20170911T145244Z">
+        <seg>生成导航栏</seg>
       </tuv>
     </tu>
     <tu>
@@ -19004,6 +19076,14 @@ Do you want overwrite it or to append?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T082334Z" creationid="Administrator" creationdate="20170909T082334Z">
         <seg>正在生成文件:{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Generation options for javadoc not specified</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T161220Z" creationid="Administrator" creationdate="20170911T161220Z">
+        <seg>未指定javadoc的生成选项</seg>
       </tuv>
     </tu>
     <tu>
@@ -21384,6 +21464,14 @@ Compilation will proceed without clearing output directories</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Include subpackages</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T145114Z" creationid="Administrator" creationdate="20170911T145114Z">
+        <seg>包括子包</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Include test sources</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T045007Z" creationid="Administrator" creationdate="20170909T045007Z">
@@ -22992,6 +23080,16 @@ Compilation will proceed without clearing output directories</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>JDK path is not specified
+Cannot generate JavaDoc</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T161240Z" creationid="Administrator" creationdate="20170911T161240Z">
+        <seg>没有指定JDK路径
+无法生成JavaDoc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>JPDA Libraries Missing</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T030459Z" creationid="Administrator" creationdate="20170910T030459Z">
@@ -23268,6 +23366,14 @@ Compilation will proceed without clearing output directories</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T110741Z" creationid="Admin" creationdate="20170911T110741Z">
         <seg>Javac怪癖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Javadoc</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T145256Z" creationid="Administrator" creationdate="20170911T145256Z">
+        <seg>JavaDoc</seg>
       </tuv>
     </tu>
     <tu>
@@ -24212,6 +24318,14 @@ Compilation will proceed without clearing output directories</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T053342Z" creationid="Administrator" creationdate="20170909T053342Z">
         <seg>局部变量:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Locale:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T161329Z" creationid="Administrator" creationdate="20170911T161329Z">
+        <seg>语言环境:</seg>
       </tuv>
     </tu>
     <tu>
@@ -28698,6 +28812,14 @@ for this anonymous class.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Open generated documentation in browser</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T145212Z" creationid="Administrator" creationdate="20170911T145212Z">
+        <seg>在浏览器打开生成的文档</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Open image in external editor</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T042205Z" creationid="Administrator" creationdate="20170909T042205Z">
@@ -29050,6 +29172,14 @@ for this anonymous class.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Other command line arguments:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T145252Z" creationid="Administrator" creationdate="20170911T145252Z">
+        <seg>其他命令行参数:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Out of Memory</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T043031Z" creationid="Administrator" creationdate="20170910T043031Z">
@@ -29078,6 +29208,24 @@ for this anonymous class.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T112126Z" creationid="Administrator" creationdate="20170909T112126Z">
         <seg>构件输出目录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Output directory "{0}" does not exist
+Do you want to create it?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T145151Z" creationid="Administrator" creationdate="20170911T145151Z">
+        <seg>输出目录"{0}"不存在
+你想创建它吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Output directory is not specified</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T145117Z" creationid="Administrator" creationdate="20170911T145117Z">
+        <seg>未指定输出目录</seg>
       </tuv>
     </tu>
     <tu>
@@ -29470,6 +29618,14 @@ for this anonymous class.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T053848Z" creationid="Administrator" creationdate="20170909T053848Z">
         <seg>使用‘*’导入的包</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Package{0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T145054Z" creationid="Administrator" creationdate="20170911T145054Z">
+        <seg>包{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -36468,6 +36624,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Selected scope contain no Java classes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T161243Z" creationid="Administrator" creationdate="20170911T161243Z">
+        <seg>选定范围不包含Java类</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Selected text</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T082259Z" creationid="Administrator" creationdate="20170909T082259Z">
@@ -36544,6 +36708,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T044653Z" creationid="Administrator" creationdate="20170910T044653Z">
         <seg>发送失败。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Separate index per letter</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T145239Z" creationid="Administrator" creationdate="20170911T145239Z">
+        <seg>每个字母分隔索引</seg>
       </tuv>
     </tu>
     <tu>
@@ -39160,6 +39332,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T033754Z" creationid="Administrator" creationdate="20170909T033754Z">
         <seg>标准宏操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Start</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T145040Z" creationid="Administrator" creationdate="20170911T145040Z">
+        <seg>开始</seg>
       </tuv>
     </tu>
     <tu>
@@ -46556,6 +46736,14 @@ as a source directory?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>deprecated list</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T145227Z" creationid="Administrator" creationdate="20170911T145227Z">
+        <seg>不推荐列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>depth-first order</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T072151Z" creationid="Administrator" creationdate="20170909T072151Z">
@@ -47056,6 +47244,14 @@ as a source directory?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T093947Z" creationid="Administrator" creationdate="20170909T093947Z">
         <seg>iterableVariable()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>javadoc exited with exit code $EXITCODE$</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T161317Z" creationid="Administrator" creationdate="20170911T161317Z">
+        <seg>javadoc 退出，退出码为 $EXITCODE$</seg>
       </tuv>
     </tu>
     <tu>
