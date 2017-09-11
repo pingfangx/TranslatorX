@@ -1628,6 +1628,14 @@ Use ; (分号) 来分隔资源模式;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;html&gt;&lt;body&gt;Template data languages are the underlying languages in template files like those of FreeMarker/Velocity frameworks.&lt;br&gt;To change template data language settings {0} uses for a file, a directory, or the entire project, click an item and then select a language from a drop down list.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/body&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T163125Z" creationid="Administrator" creationdate="20170911T163044Z">
+        <seg>&lt;html&gt;&lt;body&gt;模板数据语言是模板文件中的底层语言，如FreeMarker / Velocity框架。&lt;br&gt;要为文件/目录/或整个项目改变模板数据语言的设置{0}，点击一项,然后从下拉列表中选择一门语言。&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/body&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;html&gt;&lt;body&gt;The current project is configured to use its own code style.&lt;br&gt;Changes made to global code style settings will not affect formatting in the current project.&lt;br&gt;See Project Settings | Code Style.&lt;br&gt;Press \&amp;quot;Edit Global Settings\&amp;quot; button below if you still want to edit global settings.&lt;/body&gt;&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T060641Z" creationid="Administrator" creationdate="20170909T060641Z">
@@ -2160,6 +2168,14 @@ Use ; (分号) 来分隔资源模式;
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T095509Z" creationid="Admin" creationdate="20170911T095502Z">
         <seg>@NotNull / @Nullable 问题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>@interface</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T162400Z" creationid="Administrator" creationdate="20170911T162400Z">
+        <seg>@接口</seg>
       </tuv>
     </tu>
     <tu>
@@ -6578,6 +6594,14 @@ as well as for the standard SDK classes resolution</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cancel Exclusion</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T163300Z" creationid="Administrator" creationdate="20170911T163300Z">
+        <seg>取消排除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cancel Visual Merge</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T062136Z" creationid="Administrator" creationdate="20170910T062136Z">
@@ -7222,6 +7246,14 @@ as well as for the standard SDK classes resolution</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cannot resolve</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T162719Z" creationid="Administrator" creationdate="20170911T162719Z">
+        <seg>无法解析</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cannot resolve ''{0}'' refid</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T052103Z" creationid="Administrator" creationdate="20170909T052103Z">
@@ -7758,6 +7790,14 @@ as well as for the standard SDK classes resolution</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T040532Z" creationid="Administrator" creationdate="20170909T040532Z">
         <seg>改变视图模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change {0} template data language to</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T163159Z" creationid="Administrator" creationdate="20170911T163159Z">
+        <seg>更改{0}模板数据的语言为</seg>
       </tuv>
     </tu>
     <tu>
@@ -13210,6 +13250,22 @@ as well as for the standard SDK classes resolution</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Did you know that Quick Definition View ({0}) works in completion lookups as well?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T162558Z" creationid="Administrator" creationdate="20170911T162558Z">
+        <seg>你是否知道快速定义视图({0})在补全查找里也可用吗?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Did you know that Quick Documentation View ({0}) works in completion lookups as well?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T162540Z" creationid="Administrator" creationdate="20170911T162540Z">
+        <seg>你是否知道快速文档视图({0})在补全查找里也可用吗?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Diff Between ''{0}'' and ''{1}''</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T072812Z" creationid="Admin" creationdate="20170911T072812Z">
@@ -14008,6 +14064,14 @@ as well as for the standard SDK classes resolution</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T053431Z" creationid="Administrator" creationdate="20170909T053431Z">
         <seg>不要换行(如果是一行内容)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dot, space and some other keys will also close this lookup and be inserted into editor</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T162613Z" creationid="Administrator" creationdate="20170911T162613Z">
+        <seg>点，空格和其他一些键也将关闭此查找并插入编辑器</seg>
       </tuv>
     </tu>
     <tu>
@@ -21864,6 +21928,14 @@ Compilation will proceed without clearing output directories</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Incorrect name</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T163205Z" creationid="Administrator" creationdate="20170911T163204Z">
+        <seg>不正确的名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Increase Font Size</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T025943Z" creationid="Administrator" creationdate="20170909T025943Z">
@@ -29702,6 +29774,14 @@ Do you want to create it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Override Subdirectory Template Data Languages</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T163155Z" creationid="Administrator" creationdate="20170911T163155Z">
+        <seg>覆盖子目录的模板数据语言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Override base class methods in the current class</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T030044Z" creationid="Administrator" creationdate="20170909T030044Z">
@@ -29746,6 +29826,14 @@ Do you want to create it?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T090844Z" creationid="Administrator" creationdate="20170909T090844Z">
         <seg>重写方法 ''{0}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Override them?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T163150Z" creationid="Administrator" creationdate="20170911T163150Z">
+        <seg>覆盖它们？</seg>
       </tuv>
     </tu>
     <tu>
@@ -39384,6 +39472,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sorry</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T163241Z" creationid="Administrator" creationdate="20170911T163241Z">
+        <seg>抱歉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sort Alphabetically</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T023533Z" creationid="Admin" creationdate="20170911T023533Z">
@@ -41336,6 +41432,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Template Data Languages</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T163127Z" creationid="Administrator" creationdate="20170911T163127Z">
+        <seg>模板数据语言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Template Settings</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T023128Z" creationid="Admin" creationdate="20170911T023128Z">
@@ -41348,6 +41452,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T093641Z" creationid="Administrator" creationdate="20170909T093641Z">
         <seg>模板缩写应仅包含字母，数字，点和连字符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Template data language</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T163133Z" creationid="Administrator" creationdate="20170911T163133Z">
+        <seg>模板数据语言</seg>
       </tuv>
     </tu>
     <tu>
@@ -42566,6 +42678,14 @@ already exists.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T031321Z" creationid="Admin" creationdate="20170911T031319Z">
         <seg>在启动之前没有要运行的任务</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are template data languages specified for the subdirectories.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T163141Z" creationid="Administrator" creationdate="20170911T163141Z">
+        <seg>为子目录指定了模板数据语言。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44180,6 +44300,22 @@ Error message: {1}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unexpected end of file</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T162506Z" creationid="Administrator" creationdate="20170911T162506Z">
+        <seg>异常文件结尾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unexpected token</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T162459Z" creationid="Administrator" creationdate="20170911T162459Z">
+        <seg>异常的标记</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unfortunately, this doesn't work with the 'jsse.enableSNIExtension' property set to 'false', so the option was disabled.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T070717Z" creationid="Admin" creationdate="20170911T070717Z">
@@ -44332,6 +44468,22 @@ Error message: {1}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unmark Roots</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T163302Z" creationid="Administrator" creationdate="20170911T163302Z">
+        <seg>取消标记根</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unmark as {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T163258Z" creationid="Administrator" creationdate="20170911T163258Z">
+        <seg>取消标记为 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unmute Breakpoints on Session Finish</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T035437Z" creationid="Administrator" creationdate="20170909T035437Z">
@@ -44440,6 +44592,14 @@ Error message: {1}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T034620Z" creationid="Administrator" creationdate="20170909T034620Z">
         <seg>不分割窗口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unsupported JDK ''{0}'' detected</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T163246Z" creationid="Administrator" creationdate="20170911T163246Z">
+        <seg>检测到不支持的JDK“{0}”</seg>
       </tuv>
     </tu>
     <tu>
@@ -45320,6 +45480,14 @@ Error message: {1}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T071445Z" creationid="Admin" creationdate="20170911T071445Z">
         <seg>使用 {0} 来保持路径的尾部</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use {0} to syntactically correct your code after completing (balance parentheses etc.)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T162704Z" creationid="Administrator" creationdate="20170911T162704Z">
+        <seg>补全代码后,使用{0}让代码语法正确(如平衡括号等.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -46520,6 +46688,14 @@ as a source directory?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>XML tag</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T162707Z" creationid="Administrator" creationdate="20170911T162707Z">
+        <seg>XML 标签</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>XML tags</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T062902Z" creationid="Administrator" creationdate="20170909T062902Z">
@@ -46728,6 +46904,14 @@ as a source directory?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You need to run IDEA on Java 8 to be able to use modular JDK.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T163236Z" creationid="Administrator" creationdate="20170911T163236Z">
+        <seg>您需要在Java 8上运行IDEA才能使用模块化JDK。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You will not be able to open the project by earlier versions of IDEA</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T041122Z" creationid="Administrator" creationdate="20170909T041122Z">
@@ -46904,6 +47088,22 @@ as a source directory?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[JRT]</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T163219Z" creationid="Administrator" creationdate="20170911T163219Z">
+        <seg>[JRT]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[Java Run-time Modules]</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T163226Z" creationid="Administrator" creationdate="20170911T163218Z">
+        <seg>[Java运行时模块]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>a : b'</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T084047Z" creationid="Administrator" creationdate="20170909T084047Z">
@@ -46960,6 +47160,14 @@ as a source directory?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>anonymous class</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T162325Z" creationid="Administrator" creationdate="20170911T162325Z">
+        <seg>匿名类</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ant.jar not found in directory ''{0}''</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051730Z" creationid="Administrator" creationdate="20170909T051730Z">
@@ -47012,6 +47220,14 @@ as a source directory?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T072206Z" creationid="Administrator" creationdate="20170909T072206Z">
         <seg>属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>attribute value</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T162710Z" creationid="Administrator" creationdate="20170911T162710Z">
+        <seg>属性值</seg>
       </tuv>
     </tu>
     <tu>
@@ -47224,6 +47440,14 @@ as a source directory?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>directory</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T162403Z" creationid="Administrator" creationdate="20170911T162403Z">
+        <seg>目录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>do ... while():</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T060359Z" creationid="Administrator" creationdate="20170909T060359Z">
@@ -47260,6 +47484,22 @@ as a source directory?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T023322Z" creationid="Administrator" creationdate="20170910T023322Z">
         <seg>结束索引：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>entity</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T162705Z" creationid="Administrator" creationdate="20170911T162705Z">
+        <seg>实体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>enum</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T162357Z" creationid="Administrator" creationdate="20170911T162357Z">
+        <seg>枚举</seg>
       </tuv>
     </tu>
     <tu>
@@ -47328,10 +47568,26 @@ as a source directory?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>exception</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T162341Z" creationid="Administrator" creationdate="20170911T162341Z">
+        <seg>异常</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>expectedType()</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T093809Z" creationid="Administrator" creationdate="20170909T093809Z">
         <seg>expectedType()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>expression</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T162456Z" creationid="Administrator" creationdate="20170911T162456Z">
+        <seg>表达式</seg>
       </tuv>
     </tu>
     <tu>
@@ -47656,6 +47912,14 @@ as a source directory?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>instance initializer</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T162353Z" creationid="Administrator" creationdate="20170911T162353Z">
+        <seg>实例初始化器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>interface</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T092608Z" creationid="Admin" creationdate="20170911T092608Z">
@@ -47724,6 +47988,14 @@ as a source directory?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T072145Z" creationid="Administrator" creationdate="20170909T072145Z">
         <seg>保持排序</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>label</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T162401Z" creationid="Administrator" creationdate="20170911T162401Z">
+        <seg>标签</seg>
       </tuv>
     </tu>
     <tu>
@@ -48088,6 +48360,14 @@ as a source directory?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>parameter</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T162331Z" creationid="Administrator" creationdate="20170911T162331Z">
+        <seg>参数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>pos:{0}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T064847Z" creationid="Admin" creationdate="20170911T064847Z">
@@ -48132,6 +48412,14 @@ as a source directory?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T071811Z" creationid="Admin" creationdate="20170911T071811Z">
         <seg>项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>property</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T162457Z" creationid="Administrator" creationdate="20170911T162457Z">
+        <seg>属性</seg>
       </tuv>
     </tu>
     <tu>
@@ -48244,6 +48532,14 @@ as a source directory?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T103608Z" creationid="Admin" creationdate="20170911T103608Z">
         <seg>静态</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>static initializer</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T162356Z" creationid="Administrator" creationdate="20170911T162345Z">
+        <seg>静态初始化器</seg>
       </tuv>
     </tu>
     <tu>
@@ -48368,6 +48664,14 @@ as a source directory?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>type parameter</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T162328Z" creationid="Administrator" creationdate="20170911T162328Z">
+        <seg>类型参数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>undefined</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T110427Z" creationid="Administrator" creationdate="20170909T110427Z">
@@ -48420,6 +48724,14 @@ as a source directory?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T104539Z" creationid="Admin" creationdate="20170911T104539Z">
         <seg>未使用的声明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>variable</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T162332Z" creationid="Administrator" creationdate="20170911T162332Z">
+        <seg>变量</seg>
       </tuv>
     </tu>
     <tu>
@@ -48830,6 +49142,14 @@ Would you like to overwrite {1,choice,1#it|2#these files}?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T142044Z" creationid="Administrator" creationdate="20170911T142044Z">
         <seg>{0} ''{1}''属于 {2} 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} ''{1}'' causes dependency cycle and cannot be added</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T163257Z" creationid="Administrator" creationdate="20170911T163257Z">
+        <seg>{0}''{1}'导致依赖关系循环，无法添加</seg>
       </tuv>
     </tu>
     <tu>
@@ -49290,6 +49610,46 @@ Please enter pattern string in a new format.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T120403Z" creationid="Admin" creationdate="20170911T120403Z">
         <seg>{0} 未找到</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} of annotation type {1}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T162450Z" creationid="Administrator" creationdate="20170911T162450Z">
+        <seg>注解类型{1}的{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} of anonymous class</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T162440Z" creationid="Administrator" creationdate="20170911T162427Z">
+        <seg>匿名类的 {0} </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} of class {1}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T162452Z" creationid="Administrator" creationdate="20170911T162452Z">
+        <seg>类{1}的{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} of enum {1}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T162445Z" creationid="Administrator" creationdate="20170911T162445Z">
+        <seg>枚举{1}的{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} of interface {1}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T162431Z" creationid="Administrator" creationdate="20170911T162431Z">
+        <seg>接口{1}的{0}</seg>
       </tuv>
     </tu>
     <tu>
