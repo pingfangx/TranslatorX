@@ -1882,6 +1882,14 @@ Use ; (分号) 来分隔资源模式;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add Wildcard</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T035037Z" creationid="Admin" creationdate="20170911T035037Z">
+        <seg>添加通配符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add a space at comment start</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T073203Z" creationid="Administrator" creationdate="20170909T073203Z">
@@ -10368,6 +10376,14 @@ Use ; (分号) 来分隔资源模式;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Edit File Type</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T034836Z" creationid="Admin" creationdate="20170911T034836Z">
+        <seg>编辑文件类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Edit Global Settings</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T060447Z" creationid="Administrator" creationdate="20170909T060447Z">
@@ -10460,6 +10476,14 @@ Use ; (分号) 来分隔资源模式;
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T035031Z" creationid="Administrator" creationdate="20170909T035031Z">
         <seg>编辑观察点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit Wildcard</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T035037Z" creationid="Admin" creationdate="20170911T035037Z">
+        <seg>编辑通配符</seg>
       </tuv>
     </tu>
     <tu>
@@ -10964,6 +10988,14 @@ Use ; (分号) 来分隔资源模式;
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T030753Z" creationid="Administrator" creationdate="20170910T030753Z">
         <seg>输入实例ID:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter new wildcard ('*' and '?' allowed):</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T035036Z" creationid="Admin" creationdate="20170911T034848Z">
+        <seg>输入新通配符 (允许'*' 和 '?' ):</seg>
       </tuv>
     </tu>
     <tu>
@@ -12426,6 +12458,14 @@ Reason: {1}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>File Types</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T034835Z" creationid="Admin" creationdate="20170911T034835Z">
+        <seg>文件类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>File content</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T044629Z" creationid="Administrator" creationdate="20170910T044629Z">
@@ -12466,10 +12506,26 @@ Reason: {1}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>File pattern:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T035121Z" creationid="Admin" creationdate="20170911T035121Z">
+        <seg>文件模式:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>File structure popup</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T032824Z" creationid="Admin" creationdate="20170911T032824Z">
         <seg>文件结构弹窗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File types</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T035113Z" creationid="Admin" creationdate="20170911T035113Z">
+        <seg>文件类型</seg>
       </tuv>
     </tu>
     <tu>
@@ -19204,6 +19260,14 @@ for this anonymous class.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>New File Type</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T034836Z" creationid="Admin" creationdate="20170911T034836Z">
+        <seg>新文件类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>New Folder</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T041333Z" creationid="Administrator" creationdate="20170909T041333Z">
@@ -19812,6 +19876,14 @@ for this anonymous class.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No registered file patterns</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T035116Z" creationid="Admin" creationdate="20170911T035116Z">
+        <seg>没有已注册的文件模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No renderers</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T025620Z" creationid="Administrator" creationdate="20170910T025620Z">
@@ -20392,6 +20464,14 @@ for this anonymous class.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T042205Z" creationid="Administrator" creationdate="20170909T042205Z">
         <seg>在外部编辑器打开图像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open matching files in {0}:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T034832Z" creationid="Admin" creationdate="20170911T034832Z">
+        <seg>在 {0} 打开匹配的文件:</seg>
       </tuv>
     </tu>
     <tu>
@@ -21392,6 +21472,14 @@ for this anonymous class.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T093721Z" creationid="Administrator" creationdate="20170909T093721Z">
         <seg>请选择其他缩写或组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please define the association:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T034825Z" creationid="Admin" creationdate="20170911T034825Z">
+        <seg>请定义关联：</seg>
       </tuv>
     </tu>
     <tu>
@@ -22708,6 +22796,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reassign wildcard</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T035112Z" creationid="Admin" creationdate="20170911T035112Z">
+        <seg>重分配通配符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rebuild Project</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T033140Z" creationid="Administrator" creationdate="20170909T033140Z">
@@ -22784,6 +22880,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T031802Z" creationid="Administrator" creationdate="20170909T031802Z">
         <seg>最近更改的文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recognized File Types</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T035119Z" creationid="Admin" creationdate="20170911T035119Z">
+        <seg>识别的文件类型</seg>
       </tuv>
     </tu>
     <tu>
@@ -23096,6 +23200,22 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T112555Z" creationid="Administrator" creationdate="20170909T112555Z">
         <seg>注册自定义的编译器任务定义</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Register New File Type Association</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T034803Z" creationid="Admin" creationdate="20170911T034803Z">
+        <seg>注册新文件类型关联</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Registered Patterns</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T034834Z" creationid="Admin" creationdate="20170911T034834Z">
+        <seg>已注册的模式</seg>
       </tuv>
     </tu>
     <tu>
@@ -29238,6 +29358,14 @@ already exists in group "{1}".</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Text files</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T034746Z" creationid="Admin" creationdate="20170911T034746Z">
+        <seg>文本文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Text files and unsupported file types:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T073138Z" creationid="Administrator" creationdate="20170909T073138Z">
@@ -29422,6 +29550,14 @@ already exists.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T071220Z" creationid="Administrator" creationdate="20170909T071220Z">
         <seg>文件{0}已经存在</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The file ''{0}'' is not associated with any file type.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T034816Z" creationid="Admin" creationdate="20170911T034816Z">
+        <seg>文件''{0}''未关联任何文件类型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29772,6 +29908,22 @@ Any JAR files created will be named after the name of the main module</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T031550Z" creationid="Administrator" creationdate="20170909T031550Z">
         <seg>使用搜索需要索引，并且在索引被建立之前不能被执行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This wildcard is already registered by ''{0}'' filetype</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T035109Z" creationid="Admin" creationdate="20170911T035109Z">
+        <seg>该通配符已经被''{0}''文件类型注册</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This wildcard is reserved for ''{0}'' filetype and cannot be reassigned</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T035059Z" creationid="Admin" creationdate="20170911T035059Z">
+        <seg>这个通配符是为''{0}''文件类型预留的,不能重新分配</seg>
       </tuv>
     </tu>
     <tu>
