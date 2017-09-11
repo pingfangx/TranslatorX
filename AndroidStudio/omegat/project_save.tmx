@@ -12668,8 +12668,8 @@ as well as for the standard SDK classes resolution</seg>
       <tuv lang="EN-US">
         <seg>Delete {0}?</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T065406Z" creationid="Admin" creationdate="20170911T065406Z">
-        <seg>删除{0}?</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T141825Z" creationid="Admin" creationdate="20170911T065406Z">
+        <seg>删除 {0}?</seg>
       </tuv>
     </tu>
     <tu>
@@ -12694,6 +12694,14 @@ as well as for the standard SDK classes resolution</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T051932Z" creationid="Admin" creationdate="20170911T051932Z">
         <seg>删除类 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deleting {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T141843Z" creationid="Administrator" creationdate="20170911T141843Z">
+        <seg>删除中 {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -13330,6 +13338,14 @@ as well as for the standard SDK classes resolution</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do Not Delete</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T141932Z" creationid="Administrator" creationdate="20170911T141932Z">
+        <seg>不删除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do Not Execute</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T140918Z" creationid="Administrator" creationdate="20170909T140918Z">
@@ -13604,6 +13620,14 @@ as well as for the standard SDK classes resolution</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do you want to rename {2} instead?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T142105Z" creationid="Administrator" creationdate="20170911T142105Z">
+        <seg>你想重命名{2}吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do you want to save scope as shared?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T071047Z" creationid="Admin" creationdate="20170911T071047Z">
@@ -13624,6 +13648,14 @@ as well as for the standard SDK classes resolution</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T041123Z" creationid="Admin" creationdate="20170911T041123Z">
         <seg>你想搜索''{0}''的访问器吗?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do you want to search for the {2} usages instead?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T142038Z" creationid="Administrator" creationdate="20170911T142038Z">
+        <seg>你要搜索{2}用法吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -14788,6 +14820,14 @@ as well as for the standard SDK classes resolution</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T052052Z" creationid="Administrator" creationdate="20170909T052052Z">
         <seg>元素''{0}''未定义</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Elements to Delete</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T141859Z" creationid="Administrator" creationdate="20170911T141859Z">
+        <seg>删除元素</seg>
       </tuv>
     </tu>
     <tu>
@@ -33500,6 +33540,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rename {0} Classes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T142108Z" creationid="Administrator" creationdate="20170911T142108Z">
+        <seg>重命名 {0} 类</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Renaming module {0}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T062044Z" creationid="Admin" creationdate="20170911T062044Z">
@@ -35896,6 +35944,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T055441Z" creationid="Admin" creationdate="20170911T055441Z">
         <seg>选择要导入的组件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Elements to Delete</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T141920Z" creationid="Administrator" creationdate="20170911T141920Z">
+        <seg>选择要删除的元素</seg>
       </tuv>
     </tu>
     <tu>
@@ -42094,6 +42150,14 @@ already exists.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This {0} ''{1}'' belongs to {2}.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T142004Z" creationid="Administrator" creationdate="20170911T142004Z">
+        <seg>这个 {0} ''{1}''属于 {2} 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Though ''{0}'' depends on ''{2}'' through exported dependencies of ''{1}''</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T115018Z" creationid="Admin" creationdate="20170911T115018Z">
@@ -46972,6 +47036,14 @@ as a source directory?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>items</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T141850Z" creationid="Administrator" creationdate="20170911T141850Z">
+        <seg>项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>iterableComponentType(ArrayOrIterable)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T093947Z" creationid="Administrator" creationdate="20170909T093947Z">
@@ -47240,6 +47312,14 @@ as a source directory?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T102114Z" creationid="Admin" creationdate="20170911T102114Z">
         <seg>无名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>nonexistent</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T141941Z" creationid="Administrator" creationdate="20170911T141941Z">
+        <seg>不存在</seg>
       </tuv>
     </tu>
     <tu>
@@ -48074,6 +48154,14 @@ Would you like to overwrite {1,choice,1#it|2#these files}?</seg>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T064842Z" creationid="Admin" creationdate="20170911T064842Z">
         <seg>{0}
 你想要覆盖吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} ''{1}'' belongs to {2}.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T142044Z" creationid="Administrator" creationdate="20170911T142044Z">
+        <seg>{0} ''{1}''属于 {2} 。</seg>
       </tuv>
     </tu>
     <tu>
