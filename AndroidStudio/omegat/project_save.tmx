@@ -1874,6 +1874,14 @@ Use ; (分号) 来分隔资源模式;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add Poster Coords</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T043316Z" creationid="Admin" creationdate="20170911T042855Z">
+        <seg>添加 Poster 坐标</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add Rectangular Selection on Mouse Drag</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T025705Z" creationid="Administrator" creationdate="20170909T025705Z">
@@ -6644,6 +6652,14 @@ Use ; (分号) 来分隔资源模式;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Clip Area</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T042858Z" creationid="Admin" creationdate="20170911T042858Z">
+        <seg>裁剪区域</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Clipboard vs Editor</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T061554Z" creationid="Administrator" creationdate="20170910T061554Z">
@@ -9504,6 +9520,14 @@ Use ; (分号) 来分隔资源模式;
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T031252Z" creationid="Administrator" creationdate="20170909T031252Z">
         <seg>删除选中项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete selection</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T042908Z" creationid="Admin" creationdate="20170911T042908Z">
+        <seg>删除所选</seg>
       </tuv>
     </tu>
     <tu>
@@ -14208,6 +14232,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T034626Z" creationid="Administrator" creationdate="20170909T034626Z">
         <seg>转到上一个分割窗口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Graph</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T042857Z" creationid="Admin" creationdate="20170911T042857Z">
+        <seg>图表</seg>
       </tuv>
     </tu>
     <tu>
@@ -22172,6 +22204,22 @@ for this anonymous class.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Poster Columns</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T043300Z" creationid="Admin" creationdate="20170911T042848Z">
+        <seg>Poster 列</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Poster Rows</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T043253Z" creationid="Admin" creationdate="20170911T042846Z">
+        <seg>Poster 行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Postfix completion</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T032855Z" creationid="Admin" creationdate="20170911T032855Z">
@@ -22520,6 +22568,14 @@ for this anonymous class.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T041026Z" creationid="Administrator" creationdate="20170909T041026Z">
         <seg>打印图表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Print Options</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T042646Z" creationid="Admin" creationdate="20170911T042646Z">
+        <seg>打印选项</seg>
       </tuv>
     </tu>
     <tu>
@@ -30062,6 +30118,22 @@ already exists in group "{1}".</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Text</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T042859Z" creationid="Admin" creationdate="20170911T042859Z">
+        <seg>文本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Text Color</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T042900Z" creationid="Admin" creationdate="20170911T042900Z">
+        <seg>文本颜色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Text files</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T034746Z" creationid="Admin" creationdate="20170911T034746Z">
@@ -30780,6 +30852,22 @@ Any JAR files created will be named after the name of the main module</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T034636Z" creationid="Administrator" creationdate="20170909T034636Z">
         <seg>每日提示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Title</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T042859Z" creationid="Admin" creationdate="20170911T042859Z">
+        <seg>标题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Title Color</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T042900Z" creationid="Admin" creationdate="20170911T042900Z">
+        <seg>标题颜色</seg>
       </tuv>
     </tu>
     <tu>
