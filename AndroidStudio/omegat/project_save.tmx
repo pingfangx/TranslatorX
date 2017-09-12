@@ -858,6 +858,14 @@ Are you sure you want to stop {2, choice, 1#incompatible running instance|2#{2, 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(none)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T105401Z" creationid="Admin" creationdate="20170912T105401Z">
+        <seg>(无)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(not specified)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T061510Z" creationid="Admin" creationdate="20170911T061510Z">
@@ -13754,6 +13762,14 @@ Method {0} is not static</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Copy Tool</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T105309Z" creationid="Admin" creationdate="20170912T105309Z">
+        <seg>复制工具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Copy URL</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T031225Z" creationid="Administrator" creationdate="20170909T031225Z">
@@ -14350,6 +14366,14 @@ Method {0} is not static</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T091619Z" creationid="Administrator" creationdate="20170909T091619Z">
         <seg>创建测试</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create Tool</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T105305Z" creationid="Admin" creationdate="20170912T105305Z">
+        <seg>创建工具</seg>
       </tuv>
     </tu>
     <tu>
@@ -17206,6 +17230,14 @@ already contains {1} named ''{2}''</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do you want to delete the external tool(s)?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T105342Z" creationid="Admin" creationdate="20170912T105342Z">
+        <seg>您想删除外部工具吗?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do you want to delete the keymap?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T161928Z" creationid="Administrator" creationdate="20170911T161928Z">
@@ -18328,6 +18360,14 @@ with covariant return type?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Edit Tool</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T105307Z" creationid="Admin" creationdate="20170912T105307Z">
+        <seg>编辑工具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Edit Variable</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T071013Z" creationid="Administrator" creationdate="20170909T071013Z">
@@ -18396,6 +18436,14 @@ with covariant return type?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T114118Z" creationid="Admin" creationdate="20170911T114048Z">
         <seg>编辑依赖规则</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit filter</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T105252Z" creationid="Admin" creationdate="20170912T105252Z">
+        <seg>编辑过滤器</seg>
       </tuv>
     </tu>
     <tu>
@@ -18644,6 +18692,14 @@ with covariant return type?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T032917Z" creationid="Admin" creationdate="20170911T032917Z">
         <seg>编辑器增量搜索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Editor menu</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T105256Z" creationid="Admin" creationdate="20170912T105256Z">
+        <seg>编辑菜单</seg>
       </tuv>
     </tu>
     <tu>
@@ -21052,6 +21108,22 @@ Exception message: {1}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>External tool ''{0}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T105352Z" creationid="Admin" creationdate="20170912T105352Z">
+        <seg>外部工具''{0}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>External tool ''{0}'' completed with exit code {1}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T105334Z" creationid="Admin" creationdate="20170912T105334Z">
+        <seg>外部工具''{0}''完成,退出码{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Extract</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T033036Z" creationid="Administrator" creationdate="20170909T033036Z">
@@ -21472,6 +21544,14 @@ Reason: {1}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102332Z" creationid="Administrator" creationdate="20170909T102332Z">
         <seg>未能将文件改为可写: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to save changes: {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T105355Z" creationid="Admin" creationdate="20170912T105355Z">
+        <seg>未能保存更改:{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -22488,6 +22568,14 @@ Do you want overwrite it or to append?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T062233Z" creationid="Admin" creationdate="20170911T062233Z">
         <seg>过滤TODO项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Filter name is not defined</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T105238Z" creationid="Admin" creationdate="20170912T105238Z">
+        <seg>未定义过滤器名字</seg>
       </tuv>
     </tu>
     <tu>
@@ -27446,6 +27534,14 @@ in class ''{1}''</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Insert macro</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T105311Z" creationid="Admin" creationdate="20170912T105311Z">
+        <seg>插入宏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Insert new</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T043202Z" creationid="Admin" creationdate="20170912T043202Z">
@@ -28114,6 +28210,14 @@ in class ''{1}''</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T054540Z" creationid="Admin" creationdate="20170911T054540Z">
         <seg>无效的许可证数据</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid Regular Expression</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T105245Z" creationid="Admin" creationdate="20170912T105245Z">
+        <seg>无效的正则表达式</seg>
       </tuv>
     </tu>
     <tu>
@@ -34618,6 +34722,14 @@ for this anonymous class.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No external tools configured</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T105348Z" creationid="Admin" creationdate="20170912T105348Z">
+        <seg>没有配置外部工具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No field name specified</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T065955Z" creationid="Admin" creationdate="20170912T065955Z">
@@ -34854,6 +34966,14 @@ for this anonymous class.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T041943Z" creationid="Admin" creationdate="20170911T041943Z">
         <seg>没有发现更多的高亮</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No name</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T105246Z" creationid="Admin" creationdate="20170912T105246Z">
+        <seg>没有名字</seg>
       </tuv>
     </tu>
     <tu>
@@ -35940,6 +36060,14 @@ can be replaced with usages of {1}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Open console</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T105300Z" creationid="Admin" creationdate="20170912T105300Z">
+        <seg>打开控制台</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Open console for selected entity</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T042132Z" creationid="Administrator" creationdate="20170909T042114Z">
@@ -36424,6 +36552,14 @@ can be replaced with usages of {1}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T112126Z" creationid="Administrator" creationdate="20170909T112126Z">
         <seg>构件输出目录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Output Filters</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T105251Z" creationid="Admin" creationdate="20170912T105251Z">
+        <seg>输出过滤器</seg>
       </tuv>
     </tu>
     <tu>
@@ -38593,6 +38729,14 @@ to migrate using the migration map "{0}"</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Press the right mouse button to see the list of available macros</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T105218Z" creationid="Admin" creationdate="20170912T105218Z">
+        <seg>按鼠标右键可查看可用宏的列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Press {0} again to search for all matching project files</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T100233Z" creationid="Administrator" creationdate="20170909T100233Z">
@@ -39295,6 +39439,14 @@ Would you like to stop at the breakpoint?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Program:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T105310Z" creationid="Admin" creationdate="20170912T105310Z">
+        <seg>程序:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Project</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T030628Z" creationid="Administrator" creationdate="20170909T030628Z">
@@ -39613,6 +39765,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T060157Z" creationid="Admin" creationdate="20170911T060157Z">
         <seg>项目源路径</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project views</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T105257Z" creationid="Admin" creationdate="20170912T105257Z">
+        <seg>项目视图</seg>
       </tuv>
     </tu>
     <tu>
@@ -40885,6 +41045,22 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T041418Z" creationid="Admin" creationdate="20170911T041418Z">
         <seg>正则表达式匹配空字符串</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Regular expression must be defined</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T105242Z" creationid="Admin" creationdate="20170912T105242Z">
+        <seg>必须定义正则表达式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Regular expression to match output:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T105233Z" creationid="Admin" creationdate="20170912T105233Z">
+        <seg>匹配输出的正则表达式：</seg>
       </tuv>
     </tu>
     <tu>
@@ -43497,6 +43673,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Run External tool</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T105356Z" creationid="Admin" creationdate="20170912T105356Z">
+        <seg>运行外部工具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Run Garbage Collector</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T025134Z" creationid="Administrator" creationdate="20170909T025134Z">
@@ -43621,6 +43805,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T033429Z" creationid="Administrator" creationdate="20170909T033429Z">
         <seg>运行到插入符号的行，忽略任何断点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Run tool:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T105357Z" creationid="Admin" creationdate="20170912T105357Z">
+        <seg>运行工具:</seg>
       </tuv>
     </tu>
     <tu>
@@ -44501,6 +44693,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T050823Z" creationid="Admin" creationdate="20170911T050823Z">
         <seg>在后台搜索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Search results</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T105258Z" creationid="Admin" creationdate="20170912T105258Z">
+        <seg>搜索结果</seg>
       </tuv>
     </tu>
     <tu>
@@ -46941,6 +47141,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T065431Z" creationid="Administrator" creationdate="20170909T065431Z">
         <seg>显示导入的弹出窗口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show in</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T105316Z" creationid="Admin" creationdate="20170912T105316Z">
+        <seg>显示在</seg>
       </tuv>
     </tu>
     <tu>
@@ -49759,6 +49967,14 @@ Package ''{2}'' cannot be created there</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T055735Z" creationid="Admin" creationdate="20170911T055735Z">
         <seg>同步 ''{0}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Synchronize files after execution</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T105303Z" creationid="Admin" creationdate="20170912T105303Z">
+        <seg>在执行后同步文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -52741,6 +52957,14 @@ already exists.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tool settings</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T105318Z" creationid="Admin" creationdate="20170912T105318Z">
+        <seg>工具设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tool windows split mode on/off</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T034312Z" creationid="Administrator" creationdate="20170909T034312Z">
@@ -52809,6 +53033,14 @@ already exists.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T033003Z" creationid="Admin" creationdate="20170911T033003Z">
         <seg>工具支持</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tools:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T105337Z" creationid="Admin" creationdate="20170912T105337Z">
+        <seg>工具:</seg>
       </tuv>
     </tu>
     <tu>
@@ -53603,6 +53835,14 @@ Error message: {1}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T074133Z" creationid="Admin" creationdate="20170912T074133Z">
         <seg>未知的表达式类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unknown external tool</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T105350Z" creationid="Admin" creationdate="20170912T105350Z">
+        <seg>未知的外部工具</seg>
       </tuv>
     </tu>
     <tu>
@@ -56735,6 +56975,14 @@ as a source directory?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T163226Z" creationid="Administrator" creationdate="20170911T163218Z">
         <seg>[Java运行时模块]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[unnamed group]</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T105359Z" creationid="Admin" creationdate="20170912T105359Z">
+        <seg>[未命名组]</seg>
       </tuv>
     </tu>
     <tu>
