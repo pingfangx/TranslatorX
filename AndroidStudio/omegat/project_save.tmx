@@ -238,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>''{0}'' is not an identifier</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040425Z" creationid="Admin" creationdate="20170912T040425Z">
+        <seg>''{0}'' 不是一个标识符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>''{0}'' is not assignable to ''{1}''</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T063524Z" creationid="Administrator" creationdate="20170910T063524Z">
@@ -690,6 +698,14 @@ Are you sure you want to stop {2, choice, 1#incompatible running instance|2#{2, 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>( expected</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T035745Z" creationid="Admin" creationdate="20170912T035745Z">
+        <seg>( 是预期的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>((RuntimeType)expr)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T083927Z" creationid="Administrator" creationdate="20170909T083927Z">
@@ -770,6 +786,14 @@ Are you sure you want to stop {2, choice, 1#incompatible running instance|2#{2, 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(in {0})</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040109Z" creationid="Admin" creationdate="20170912T040109Z">
+        <seg>(在 {0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(multiple choices...)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T113720Z" creationid="Administrator" creationdate="20170909T113626Z">
@@ -822,6 +846,14 @@ Are you sure you want to stop {2, choice, 1#incompatible running instance|2#{2, 
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T041408Z" creationid="Admin" creationdate="20170911T041408Z">
         <seg>({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>) expected</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T035745Z" creationid="Admin" creationdate="20170912T035745Z">
+        <seg>) 是预期的</seg>
       </tuv>
     </tu>
     <tu>
@@ -1128,6 +1160,14 @@ Use ; (分号) 来分隔资源模式;
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T033714Z" creationid="Admin" creationdate="20170912T033714Z">
         <seg>70</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>: expected</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T035751Z" creationid="Admin" creationdate="20170912T035751Z">
+        <seg>: 是预期的</seg>
       </tuv>
     </tu>
     <tu>
@@ -2272,6 +2312,14 @@ Use ; (分号) 来分隔资源模式;
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T105700Z" creationid="Admin" creationdate="20170911T105700Z">
         <seg>&lt;ul&gt;&lt;li&gt;方法所有者类没有实例化，或&lt;/li&gt;&lt;li&gt;一个实例从入口点不可到达。&lt;/li&gt;&lt;/ul&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;unknown scope&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040014Z" creationid="Admin" creationdate="20170912T040014Z">
+        <seg>&lt;未知范围&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4390,6 +4438,14 @@ as well as for the standard SDK classes resolution</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Analyzing non-code usages</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T035624Z" creationid="Admin" creationdate="20170912T035624Z">
+        <seg>分析代码无关的用法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Analyzing package dependencies</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T045635Z" creationid="Administrator" creationdate="20170909T045635Z">
@@ -4622,6 +4678,14 @@ as well as for the standard SDK classes resolution</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Anonymous class</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040256Z" creationid="Admin" creationdate="20170912T040256Z">
+        <seg>匿名类</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Anonymous class context is not reachable.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T105019Z" creationid="Admin" creationdate="20170911T105019Z">
@@ -4638,10 +4702,26 @@ as well as for the standard SDK classes resolution</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Anonymous class derived from {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040023Z" creationid="Admin" creationdate="20170912T040023Z">
+        <seg>派生自{0}的匿名类</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Anonymous class evaluation is not supported</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T020016Z" creationid="Administrator" creationdate="20170910T020008Z">
         <seg>不支持匿名类解析</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Anonymous in {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040049Z" creationid="Admin" creationdate="20170912T040049Z">
+        <seg>{0} 中的匿名</seg>
       </tuv>
     </tu>
     <tu>
@@ -6938,6 +7018,14 @@ as well as for the standard SDK classes resolution</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Can have runtime value:\&amp;nbsp;{0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040149Z" creationid="Admin" creationdate="20170912T040149Z">
+        <seg>可以有运行时值:\&amp;nbsp;{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Can not find start section rule for the current end rule</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T072439Z" creationid="Administrator" creationdate="20170909T072439Z">
@@ -7006,6 +7094,14 @@ as well as for the standard SDK classes resolution</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T050756Z" creationid="Administrator" creationdate="20170909T050756Z">
         <seg>无法解析属性: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can''t save code style scheme {0}.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T035651Z" creationid="Admin" creationdate="20170912T035651Z">
+        <seg>无法保存代码样式方案 {0} 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7452,6 +7548,22 @@ as well as for the standard SDK classes resolution</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cannot create {0} - incorrect {1} template</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T035609Z" creationid="Admin" creationdate="20170912T035609Z">
+        <seg>不能创建{0} - {1}模板不正确</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot delete a read-only file ''{0}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040432Z" creationid="Admin" creationdate="20170912T040432Z">
+        <seg>无法删除只读文件 ''{0}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cannot delete temporary file {0}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102725Z" creationid="Administrator" creationdate="20170909T102725Z">
@@ -7670,6 +7782,22 @@ as well as for the standard SDK classes resolution</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cannot modify a read-only directory ''{0}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040428Z" creationid="Admin" creationdate="20170912T040428Z">
+        <seg>无法修改只读目录 ''{0}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot modify a read-only file ''{0}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040430Z" creationid="Admin" creationdate="20170912T040430Z">
+        <seg>无法修改只读文件 ''{0}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cannot modify file ''{0}''</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T063953Z" creationid="Admin" creationdate="20170911T063953Z">
@@ -7734,10 +7862,42 @@ as well as for the standard SDK classes resolution</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cannot resolve function ''{0}'' #loc</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T035806Z" creationid="Admin" creationdate="20170912T035806Z">
+        <seg>无法解析函数 ''{0}'' #loc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot resolve method ''{0}''() #loc</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T035830Z" creationid="Admin" creationdate="20170912T035830Z">
+        <seg>无法解析方法 ''{0}''() #loc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cannot resolve method return type: {0}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T040210Z" creationid="Administrator" creationdate="20170910T040210Z">
         <seg>无法解析方法返回类型: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot resolve namespace ''{0}'' #loc</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T035815Z" creationid="Admin" creationdate="20170912T035815Z">
+        <seg>无法解析命名空间 ''{0}'' #loc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot resolve property or method ''{0}'' (dynamic property?) #loc</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T035825Z" creationid="Admin" creationdate="20170912T035825Z">
+        <seg>无法解析属性或方法''{0}''(动态属性吗?) #loc</seg>
       </tuv>
     </tu>
     <tu>
@@ -7758,10 +7918,26 @@ as well as for the standard SDK classes resolution</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cannot resolve variable ''{0}'' #loc</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T035954Z" creationid="Admin" creationdate="20170912T035954Z">
+        <seg>无法解析变量 ''{0}'' #loc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cannot resolve {0} ''{1}''</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T095723Z" creationid="Administrator" creationdate="20170909T095716Z">
         <seg>无法解析 {0} ''{1}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot save code style schemes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T035700Z" creationid="Admin" creationdate="20170912T035700Z">
+        <seg>无法保存代码样式方案。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9210,6 +9386,22 @@ as well as for the standard SDK classes resolution</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Class is not public</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040113Z" creationid="Admin" creationdate="20170912T040113Z">
+        <seg>类不是公共的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Class is not valid</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040110Z" creationid="Admin" creationdate="20170912T040110Z">
+        <seg>类无效</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Class left brace</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T061803Z" creationid="Administrator" creationdate="20170909T061803Z">
@@ -10150,6 +10342,14 @@ as well as for the standard SDK classes resolution</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T114329Z" creationid="Administrator" creationdate="20170909T114329Z">
         <seg>期望代码片段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Code from {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040258Z" creationid="Admin" creationdate="20170912T040258Z">
+        <seg>代码从{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -12906,6 +13106,14 @@ as well as for the standard SDK classes resolution</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Custom attribute name</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040215Z" creationid="Admin" creationdate="20170912T040215Z">
+        <seg>自定义属性名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Custom folding navigation is not available until indices are built</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T072857Z" creationid="Admin" creationdate="20170911T072857Z">
@@ -12922,10 +13130,26 @@ as well as for the standard SDK classes resolution</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Custom function name</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040214Z" creationid="Admin" creationdate="20170912T040214Z">
+        <seg>自定义函数名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Custom scope</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T045002Z" creationid="Administrator" creationdate="20170909T045002Z">
         <seg>自定义范围</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Custom tag name</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040209Z" creationid="Admin" creationdate="20170912T040209Z">
+        <seg>自定义标签名</seg>
       </tuv>
     </tu>
     <tu>
@@ -13326,6 +13550,30 @@ as well as for the standard SDK classes resolution</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T114506Z" creationid="Admin" creationdate="20170911T114506Z">
         <seg>声明冗余</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Declare Variable As External Data</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T035921Z" creationid="Admin" creationdate="20170912T035921Z">
+        <seg>将变量声明为外部数据</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Declare external variable as &lt;jsp:useBean /&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T035932Z" creationid="Admin" creationdate="20170912T035932Z">
+        <seg>声明外部变量为&lt;jsp:useBean /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Declare external variable in comment annotation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T035947Z" creationid="Admin" creationdate="20170912T035947Z">
+        <seg>在注释注解中声明外部变量</seg>
       </tuv>
     </tu>
     <tu>
@@ -14026,6 +14274,14 @@ as well as for the standard SDK classes resolution</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Description:\&amp;nbsp;{0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040221Z" creationid="Admin" creationdate="20170912T040221Z">
+        <seg>描述:\&amp;nbsp;{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Designer</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T040607Z" creationid="Administrator" creationdate="20170910T040607Z">
@@ -14218,6 +14474,22 @@ as well as for the standard SDK classes resolution</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Different number of formal and actual parameters</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T035914Z" creationid="Admin" creationdate="20170912T035914Z">
+        <seg>不同数量的形参和实参</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Different return type</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040130Z" creationid="Admin" creationdate="20170912T040130Z">
+        <seg>不同的返回类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Directed Orthogonal Layout</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T040958Z" creationid="Administrator" creationdate="20170909T040948Z">
@@ -14302,6 +14574,14 @@ as well as for the standard SDK classes resolution</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T041856Z" creationid="Admin" creationdate="20170911T041856Z">
         <seg>目录{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Directory {0} cannot be created</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T035705Z" creationid="Admin" creationdate="20170912T035705Z">
+        <seg>目录{0}无法创建</seg>
       </tuv>
     </tu>
     <tu>
@@ -16864,6 +17144,14 @@ as well as for the standard SDK classes resolution</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enum constant ''{0}'' in ''{1}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040058Z" creationid="Admin" creationdate="20170912T040058Z">
+        <seg>枚举常量 ''{0}'' 在 ''{1}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enum constants</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T055847Z" creationid="Administrator" creationdate="20170909T055847Z">
@@ -17452,6 +17740,14 @@ Plugins were not loaded.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T103233Z" creationid="Administrator" creationdate="20170909T103224Z">
         <seg>便如: *.domain.com, 192.168.*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example\&amp;nbsp;of\&amp;nbsp;use:&lt;br&gt;&lt;pre&gt;{0}&lt;/pre&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040254Z" creationid="Admin" creationdate="20170912T040254Z">
+        <seg>例如 \&amp;nbsp;of\&amp;nbsp;使用:&lt;br&gt;&lt;pre&gt;{0}&lt;/pre&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19688,6 +19984,14 @@ Do you want overwrite it or to append?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Find acceptable class</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040423Z" creationid="Admin" creationdate="20170912T040423Z">
+        <seg>找到可接受的类</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Find and Replace Code Duplicates</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T032837Z" creationid="Administrator" creationdate="20170909T032837Z">
@@ -20276,6 +20580,14 @@ Do you want overwrite it or to append?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T111206Z" creationid="Administrator" creationdate="20170909T111206Z">
         <seg>找到{0}个依赖文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fragment:\&amp;nbsp;{0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040203Z" creationid="Admin" creationdate="20170912T040203Z">
+        <seg>片断:\&amp;nbsp;{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -22296,6 +22608,14 @@ Compilation will proceed without clearing output directories</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Identifier expected</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T035738Z" creationid="Admin" creationdate="20170912T035715Z">
+        <seg>标识符是预期的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Identifier expected instead of ''{0}''</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T015206Z" creationid="Administrator" creationdate="20170910T015130Z">
@@ -24296,6 +24616,14 @@ Compilation will proceed without clearing output directories</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Intersection of {0} and {1}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T035632Z" creationid="Admin" creationdate="20170912T035632Z">
+        <seg>{0}和{1}的交叉点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Introduce Constant Across the Project</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T121358Z" creationid="Admin" creationdate="20170911T121358Z">
@@ -24468,6 +24796,14 @@ Compilation will proceed without clearing output directories</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T072550Z" creationid="Administrator" creationdate="20170909T072550Z">
         <seg>无效的正则表达式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid regular expression {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040300Z" creationid="Admin" creationdate="20170912T040300Z">
+        <seg>无效的正则表达式{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -24854,6 +25190,14 @@ Cannot generate JavaDoc</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T054113Z" creationid="Admin" creationdate="20170911T054113Z">
         <seg>JRE: {0} {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>JSF EL out of attribute #loc</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040000Z" creationid="Admin" creationdate="20170912T040000Z">
+        <seg>JSF EL 在属性外 #loc</seg>
       </tuv>
     </tu>
     <tu>
@@ -27202,6 +27546,14 @@ Cannot generate JavaDoc</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Method call is nonstandard extension #loc</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040012Z" creationid="Admin" creationdate="20170912T040012Z">
+        <seg>方法调用是非标准扩展 #loc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Method call parentheses</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T060943Z" creationid="Administrator" creationdate="20170909T060943Z">
@@ -27390,6 +27742,14 @@ Cannot generate JavaDoc</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T100903Z" creationid="Admin" creationdate="20170911T100903Z">
         <seg>方法返回相同的值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Method should be public or static</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040128Z" creationid="Admin" creationdate="20170912T040128Z">
+        <seg>方法应该是公共或静态的</seg>
       </tuv>
     </tu>
     <tu>
@@ -27680,6 +28040,14 @@ for this anonymous class.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T030429Z" creationid="Admin" creationdate="20170911T030429Z">
         <seg>模块"{0}"不存在于项目中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Module ''{0}'' runtime scope</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040018Z" creationid="Admin" creationdate="20170912T040018Z">
+        <seg>模块 ''{0}'' 运行时范围</seg>
       </tuv>
     </tu>
     <tu>
@@ -30096,6 +30464,14 @@ for this anonymous class.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T020757Z" creationid="Administrator" creationdate="20170910T020749Z">
         <seg>没有该实例方法: ''{0}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No such method</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040123Z" creationid="Admin" creationdate="20170912T040123Z">
+        <seg>没有这样的方法</seg>
       </tuv>
     </tu>
     <tu>
@@ -33944,6 +34320,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Project Files</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T035626Z" creationid="Admin" creationdate="20170912T035626Z">
+        <seg>项目文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Project Inspection Profile Assignments</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T115412Z" creationid="Admin" creationdate="20170911T115412Z">
@@ -33988,6 +34372,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T105938Z" creationid="Administrator" creationdate="20170909T105938Z">
         <seg>项目库</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project Production Files</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T035627Z" creationid="Admin" creationdate="20170912T035627Z">
+        <seg>项目生产文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -34048,6 +34440,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Project Test Files</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T035628Z" creationid="Admin" creationdate="20170912T035628Z">
+        <seg>项目测试文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Project View</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T070834Z" creationid="Admin" creationdate="20170911T070834Z">
@@ -34100,6 +34500,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T041818Z" creationid="Administrator" creationdate="20170909T041818Z">
         <seg>项目视图弹出菜单重构组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project and Libraries</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T035625Z" creationid="Admin" creationdate="20170912T035625Z">
+        <seg>项目和库</seg>
       </tuv>
     </tu>
     <tu>
@@ -36536,6 +36944,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Required:\&amp;nbsp;{0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040137Z" creationid="Admin" creationdate="20170912T040137Z">
+        <seg>需要:\&amp;nbsp;{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rerun</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T040824Z" creationid="Administrator" creationdate="20170909T040824Z">
@@ -37688,6 +38104,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Scanning files</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T035603Z" creationid="Admin" creationdate="20170912T035603Z">
+        <seg>扫描文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Scanning files to index</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T062116Z" creationid="Admin" creationdate="20170911T062116Z">
@@ -38184,6 +38608,22 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Searching for inheritors</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T035616Z" creationid="Admin" creationdate="20170912T035616Z">
+        <seg>寻找继承者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Searching for inheritors of {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T035612Z" creationid="Admin" creationdate="20170912T035612Z">
+        <seg>寻找{0}的继承者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Searching for references to class {0}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T041314Z" creationid="Admin" creationdate="20170911T041314Z">
@@ -38204,6 +38644,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T045642Z" creationid="Administrator" creationdate="20170909T045642Z">
         <seg>搜索使用在:{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Searching for {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T035618Z" creationid="Admin" creationdate="20170912T035618Z">
+        <seg>搜索{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -40960,6 +41408,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Signature is different</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040129Z" creationid="Admin" creationdate="20170912T040129Z">
+        <seg>签名是不同的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Simple blocks in one line</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T054652Z" creationid="Administrator" creationdate="20170909T054652Z">
@@ -43324,6 +43780,22 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T030015Z" creationid="Administrator" creationdate="20170909T030015Z">
         <seg>TearDown方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tells reference provider how evaluate default path for given file</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040420Z" creationid="Admin" creationdate="20170912T040420Z">
+        <seg>告诉参考提供者如何计算给定文件的默认路径</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tells reference provider to process only qualified class references (e.g. not resolve String as java.lang.String)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040400Z" creationid="Admin" creationdate="20170912T040400Z">
+        <seg>告诉参考提供者只处理限定类的引用（例如，不将 String 解析为 java.lang.String）</seg>
       </tuv>
     </tu>
     <tu>
@@ -45962,6 +46434,14 @@ already exists.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Type:\&amp;nbsp;{0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040156Z" creationid="Admin" creationdate="20170912T040156Z">
+        <seg>类型:\&amp;nbsp;{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Typing</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T082933Z" creationid="Administrator" creationdate="20170909T082933Z">
@@ -46400,6 +46880,14 @@ Error message: {1}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T061639Z" creationid="Admin" creationdate="20170911T061639Z">
         <seg>卸载</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Union of {0} and {1}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T035634Z" creationid="Admin" creationdate="20170912T035634Z">
+        <seg>{0}和{1}的接合</seg>
       </tuv>
     </tu>
     <tu>
@@ -47768,6 +48256,14 @@ Error message: {1}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T034948Z" creationid="Administrator" creationdate="20170909T034948Z">
         <seg>自动提示值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Value expected</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T035753Z" creationid="Admin" creationdate="20170912T035753Z">
+        <seg>值是预期的</seg>
       </tuv>
     </tu>
     <tu>
@@ -49216,6 +49712,14 @@ as a source directory?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>] expected</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T035731Z" creationid="Admin" creationdate="20170912T035731Z">
+        <seg>] 是预期的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>a : b'</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T084047Z" creationid="Administrator" creationdate="20170909T084047Z">
@@ -49752,6 +50256,14 @@ as a source directory?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>expression expected</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T035739Z" creationid="Admin" creationdate="20170912T035720Z">
+        <seg>表达式是预期的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>expressionType(Expression)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T093814Z" creationid="Administrator" creationdate="20170909T093814Z">
@@ -50264,6 +50776,14 @@ as a source directory?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>local</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040029Z" creationid="Admin" creationdate="20170912T040029Z">
+        <seg>本地</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>locked {0}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T030259Z" creationid="Administrator" creationdate="20170910T030255Z">
@@ -50520,6 +51040,14 @@ as a source directory?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>package-private</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040439Z" creationid="Admin" creationdate="20170912T040439Z">
+        <seg>package-private</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>parameter</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T162331Z" creationid="Administrator" creationdate="20170911T162331Z">
@@ -50540,6 +51068,14 @@ as a source directory?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T030204Z" creationid="Administrator" creationdate="20170910T030204Z">
         <seg>prio={0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>private</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040440Z" creationid="Admin" creationdate="20170912T040440Z">
+        <seg>private</seg>
       </tuv>
     </tu>
     <tu>
@@ -50580,6 +51116,22 @@ as a source directory?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T162457Z" creationid="Administrator" creationdate="20170911T162457Z">
         <seg>属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>protected</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040439Z" creationid="Admin" creationdate="20170912T040439Z">
+        <seg>protected</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>public</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040441Z" creationid="Admin" creationdate="20170912T040441Z">
+        <seg>public</seg>
       </tuv>
     </tu>
     <tu>
@@ -51546,6 +52098,14 @@ Would you like to overwrite {1,choice,1#it|2#these files}?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{0} expected</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040435Z" creationid="Admin" creationdate="20170912T040435Z">
+        <seg>{0} 是预期的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{0} failed to convert existing regular expression patterns:
 {1}
 Please enter pattern string in a new format.</seg>
@@ -52012,6 +52572,14 @@ does not exist.</seg>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T063423Z" creationid="Admin" creationdate="20170911T063416Z">
         <seg>{0}"{1}"
 不存在。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0}() in {1}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040106Z" creationid="Admin" creationdate="20170912T040106Z">
+        <seg>{0}() 在 {1} 中</seg>
       </tuv>
     </tu>
     <tu>
