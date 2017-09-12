@@ -2132,6 +2132,22 @@ Use ; (分号) 来分隔资源模式;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;html&gt;Help Make {0} Better</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T104736Z" creationid="Admin" creationdate="20170912T104736Z">
+        <seg>&lt;html&gt;帮助使 {0} 更好</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;Help improve {0} by sending anonymous usage statistics to {1}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T104930Z" creationid="Admin" creationdate="20170912T104930Z">
+        <seg>&lt;html&gt;帮助改进 {0} ，通过发送匿名的使用统计数据到 {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;html&gt;Honor "CamelHumps" words settings when selecting on&lt;br/&gt;double click&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T064829Z" creationid="Administrator" creationdate="20170909T064829Z">
@@ -2296,6 +2312,22 @@ Use ; (分号) 来分隔资源模式;
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T072029Z" creationid="Admin" creationdate="20170911T071924Z">
         <seg>&lt;html&gt;要更改 $productName 对文件或目录使用的编码, 请单击一个项目，然后从“默认编码”列表中选择编码。&lt;br&gt;&lt;br&gt;内置文件编码 (例如 JSP, HTML 或 XML) 可以覆盖您在此处指定的编码。&lt;br&gt;如果未指定，文件和目录将从父目录或项目编码继承编码设置。&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;To improve your experience, we would like to collect data on the plugins and features you use.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T104817Z" creationid="Admin" creationdate="20170912T104817Z">
+        <seg>&lt;html&gt;为了改善您的体验，我们希望收集您使用的插件和功能的数据。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;We are asking your permission to send information about your plugins configuration (what is enabled and what is not) and feature usage statistics (e.g. how frequently you are using code completion).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T105038Z" creationid="Admin" creationdate="20170912T105038Z">
+        <seg>&lt;html&gt;我们正在请求您允许发送有关您的插件配置信息（启用了什么，未启用什么）和功能使用情况统计信息（例如您使用代码补全的频率）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4742,6 +4774,14 @@ will be changed</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Allow sending usage statistics to {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T104933Z" creationid="Admin" creationdate="20170912T104933Z">
+        <seg>允许发送使用统计数据到 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Allow usages of</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T045936Z" creationid="Administrator" creationdate="20170909T045936Z">
@@ -4820,6 +4860,14 @@ as well as for the standard SDK classes resolution</seg>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T063634Z" creationid="Admin" creationdate="20170911T063634Z">
         <seg>编译，调试和运行应用程序需要一个SDK，
 标准的SDK类解析也需要</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An archive of a few kilobytes will be sent weekly</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T104859Z" creationid="Admin" creationdate="20170912T104859Z">
+        <seg>每周将发送几KB的存档</seg>
       </tuv>
     </tu>
     <tu>
@@ -17400,6 +17448,14 @@ with covariant return type?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T095609Z" creationid="Administrator" creationdate="20170909T095609Z">
         <seg>文档为{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Don't Share</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T104915Z" creationid="Admin" creationdate="20170912T104910Z">
+        <seg>不分享</seg>
       </tuv>
     </tu>
     <tu>
@@ -34850,6 +34906,14 @@ for this anonymous class.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No personal data will be collected.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T104828Z" creationid="Admin" creationdate="20170912T104828Z">
+        <seg>不会收集个人资料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No plugin repositories configured</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T070605Z" creationid="Admin" creationdate="20170911T070605Z">
@@ -45905,6 +45969,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Share Anonymous Statistics</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T104905Z" creationid="Admin" creationdate="20170912T104905Z">
+        <seg>分享匿名统计</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Share scope</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T071625Z" creationid="Admin" creationdate="20170911T071625Z">
@@ -51769,6 +51841,14 @@ already exists.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T053047Z" creationid="Admin" creationdate="20170911T053047Z">
         <seg>当前窗口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This data is anonymous, does not contain any personal information, collected for use only by {0} and will never be transmitted to any third party</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T105056Z" creationid="Admin" creationdate="20170912T105056Z">
+        <seg>该数据是匿名的，不包含任何个人信息，仅由{0}收集，不会传送给任何第三方</seg>
       </tuv>
     </tu>
     <tu>
