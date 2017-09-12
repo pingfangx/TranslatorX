@@ -134,6 +134,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>''{0}'' already exists</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163050Z" creationid="Administrator" creationdate="20170912T163050Z">
+        <seg>''{0}'' 已经存在</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>''{0}'' already exists in VFS</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163046Z" creationid="Administrator" creationdate="20170912T163046Z">
+        <seg>''{0}'' 在 VFS 已经存在</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>''{0}'' attribute should be defined</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T070905Z" creationid="Admin" creationdate="20170911T070905Z">
@@ -178,6 +194,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T052107Z" creationid="Administrator" creationdate="20170909T052107Z">
         <seg>''{0}'' 不存在</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>''{0}'' does not exist in VFS</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163045Z" creationid="Administrator" creationdate="20170912T163045Z">
+        <seg>''{0}'' 在 VFS 不存在</seg>
       </tuv>
     </tu>
     <tu>
@@ -234,6 +258,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T063530Z" creationid="Administrator" creationdate="20170910T063530Z">
         <seg>''{0}'' 不是一个具体的类</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>''{0}'' is not a directory</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163052Z" creationid="Administrator" creationdate="20170912T163052Z">
+        <seg>''{0}'' 不是一个目录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>''{0}'' is not a directory in VFS</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163047Z" creationid="Administrator" creationdate="20170912T163047Z">
+        <seg>''{0}'' 在 VFS 不是一个目录</seg>
       </tuv>
     </tu>
     <tu>
@@ -8344,6 +8384,22 @@ and replace them with usages of {2} where possible.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Can not parse URL {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T162928Z" creationid="Administrator" creationdate="20170912T162928Z">
+        <seg>无法解析URL {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can not parse URL, unhandled exception thrown</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T162926Z" creationid="Administrator" creationdate="20170912T162926Z">
+        <seg>无法解析URL，抛出未处理的异常</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Can not show diff</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T063153Z" creationid="Administrator" creationdate="20170910T063153Z">
@@ -8868,6 +8924,30 @@ and replace them with usages of {2} where possible.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cannot copy ''{0}'' to ''{1}''.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163016Z" creationid="Administrator" creationdate="20170912T163016Z">
+        <seg>无法将“{0}”复制到“{1}”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot copy file to {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163151Z" creationid="Administrator" creationdate="20170912T163151Z">
+        <seg>无法复制文件到 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot copy, target must be directory</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163155Z" creationid="Administrator" creationdate="20170912T163155Z">
+        <seg>无法复制，目标必须是目录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cannot create a field watchpoint for ''{0}.{1}''.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T032256Z" creationid="Administrator" creationdate="20170910T032234Z">
@@ -8900,6 +8980,14 @@ and replace them with usages of {2} where possible.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cannot create directory ''{0}''.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163136Z" creationid="Administrator" creationdate="20170912T163136Z">
+        <seg>无法创建目录 ''{0}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cannot create directory {0}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T101459Z" creationid="Administrator" creationdate="20170909T101459Z">
@@ -8916,10 +9004,66 @@ and replace them with usages of {2} where possible.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cannot create file ''{0}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163102Z" creationid="Administrator" creationdate="20170912T163102Z">
+        <seg>无法创建文件 ''{0}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot create file ''{0}''.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163133Z" creationid="Administrator" creationdate="20170912T163133Z">
+        <seg>无法创建文件 ''{0}''。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot create file {0}/{1}.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T162937Z" creationid="Administrator" creationdate="20170912T162937Z">
+        <seg>无法创建文件{0} / {1}。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot create files</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163147Z" creationid="Administrator" creationdate="20170912T163147Z">
+        <seg>无法创建文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cannot create folder {0} to save system information</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T072044Z" creationid="Admin" creationdate="20170911T072044Z">
         <seg>无法创建文件夹 {0} 以保存系统信息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot create local file: {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163035Z" creationid="Administrator" creationdate="20170912T163035Z">
+        <seg>无法创建本地文件： {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot create new directory in</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163123Z" creationid="Administrator" creationdate="20170912T163123Z">
+        <seg>无法创建新目录在</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot create new file in</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163130Z" creationid="Administrator" creationdate="20170912T163130Z">
+        <seg>无法创建新文件在</seg>
       </tuv>
     </tu>
     <tu>
@@ -8956,10 +9100,34 @@ and replace them with usages of {2} where possible.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cannot delete ''{0}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163100Z" creationid="Administrator" creationdate="20170912T163100Z">
+        <seg>无法删除 ''{0}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cannot delete a read-only file ''{0}''</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040432Z" creationid="Admin" creationdate="20170912T040432Z">
         <seg>无法删除只读文件 ''{0}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot delete root directory ''{0}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163202Z" creationid="Administrator" creationdate="20170912T163202Z">
+        <seg>无法删除根目录 ''{0}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot delete root file {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T162958Z" creationid="Administrator" creationdate="20170912T162958Z">
+        <seg>无法删除根文件 {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -9204,6 +9372,14 @@ and replace them with usages of {2} where possible.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cannot load ''{0}'': {1}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163032Z" creationid="Administrator" creationdate="20170912T163032Z">
+        <seg>无法加载''{0}'': {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cannot load file ''{0}''; breakpoints for this file will be ignored</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T035116Z" creationid="Administrator" creationdate="20170910T035116Z">
@@ -9294,6 +9470,14 @@ and replace them with usages of {2} where possible.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cannot modify archive file {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163029Z" creationid="Administrator" creationdate="20170912T163029Z">
+        <seg>不能修改存档文件 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cannot modify file ''{0}''</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T063953Z" creationid="Admin" creationdate="20170911T063953Z">
@@ -9302,10 +9486,26 @@ and replace them with usages of {2} where possible.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cannot move ''{0}'' to ''{1}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163059Z" creationid="Administrator" creationdate="20170912T163059Z">
+        <seg>无法移动文件 ''{0}'' 到 ''{1}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cannot move classes to default package</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T080706Z" creationid="Admin" creationdate="20170912T080706Z">
         <seg>无法移动类至默认包</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot move file to {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163149Z" creationid="Administrator" creationdate="20170912T163149Z">
+        <seg>无法移动文件到 {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -9400,6 +9600,14 @@ Method {0} is not static</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cannot read from file {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T162949Z" creationid="Administrator" creationdate="20170912T162949Z">
+        <seg>无法读取文件{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cannot redo</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102543Z" creationid="Administrator" creationdate="20170909T102543Z">
@@ -9412,6 +9620,22 @@ Method {0} is not static</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T143342Z" creationid="Administrator" creationdate="20170912T143342Z">
         <seg>无法刷新:{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot rename ''{0}'' to ''{1}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163057Z" creationid="Administrator" creationdate="20170912T163057Z">
+        <seg>无法重命名 ''{0}'' 为 ''{1}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot rename root directory ''{0}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163200Z" creationid="Administrator" creationdate="20170912T163200Z">
+        <seg>不能重命名根目录 ''{0}''</seg>
       </tuv>
     </tu>
     <tu>
@@ -9664,6 +9888,14 @@ Method {0} is not static</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102536Z" creationid="Administrator" creationdate="20170909T102536Z">
         <seg>无法撤销</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot write to file {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T162951Z" creationid="Administrator" creationdate="20170912T162951Z">
+        <seg>无法写入文件 {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -15260,6 +15492,14 @@ Method {0} is not static</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Copying {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163000Z" creationid="Administrator" creationdate="20170912T163000Z">
+        <seg>正在复制 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Copy{0} of {1}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T051642Z" creationid="Admin" creationdate="20170911T051642Z">
@@ -18228,6 +18468,14 @@ Method {0} is not static</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Directory already exists</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163141Z" creationid="Administrator" creationdate="20170912T163141Z">
+        <seg>目录已经存在</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Directory is invalid {0}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T101510Z" creationid="Administrator" creationdate="20170909T101510Z">
@@ -19226,6 +19474,14 @@ with covariant return type?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T071324Z" creationid="Admin" creationdate="20170911T071324Z">
         <seg>下载的文件将被复制到选定的目录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Downloading ''{0}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163043Z" creationid="Administrator" creationdate="20170912T163043Z">
+        <seg>下载中 ''{0}'' </seg>
       </tuv>
     </tu>
     <tu>
@@ -21270,6 +21526,14 @@ with covariant return type?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T153622Z" creationid="Administrator" creationdate="20170912T153622Z">
         <seg>添加文件时错误</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error Copying File</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163025Z" creationid="Administrator" creationdate="20170912T163025Z">
+        <seg>复制文件时出错</seg>
       </tuv>
     </tu>
     <tu>
@@ -23888,6 +24152,14 @@ a field {1} of the base {2}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T034835Z" creationid="Admin" creationdate="20170911T034835Z">
         <seg>文件类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File already exists</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T162940Z" creationid="Administrator" creationdate="20170912T162940Z">
+        <seg>文件已存在</seg>
       </tuv>
     </tu>
     <tu>
@@ -30546,6 +30818,22 @@ in class ''{1}''</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Invalid directory name: ''{0}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163054Z" creationid="Administrator" creationdate="20170912T163054Z">
+        <seg>无效的目录名称： "{0}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid directory.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163145Z" creationid="Administrator" creationdate="20170912T163145Z">
+        <seg>无效的目录。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Invalid expression : {0}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T135957Z" creationid="Administrator" creationdate="20170909T135957Z">
@@ -30582,6 +30870,14 @@ in class ''{1}''</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T112101Z" creationid="Administrator" creationdate="20170909T112101Z">
         <seg>无效文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid file name: ''{0}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163053Z" creationid="Administrator" creationdate="20170912T163053Z">
+        <seg>无效的文件名： "{0}"</seg>
       </tuv>
     </tu>
     <tu>
@@ -38376,6 +38672,14 @@ can be replaced with usages of {1}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Not a directory.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163112Z" creationid="Administrator" creationdate="20170912T163112Z">
+        <seg>不是目录。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Not annotated method overrides method annotated with @{0}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T095757Z" creationid="Admin" creationdate="20170911T095724Z">
@@ -43577,6 +43881,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T041827Z" creationid="Admin" creationdate="20170912T041827Z">
         <seg>原因：{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reason: {2}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163023Z" creationid="Administrator" creationdate="20170912T163023Z">
+        <seg>原因：{2}</seg>
       </tuv>
     </tu>
     <tu>
