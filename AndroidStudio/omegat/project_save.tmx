@@ -2558,6 +2558,14 @@ No new or edited TODO items, or items located in changed text fragments were fou
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;invalid frame&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163656Z" creationid="Administrator" creationdate="20170912T163656Z">
+        <seg>&lt;无效帧&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;invalid&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T062127Z" creationid="Admin" creationdate="20170911T062127Z">
@@ -4554,6 +4562,14 @@ No new or edited TODO items, or items located in changed text fragments were fou
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T053044Z" creationid="Administrator" creationdate="20170909T053044Z">
         <seg>在匿名类头部后:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After breakpoint was hit</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163405Z" creationid="Administrator" creationdate="20170912T163405Z">
+        <seg>在断点触发后:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6750,10 +6766,42 @@ and replace them with usages of {2} where possible.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Attach To</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163237Z" creationid="Administrator" creationdate="20170912T163237Z">
+        <seg>附加到</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Attach selected views to the debugger tool window</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T033652Z" creationid="Administrator" creationdate="20170909T033652Z">
         <seg>将选中视图附加到调试器工具窗口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Attach to Local Process</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163243Z" creationid="Administrator" creationdate="20170912T163243Z">
+        <seg>附加到本地进程</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Attach to a locally running process with an available debugger</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163246Z" creationid="Administrator" creationdate="20170912T163246Z">
+        <seg>使用可用的调试器连接到本地运行的进程</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Attach with {0} To</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163239Z" creationid="Administrator" creationdate="20170912T163239Z">
+        <seg>用{0}附加到</seg>
       </tuv>
     </tu>
     <tu>
@@ -7536,6 +7584,14 @@ and replace them with usages of {2} where possible.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Block</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163746Z" creationid="Administrator" creationdate="20170912T163746Z">
+        <seg>块</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Block comment</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T014639Z" creationid="Admin" creationdate="20170912T014639Z">
@@ -7836,6 +7892,22 @@ and replace them with usages of {2} where possible.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T150249Z" creationid="Administrator" creationdate="20170909T150232Z">
         <seg>继点在线程 {0} 中到达</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Breakpoint reached:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163426Z" creationid="Administrator" creationdate="20170912T163426Z">
+        <seg>断点到达:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Breakpoints</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163300Z" creationid="Administrator" creationdate="20170912T163300Z">
+        <seg>断点</seg>
       </tuv>
     </tu>
     <tu>
@@ -9196,6 +9268,14 @@ and replace them with usages of {2} where possible.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cannot evaluate, current stack frame doesn't support evaluation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163508Z" creationid="Administrator" creationdate="20170912T163508Z">
+        <seg>无法解析,当前堆栈帧不支持解析</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cannot evaluate: process exited</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T114708Z" creationid="Administrator" creationdate="20170909T114708Z">
@@ -9408,6 +9488,14 @@ and replace them with usages of {2} where possible.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T143416Z" creationid="Administrator" creationdate="20170912T143416Z">
         <seg>无法加载版本:{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot load value: {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163727Z" creationid="Administrator" creationdate="20170912T163723Z">
+        <seg>无法加载值: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -10160,6 +10248,14 @@ Method {0} is not static</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T094820Z" creationid="Admin" creationdate="20170911T094805Z">
         <seg>转换 {0} 为 {1} 是多余的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Catch</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163742Z" creationid="Administrator" creationdate="20170912T163742Z">
+        <seg>捕捉</seg>
       </tuv>
     </tu>
     <tu>
@@ -12500,6 +12596,14 @@ Method {0} is not static</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click to change the language</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163428Z" creationid="Administrator" creationdate="20170912T163428Z">
+        <seg>单击更改语言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click to configure highlighting for this file</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T111338Z" creationid="Admin" creationdate="20170912T111338Z">
@@ -12964,6 +13068,14 @@ Method {0} is not static</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Closure</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163739Z" creationid="Administrator" creationdate="20170912T163735Z">
+        <seg>关闭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Code</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T032238Z" creationid="Administrator" creationdate="20170909T032238Z">
@@ -13196,6 +13308,14 @@ Method {0} is not static</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Code fragment:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163502Z" creationid="Administrator" creationdate="20170912T163502Z">
+        <seg>代码片段:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Code from {0}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040258Z" creationid="Admin" creationdate="20170912T040258Z">
@@ -13416,6 +13536,14 @@ Method {0} is not static</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T031850Z" creationid="Administrator" creationdate="20170909T031850Z">
         <seg>在插入符号处折叠可折叠区</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Collecting data…</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163512Z" creationid="Administrator" creationdate="20170912T163512Z">
+        <seg>收集数据…</seg>
       </tuv>
     </tu>
     <tu>
@@ -14364,6 +14492,14 @@ Method {0} is not static</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Conditions</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163303Z" creationid="Administrator" creationdate="20170912T163303Z">
+        <seg>条件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Config Folder or Installation Home Required</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T052408Z" creationid="Administrator" creationdate="20170909T052408Z">
@@ -14636,10 +14772,26 @@ Method {0} is not static</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Connected</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163629Z" creationid="Administrator" creationdate="20170912T163629Z">
+        <seg>已连接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Connected to the target VM, address: ''{0}'', transport: ''{1}''</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T013414Z" creationid="Administrator" creationdate="20170910T012520Z">
         <seg>连接到目标虚拟机，地址:''{0}''，传输:''{1}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Connecting</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163630Z" creationid="Administrator" creationdate="20170912T163630Z">
+        <seg>连接中</seg>
       </tuv>
     </tu>
     <tu>
@@ -16972,6 +17124,14 @@ Method {0} is not static</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Data Views</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163221Z" creationid="Administrator" creationdate="20170912T163221Z">
+        <seg>数据视图</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Data error (cyclic redundancy check)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102227Z" creationid="Administrator" creationdate="20170909T102227Z">
@@ -18020,6 +18180,14 @@ Method {0} is not static</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Depends on</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163403Z" creationid="Administrator" creationdate="20170912T163403Z">
+        <seg>依赖于</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Depends on:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T031607Z" creationid="Administrator" creationdate="20170910T031607Z">
@@ -18616,6 +18784,14 @@ already contains {1} named ''{2}''</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Disable breakpoint</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163248Z" creationid="Administrator" creationdate="20170912T163248Z">
+        <seg>禁用断点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Disable inspection</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T115549Z" creationid="Admin" creationdate="20170911T115549Z">
@@ -18664,10 +18840,26 @@ already contains {1} named ''{2}''</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Disabled until selected breakpoint is hit:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163418Z" creationid="Administrator" creationdate="20170912T163418Z">
+        <seg>禁用,直到选定的断点被触发:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Disconnect</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T023156Z" creationid="Admin" creationdate="20170911T023156Z">
         <seg>断开连接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disconnected</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163632Z" creationid="Administrator" creationdate="20170912T163632Z">
+        <seg>已断开</seg>
       </tuv>
     </tu>
     <tu>
@@ -19410,6 +19602,14 @@ with covariant return type?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T161917Z" creationid="Administrator" creationdate="20170911T161917Z">
         <seg>按钮{0}不支持双击</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Double-click to see)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163557Z" creationid="Administrator" creationdate="20170912T163557Z">
+        <seg>双击查看)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20890,10 +21090,26 @@ with covariant return type?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enable auto expressions in Variables view</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163809Z" creationid="Administrator" creationdate="20170912T163809Z">
+        <seg>在变量视图中启用自动表达式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enable background processes</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T161253Z" creationid="Administrator" creationdate="20170912T161253Z">
         <seg>启用后台进程</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable breakpoint</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163249Z" creationid="Administrator" creationdate="20170912T163249Z">
+        <seg>启用断点</seg>
       </tuv>
     </tu>
     <tu>
@@ -22026,6 +22242,14 @@ Plugins were not loaded.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Evaluate Code Fragment</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163459Z" creationid="Administrator" creationdate="20170912T163459Z">
+        <seg>解析代码片段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Evaluate Expression</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T033449Z" creationid="Administrator" creationdate="20170909T033449Z">
@@ -22038,6 +22262,14 @@ Plugins were not loaded.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T034941Z" creationid="Administrator" creationdate="20170909T034941Z">
         <seg>在控制台计算</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Evaluate and log:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163402Z" creationid="Administrator" creationdate="20170912T163402Z">
+        <seg>计算和日志:</seg>
       </tuv>
     </tu>
     <tu>
@@ -22094,6 +22326,14 @@ Plugins were not loaded.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T144956Z" creationid="Administrator" creationdate="20170909T144949Z">
         <seg>计算 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Evaluating…</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163522Z" creationid="Administrator" creationdate="20170912T163516Z">
+        <seg>计算…</seg>
       </tuv>
     </tu>
     <tu>
@@ -25382,6 +25622,14 @@ Do you want overwrite it or to append?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Focus application on breakpoint</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163819Z" creationid="Administrator" creationdate="20170912T163819Z">
+        <seg>在断点时聚焦应用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Focus this view by default when UI is shown</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T033707Z" creationid="Administrator" creationdate="20170909T033707Z">
@@ -25770,6 +26018,22 @@ Do you want overwrite it or to append?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040203Z" creationid="Admin" creationdate="20170912T040203Z">
         <seg>片断:\&amp;nbsp;{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Frames</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163635Z" creationid="Administrator" creationdate="20170912T163635Z">
+        <seg>帧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Frames are not available</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163705Z" creationid="Administrator" creationdate="20170912T163705Z">
+        <seg>帧不可用</seg>
       </tuv>
     </tu>
     <tu>
@@ -27000,6 +27264,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Group by file</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163419Z" creationid="Administrator" creationdate="20170912T163419Z">
+        <seg>按文件分组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Group by file structure</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T140942Z" creationid="Administrator" creationdate="20170912T140942Z">
@@ -27456,6 +27728,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hide debug window on process termination</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163816Z" creationid="Administrator" creationdate="20170912T163816Z">
+        <seg>在进程中止时隐藏调试窗口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hide file extension in editor tabs</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T063343Z" creationid="Administrator" creationdate="20170909T063343Z">
@@ -27788,6 +28068,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T030656Z" creationid="Administrator" creationdate="20170910T030656Z">
         <seg>热切换失败</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HotSwap</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163230Z" creationid="Administrator" creationdate="20170912T163230Z">
+        <seg>热切换</seg>
       </tuv>
     </tu>
     <tu>
@@ -28212,6 +28500,14 @@ Compilation will proceed without clearing output directories</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T033606Z" creationid="Admin" creationdate="20170912T033606Z">
         <seg>标识符//预定义符号</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If disabled, use "{0}" to show/hide tooltips</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163859Z" creationid="Administrator" creationdate="20170912T163859Z">
+        <seg>如果禁用，使用“{0}“显示/隐藏提示</seg>
       </tuv>
     </tu>
     <tu>
@@ -30202,6 +30498,14 @@ in class ''{1}''</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Inspect ''{0}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163627Z" creationid="Administrator" creationdate="20170912T163627Z">
+        <seg>检查 ''{0}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Inspect Code</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T032529Z" creationid="Administrator" creationdate="20170909T032529Z">
@@ -30398,6 +30702,14 @@ in class ''{1}''</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T061718Z" creationid="Admin" creationdate="20170911T061718Z">
         <seg>已安装</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Instance</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163745Z" creationid="Administrator" creationdate="20170912T163745Z">
+        <seg>实例</seg>
       </tuv>
     </tu>
     <tu>
@@ -32358,8 +32670,8 @@ Cannot generate JavaDoc</seg>
       <tuv lang="EN-US">
         <seg>Leave enabled</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T035939Z" creationid="Administrator" creationdate="20170910T035836Z">
-        <seg>Leave enabled（继续启用）</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163413Z" creationid="Administrator" creationdate="20170910T035836Z">
+        <seg>继续启用</seg>
       </tuv>
     </tu>
     <tu>
@@ -32948,6 +33260,22 @@ Cannot generate JavaDoc</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Loading value</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163729Z" creationid="Administrator" creationdate="20170912T163729Z">
+        <seg>加载值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Loading…</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163654Z" creationid="Administrator" creationdate="20170912T163651Z">
+        <seg>载入中…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Local</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T071005Z" creationid="Admin" creationdate="20170911T071005Z">
@@ -33188,6 +33516,14 @@ Cannot generate JavaDoc</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Log expression:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163259Z" creationid="Administrator" creationdate="20170912T163259Z">
+        <seg>日志表达式:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Log file:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T065706Z" creationid="Admin" creationdate="20170911T065706Z">
@@ -33216,6 +33552,14 @@ Cannot generate JavaDoc</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T031616Z" creationid="Administrator" creationdate="20170910T031616Z">
         <seg>输出日志信息到控制台</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Log message: yes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163258Z" creationid="Administrator" creationdate="20170912T163258Z">
+        <seg>日志消息: 是</seg>
       </tuv>
     </tu>
     <tu>
@@ -35138,6 +35482,14 @@ for this anonymous class.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T034923Z" creationid="Administrator" creationdate="20170909T034923Z">
         <seg>修改选中节点的值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Modifying value…</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163513Z" creationid="Administrator" creationdate="20170912T163513Z">
+        <seg>修改值…</seg>
       </tuv>
     </tu>
     <tu>
@@ -37430,6 +37782,14 @@ for this anonymous class.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Next Frame</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163645Z" creationid="Administrator" creationdate="20170912T163645Z">
+        <seg>下一帧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Next Highlighted Error</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T032151Z" creationid="Administrator" creationdate="20170909T032151Z">
@@ -37714,6 +38074,14 @@ for this anonymous class.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T030431Z" creationid="Admin" creationdate="20170911T030431Z">
         <seg>没有指定applet类</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No breakpoints</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163708Z" creationid="Administrator" creationdate="20170912T163708Z">
+        <seg>没有断点</seg>
       </tuv>
     </tu>
     <tu>
@@ -38238,6 +38606,14 @@ for this anonymous class.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No processes to attach to</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163236Z" creationid="Administrator" creationdate="20170912T163236Z">
+        <seg>没有可附加的进程</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No proxy</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T102855Z" creationid="Administrator" creationdate="20170909T102855Z">
@@ -38556,6 +38932,14 @@ can be replaced with usages of {1}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T112257Z" creationid="Administrator" creationdate="20170909T112257Z">
         <seg>没有验证可用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No watches</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163708Z" creationid="Administrator" creationdate="20170912T163708Z">
+        <seg>没有观察点</seg>
       </tuv>
     </tu>
     <tu>
@@ -42373,6 +42757,14 @@ to migrate using the migration map "{0}"</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Previous Frame</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163647Z" creationid="Administrator" creationdate="20170912T163647Z">
+        <seg>上一帧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Previous Highlighted Error</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T032155Z" creationid="Administrator" creationdate="20170909T032155Z">
@@ -43909,6 +44301,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Recent</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163240Z" creationid="Administrator" creationdate="20170912T163240Z">
+        <seg>最近的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Recent Changes</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T031905Z" creationid="Administrator" creationdate="20170909T031905Z">
@@ -44345,6 +44745,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T103410Z" creationid="Admin" creationdate="20170912T103410Z">
         <seg>要修改的引用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Referring Objects For {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163839Z" creationid="Administrator" creationdate="20170912T163839Z">
+        <seg>{0} 的引用对象</seg>
       </tuv>
     </tu>
     <tu>
@@ -45057,6 +45465,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T063354Z" creationid="Administrator" creationdate="20170910T063354Z">
         <seg>移除属性/元素</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove breakpoint</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163248Z" creationid="Administrator" creationdate="20170912T163248Z">
+        <seg>移除断点</seg>
       </tuv>
     </tu>
     <tu>
@@ -48173,6 +48589,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Script</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163747Z" creationid="Administrator" creationdate="20170912T163747Z">
+        <seg>脚本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Script execution took more than {0} seconds</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T031713Z" creationid="Admin" creationdate="20170911T031713Z">
@@ -48249,6 +48673,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T023701Z" creationid="Admin" creationdate="20170911T023701Z">
         <seg>滚动控制台到断言或异常堆栈的开始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scroll execution point to center</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163855Z" creationid="Administrator" creationdate="20170912T163855Z">
+        <seg>滚动执行点到中心</seg>
       </tuv>
     </tu>
     <tu>
@@ -49261,6 +49693,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select a breakpoint</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163422Z" creationid="Administrator" creationdate="20170912T163422Z">
+        <seg>选择一个断点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select a name for ''{0}.this'' parameter</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T085407Z" creationid="Admin" creationdate="20170912T085407Z">
@@ -49745,6 +50185,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T041152Z" creationid="Administrator" creationdate="20170909T041145Z">
         <seg>设置活动更改列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set As Root</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163510Z" creationid="Administrator" creationdate="20170912T163510Z">
+        <seg>设为根</seg>
       </tuv>
     </tu>
     <tu>
@@ -50297,6 +50745,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T031254Z" creationid="Administrator" creationdate="20170909T031254Z">
         <seg>显示书签</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show Breakpoints Dialog</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163251Z" creationid="Administrator" creationdate="20170912T163251Z">
+        <seg>显示断点对话框</seg>
       </tuv>
     </tu>
     <tu>
@@ -50973,6 +51429,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Show debug window on breakpoint</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163825Z" creationid="Administrator" creationdate="20170912T163825Z">
+        <seg>在断点时显示调试窗口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Show dependencies between modules in project</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T032559Z" creationid="Administrator" creationdate="20170909T032559Z">
@@ -51113,6 +51577,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T040752Z" creationid="Administrator" creationdate="20170909T040752Z">
         <seg>显示选中类/接口的方法的层次结构</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show history</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163429Z" creationid="Administrator" creationdate="20170912T163429Z">
+        <seg>显示历史</seg>
       </tuv>
     </tu>
     <tu>
@@ -51661,6 +52133,30 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Show value tooltip</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163845Z" creationid="Administrator" creationdate="20170912T163845Z">
+        <seg>显示值提示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show value tooltip on code selection</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163850Z" creationid="Administrator" creationdate="20170912T163850Z">
+        <seg>选中代码时显示值提示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show values inline</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163841Z" creationid="Administrator" creationdate="20170912T163841Z">
+        <seg>显示值内联</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Show version control related information for all local files</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T030615Z" creationid="Administrator" creationdate="20170909T030615Z">
@@ -51673,6 +52169,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T063738Z" creationid="Administrator" creationdate="20170909T063738Z">
         <seg>显示虚拟空间在文件底部</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show watches in variables tab</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163701Z" creationid="Administrator" creationdate="20170912T163701Z">
+        <seg>在变量选项卡中显示观察点</seg>
       </tuv>
     </tu>
     <tu>
@@ -52421,6 +52925,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sort values alphabetically</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163812Z" creationid="Administrator" creationdate="20170912T163812Z">
+        <seg>按字幕顺序排序值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sort values alphabetically in debugger views</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T035008Z" creationid="Administrator" creationdate="20170909T035008Z">
@@ -53091,6 +53603,14 @@ Package ''{2}'' cannot be created there</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T033258Z" creationid="Administrator" creationdate="20170909T033258Z">
         <seg>步至这个文件的下一行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stepping</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163228Z" creationid="Administrator" creationdate="20170912T163228Z">
+        <seg>步进</seg>
       </tuv>
     </tu>
     <tu>
@@ -54011,6 +54531,30 @@ Package ''{2}'' cannot be created there</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T033445Z" creationid="Administrator" creationdate="20170909T033445Z">
         <seg>暂停程序执行并启用调试</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Suspend: all</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163252Z" creationid="Administrator" creationdate="20170912T163252Z">
+        <seg>暂停：全部</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Suspend: none</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163254Z" creationid="Administrator" creationdate="20170912T163254Z">
+        <seg>暂停: 无</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Suspend: thread</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163253Z" creationid="Administrator" creationdate="20170912T163253Z">
+        <seg>暂停: 线程</seg>
       </tuv>
     </tu>
     <tu>
@@ -56625,6 +57169,14 @@ already exists.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Threads are not available</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163706Z" creationid="Administrator" creationdate="20170912T163706Z">
+        <seg>线程不可用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Throw Debug Exception</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T033818Z" creationid="Administrator" creationdate="20170909T033818Z">
@@ -57621,6 +58173,14 @@ already exists.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T060940Z" creationid="Administrator" creationdate="20170909T060724Z">
         <seg>类型参数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type an expression and press 'Enter'</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163717Z" creationid="Administrator" creationdate="20170912T163717Z">
+        <seg>键入一个表达式然后按'Enter'</seg>
       </tuv>
     </tu>
     <tu>
@@ -59163,6 +59723,14 @@ Error message: {1}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use Control+Shift+Enter to add to Watches</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163456Z" creationid="Administrator" creationdate="20170912T163439Z">
+        <seg>使用 Control+Shift+Enter 添加观察点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use Interface Where Possible</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T033042Z" creationid="Administrator" creationdate="20170909T033042Z">
@@ -59883,6 +60451,14 @@ Error message: {1}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Value tooltip delay (ms):</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163805Z" creationid="Administrator" creationdate="20170912T163759Z">
+        <seg>值工具提示延迟（毫秒）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Value write</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T141446Z" creationid="Administrator" creationdate="20170912T141446Z">
@@ -60055,6 +60631,14 @@ Error message: {1}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T093332Z" creationid="Administrator" creationdate="20170909T093332Z">
         <seg>变量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Variables are not available</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163707Z" creationid="Administrator" creationdate="20170912T163707Z">
+        <seg>变量不可用</seg>
       </tuv>
     </tu>
     <tu>
@@ -60483,6 +61067,14 @@ Error message: {1}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Watches</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163637Z" creationid="Administrator" creationdate="20170912T163637Z">
+        <seg>观察点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Watches ({0})</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T025919Z" creationid="Administrator" creationdate="20170910T025642Z">
@@ -60743,6 +61335,14 @@ Error message: {1}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T065734Z" creationid="Administrator" creationdate="20170909T065734Z">
         <seg>Windows (\r\n)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With Block</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163731Z" creationid="Administrator" creationdate="20170912T163731Z">
+        <seg>用块</seg>
       </tuv>
     </tu>
     <tu>
@@ -61419,6 +62019,14 @@ as a source directory?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T073108Z" creationid="Admin" creationdate="20170911T073108Z">
         <seg>您正在从网络共享中打开一个项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can also choose an item with: {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163904Z" creationid="Administrator" creationdate="20170912T163904Z">
+        <seg>您也可以选择一个项目用: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -63479,6 +64087,14 @@ Would you like to open it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>result</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163503Z" creationid="Administrator" creationdate="20170912T163503Z">
+        <seg>结果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>right now</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T101612Z" creationid="Administrator" creationdate="20170909T101612Z">
@@ -64849,6 +65465,14 @@ Would you like to overwrite {1,choice,1#it|2#these files}?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{0} elements</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163657Z" creationid="Administrator" creationdate="20170912T163657Z">
+        <seg>{0}元素</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{0} exit {0, choice, 1#point|2#points} highlighted (press {1} again to remove the highlighting, Escape to remove all highlighting)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T085528Z" creationid="Administrator" creationdate="20170909T084847Z">
@@ -66089,6 +66713,14 @@ does not exist.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{1}:{0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163423Z" creationid="Administrator" creationdate="20170912T163423Z">
+        <seg>{1}:{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{2}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T055510Z" creationid="Admin" creationdate="20170911T055510Z">
@@ -66101,6 +66733,30 @@ does not exist.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T155919Z" creationid="Administrator" creationdate="20170912T155858Z">
         <seg>{4}&lt;br/&gt;&lt;br/&gt;当前版本是 {3}.&lt;br/&gt;由 {0} 修改&lt;br/&gt;{1}&lt;br/&gt;{2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>… (Double-click to see more items)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163617Z" creationid="Administrator" creationdate="20170912T163601Z">
+        <seg>…(双击查看更多项)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>… (length: {0})</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163624Z" creationid="Administrator" creationdate="20170912T163608Z">
+        <seg>… (长度: {0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>… ({0} more {0, choice, 1#item|2#items}.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163544Z" creationid="Administrator" creationdate="20170912T163544Z">
+        <seg>… ({0} 更多项。</seg>
       </tuv>
     </tu>
     <tu>
@@ -66125,6 +66781,14 @@ does not exist.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T034413Z" creationid="Administrator" creationdate="20170910T034405Z">
         <seg>… 显示图像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>… View</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163626Z" creationid="Administrator" creationdate="20170912T163626Z">
+        <seg>… 查看</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
