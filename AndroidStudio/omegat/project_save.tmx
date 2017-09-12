@@ -2662,6 +2662,14 @@ No new or edited TODO items, or items located in changed text fragments were fou
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;table cellpadding=0 cellspacing=0 border=0&gt;&lt;tr&gt;&lt;td&gt;Color preview:\&amp;nbsp;&lt;/td&gt;&lt;td style="background-color: #000000; padding: 1px"&gt;{0}&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232159Z" creationid="Administrator" creationdate="20170912T232159Z">
+        <seg>&lt;table cellpadding=0 cellspacing=0 border=0&gt;&lt;tr&gt;&lt;td&gt;颜色预览:\&amp;nbsp;&lt;/td&gt;&lt;td style="background-color: #000000; padding: 1px"&gt;{0}&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;ul&gt;&lt;li&gt;Abstract method is not implemented OR&lt;/li&gt;&lt;li&gt;Implementation class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T105642Z" creationid="Admin" creationdate="20170911T105642Z">
@@ -3878,6 +3886,30 @@ No new or edited TODO items, or items located in changed text fragments were fou
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add Xsi schema location for external resource</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232856Z" creationid="Administrator" creationdate="20170912T232856Z">
+        <seg>为外部资源添加Xsi模式位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add a new column to the table after the current one</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T233305Z" creationid="Administrator" creationdate="20170912T233214Z">
+        <seg>在表中当前列后添加一个新列</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add a new column to the table before the current one</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T233317Z" creationid="Administrator" creationdate="20170912T233219Z">
+        <seg>在表中当前列前添加一个新列</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add a space at comment start</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T073203Z" creationid="Administrator" creationdate="20170909T073203Z">
@@ -3938,6 +3970,14 @@ No new or edited TODO items, or items located in changed text fragments were fou
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T053244Z" creationid="Admin" creationdate="20170912T053244Z">
         <seg>添加对模块“{0}”的依赖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add edit point at the end of template</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T234415Z" creationid="Administrator" creationdate="20170912T234415Z">
+        <seg>在模板的结尾处添加编辑点</seg>
       </tuv>
     </tu>
     <tu>
@@ -4358,10 +4398,42 @@ No new or edited TODO items, or items located in changed text fragments were fou
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add {0} to custom html attributes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T233018Z" creationid="Administrator" creationdate="20170912T233018Z">
+        <seg>添加{0}到自定义的html属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add {0} to custom html boolean attributes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T233026Z" creationid="Administrator" creationdate="20170912T233026Z">
+        <seg>添加{0}到自定义HTML布尔属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add {0} to custom html tags</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T233016Z" creationid="Administrator" creationdate="20170912T233016Z">
+        <seg>添加{0}到自定义的html标签</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add {0} to custom tags</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T041030Z" creationid="Admin" creationdate="20170912T041030Z">
         <seg>将 {0} 添加到自定义标签</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add {0} to not required html attributes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T233030Z" creationid="Administrator" creationdate="20170912T233030Z">
+        <seg>添加{0}到非必需的html属性</seg>
       </tuv>
     </tu>
     <tu>
@@ -4626,6 +4698,14 @@ No new or edited TODO items, or items located in changed text fragments were fou
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T072911Z" creationid="Administrator" creationdate="20170909T072911Z">
         <seg>最后一个字段后标注</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After launch</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T234455Z" creationid="Administrator" creationdate="20170912T234455Z">
+        <seg>在启动后</seg>
       </tuv>
     </tu>
     <tu>
@@ -5184,6 +5264,14 @@ will be changed</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Allow unsigned requests</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T234520Z" creationid="Administrator" creationdate="20170912T234520Z">
+        <seg>允许未签名的请求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Allow usages of</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T045936Z" creationid="Administrator" creationdate="20170909T045936Z">
@@ -5470,6 +5558,14 @@ as well as for the standard SDK classes resolution</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T045635Z" creationid="Administrator" creationdate="20170909T045635Z">
         <seg>分析包依赖关系</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Anchor reference problems</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232426Z" creationid="Administrator" creationdate="20170912T232426Z">
+        <seg>锚点引用问题</seg>
       </tuv>
     </tu>
     <tu>
@@ -6732,6 +6828,14 @@ as well as for the standard SDK classes resolution</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Associate a new label with {0} element</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232406Z" creationid="Administrator" creationdate="20170912T232406Z">
+        <seg>将新标签与{0}元素相关联</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Associate selected file with one of file types</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T040735Z" creationid="Administrator" creationdate="20170909T040735Z">
@@ -6834,6 +6938,22 @@ and replace them with usages of {2} where possible.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T091250Z" creationid="Admin" creationdate="20170912T091250Z">
         <seg>试图删除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Attr default:\&amp;nbsp;required</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T231734Z" creationid="Administrator" creationdate="20170912T231723Z">
+        <seg>属性默认值:\&amp;nbsp;必须的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Attr type:\&amp;nbsp;{0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T231708Z" creationid="Administrator" creationdate="20170912T231708Z">
+        <seg>属性类型:\&amp;nbsp;{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -7058,6 +7178,14 @@ and replace them with usages of {2} where possible.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T032351Z" creationid="Admin" creationdate="20170911T032351Z">
         <seg>平均使用频率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>BEM</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T234347Z" creationid="Administrator" creationdate="20170912T234347Z">
+        <seg>BEM</seg>
       </tuv>
     </tu>
     <tu>
@@ -8080,6 +8208,14 @@ and replace them with usages of {2} where possible.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Browse for local file</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T234237Z" creationid="Administrator" creationdate="20170912T234237Z">
+        <seg>浏览本地文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Browse hierarchy for the selected class</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T031816Z" creationid="Administrator" creationdate="20170909T031816Z">
@@ -8424,6 +8560,14 @@ and replace them with usages of {2} where possible.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Can accept external connections</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T234516Z" creationid="Administrator" creationdate="20170912T234516Z">
+        <seg>可以接受外部连接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Can be simplified</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T093825Z" creationid="Admin" creationdate="20170911T093825Z">
@@ -8512,6 +8656,14 @@ and replace them with usages of {2} where possible.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Can''t delete file {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T234303Z" creationid="Administrator" creationdate="20170912T234303Z">
+        <seg>无法删除文件{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Can''t load code style scheme {0}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T072839Z" creationid="Administrator" creationdate="20170909T072839Z">
@@ -8524,6 +8676,14 @@ and replace them with usages of {2} where possible.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051734Z" creationid="Administrator" creationdate="20170909T051734Z">
         <seg>不能从{0}中读取</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can''t rename {0} to {1}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T234302Z" creationid="Administrator" creationdate="20170912T234302Z">
+        <seg>无法将{0}重命名为{1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -8564,6 +8724,14 @@ and replace them with usages of {2} where possible.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T153717Z" creationid="Administrator" creationdate="20170912T153717Z">
         <seg>无法显示更改</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can't generate schema from instance document.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T234254Z" creationid="Administrator" creationdate="20170912T234248Z">
+        <seg>无法从实例文档生成 schema 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9020,6 +9188,14 @@ and replace them with usages of {2} where possible.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cannot create HTML file</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T234440Z" creationid="Administrator" creationdate="20170912T234440Z">
+        <seg>无法创建HTML文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cannot create a field watchpoint for ''{0}.{1}''.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T032256Z" creationid="Administrator" creationdate="20170910T032234Z">
@@ -9412,6 +9588,14 @@ and replace them with usages of {2} where possible.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cannot find resource "{0}"</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232429Z" creationid="Administrator" creationdate="20170912T232429Z">
+        <seg>无法找到资源 "{0}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cannot find source class for current stack frame</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T135921Z" creationid="Administrator" creationdate="20170909T135921Z">
@@ -9748,6 +9932,22 @@ Method {0} is not static</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T052103Z" creationid="Administrator" creationdate="20170909T052103Z">
         <seg>无法解析''{0}'' refid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot resolve anchor #{0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T233113Z" creationid="Administrator" creationdate="20170912T233113Z">
+        <seg>不能解析锚点 #{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot resolve anchor #{0} in file {1}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T233130Z" creationid="Administrator" creationdate="20170912T233116Z">
+        <seg>无法解析锚点 #{0} 在文件 {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -10564,6 +10764,14 @@ Method {0} is not static</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Change root tag name to {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232814Z" creationid="Administrator" creationdate="20170912T232753Z">
+        <seg>改变根标签名称为{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Change signature of ''{0}'' to ''{1}({2})''</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T041900Z" creationid="Admin" creationdate="20170912T041900Z">
@@ -11048,6 +11256,14 @@ Method {0} is not static</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T013037Z" creationid="Administrator" creationdate="20170910T013037Z">
         <seg>检查你的JDK安装</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check your xml document</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T234256Z" creationid="Administrator" creationdate="20170912T234256Z">
+        <seg>检查你的xml文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -12032,6 +12248,22 @@ Method {0} is not static</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T060834Z" creationid="Admin" creationdate="20170912T060834Z">
         <seg>需指定类名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Class name's element separator:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T234423Z" creationid="Administrator" creationdate="20170912T234423Z">
+        <seg>类名元素分隔符：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Class name's modifier separator:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T234430Z" creationid="Administrator" creationdate="20170912T234430Z">
+        <seg>类名的修饰符分隔符:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13532,6 +13764,14 @@ Method {0} is not static</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Collapse empty tag</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232646Z" creationid="Administrator" creationdate="20170912T232646Z">
+        <seg>折叠空标签</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Collapse folding region at caret</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T031850Z" creationid="Administrator" creationdate="20170909T031850Z">
@@ -13548,10 +13788,26 @@ Method {0} is not static</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Color RGB:\&amp;nbsp; {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232139Z" creationid="Administrator" creationdate="20170912T232139Z">
+        <seg>颜色 RGB:\&amp;nbsp; {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Color Scheme</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T040239Z" creationid="Administrator" creationdate="20170909T040239Z">
         <seg>切换配色方案</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color name:\&amp;nbsp; {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232135Z" creationid="Administrator" creationdate="20170912T232135Z">
+        <seg>颜色名:\&amp;nbsp; {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -14416,6 +14672,14 @@ Method {0} is not static</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T033028Z" creationid="Admin" creationdate="20170911T033028Z">
         <seg>在查找栏里补全</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Complex type</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T231956Z" creationid="Administrator" creationdate="20170912T231956Z">
+        <seg>复杂类型</seg>
       </tuv>
     </tu>
     <tu>
@@ -15820,6 +16084,22 @@ Method {0} is not static</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create Attribute Group {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232550Z" creationid="Administrator" creationdate="20170912T232550Z">
+        <seg>创建属性组{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create Attribute {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232547Z" creationid="Administrator" creationdate="20170912T232547Z">
+        <seg>创建属性{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create Class From Template</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T051450Z" creationid="Admin" creationdate="20170911T051450Z">
@@ -15848,6 +16128,14 @@ Method {0} is not static</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T042054Z" creationid="Administrator" creationdate="20170909T042054Z">
         <seg>创建命令行启动器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create Complex Type {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232545Z" creationid="Administrator" creationdate="20170912T232545Z">
+        <seg>创建复杂类型{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -15908,6 +16196,30 @@ Method {0} is not static</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create Element Declaration {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232600Z" creationid="Administrator" creationdate="20170912T232600Z">
+        <seg>创建元素声明{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create Element {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232548Z" creationid="Administrator" creationdate="20170912T232548Z">
+        <seg>创建元素{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create Entity Declaration {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232556Z" creationid="Administrator" creationdate="20170912T232556Z">
+        <seg>创建实体声明{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create Field</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T091020Z" creationid="Administrator" creationdate="20170909T091020Z">
@@ -15944,6 +16256,14 @@ Method {0} is not static</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T042746Z" creationid="Admin" creationdate="20170912T042746Z">
         <seg>创建 Getter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create Group {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232551Z" creationid="Administrator" creationdate="20170912T232551Z">
+        <seg>创建组{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -16092,6 +16412,14 @@ Method {0} is not static</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create Simple Type {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232554Z" creationid="Administrator" creationdate="20170912T232554Z">
+        <seg>创建简单类型{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create Tag File {0}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T100344Z" creationid="Administrator" creationdate="20170909T100344Z">
@@ -16132,6 +16460,14 @@ Method {0} is not static</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create Xml Element Declaration</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232603Z" creationid="Administrator" creationdate="20170912T232603Z">
+        <seg>创建Xml元素声明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create a copy of the selected class, file(s) or directory(es)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T032818Z" creationid="Administrator" creationdate="20170909T032818Z">
@@ -16144,6 +16480,22 @@ Method {0} is not static</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T041522Z" creationid="Administrator" creationdate="20170909T041522Z">
         <seg>创建与系统应用程序菜单集成的桌面快捷方式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create a new label from the text after {0} element</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232352Z" creationid="Administrator" creationdate="20170912T232352Z">
+        <seg>从{0}元素后面的文字创建一个新标签</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create a new label from the text before {0} element</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232355Z" creationid="Administrator" creationdate="20170912T232342Z">
+        <seg>从{0}元素之前的文字创建一个新的标签</seg>
       </tuv>
     </tu>
     <tu>
@@ -16756,6 +17108,14 @@ Method {0} is not static</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Creates new HTML file</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T234442Z" creationid="Administrator" creationdate="20170912T234442Z">
+        <seg>创建新HTML文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Creates new or reuses existing scratch buffer</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T032641Z" creationid="Administrator" creationdate="20170909T032641Z">
@@ -16904,6 +17264,38 @@ Method {0} is not static</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T031920Z" creationid="Administrator" creationdate="20170909T031920Z">
         <seg>自定义折叠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Custom HTML boolean tag attributes:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232532Z" creationid="Administrator" creationdate="20170912T232532Z">
+        <seg>自定义 HTML 布尔标签属性:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Custom HTML tag attributes:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232523Z" creationid="Administrator" creationdate="20170912T232523Z">
+        <seg>自定义 HTML 标签属性:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Custom HTML tags:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232512Z" creationid="Administrator" creationdate="20170912T232512Z">
+        <seg>自定义HTML标签:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Custom Html Tag</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T233013Z" creationid="Administrator" creationdate="20170912T233013Z">
+        <seg>自定义HTML标签</seg>
       </tuv>
     </tu>
     <tu>
@@ -17652,6 +18044,30 @@ Method {0} is not static</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Defined in:\&amp;nbsp;any dtd</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T231954Z" creationid="Administrator" creationdate="20170912T231954Z">
+        <seg>定义于:\&amp;nbsp;any dtd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Defined in:\&amp;nbsp;frameset dtd</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T231949Z" creationid="Administrator" creationdate="20170912T231931Z">
+        <seg>定义于:\&amp;nbsp;frameset dtd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Defined in:\&amp;nbsp;loose dtd</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T231945Z" creationid="Administrator" creationdate="20170912T231912Z">
+        <seg>定义于:\&amp;nbsp;loose dtd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Definition of {0}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T095608Z" creationid="Administrator" creationdate="20170909T095608Z">
@@ -18212,10 +18628,26 @@ Method {0} is not static</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Deprecated :\&amp;nbsp;{0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T231814Z" creationid="Administrator" creationdate="20170912T231814Z">
+        <seg>不推荐 :\&amp;nbsp;{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Deprecated API usage</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T094716Z" creationid="Admin" creationdate="20170911T094716Z">
         <seg>过时的API的使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deprecated HTML tag</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232057Z" creationid="Administrator" creationdate="20170912T232057Z">
+        <seg>弃用的 HTML 标签</seg>
       </tuv>
     </tu>
     <tu>
@@ -18324,6 +18756,14 @@ Method {0} is not static</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Design type:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T233827Z" creationid="Administrator" creationdate="20170912T233827Z">
+        <seg>设计类型:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Designer</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T040607Z" creationid="Administrator" creationdate="20170910T040607Z">
@@ -18428,10 +18868,34 @@ Method {0} is not static</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Detect enumerations limit:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T233826Z" creationid="Administrator" creationdate="20170912T233826Z">
+        <seg>检测枚举限制:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Detect simple content type:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T233836Z" creationid="Administrator" creationdate="20170912T233836Z">
+        <seg>检测简单内容类型:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Detecting Possible Conflicts</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T102919Z" creationid="Admin" creationdate="20170912T102919Z">
         <seg>检测可能的冲突</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Detection enumeration from following count</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T234214Z" creationid="Administrator" creationdate="20170912T234214Z">
+        <seg>从下面总数检测枚举</seg>
       </tuv>
     </tu>
     <tu>
@@ -19888,6 +20352,14 @@ with covariant return type?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Duplicate ID</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232838Z" creationid="Administrator" creationdate="20170912T232838Z">
+        <seg>重复的ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Duplicate Line</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T064716Z" creationid="Administrator" creationdate="20170910T064716Z">
@@ -20498,6 +20970,30 @@ with covariant return type?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Edit custom attributes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232537Z" creationid="Administrator" creationdate="20170912T232537Z">
+        <seg>编辑自定义属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit custom boolean attributes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232542Z" creationid="Administrator" creationdate="20170912T232542Z">
+        <seg>编辑自定义布尔属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit custom tags</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232518Z" creationid="Administrator" creationdate="20170912T232518Z">
+        <seg>编辑自定义标签</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Edit defaults settings</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T023107Z" creationid="Admin" creationdate="20170911T023107Z">
@@ -20898,6 +21394,14 @@ with covariant return type?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Element name:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T233811Z" creationid="Administrator" creationdate="20170912T233811Z">
+        <seg>元素名称:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Elements to Delete</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T141859Z" creationid="Administrator" creationdate="20170911T141859Z">
@@ -20994,6 +21498,22 @@ with covariant return type?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Empty tag</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232009Z" creationid="Administrator" creationdate="20170912T232001Z">
+        <seg>空标签</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Empty tag doesn't work in some browsers</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232026Z" creationid="Administrator" creationdate="20170912T232026Z">
+        <seg>空标签在一些浏览器中无效</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Empty test suite</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T104307Z" creationid="Admin" creationdate="20170912T104307Z">
@@ -21082,6 +21602,22 @@ with covariant return type?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enable XML/HTML Emmet</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T234322Z" creationid="Administrator" creationdate="20170912T234322Z">
+        <seg>启用 XML Emmet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable abbreviation preview</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T234350Z" creationid="Administrator" creationdate="20170912T234350Z">
+        <seg>启用缩写预览</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enable alternative view for Collections classes</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T023925Z" creationid="Administrator" creationdate="20170910T023925Z">
@@ -21094,6 +21630,14 @@ with covariant return type?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163809Z" creationid="Administrator" creationdate="20170912T163809Z">
         <seg>在变量视图中启用自动表达式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable automatic URL recognition while wrapping text with &lt;a&gt; tag</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T234410Z" creationid="Administrator" creationdate="20170912T234410Z">
+        <seg>在使用&lt;a&gt;标签包装文本时启用自动URL识别</seg>
       </tuv>
     </tu>
     <tu>
@@ -21166,6 +21710,38 @@ with covariant return type?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T041057Z" creationid="Administrator" creationdate="20170909T041057Z">
         <seg>启用或禁用额外的日志类别</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable particle valid (restriction) rule</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T234052Z" creationid="Administrator" creationdate="20170912T234052Z">
+        <seg>启用粒子有效（限制）规则</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable restriction check</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T233816Z" creationid="Administrator" creationdate="20170912T233816Z">
+        <seg>启用限制检查</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable unique check</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T233820Z" creationid="Administrator" creationdate="20170912T233820Z">
+        <seg>启用唯一检查</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable unique particle rule</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T234100Z" creationid="Administrator" creationdate="20170912T234100Z">
+        <seg>启用唯一粒子规则</seg>
       </tuv>
     </tu>
     <tu>
@@ -21294,6 +21870,14 @@ with covariant return type?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T054724Z" creationid="Administrator" creationdate="20170909T054724Z">
         <seg>行尾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>End tag:\&amp;nbsp;could be omitted</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T231657Z" creationid="Administrator" creationdate="20170912T231657Z">
+        <seg>结束标签:\&amp;nbsp;可以省略</seg>
       </tuv>
     </tu>
     <tu>
@@ -21706,6 +22290,14 @@ with covariant return type?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enumeration value</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T233318Z" creationid="Administrator" creationdate="20170912T233318Z">
+        <seg>枚举值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Environment Variables</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T031421Z" creationid="Admin" creationdate="20170911T031421Z">
@@ -21790,6 +22382,22 @@ with covariant return type?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T043720Z" creationid="Administrator" creationdate="20170910T043714Z">
         <seg>错误报告</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error While Fetching</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232917Z" creationid="Administrator" creationdate="20170912T232917Z">
+        <seg>获取时出错</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error While Fetching Dependent Resource</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232936Z" creationid="Administrator" creationdate="20170912T232936Z">
+        <seg>获取依赖资源时出错</seg>
       </tuv>
     </tu>
     <tu>
@@ -22074,6 +22682,14 @@ Plugins were not loaded.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Error while fetching {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232909Z" creationid="Administrator" creationdate="20170912T232909Z">
+        <seg>当获取 {0} 时发生错误</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Error writing settings.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T055259Z" creationid="Admin" creationdate="20170911T055255Z">
@@ -22230,6 +22846,14 @@ Plugins were not loaded.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T025537Z" creationid="Administrator" creationdate="20170909T025537Z">
         <seg>Esc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Escape {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232211Z" creationid="Administrator" creationdate="20170912T232211Z">
+        <seg>转义 {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -22780,6 +23404,14 @@ Exception message: {1}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Expand abbreviation with</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T234357Z" creationid="Administrator" creationdate="20170912T234357Z">
+        <seg>展开缩写用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Expand all build file nodes</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051448Z" creationid="Administrator" creationdate="20170909T051448Z">
@@ -22840,6 +23472,14 @@ Exception message: {1}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T031843Z" creationid="Administrator" creationdate="20170909T031843Z">
         <seg>在插入符号处展开可折叠区域</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Expand tag</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232043Z" creationid="Administrator" creationdate="20170912T232043Z">
+        <seg>扩展标签</seg>
       </tuv>
     </tu>
     <tu>
@@ -23342,6 +23982,22 @@ Exception message: {1}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>External Resource</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232940Z" creationid="Administrator" creationdate="20170912T232940Z">
+        <seg>外部资源</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>External Schemas and DTDs</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T233002Z" creationid="Administrator" creationdate="20170912T233002Z">
+        <seg>外部模式和DTDs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>External Tools</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T033815Z" creationid="Administrator" creationdate="20170909T033815Z">
@@ -23370,6 +24026,14 @@ Exception message: {1}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T105334Z" creationid="Admin" creationdate="20170912T105334Z">
         <seg>外部工具''{0}''完成,退出码{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extra closing tag for empty element</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232442Z" creationid="Administrator" creationdate="20170912T232442Z">
+        <seg>空元素的额外结束标签</seg>
       </tuv>
     </tu>
     <tu>
@@ -23902,6 +24566,14 @@ Reason: {1}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fetch external resource</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232843Z" creationid="Administrator" creationdate="20170912T232843Z">
+        <seg>获取外部资源</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fetches last element of an array</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T094629Z" creationid="Administrator" creationdate="20170909T094629Z">
@@ -23922,6 +24594,22 @@ Reason: {1}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T065955Z" creationid="Admin" creationdate="20170911T065955Z">
         <seg>获取外部组件的可用更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fetching resource</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232857Z" creationid="Administrator" creationdate="20170912T232857Z">
+        <seg>获取资源</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fetching {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232937Z" creationid="Administrator" creationdate="20170912T232937Z">
+        <seg>获取{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -24492,6 +25180,14 @@ a field {1} of the base {2}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>File does not pass external validation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232626Z" creationid="Administrator" creationdate="20170912T232618Z">
+        <seg>文件未通过外部验证</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>File encoding</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T060128Z" creationid="Admin" creationdate="20170911T060128Z">
@@ -24684,10 +25380,26 @@ a field {1} of the base {2}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>File path resolving in XML</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T233401Z" creationid="Administrator" creationdate="20170912T233401Z">
+        <seg> XML 中的文件路径解析</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>File pattern:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T035121Z" creationid="Admin" creationdate="20170911T035121Z">
         <seg>文件模式:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File reference problems</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232415Z" creationid="Administrator" creationdate="20170912T232415Z">
+        <seg>文件引用问题</seg>
       </tuv>
     </tu>
     <tu>
@@ -24818,6 +25530,14 @@ Do you want overwrite it or to append?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T053456Z" creationid="Admin" creationdate="20170911T053456Z">
         <seg>文件 {0} 不存在</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File {0} doesn''t exist</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T234257Z" creationid="Administrator" creationdate="20170912T234257Z">
+        <seg>文件{0}不存在</seg>
       </tuv>
     </tu>
     <tu>
@@ -25058,6 +25778,14 @@ Do you want overwrite it or to append?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051859Z" creationid="Administrator" creationdate="20170909T051859Z">
         <seg>过滤器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Filters enabled by default</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T234326Z" creationid="Administrator" creationdate="20170912T234326Z">
+        <seg>过滤器默认启用</seg>
       </tuv>
     </tu>
     <tu>
@@ -25466,6 +26194,14 @@ Do you want overwrite it or to append?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T054009Z" creationid="Admin" creationdate="20170912T054009Z">
         <seg>修复字符文字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fix Html</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T233036Z" creationid="Administrator" creationdate="20170912T233036Z">
+        <seg>修复 Html</seg>
       </tuv>
     </tu>
     <tu>
@@ -25942,6 +26678,14 @@ Do you want overwrite it or to append?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Form input without an associated label or title attribute</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232309Z" creationid="Administrator" creationdate="20170912T232252Z">
+        <seg>表单输入没有相关的标签或标题属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Formatter Control</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T072507Z" creationid="Administrator" creationdate="20170909T072507Z">
@@ -26270,10 +27014,34 @@ Do you want overwrite it or to append?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Generate Instance Document From Schema</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T233727Z" creationid="Administrator" creationdate="20170912T233727Z">
+        <seg>从 Schema 生成实例文档</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Generate JavaDoc</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T145044Z" creationid="Administrator" creationdate="20170909T033747Z">
         <seg>生成 JavaDoc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Generate Schema From Instance Document</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T233513Z" creationid="Administrator" creationdate="20170912T233428Z">
+        <seg>从实例文档生成 Schema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Generate Schema From Instance Xml Document</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T233544Z" creationid="Administrator" creationdate="20170912T233544Z">
+        <seg>从实例Xml文档生成Schema</seg>
       </tuv>
     </tu>
     <tu>
@@ -27392,6 +28160,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>HTML File</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T234441Z" creationid="Administrator" creationdate="20170912T234441Z">
+        <seg>HTML文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>HTML Text</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T100355Z" creationid="Administrator" creationdate="20170909T100355Z">
@@ -27428,6 +28204,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T102725Z" creationid="Admin" creationdate="20170911T102534Z">
         <seg>Javadoc 中的 HTML 问题 (DocLint)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HTML5 Outline</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T234447Z" creationid="Administrator" creationdate="20170912T234447Z">
+        <seg>HTML5大纲</seg>
       </tuv>
     </tu>
     <tu>
@@ -28664,6 +29448,14 @@ Compilation will proceed without clearing output directories</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ignore external resource</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232939Z" creationid="Administrator" creationdate="20170912T232939Z">
+        <seg>忽略外部资源</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ignore files and folders</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T050810Z" creationid="Admin" creationdate="20170911T050810Z">
@@ -28792,6 +29584,14 @@ Compilation will proceed without clearing output directories</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ignored Schemas and DTDs</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T233006Z" creationid="Administrator" creationdate="20170912T233006Z">
+        <seg>忽略模式和DTDs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ignored Updates</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T070554Z" creationid="Admin" creationdate="20170911T070554Z">
@@ -28820,6 +29620,14 @@ Compilation will proceed without clearing output directories</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T070435Z" creationid="Administrator" creationdate="20170909T070435Z">
         <seg>非法方案名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Image size mismatch</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232000Z" creationid="Administrator" creationdate="20170912T232000Z">
+        <seg>图像尺寸不匹配</seg>
       </tuv>
     </tu>
     <tu>
@@ -30370,6 +31178,14 @@ in class ''{1}''</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Insert background-image size</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232109Z" creationid="Administrator" creationdate="20170912T232109Z">
+        <seg>插入背景图像大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Insert documentation comment stub</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T065200Z" creationid="Administrator" creationdate="20170909T065200Z">
@@ -30446,6 +31262,22 @@ in class ''{1}''</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T065155Z" creationid="Administrator" creationdate="20170909T065155Z">
         <seg>插入成对引号</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insert required child tag</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232820Z" creationid="Administrator" creationdate="20170912T232820Z">
+        <seg>插入所需的子标签</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insert required child tag {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232818Z" creationid="Administrator" creationdate="20170912T232818Z">
+        <seg>插入所需的子标签{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -30714,6 +31546,14 @@ in class ''{1}''</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Instance 2 Schema generator error</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T233533Z" creationid="Administrator" creationdate="20170912T233533Z">
+        <seg>实例到 Schema 生成器错误</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Instance Filters</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T031238Z" creationid="Administrator" creationdate="20170910T031238Z">
@@ -30726,6 +31566,46 @@ in class ''{1}''</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T030826Z" creationid="Administrator" creationdate="20170910T030826Z">
         <seg>实例ID应该是“long”类型的数值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Instance To Schema</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T233519Z" creationid="Administrator" creationdate="20170912T233442Z">
+        <seg>实例到 Schema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Instance document file does not exist</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T234241Z" creationid="Administrator" creationdate="20170912T234241Z">
+        <seg>实例文档文件不存在</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Instance document file name to be generated</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T233801Z" creationid="Administrator" creationdate="20170912T233801Z">
+        <seg>要生成的实例文档文件名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Instance document name:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T233809Z" creationid="Administrator" creationdate="20170912T233809Z">
+        <seg>实例文档名称:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Instance document path:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T233838Z" creationid="Administrator" creationdate="20170912T233838Z">
+        <seg>实例文档路径:</seg>
       </tuv>
     </tu>
     <tu>
@@ -30750,6 +31630,14 @@ in class ''{1}''</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T053234Z" creationid="Administrator" creationdate="20170909T053234Z">
         <seg>实例方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Instance to Schema Generator Error</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T233746Z" creationid="Administrator" creationdate="20170912T233746Z">
+        <seg>实例到 Schema 生成器错误</seg>
       </tuv>
     </tu>
     <tu>
@@ -31114,6 +32002,24 @@ in class ''{1}''</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Invalid URL</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T233039Z" creationid="Administrator" creationdate="20170912T233039Z">
+        <seg>无效的URL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid URL: 
+{0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T233103Z" creationid="Administrator" creationdate="20170912T233058Z">
+        <seg>无效的 URL: 
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Invalid array size</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T021049Z" creationid="Administrator" creationdate="20170910T021049Z">
@@ -31222,6 +32128,14 @@ in class ''{1}''</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T035425Z" creationid="Administrator" creationdate="20170910T035425Z">
         <seg>无效的局部变量名 ''{0}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid number</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T233412Z" creationid="Administrator" creationdate="20170912T233412Z">
+        <seg>无效数字</seg>
       </tuv>
     </tu>
     <tu>
@@ -31374,6 +32288,14 @@ in class ''{1}''</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T044130Z" creationid="Administrator" creationdate="20170910T044130Z">
         <seg>是活跃的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Is empty:\&amp;nbsp;true</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T231705Z" creationid="Administrator" creationdate="20170912T231705Z">
+        <seg>是否为空:\&amp;nbsp;true</seg>
       </tuv>
     </tu>
     <tu>
@@ -31760,6 +32682,14 @@ Cannot generate JavaDoc</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T093606Z" creationid="Administrator" creationdate="20170909T093606Z">
         <seg>JSP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>JSP Inspections</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232125Z" creationid="Administrator" creationdate="20170912T232125Z">
+        <seg>JSP 检查</seg>
       </tuv>
     </tu>
     <tu>
@@ -34164,6 +35094,14 @@ Cannot generate JavaDoc</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Malformed content of &lt;script&gt; tag</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232018Z" creationid="Administrator" creationdate="20170912T232006Z">
+        <seg>&lt;script&gt;标签格式错误的内容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Malformed url: {0}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T050606Z" creationid="Admin" creationdate="20170911T050606Z">
@@ -34200,6 +35138,14 @@ Cannot generate JavaDoc</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T101317Z" creationid="Administrator" creationdate="20170909T101317Z">
         <seg>手动代理配置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Manually setup external resource</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232848Z" creationid="Administrator" creationdate="20170912T232848Z">
+        <seg>手动设置外部资源</seg>
       </tuv>
     </tu>
     <tu>
@@ -35814,6 +36760,14 @@ for this anonymous class.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>More info on &lt;a href="{0}"&gt;W3C website&lt;/a&gt;, &lt;a href="{1}"&gt;SitePoint Reference website&lt;/a&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T231811Z" creationid="Administrator" creationdate="20170912T231811Z">
+        <seg>更多信息在 &lt;a href="{0}"&gt;W3C 网站&lt;/a&gt;, &lt;a href="{1}"&gt;参考网站&lt;/a&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>More than {0} matches</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T073127Z" creationid="Administrator" creationdate="20170909T073127Z">
@@ -37078,6 +38032,22 @@ for this anonymous class.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Namespace declaration is never used</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T233348Z" creationid="Administrator" creationdate="20170912T233348Z">
+        <seg>命名空间声明从未使用过</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Namespace location is never used</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T233344Z" creationid="Administrator" creationdate="20170912T233344Z">
+        <seg>命名空间位置从未使用过</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Namespace prefix</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T022332Z" creationid="Admin" creationdate="20170912T022332Z">
@@ -37338,6 +38308,14 @@ for this anonymous class.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T051439Z" creationid="Admin" creationdate="20170912T051439Z">
         <seg>否定更大的范围</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Negative number</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T233416Z" creationid="Administrator" creationdate="20170912T233416Z">
+        <seg>负数</seg>
       </tuv>
     </tu>
     <tu>
@@ -38038,6 +39016,16 @@ for this anonymous class.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No XML at the location: 
+{0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T233056Z" creationid="Administrator" creationdate="20170912T233056Z">
+        <seg>位置上没有 XML: 
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No actions</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T161938Z" creationid="Administrator" creationdate="20170911T161938Z">
@@ -38098,6 +39086,14 @@ for this anonymous class.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T153657Z" creationid="Administrator" creationdate="20170912T153657Z">
         <seg>没有找到匹配条件的更改</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No class in selected text editor</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T233604Z" creationid="Administrator" creationdate="20170912T233604Z">
+        <seg>选中的编辑器里没有类</seg>
       </tuv>
     </tu>
     <tu>
@@ -38190,6 +39186,14 @@ for this anonymous class.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No errors detected</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T231620Z" creationid="Administrator" creationdate="20170912T231620Z">
+        <seg>没有检测到的错误</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No errors found in this file</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T114137Z" creationid="Admin" creationdate="20170911T114137Z">
@@ -38234,6 +39238,14 @@ for this anonymous class.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T100147Z" creationid="Administrator" creationdate="20170909T100147Z">
         <seg>找不到现有的实现</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No external resources</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T233008Z" creationid="Administrator" creationdate="20170912T233008Z">
+        <seg>没有外部资源</seg>
       </tuv>
     </tu>
     <tu>
@@ -38306,6 +39318,14 @@ for this anonymous class.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T154750Z" creationid="Administrator" creationdate="20170912T154750Z">
         <seg>没有忽略的文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No ignored resources</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T233012Z" creationid="Administrator" creationdate="20170912T233012Z">
+        <seg>没有忽略资源</seg>
       </tuv>
     </tu>
     <tu>
@@ -39016,6 +40036,14 @@ can be replaced with usages of {1}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Non-existent web resource</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232456Z" creationid="Administrator" creationdate="20170912T232456Z">
+        <seg>不存在的web资源</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Non-static factory of inner class{1} cannot be used in this context.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T090020Z" creationid="Admin" creationdate="20170912T090020Z">
@@ -39688,6 +40716,14 @@ can be replaced with usages of {1}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Open browser</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T234453Z" creationid="Administrator" creationdate="20170912T234453Z">
+        <seg>打开浏览器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Open browser with documentation for the selected item</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T031757Z" creationid="Administrator" creationdate="20170909T031757Z">
@@ -40136,6 +41172,22 @@ can be replaced with usages of {1}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Original image height is {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232051Z" creationid="Administrator" creationdate="20170912T232051Z">
+        <seg>原始图像高度为{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Original image width is {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232047Z" creationid="Administrator" creationdate="20170912T232047Z">
+        <seg>原始图像宽度为{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Orthogonal Layout</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T040950Z" creationid="Administrator" creationdate="20170909T040950Z">
@@ -40262,6 +41314,14 @@ Do you want to create it?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T031610Z" creationid="Admin" creationdate="20170911T031610Z">
         <seg>输出文件的名称为空</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Output file name is not valid</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T233844Z" creationid="Administrator" creationdate="20170912T233844Z">
+        <seg>输出文件的名称无效</seg>
       </tuv>
     </tu>
     <tu>
@@ -41306,6 +42366,30 @@ Do you want to create it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Path to instance document</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T234017Z" creationid="Administrator" creationdate="20170912T234017Z">
+        <seg>实例文档的路径</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Path to schema</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T234014Z" creationid="Administrator" creationdate="20170912T234014Z">
+        <seg>schema 路径</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Path to schema or wsdl to be used for generation using XmlBeans</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T234001Z" creationid="Administrator" creationdate="20170912T233857Z">
+        <seg>使用 XmlBeans 用于生成的 schema 或 wsdl 路径</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Path to {0} module file (.iml):</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T063929Z" creationid="Admin" creationdate="20170911T063929Z">
@@ -41326,6 +42410,14 @@ Do you want to create it?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051725Z" creationid="Administrator" creationdate="20170909T051725Z">
         <seg>路径 {0} 不存在</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Path:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232946Z" creationid="Administrator" creationdate="20170912T232946Z">
+        <seg>路径:</seg>
       </tuv>
     </tu>
     <tu>
@@ -42508,6 +43600,14 @@ be marked as source paths.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Presentational HTML tag</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232245Z" creationid="Administrator" creationdate="20170912T232245Z">
+        <seg>显示的HTML标签</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Preserve case</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T041445Z" creationid="Admin" creationdate="20170911T041445Z">
@@ -42661,6 +43761,14 @@ to migrate using the migration map "{0}"</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Press {0} to view tags from other namespaces</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T233146Z" creationid="Administrator" creationdate="20170912T233146Z">
+        <seg>按{0}查看其他命名空间的标签</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Prev Parameter</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T025422Z" creationid="Administrator" creationdate="20170909T025422Z">
@@ -42673,6 +43781,14 @@ to migrate using the migration map "{0}"</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T053229Z" creationid="Administrator" creationdate="20170909T053229Z">
         <seg>预览</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Preview File in</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T233156Z" creationid="Administrator" creationdate="20170912T233156Z">
+        <seg>预览文件在</seg>
       </tuv>
     </tu>
     <tu>
@@ -45373,6 +46489,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remove Enclosing Tag {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232122Z" creationid="Administrator" creationdate="20170912T232122Z">
+        <seg>删除封闭标记{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remove Files from Shelved Changelist</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T154300Z" creationid="Administrator" creationdate="20170912T154300Z">
@@ -45745,6 +46869,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T032452Z" creationid="Administrator" creationdate="20170909T032452Z">
         <seg>删除未使用的导入并重新排序/重新组织导入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove unused namespace declaration</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T233350Z" creationid="Administrator" creationdate="20170912T233350Z">
+        <seg>删除未使用的命名空间声明</seg>
       </tuv>
     </tu>
     <tu>
@@ -46193,6 +47325,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T090443Z" creationid="Admin" creationdate="20170912T090441Z">
         <seg>将{0}及其用法重命名为：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rename {0} to:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232826Z" creationid="Administrator" creationdate="20170912T232826Z">
+        <seg>重命名{0} 为:</seg>
       </tuv>
     </tu>
     <tu>
@@ -46677,10 +47817,26 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Replace with CSS</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232225Z" creationid="Administrator" creationdate="20170912T232225Z">
+        <seg>用CSS替换</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Replace with actual file template</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T114811Z" creationid="Admin" creationdate="20170911T114811Z">
         <seg>替换为实际文件模板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Replace with another tag</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232231Z" creationid="Administrator" creationdate="20170912T232231Z">
+        <seg>用另一个标签替换</seg>
       </tuv>
     </tu>
     <tu>
@@ -46729,6 +47885,22 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T072824Z" creationid="Admin" creationdate="20170912T072636Z">
         <seg>替换写入的匹配项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Replace {0} tag with CSS</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232223Z" creationid="Administrator" creationdate="20170912T232223Z">
+        <seg>用CSS替换{0}标签</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Replace {0} tag with {1} tag</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232229Z" creationid="Administrator" creationdate="20170912T232229Z">
+        <seg>替换标签{0}为{1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -47389,6 +48561,22 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Result schema file name</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T234236Z" creationid="Administrator" creationdate="20170912T234236Z">
+        <seg>结果 schema 文件名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Result schema file name is empty</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T233505Z" creationid="Administrator" creationdate="20170912T233423Z">
+        <seg>结果 schema 文件名为空</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Result:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T030349Z" creationid="Administrator" creationdate="20170910T030349Z">
@@ -47697,6 +48885,22 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T161210Z" creationid="Administrator" creationdate="20170912T161210Z">
         <seg>回滚{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Root element for instance document generation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T234031Z" creationid="Administrator" creationdate="20170912T234031Z">
+        <seg>生成实例文档的根元素</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Root element name is not valid</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T233842Z" creationid="Administrator" creationdate="20170912T233842Z">
+        <seg>无效的根元素名称</seg>
       </tuv>
     </tu>
     <tu>
@@ -48501,6 +49705,30 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Schema Generator</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T233735Z" creationid="Administrator" creationdate="20170912T233735Z">
+        <seg>Schema 生成器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Schema path:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T233807Z" creationid="Administrator" creationdate="20170912T233807Z">
+        <seg>Schema 路径:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Schemas and DTDs</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232959Z" creationid="Administrator" creationdate="20170912T232959Z">
+        <seg>模式和DTDs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Scheme 'name' attribute not found</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T072824Z" creationid="Administrator" creationdate="20170909T072824Z">
@@ -49229,6 +50457,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T234459Z" creationid="Administrator" creationdate="20170912T234459Z">
+        <seg>选择</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select "profiles.ini" File</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T050654Z" creationid="Admin" creationdate="20170911T050654Z">
@@ -49637,6 +50873,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select Schema Document</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T233751Z" creationid="Administrator" creationdate="20170912T233751Z">
+        <seg>选择 Schema 文档</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select Source Directory</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T064621Z" creationid="Admin" creationdate="20170911T064621Z">
@@ -49689,6 +50933,22 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T041715Z" creationid="Administrator" creationdate="20170909T041715Z">
         <seg>选择单词操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select XSD Schema</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T234312Z" creationid="Administrator" creationdate="20170912T234312Z">
+        <seg>选择 XSD Schema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Xml Document</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T233600Z" creationid="Administrator" creationdate="20170912T233600Z">
+        <seg>选择Xml文档</seg>
       </tuv>
     </tu>
     <tu>
@@ -49785,6 +51045,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T023825Z" creationid="Admin" creationdate="20170911T023825Z">
         <seg>选择JRE运行的目录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select file to debug JavaScript in</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T234509Z" creationid="Administrator" creationdate="20170912T234509Z">
+        <seg>选择文件调试JavaScript</seg>
       </tuv>
     </tu>
     <tu>
@@ -50261,6 +51529,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Set height value to {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232053Z" creationid="Administrator" creationdate="20170912T232053Z">
+        <seg>设置高度值为{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Set icon</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T063239Z" creationid="Admin" creationdate="20170911T063239Z">
@@ -50321,6 +51597,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T101249Z" creationid="Administrator" creationdate="20170909T101249Z">
         <seg>设置HTTP代理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set width value to {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232049Z" creationid="Administrator" creationdate="20170912T232049Z">
+        <seg>设置宽度值为{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -50601,6 +51885,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T061149Z" creationid="Administrator" creationdate="20170909T061149Z">
         <seg>移位运算符 (&lt;&lt;, &gt;&gt;, &gt;&gt;&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Short element prefix:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T234438Z" creationid="Administrator" creationdate="20170912T234438Z">
+        <seg>短元素前缀:</seg>
       </tuv>
     </tu>
     <tu>
@@ -52421,6 +53713,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Simple content types detection (leaf text)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T234203Z" creationid="Administrator" creationdate="20170912T234203Z">
+        <seg>简单的内容类型检测（叶文本）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Simple lambdas in one line</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T054643Z" creationid="Administrator" creationdate="20170909T054643Z">
@@ -53199,6 +54499,14 @@ Package ''{2}'' cannot be created there</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Split current tag</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T233137Z" creationid="Administrator" creationdate="20170912T233137Z">
+        <seg>拆分当前标签</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Split editor area into 2 tab groups and move the current tab to the bottom group</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T034603Z" creationid="Administrator" creationdate="20170909T034504Z">
@@ -53359,6 +54667,14 @@ Package ''{2}'' cannot be created there</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Start tag:\&amp;nbsp;could be omitted</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T231651Z" creationid="Administrator" creationdate="20170912T231651Z">
+        <seg>开始标签:\&amp;nbsp;可以省略</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Start the "New Project" Wizard that will guide you through the steps necessary for creating a new project</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T041441Z" creationid="Administrator" creationdate="20170909T041441Z">
@@ -53411,6 +54727,14 @@ Package ''{2}'' cannot be created there</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T104342Z" creationid="Admin" creationdate="20170911T104342Z">
         <seg>启动 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Startup page:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T234452Z" creationid="Administrator" creationdate="20170912T234452Z">
+        <seg>启动页面：</seg>
       </tuv>
     </tu>
     <tu>
@@ -53531,6 +54855,14 @@ Package ''{2}'' cannot be created there</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T031638Z" creationid="Administrator" creationdate="20170909T031638Z">
         <seg>状态栏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Status of current settings, input errors, etc</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T234226Z" creationid="Administrator" creationdate="20170912T234226Z">
+        <seg>当前设置状态，输入错误等</seg>
       </tuv>
     </tu>
     <tu>
@@ -54963,6 +56295,14 @@ Package ''{2}'' cannot be created there</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T070711Z" creationid="Administrator" creationdate="20170909T070711Z">
         <seg>标签名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tag Name Completion</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T233152Z" creationid="Administrator" creationdate="20170912T233152Z">
+        <seg>标签名称补全</seg>
       </tuv>
     </tu>
     <tu>
@@ -58321,6 +59661,22 @@ already exists.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>URI</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232948Z" creationid="Administrator" creationdate="20170912T232948Z">
+        <seg>URI:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>URI:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232943Z" creationid="Administrator" creationdate="20170912T232943Z">
+        <seg>URI:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>URL</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T025800Z" creationid="Admin" creationdate="20170911T025800Z">
@@ -58539,6 +59895,14 @@ Error message: {1}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unbound XML namespace prefix</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T233204Z" creationid="Administrator" creationdate="20170912T233204Z">
+        <seg>未绑定的XML命名空间前缀</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unboxing of &lt;code&gt;#ref&lt;/code&gt; #loc may produce &lt;code&gt;java.lang.NullPointerException&lt;/code&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T094546Z" creationid="Admin" creationdate="20170911T094530Z">
@@ -58643,6 +60007,14 @@ Error message: {1}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unescaped xml character</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232208Z" creationid="Administrator" creationdate="20170912T232208Z">
+        <seg>未转义的xml字符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unexpected ''{0}''</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T045735Z" creationid="Administrator" creationdate="20170909T045735Z">
@@ -58743,6 +60115,30 @@ Error message: {1}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T142155Z" creationid="Administrator" creationdate="20170910T043036Z">
         <seg>未知的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unknown HTML boolean tag attribute</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232509Z" creationid="Administrator" creationdate="20170912T232509Z">
+        <seg>未知的 HTML 布尔标签属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unknown HTML tag</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232459Z" creationid="Administrator" creationdate="20170912T232459Z">
+        <seg>未知的HTML标签</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unknown HTML tag attribute</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232501Z" creationid="Administrator" creationdate="20170912T232501Z">
+        <seg>未知的 HTML 标签属性</seg>
       </tuv>
     </tu>
     <tu>
@@ -58923,6 +60319,38 @@ Error message: {1}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unresolved DTD reference</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232708Z" creationid="Administrator" creationdate="20170912T232652Z">
+        <seg>未解决的DTD参引</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unresolved Dtd Element Reference {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232714Z" creationid="Administrator" creationdate="20170912T232703Z">
+        <seg>未解决的Dtd元素引用{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unresolved Entity Reference {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232655Z" creationid="Administrator" creationdate="20170912T232655Z">
+        <seg>未解决的实体引用{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unresolved ID</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232841Z" creationid="Administrator" creationdate="20170912T232841Z">
+        <seg>未解决的ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unscramble stacktrace</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T065703Z" creationid="Admin" creationdate="20170911T065703Z">
@@ -59047,6 +60475,14 @@ Error message: {1}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T091146Z" creationid="Admin" creationdate="20170912T091146Z">
         <seg>未使用的覆盖方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unused XML schema declaration</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T233339Z" creationid="Administrator" creationdate="20170912T233328Z">
+        <seg>未使用的 XML schema 声明</seg>
       </tuv>
     </tu>
     <tu>
@@ -59339,6 +60775,14 @@ Error message: {1}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Update background-image size</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232113Z" creationid="Administrator" creationdate="20170912T232113Z">
+        <seg>更新背景图像大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Update canceled</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T143616Z" creationid="Administrator" creationdate="20170912T143616Z">
@@ -59367,6 +60811,14 @@ Error message: {1}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T071705Z" creationid="Admin" creationdate="20170911T071705Z">
         <seg>更新安装的插件版本 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Update tag with Emmet</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T234318Z" creationid="Administrator" creationdate="20170912T234318Z">
+        <seg>用Emmet更新标签</seg>
       </tuv>
     </tu>
     <tu>
@@ -59447,6 +60899,14 @@ Error message: {1}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T153013Z" creationid="Administrator" creationdate="20170912T153013Z">
         <seg>正在更新:{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Url is empty</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T233410Z" creationid="Administrator" creationdate="20170912T233406Z">
+        <seg>Url 为空</seg>
       </tuv>
     </tu>
     <tu>
@@ -60387,6 +61847,22 @@ Error message: {1}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Validation Is Running</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T231631Z" creationid="Administrator" creationdate="20170912T231631Z">
+        <seg>验证正在运行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Validation is running.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T231629Z" creationid="Administrator" creationdate="20170912T231629Z">
+        <seg>验证正在运行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Value</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051856Z" creationid="Administrator" creationdate="20170909T051856Z">
@@ -61107,6 +62583,14 @@ Error message: {1}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Web</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T233132Z" creationid="Administrator" creationdate="20170912T233132Z">
+        <seg>Web</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Web Browser</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T050806Z" creationid="Admin" creationdate="20170911T050806Z">
@@ -61775,6 +63259,14 @@ as a source directory?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Wrong closing XML/xHTML tag</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232450Z" creationid="Administrator" creationdate="20170912T232450Z">
+        <seg>错误的关闭XML/xHTML标签</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Wrong name format: {0}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T051755Z" creationid="Administrator" creationdate="20170909T051755Z">
@@ -61803,6 +63295,14 @@ as a source directory?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T061724Z" creationid="Admin" creationdate="20170912T061724Z">
         <seg>错误的返回类型:''{0}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wrong root element</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232451Z" creationid="Administrator" creationdate="20170912T232451Z">
+        <seg>错误的根元素</seg>
       </tuv>
     </tu>
     <tu>
@@ -61927,6 +63427,14 @@ as a source directory?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>XML highlighting</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T233402Z" creationid="Administrator" creationdate="20170912T233402Z">
+        <seg>XML 高亮</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>XML tag</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T162707Z" creationid="Administrator" creationdate="20170911T162707Z">
@@ -61935,10 +63443,42 @@ as a source directory?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>XML tag empty body</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232613Z" creationid="Administrator" creationdate="20170912T232613Z">
+        <seg>XML标签空体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>XML tag has empty body</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232638Z" creationid="Administrator" creationdate="20170912T232622Z">
+        <seg>XML标记有空体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>XML tags</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T062902Z" creationid="Administrator" creationdate="20170909T062902Z">
         <seg>XML标签</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>XML/HTML</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T233040Z" creationid="Administrator" creationdate="20170912T233040Z">
+        <seg>XML/HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>XMLSchema design type</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T234106Z" creationid="Administrator" creationdate="20170912T234106Z">
+        <seg>XML Schema设计类型</seg>
       </tuv>
     </tu>
     <tu>
@@ -62487,6 +64027,14 @@ Would you like to open it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ampersand</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232215Z" creationid="Administrator" creationdate="20170912T232215Z">
+        <seg>符号</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>and</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T065415Z" creationid="Admin" creationdate="20170911T065415Z">
@@ -62675,6 +64223,14 @@ Would you like to open it?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T093745Z" creationid="Administrator" creationdate="20170909T093745Z">
         <seg>castToLeftSideType()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>choose color</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232127Z" creationid="Administrator" creationdate="20170912T232127Z">
+        <seg>选择颜色</seg>
       </tuv>
     </tu>
     <tu>
@@ -63175,6 +64731,14 @@ Would you like to open it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>global elements/local types</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T233558Z" creationid="Administrator" creationdate="20170912T233558Z">
+        <seg>全局元素/局部类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>groovyScript("groovy code")</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T093810Z" creationid="Administrator" creationdate="20170909T093810Z">
@@ -63631,6 +65195,22 @@ Would you like to open it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>local elements/global complex types</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T233550Z" creationid="Administrator" creationdate="20170912T233550Z">
+        <seg>局部元素/全局复杂类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>local elements/types</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T233552Z" creationid="Administrator" creationdate="20170912T233552Z">
+        <seg>局部元素/类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>local variable {0}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T091828Z" creationid="Admin" creationdate="20170912T091828Z">
@@ -63771,6 +65351,14 @@ Would you like to open it?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T061424Z" creationid="Admin" creationdate="20170911T061424Z">
         <seg>n/a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>namespace</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T232827Z" creationid="Administrator" creationdate="20170912T232827Z">
+        <seg>命名空间</seg>
       </tuv>
     </tu>
     <tu>
@@ -64539,6 +66127,14 @@ Would you like to open it?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T060357Z" creationid="Administrator" creationdate="20170909T060357Z">
         <seg>while ():</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>with JavaScript debugger</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T234458Z" creationid="Administrator" creationdate="20170912T234458Z">
+        <seg>用JavaScript调试器</seg>
       </tuv>
     </tu>
     <tu>
