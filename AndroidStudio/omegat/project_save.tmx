@@ -362,6 +362,14 @@ Are you sure you want to stop {2, choice, 1#incompatible running instance|2#{2, 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>''{0}()'' method can be replaced with parametrized constructor</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T055334Z" creationid="Admin" creationdate="20170912T055334Z">
+        <seg>''{0}()'' 可以用参数化的构造函数替换</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>')' expected</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T045759Z" creationid="Administrator" creationdate="20170909T045759Z">
@@ -1836,6 +1844,14 @@ Use ; (分号) 来分隔资源模式;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;html&gt;&lt;body&gt;There are possible side effects found in expressions assigned to the variable ''{0}''&lt;br&gt;You can:&lt;ul&gt;&lt;li&gt;&lt;b&gt;Remove&lt;/b&gt; variable usages along with all expressions involved&lt;/li&gt;&lt;/body&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T052536Z" creationid="Admin" creationdate="20170912T052107Z">
+        <seg>&lt;html&gt;&lt;body&gt;在赋值给变量 ''{0}'' 的表达式中有可能出现副作用&lt;br&gt;你可以:&lt;ul&gt;&lt;li&gt;&lt;b&gt;移除&lt;/b&gt; 变量用法与所有表达式一起&lt;/li&gt;&lt;/body&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;html&gt;&lt;body&gt;Unable to read Tip Of The Day ({0}).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T065026Z" creationid="Admin" creationdate="20170911T065026Z">
@@ -2700,10 +2716,26 @@ Use ; (分号) 来分隔资源模式;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Access static ''{1}.{0}'' via class ''{2}'' reference</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040715Z" creationid="Admin" creationdate="20170912T040715Z">
+        <seg>通过类“{2}”的引用访问静态“{1}.{0}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Access static member via instance reference</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T111202Z" creationid="Admin" creationdate="20170911T111202Z">
         <seg>通过实例引用访问静态成员</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Access static via class reference</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040657Z" creationid="Admin" creationdate="20170912T040657Z">
+        <seg>通过类引用访问静态</seg>
       </tuv>
     </tu>
     <tu>
@@ -2948,10 +2980,66 @@ Use ; (分号) 来分隔资源模式;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add ''new {0}[]''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040938Z" creationid="Admin" creationdate="20170912T040938Z">
+        <seg>添加 ''new {0}[]''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add ''{0}'' Library to Project</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T053458Z" creationid="Admin" creationdate="20170912T053458Z">
+        <seg>将''{0}'' 库添加到项目中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add ''{0}'' as {1, choice, 1#1st|2#2nd|3#3rd|4#{1,number}th} parameter to method ''{2}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T041950Z" creationid="Admin" creationdate="20170912T041950Z">
+        <seg>将 ''{0}'' 添加为方法 ''{2}'' 的第 {1,number} 个参数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add ''{0}'' to ''{1}'' throws list</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T050306Z" creationid="Admin" creationdate="20170912T050306Z">
+        <seg>添加 ''{0}'' 到''{1}''抛出列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add ''{0}'' to special annotations list</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T053236Z" creationid="Admin" creationdate="20170912T053236Z">
+        <seg>添加 ''{0}'' 到特殊注解列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add '@Override' annotation</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T090709Z" creationid="Administrator" creationdate="20170909T090659Z">
         <seg>添加 '@Override' 注解</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add 'catch' clause(s)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040806Z" creationid="Admin" creationdate="20170912T040800Z">
+        <seg>添加 'catch' 子句</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add 'return' statement</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040942Z" creationid="Admin" creationdate="20170912T040942Z">
+        <seg>添加 'return' 语句</seg>
       </tuv>
     </tu>
     <tu>
@@ -3068,6 +3156,14 @@ Use ; (分号) 来分隔资源模式;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add Default Constructor</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040724Z" creationid="Admin" creationdate="20170912T040724Z">
+        <seg>添加默认构造函数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add EJB interceptor</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T095612Z" creationid="Administrator" creationdate="20170909T095612Z">
@@ -3108,6 +3204,14 @@ Use ; (分号) 来分隔资源模式;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add Import</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040610Z" creationid="Admin" creationdate="20170912T040610Z">
+        <seg>添加导入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add Instance Filter</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T030747Z" creationid="Administrator" creationdate="20170910T030747Z">
@@ -3132,6 +3236,14 @@ Use ; (分号) 来分隔资源模式;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add JUnit to classpath</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T053406Z" creationid="Admin" creationdate="20170912T053406Z">
+        <seg>将 JUnit 添加到类路径</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add Keyboard Shortcut</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T161747Z" creationid="Administrator" creationdate="20170911T161747Z">
@@ -3144,6 +3256,22 @@ Use ; (分号) 来分隔资源模式;
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T093248Z" creationid="Administrator" creationdate="20170909T093248Z">
         <seg>添加代码模板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add Method</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040925Z" creationid="Admin" creationdate="20170912T040925Z">
+        <seg>添加方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add Method ''{0}'' to Class ''{1}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040928Z" creationid="Admin" creationdate="20170912T040928Z">
+        <seg>添加方法''{0}''到类''{1}''</seg>
       </tuv>
     </tu>
     <tu>
@@ -3252,6 +3380,14 @@ Use ; (分号) 来分隔资源模式;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add Runtime Exception to Method Signature</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T041002Z" creationid="Admin" creationdate="20170912T041002Z">
+        <seg>将运行时异常添加到方法签名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add Selection for Next Occurrence</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T025716Z" creationid="Administrator" creationdate="20170909T025716Z">
@@ -3280,6 +3416,14 @@ Use ; (分号) 来分隔资源模式;
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T051201Z" creationid="Admin" creationdate="20170911T051201Z">
         <seg>添加到新收藏列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add TypeCast</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T041019Z" creationid="Admin" creationdate="20170912T041019Z">
+        <seg>添加 TypeCast（类型转换）</seg>
       </tuv>
     </tu>
     <tu>
@@ -3340,6 +3484,78 @@ Use ; (分号) 来分隔资源模式;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add constructor parameter</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T052808Z" creationid="Admin" creationdate="20170912T052808Z">
+        <seg>添加构造函数参数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add dependency anyway?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T053342Z" creationid="Admin" creationdate="20170912T053342Z">
+        <seg>仍添加依赖？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add dependency on module ''{0}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T053244Z" creationid="Admin" creationdate="20170912T053244Z">
+        <seg>添加对模块“{0}”的依赖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add exception to catch clause</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040747Z" creationid="Admin" creationdate="20170912T040747Z">
+        <seg>添加异常的 catch 子句</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add exception to class constructors signature</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T060315Z" creationid="Admin" creationdate="20170912T060315Z">
+        <seg>对类构造函数添加异常签名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add exception to class {0, choice, 0#default constructor|1#constructor|2#constructors} signature</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T060251Z" creationid="Admin" creationdate="20170912T060251Z">
+        <seg>添加异常到类的 {0, choice, 0#默认|1#|2#} 构造函数签名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add exception to method signature</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040923Z" creationid="Admin" creationdate="20170912T040923Z">
+        <seg>添加异常到方法签名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add explicit type arguments</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T041757Z" creationid="Admin" creationdate="20170912T041757Z">
+        <seg>添加显式的类型参数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add explicit type arguments to {0, choice, 1#1st|2#2nd|3#3rd|4#{0,number}th} argument</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T041754Z" creationid="Admin" creationdate="20170912T041218Z">
+        <seg>将显式类型参数添加到第 {0,number} 个参数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add import for ''{0}''</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T090937Z" creationid="Administrator" creationdate="20170909T090937Z">
@@ -3364,10 +3580,66 @@ Use ; (分号) 来分隔资源模式;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add library ''{0}'' to classpath</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T053259Z" creationid="Admin" creationdate="20170912T053259Z">
+        <seg>将库 “{0}” 添加到类路径中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add library to classpath</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T053303Z" creationid="Admin" creationdate="20170912T053303Z">
+        <seg>添加库到类路径</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add method body</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040924Z" creationid="Admin" creationdate="20170912T040924Z">
+        <seg>添加方法体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add missing Javadoc tag</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T103516Z" creationid="Admin" creationdate="20170911T103516Z">
         <seg>添加缺少的 Javadoc 标签</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add missing annotation parameter ''{0}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T055247Z" creationid="Admin" creationdate="20170912T055247Z">
+        <seg>添加缺少的注解参数''{0}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add missing annotation parameters - {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T055221Z" creationid="Admin" creationdate="20170912T055221Z">
+        <seg>添加缺少的注解参数 - {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add missing new expression</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040934Z" creationid="Admin" creationdate="20170912T040934Z">
+        <seg>添加缺失的 new 表达式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add module dependency</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T053249Z" creationid="Admin" creationdate="20170912T053249Z">
+        <seg>添加模块依赖</seg>
       </tuv>
     </tu>
     <tu>
@@ -3436,10 +3708,34 @@ Use ; (分号) 来分隔资源模式;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add qualifier</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T054455Z" creationid="Admin" creationdate="20170912T054455Z">
+        <seg>添加限定符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add qualifier {0} to method</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T055304Z" creationid="Admin" creationdate="20170912T055304Z">
+        <seg>将限定符 {0} 添加到方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add rule</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T071945Z" creationid="Administrator" creationdate="20170909T071945Z">
         <seg>添加规则</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add runtime exception(s) to method signature</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040949Z" creationid="Admin" creationdate="20170912T040949Z">
+        <seg>将运行时异常添加到方法签名</seg>
       </tuv>
     </tu>
     <tu>
@@ -3500,10 +3796,26 @@ Use ; (分号) 来分隔资源模式;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add to Dependency Injection Annotations</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T053009Z" creationid="Admin" creationdate="20170912T053009Z">
+        <seg>添加到依赖注入注解</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add to Favorites</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T025303Z" creationid="Administrator" creationdate="20170909T025303Z">
         <seg>添加到收藏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add to Special Annotations</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T053201Z" creationid="Admin" creationdate="20170912T053201Z">
+        <seg>添加到特殊的注解</seg>
       </tuv>
     </tu>
     <tu>
@@ -3544,6 +3856,38 @@ Use ; (分号) 来分隔资源模式;
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T063747Z" creationid="Administrator" creationdate="20170909T063747Z">
         <seg>快速添加清晰的导入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add {0, choice, 0#exception|2#exceptions} to method signature</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040911Z" creationid="Admin" creationdate="20170912T040911Z">
+        <seg>添加异常到方法签名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add {0} no-args constructor to {1}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040739Z" creationid="Admin" creationdate="20170912T040739Z">
+        <seg>将 {0} 无参构造函数添加到{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add {0} to custom tags</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T041030Z" creationid="Admin" creationdate="20170912T041030Z">
+        <seg>将 {0} 添加到自定义标签</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adding dependency on module ''{0}'' will introduce circular dependency between modules ''{1}'' and ''{2}''.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T053331Z" creationid="Admin" creationdate="20170912T053331Z">
+        <seg>对模块“{0}”添加依赖将会引入模块“{1}”和“{2}”之间的循环依赖关系。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3632,6 +3976,14 @@ Use ; (分号) 来分隔资源模式;
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T061141Z" creationid="Administrator" creationdate="20170909T061138Z">
         <seg>加法运算符 (+, -)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adjust Package Name</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T041040Z" creationid="Admin" creationdate="20170912T041040Z">
+        <seg>调整包名</seg>
       </tuv>
     </tu>
     <tu>
@@ -4584,8 +4936,8 @@ as well as for the standard SDK classes resolution</seg>
       <tuv lang="EN-US">
         <seg>Annotations</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T064644Z" creationid="Administrator" creationdate="20170910T064644Z">
-        <seg>注释</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T055223Z" creationid="Administrator" creationdate="20170910T064644Z">
+        <seg>注解</seg>
       </tuv>
     </tu>
     <tu>
@@ -5954,6 +6306,14 @@ as well as for the standard SDK classes resolution</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Base Ctr call</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T043209Z" creationid="Admin" creationdate="20170912T043209Z">
+        <seg>基础控制调用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Base On This Method</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T040753Z" creationid="Administrator" creationdate="20170909T040753Z">
@@ -6550,6 +6910,22 @@ as well as for the standard SDK classes resolution</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T114508Z" creationid="Administrator" creationdate="20170909T114508Z">
         <seg>该类将不能使用断点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bring ''{0}'' into scope</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T041108Z" creationid="Admin" creationdate="20170912T041108Z">
+        <seg>将“{0}”引入范围</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bring Variable to Scope</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T041103Z" creationid="Admin" creationdate="20170912T041103Z">
+        <seg>将变量带到范围</seg>
       </tuv>
     </tu>
     <tu>
@@ -7444,6 +7820,14 @@ as well as for the standard SDK classes resolution</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cannot change field ''{0}'' type.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T041821Z" creationid="Admin" creationdate="20170912T041821Z">
+        <seg>无法更改字段“{0}”的类型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cannot connect to remote process, host is unknown</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T013350Z" creationid="Administrator" creationdate="20170910T013350Z">
@@ -7488,6 +7872,16 @@ as well as for the standard SDK classes resolution</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T104419Z" creationid="Admin" creationdate="20170911T104419Z">
         <seg>无法转换项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot copy ''{0}'' to ''{1}''
+({2})</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T053626Z" creationid="Admin" creationdate="20170912T053626Z">
+        <seg>无法复制 ''{0}'' 到 ''{1}''
+({2})</seg>
       </tuv>
     </tu>
     <tu>
@@ -7552,6 +7946,22 @@ as well as for the standard SDK classes resolution</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T035609Z" creationid="Admin" creationdate="20170912T035609Z">
         <seg>不能创建{0} - {1}模板不正确</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot create {0} in {1}: {2}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T042538Z" creationid="Admin" creationdate="20170912T042538Z">
+        <seg>无法创建{0}在{1}: {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot create {0}.java in {1}: {2}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T042528Z" creationid="Admin" creationdate="20170912T042528Z">
+        <seg>不能创建{0}.java在{1}: {2}</seg>
       </tuv>
     </tu>
     <tu>
@@ -8146,10 +8556,26 @@ as well as for the standard SDK classes resolution</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cast parameter to ''{0}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T041207Z" creationid="Admin" creationdate="20170912T041207Z">
+        <seg>将参数转换为“{0}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cast to ''{0}''</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T100226Z" creationid="Administrator" creationdate="20170909T100226Z">
-        <seg>转换为''{0}''</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T041021Z" creationid="Administrator" creationdate="20170909T100226Z">
+        <seg>转换为 ''{0}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cast {0, choice, 1#1st|2#2nd|3#3rd|4#{0,number}th} parameter to ''{1}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T041738Z" creationid="Admin" creationdate="20170912T041132Z">
+        <seg>转换第 {0,number} 个参数为 ''{1}''</seg>
       </tuv>
     </tu>
     <tu>
@@ -8210,6 +8636,22 @@ as well as for the standard SDK classes resolution</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Change ''{0} {2}'' to ''{1} {2}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T041834Z" creationid="Admin" creationdate="20170912T041834Z">
+        <seg>改变 ''{0} {2}'' 为 ''{1} {2}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change ''{0}'' to ''new {1}{2}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T052835Z" creationid="Admin" creationdate="20170912T052835Z">
+        <seg>更改 ''{0}'' 为 ''new {1}{2}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Change Current Customization Scheme</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T040656Z" creationid="Administrator" creationdate="20170909T040656Z">
@@ -8242,10 +8684,34 @@ as well as for the standard SDK classes resolution</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Change GUI component type</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T041843Z" creationid="Admin" creationdate="20170912T041843Z">
+        <seg>更改 GUI 组件类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change Inheritors</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T050637Z" creationid="Admin" creationdate="20170912T050637Z">
+        <seg>改变继承者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Change Navigation Actions</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T041735Z" creationid="Administrator" creationdate="20170909T041735Z">
         <seg>改变导航操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change Parameter Class</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T052545Z" creationid="Admin" creationdate="20170912T052545Z">
+        <seg>更改参数类</seg>
       </tuv>
     </tu>
     <tu>
@@ -8278,6 +8744,22 @@ as well as for the standard SDK classes resolution</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T031732Z" creationid="Administrator" creationdate="20170909T031732Z">
         <seg>更改视图</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change bound field type</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T041815Z" creationid="Admin" creationdate="20170912T041815Z">
+        <seg>改变绑定字段类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change class signature</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T041811Z" creationid="Admin" creationdate="20170912T041811Z">
+        <seg>改变类签名</seg>
       </tuv>
     </tu>
     <tu>
@@ -8354,10 +8836,42 @@ as well as for the standard SDK classes resolution</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Change method signature from usage</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T041856Z" creationid="Admin" creationdate="20170912T041856Z">
+        <seg>从使用处改变方法签名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change new operator type</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T052958Z" creationid="Admin" creationdate="20170912T052958Z">
+        <seg>更改 new 运算符类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Change notes</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T061810Z" creationid="Admin" creationdate="20170911T061810Z">
         <seg>更新日志</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change signature of ''{0}'' to ''{1}({2})''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T041900Z" creationid="Admin" creationdate="20170912T041900Z">
+        <seg>改变''{0}''的签名为''{1}({2})''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change signature of ''{0}'' to match ''{1}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T041809Z" creationid="Admin" creationdate="20170912T041809Z">
+        <seg>改变''{0}''的签名匹配''{1}''</seg>
       </tuv>
     </tu>
     <tu>
@@ -8374,6 +8888,22 @@ as well as for the standard SDK classes resolution</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T062853Z" creationid="Admin" creationdate="20170911T062853Z">
         <seg>切换主题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change to ''!({0})''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T051447Z" creationid="Admin" creationdate="20170912T051442Z">
+        <seg>更改为 ''!({0})''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change to ''{0}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T054001Z" creationid="Admin" creationdate="20170912T053932Z">
+        <seg>更改为 ''{0}''</seg>
       </tuv>
     </tu>
     <tu>
@@ -8418,10 +8948,34 @@ as well as for the standard SDK classes resolution</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Change {0, choice, 1#1st|2#2nd|3#3rd|4#{0,number}th} parameter of method ''{1}'' from ''{2}'' to ''{3}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T042042Z" creationid="Admin" creationdate="20170912T042042Z">
+        <seg>将 ''{1}'' 的第 {0,number} 个参数从 ''{2}'' 改为 ''{3}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change {0} ''{1}'' type to ''{2}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T052028Z" creationid="Admin" creationdate="20170912T052028Z">
+        <seg>变量{0} ''{1}'' 类型为 ''{2}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Change {0} template data language to</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T163159Z" creationid="Administrator" creationdate="20170911T163159Z">
         <seg>更改{0}模板数据的语言为</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change {0} to {1} (to {2} literal)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T053728Z" creationid="Admin" creationdate="20170912T053728Z">
+        <seg>改变 {0} 为 {1} (到 {2} 文本)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8938,6 +9492,14 @@ as well as for the standard SDK classes resolution</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose Method to Import</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T053454Z" creationid="Admin" creationdate="20170912T053454Z">
+        <seg>选择导入方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose Modules to JAR</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T070819Z" creationid="Admin" creationdate="20170911T070819Z">
@@ -8986,6 +9548,14 @@ as well as for the standard SDK classes resolution</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose Super Class Constructors</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T042328Z" creationid="Admin" creationdate="20170912T042328Z">
+        <seg>选择超类构造函数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose Super Method of {0}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T092944Z" creationid="Administrator" creationdate="20170909T092944Z">
@@ -8998,6 +9568,14 @@ as well as for the standard SDK classes resolution</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T091627Z" creationid="Administrator" creationdate="20170909T091627Z">
         <seg>选择超类</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose Target Class</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T042356Z" creationid="Admin" creationdate="20170912T042356Z">
+        <seg>选择目标类</seg>
       </tuv>
     </tu>
     <tu>
@@ -9046,6 +9624,22 @@ as well as for the standard SDK classes resolution</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T031444Z" creationid="Admin" creationdate="20170911T031444Z">
         <seg>选择配置类型来运行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose constructors to add initialization to</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T054057Z" creationid="Admin" creationdate="20170912T054057Z">
+        <seg>选择构造函数来添加初始化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose directory where the library will be copied</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T053605Z" creationid="Admin" creationdate="20170912T053605Z">
+        <seg>选择要复制库的目录</seg>
       </tuv>
     </tu>
     <tu>
@@ -9142,6 +9736,14 @@ as well as for the standard SDK classes resolution</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T050729Z" creationid="Admin" creationdate="20170911T050729Z">
         <seg>Chrome</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Circular Dependency Warning</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T053345Z" creationid="Admin" creationdate="20170912T053345Z">
+        <seg>循环依赖警告</seg>
       </tuv>
     </tu>
     <tu>
@@ -9474,6 +10076,14 @@ as well as for the standard SDK classes resolution</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Class to Import</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040645Z" creationid="Admin" creationdate="20170912T040618Z">
+        <seg>要导入的类</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Class {0}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T051932Z" creationid="Admin" creationdate="20170911T051932Z">
@@ -9550,6 +10160,14 @@ as well as for the standard SDK classes resolution</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T073034Z" creationid="Admin" creationdate="20170911T073034Z">
         <seg>类匹配模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Classes to check</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T055308Z" creationid="Admin" creationdate="20170912T055308Z">
+        <seg>要检查的类</seg>
       </tuv>
     </tu>
     <tu>
@@ -12050,6 +12668,14 @@ as well as for the standard SDK classes resolution</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Convert to string literal</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T054038Z" creationid="Admin" creationdate="20170912T054038Z">
+        <seg>转换为字符串文字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Convert your code to use generic types</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T033125Z" creationid="Administrator" creationdate="20170909T033125Z">
@@ -12062,6 +12688,22 @@ as well as for the standard SDK classes resolution</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T025438Z" creationid="Administrator" creationdate="20170909T025438Z">
         <seg>复制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copy ''{0}'' library files to</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T053642Z" creationid="Admin" creationdate="20170912T053642Z">
+        <seg>复制 ''{0}'' 库文件到</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copy ''{0}'' to {1} temp variable</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T051942Z" creationid="Admin" creationdate="20170912T051942Z">
+        <seg>复制 ''{0}'' 到 {1} 临时变量</seg>
       </tuv>
     </tu>
     <tu>
@@ -12386,6 +13028,14 @@ as well as for the standard SDK classes resolution</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create Accessor for Unused Field</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T042554Z" creationid="Admin" creationdate="20170912T042554Z">
+        <seg>创建未使用字段的访问器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create Class From Template</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T051450Z" creationid="Admin" creationdate="20170911T051450Z">
@@ -12394,10 +13044,58 @@ as well as for the standard SDK classes resolution</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create Class from New</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T042227Z" creationid="Admin" creationdate="20170912T042112Z">
+        <seg>从 new 创建类</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create Class from Usage</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T042127Z" creationid="Admin" creationdate="20170912T042127Z">
+        <seg>从使用创建类</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create Command-line Launcher</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T042054Z" creationid="Administrator" creationdate="20170909T042054Z">
         <seg>创建命令行启动器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create Constant From Usage</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T042153Z" creationid="Admin" creationdate="20170912T042153Z">
+        <seg>从使用创建常量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create Constructor From super() Call</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T042248Z" creationid="Admin" creationdate="20170912T042248Z">
+        <seg>从 super() 调用创建构造函数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create Constructor From this() Call</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T042257Z" creationid="Admin" creationdate="20170912T042257Z">
+        <seg>从 this() 调用创建构造函数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create Constructor from New</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T042236Z" creationid="Admin" creationdate="20170912T042221Z">
+        <seg>从 new 创建构造函数</seg>
       </tuv>
     </tu>
     <tu>
@@ -12458,10 +13156,34 @@ as well as for the standard SDK classes resolution</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create Getter</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T042746Z" creationid="Admin" creationdate="20170912T042746Z">
+        <seg>创建 Getter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create Launcher Script</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T071218Z" creationid="Administrator" creationdate="20170909T071218Z">
         <seg>创建启动脚本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create Local Var from instanceof Usage</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T042709Z" creationid="Admin" creationdate="20170912T042709Z">
+        <seg>从 instanceof 的使用创建局部变量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create Local from Usage</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T042632Z" creationid="Admin" creationdate="20170912T042632Z">
+        <seg>从使用创建局部变量</seg>
       </tuv>
     </tu>
     <tu>
@@ -12578,6 +13300,14 @@ as well as for the standard SDK classes resolution</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create Setter</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T042750Z" creationid="Admin" creationdate="20170912T042750Z">
+        <seg>创建 Setter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create Tag File {0}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T100344Z" creationid="Administrator" creationdate="20170909T100344Z">
@@ -12666,6 +13396,62 @@ as well as for the standard SDK classes resolution</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create abstract method ''{0}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T042724Z" creationid="Admin" creationdate="20170912T042724Z">
+        <seg>创建抽象方法''{0}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create class ''{0}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T042118Z" creationid="Admin" creationdate="20170912T042118Z">
+        <seg>创建类''{0}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create class {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T052631Z" creationid="Admin" creationdate="20170912T052631Z">
+        <seg>创建类 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create constant field ''{0}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T042157Z" creationid="Admin" creationdate="20170912T042157Z">
+        <seg>创建常量字段''{0}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create constructor</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T042237Z" creationid="Admin" creationdate="20170912T042237Z">
+        <seg>创建构造函数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create constructor in ''{0}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T042301Z" creationid="Admin" creationdate="20170912T042301Z">
+        <seg>在“{0}”中创建构造函数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create constructor matching super</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T042321Z" creationid="Admin" creationdate="20170912T042308Z">
+        <seg>创建构造器函数匹配超类</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create directory</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T091041Z" creationid="Administrator" creationdate="20170909T091041Z">
@@ -12678,6 +13464,22 @@ as well as for the standard SDK classes resolution</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T055130Z" creationid="Admin" creationdate="20170911T055130Z">
         <seg>创建枚举</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create enum constant ''{0}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T042201Z" creationid="Admin" creationdate="20170912T042201Z">
+        <seg>创建枚举常量“'{0}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create field ''{0}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T042352Z" creationid="Admin" creationdate="20170912T042345Z">
+        <seg>创建字段 ''{0}''</seg>
       </tuv>
     </tu>
     <tu>
@@ -12698,10 +13500,66 @@ as well as for the standard SDK classes resolution</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create field from Usage</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T042333Z" creationid="Admin" creationdate="20170912T042333Z">
+        <seg>从使用创建字段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create field {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T052650Z" creationid="Admin" creationdate="20170912T052650Z">
+        <seg>创建字段 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create file</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T055135Z" creationid="Admin" creationdate="20170911T055135Z">
         <seg>创建文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create getter and field for ''{0}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T053846Z" creationid="Admin" creationdate="20170912T053846Z">
+        <seg>为 “{0}” 创建getter和字段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create getter and setter for ''{0}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T042622Z" creationid="Admin" creationdate="20170912T042622Z">
+        <seg>为“{0}”创建getter和setter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create getter for ''{0}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T053830Z" creationid="Admin" creationdate="20170912T042559Z">
+        <seg>为 “{0}” 创建getter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create getter, setter and field for ''{0}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T053825Z" creationid="Admin" creationdate="20170912T053825Z">
+        <seg>为 “{0}” 创建getter，setter和字段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create inner {0} ''{1}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T042147Z" creationid="Admin" creationdate="20170912T042147Z">
+        <seg>创建内部{0}“{1}”</seg>
       </tuv>
     </tu>
     <tu>
@@ -12714,10 +13572,42 @@ as well as for the standard SDK classes resolution</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create interface {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T052640Z" creationid="Admin" creationdate="20170912T052640Z">
+        <seg>创建接口 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create local variable ''{0}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T042651Z" creationid="Admin" creationdate="20170912T042636Z">
+        <seg>创建局部变量“{0}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create macrodef</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T052120Z" creationid="Administrator" creationdate="20170909T052120Z">
         <seg>创建宏定义</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create method ''{0}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T042719Z" creationid="Admin" creationdate="20170912T042719Z">
+        <seg>创建方法''{0}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create method from usage</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T042715Z" creationid="Admin" creationdate="20170912T042715Z">
+        <seg>从使用创建方法</seg>
       </tuv>
     </tu>
     <tu>
@@ -12834,6 +13724,30 @@ as well as for the standard SDK classes resolution</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create package {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T052646Z" creationid="Admin" creationdate="20170912T052646Z">
+        <seg>创建包 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create parameter ''{0}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T042732Z" creationid="Admin" creationdate="20170912T042732Z">
+        <seg>创建参数''{0}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create parameter from Usage</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T042728Z" creationid="Admin" creationdate="20170912T042728Z">
+        <seg>从使用创建参数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create presetdef</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T052125Z" creationid="Administrator" creationdate="20170909T052125Z">
@@ -12882,10 +13796,26 @@ as well as for the standard SDK classes resolution</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create property From Usage</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T042741Z" creationid="Admin" creationdate="20170912T042738Z">
+        <seg>从使用创建属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create property tag</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T032937Z" creationid="Admin" creationdate="20170911T032937Z">
         <seg>创建属性标签</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create property {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T052656Z" creationid="Admin" creationdate="20170912T052656Z">
+        <seg>创建属性 {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -12902,6 +13832,22 @@ as well as for the standard SDK classes resolution</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T025335Z" creationid="Administrator" creationdate="20170909T025335Z">
         <seg>根据当前文本创建运行配置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create setter and field for ''{0}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T053859Z" creationid="Admin" creationdate="20170912T053852Z">
+        <seg>为 “{0}” 创建setter和字段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create setter for ''{0}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T053832Z" creationid="Admin" creationdate="20170912T042616Z">
+        <seg>为 “{0}” 创建setter</seg>
       </tuv>
     </tu>
     <tu>
@@ -12942,6 +13888,22 @@ as well as for the standard SDK classes resolution</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T032950Z" creationid="Admin" creationdate="20170911T032939Z">
         <seg>创建目标标签</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T042401Z" creationid="Admin" creationdate="20170912T042401Z">
+        <seg>创建 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create {0} ''{1}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T042138Z" creationid="Admin" creationdate="20170912T042138Z">
+        <seg>创建{0}“{1}”</seg>
       </tuv>
     </tu>
     <tu>
@@ -13770,6 +14732,22 @@ as well as for the standard SDK classes resolution</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Defer assignment to ''{0}'' using temp variable</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T042950Z" creationid="Admin" creationdate="20170912T042950Z">
+        <seg>使用临时变量将赋值延迟到“{0}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Defer final assignment with temp</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T043004Z" creationid="Admin" creationdate="20170912T042855Z">
+        <seg>使用 temp 延迟 final 赋值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Definition of {0}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T095608Z" creationid="Administrator" creationdate="20170909T095608Z">
@@ -13838,6 +14816,14 @@ as well as for the standard SDK classes resolution</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T051101Z" creationid="Admin" creationdate="20170911T051101Z">
         <seg>删除书签</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete Catch</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T043012Z" creationid="Admin" creationdate="20170912T043012Z">
+        <seg>删除 catch</seg>
       </tuv>
     </tu>
     <tu>
@@ -13914,10 +14900,26 @@ as well as for the standard SDK classes resolution</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Delete catch for ''{0}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T043024Z" creationid="Admin" creationdate="20170912T043024Z">
+        <seg>为''{0}'' 删除 catch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Delete it anyway?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T065308Z" creationid="Admin" creationdate="20170911T065308Z">
         <seg>仍要删除?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete method body</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T043025Z" creationid="Admin" creationdate="20170912T043025Z">
+        <seg>删除方法体</seg>
       </tuv>
     </tu>
     <tu>
@@ -14950,6 +15952,22 @@ as well as for the standard SDK classes resolution</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T073116Z" creationid="Admin" creationdate="20170911T073116Z">
         <seg>你信任这个地点吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do you want to add exceptions to method signatures in the whole method hierarchy?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040856Z" creationid="Admin" creationdate="20170912T040856Z">
+        <seg>要在整个方法层次结构中添加异常到方法签名吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do you want to change inheritors' visibility to visibility of the base method?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T050634Z" creationid="Admin" creationdate="20170912T050634Z">
+        <seg>要将继承者的可见性改为基本方法的可见性吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -16588,6 +17606,14 @@ as well as for the standard SDK classes resolution</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T024730Z" creationid="Administrator" creationdate="20170910T024730Z">
         <seg>启用“JVM将挂起”警告</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable 'Settings|Code Style|Imports|Optimize imports on the fly'</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T043108Z" creationid="Admin" creationdate="20170912T043033Z">
+        <seg>启用“设置 | 代码样式 | 导入 | 快速优化导入”</seg>
       </tuv>
     </tu>
     <tu>
@@ -18572,6 +19598,14 @@ Exception message: {1}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Extend Class from</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T052547Z" creationid="Admin" creationdate="20170912T052547Z">
+        <seg>扩展类从</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Extend Selection</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T025852Z" creationid="Administrator" creationdate="20170909T025852Z">
@@ -19100,6 +20134,14 @@ Reason: {1}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Field to Import</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040642Z" creationid="Admin" creationdate="20170912T040642Z">
+        <seg>要导入的字段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Field watchpoint reached</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T012331Z" creationid="Administrator" creationdate="20170910T012317Z">
@@ -19202,6 +20244,14 @@ Reason: {1}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T055201Z" creationid="Admin" creationdate="20170911T055201Z">
         <seg>文件已存在</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File Creation Failed</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T042530Z" creationid="Admin" creationdate="20170912T042530Z">
+        <seg>文件创建失败</seg>
       </tuv>
     </tu>
     <tu>
@@ -20184,6 +21234,86 @@ Do you want overwrite it or to append?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fix Arguments</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T052819Z" creationid="Admin" creationdate="20170912T052819Z">
+        <seg>修复参数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fix Character Literal</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T054009Z" creationid="Admin" creationdate="20170912T054009Z">
+        <seg>修复字符文字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fix Javadoc</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T041037Z" creationid="Admin" creationdate="20170912T041037Z">
+        <seg>修复 Javadoc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fix Modifiers</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T050319Z" creationid="Admin" creationdate="20170912T050319Z">
+        <seg>修复修饰符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fix Parameter Type</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T045814Z" creationid="Admin" creationdate="20170912T045814Z">
+        <seg>修复参数类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fix Return Type</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T050240Z" creationid="Admin" creationdate="20170912T050240Z">
+        <seg>修复返回类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fix StringBuilder append</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T053928Z" creationid="Admin" creationdate="20170912T053925Z">
+        <seg>修改 StringBuilder append</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fix Super Method Return Type</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T051744Z" creationid="Admin" creationdate="20170912T051744Z">
+        <seg>修复超类方法返回类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fix Throws List</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T050259Z" creationid="Admin" creationdate="20170912T050259Z">
+        <seg>修复抛出列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fix Variable Type</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T052018Z" creationid="Admin" creationdate="20170912T052018Z">
+        <seg>修复变量类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fix all ''{0}'' problems in file</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T121057Z" creationid="Admin" creationdate="20170911T121057Z">
@@ -20196,6 +21326,14 @@ Do you want overwrite it or to append?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T031704Z" creationid="Administrator" creationdate="20170909T031704Z">
         <seg>修复文档注释</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fix literal type</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T053732Z" creationid="Admin" creationdate="20170912T053732Z">
+        <seg>修正文字类型</seg>
       </tuv>
     </tu>
     <tu>
@@ -20704,6 +21842,22 @@ Do you want overwrite it or to append?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Generalize Catch</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T043117Z" creationid="Admin" creationdate="20170912T043117Z">
+        <seg>泛化 catch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Generalize catch for ''{0}'' to ''{1}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T043147Z" creationid="Admin" creationdate="20170912T043124Z">
+        <seg>泛化 catch 从''{0}'' 到 ''{1}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Generate</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T030012Z" creationid="Administrator" creationdate="20170909T030012Z">
@@ -20972,6 +22126,14 @@ Do you want overwrite it or to append?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T033124Z" creationid="Administrator" creationdate="20170909T033124Z">
         <seg>泛型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Generify File</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T043151Z" creationid="Admin" creationdate="20170912T043151Z">
+        <seg>生成文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -22720,6 +23882,14 @@ Compilation will proceed without clearing output directories</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If statement could be replaced with single method</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T060404Z" creationid="Admin" creationdate="20170912T060404Z">
+        <seg>If 语句可以用简单方法规换</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ignore</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T041229Z" creationid="Administrator" creationdate="20170909T041229Z">
@@ -23180,6 +24350,14 @@ Compilation will proceed without clearing output directories</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T031118Z" creationid="Administrator" creationdate="20170909T031118Z">
         <seg>导入设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Import class</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T043155Z" creationid="Admin" creationdate="20170912T043155Z">
+        <seg>导入类</seg>
       </tuv>
     </tu>
     <tu>
@@ -23840,6 +25018,14 @@ Compilation will proceed without clearing output directories</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Initialize in constructor</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T054051Z" creationid="Admin" creationdate="20170912T054051Z">
+        <seg>在构造函数中初始化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Initialize variable</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T094950Z" creationid="Administrator" creationdate="20170909T094950Z">
@@ -24016,6 +25202,14 @@ Compilation will proceed without clearing output directories</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Insert ''({0}){1}'' declaration</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T042712Z" creationid="Admin" creationdate="20170912T042712Z">
+        <seg>插入''({0}){1}'' 声明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Insert '('</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T052800Z" creationid="Administrator" creationdate="20170909T052800Z">
@@ -24036,6 +25230,14 @@ Compilation will proceed without clearing output directories</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T052759Z" creationid="Administrator" creationdate="20170909T052759Z">
         <seg>当没有参数时插入 '()'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insert 'super();'</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T043218Z" creationid="Admin" creationdate="20170912T043213Z">
+        <seg>插入 'super();'</seg>
       </tuv>
     </tu>
     <tu>
@@ -24132,6 +25334,14 @@ Compilation will proceed without clearing output directories</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T064044Z" creationid="Administrator" creationdate="20170909T064044Z">
         <seg>粘贴时插入导入：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insert new</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T043202Z" creationid="Admin" creationdate="20170912T043202Z">
+        <seg>插入 new </seg>
       </tuv>
     </tu>
     <tu>
@@ -26138,6 +27348,14 @@ Cannot generate JavaDoc</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Library file ''{0}'' does not exist</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T053613Z" creationid="Admin" creationdate="20170912T053613Z">
+        <seg>库文件 ''{0}'' 不存在</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>License Agreement</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T163329Z" creationid="Administrator" creationdate="20170911T163329Z">
@@ -26930,6 +28148,94 @@ Cannot generate JavaDoc</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Make ''{0}'' a class</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T043228Z" creationid="Admin" creationdate="20170912T043228Z">
+        <seg>使 ''{0}'' 成为类</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make ''{0}'' an interface</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T043226Z" creationid="Admin" creationdate="20170912T043226Z">
+        <seg>使 ''{0}'' 成为接口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make ''{0}'' extend ''{1}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T052556Z" creationid="Admin" creationdate="20170912T052556Z">
+        <seg>使 ''{0}'' 继承 ''{1}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make ''{0}'' implement ''{1}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T052609Z" creationid="Admin" creationdate="20170912T052609Z">
+        <seg>使 ''{0}'' 实现 ''{1}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make ''{0}'' not extend ''{1}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T052603Z" creationid="Admin" creationdate="20170912T052603Z">
+        <seg>使 ''{0}'' 不继承 ''{1}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make ''{0}'' not implement ''{1}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T052614Z" creationid="Admin" creationdate="20170912T052614Z">
+        <seg>使 ''{0}'' 不实现 ''{1}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make ''{0}'' not {1}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T050345Z" creationid="Admin" creationdate="20170912T050345Z">
+        <seg>使 ''{0}'' 不 {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make ''{0}'' return ''{1}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T050252Z" creationid="Admin" creationdate="20170912T050252Z">
+        <seg>使 ''{0}'' 返回 ''{1}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make ''{0}'' take parameter of type ''{1}'' here</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T050238Z" creationid="Admin" creationdate="20170912T050238Z">
+        <seg>在此处输入“{1}”类型的参数“{0}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make ''{0}'' {1}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T050338Z" creationid="Admin" creationdate="20170912T050338Z">
+        <seg>使 ''{0}'' {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make Class an Interface</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T043224Z" creationid="Admin" creationdate="20170912T043224Z">
+        <seg>使类成为接口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Make Default</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T040021Z" creationid="Administrator" creationdate="20170910T040021Z">
@@ -26942,6 +28248,14 @@ Cannot generate JavaDoc</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T025127Z" creationid="Administrator" creationdate="20170909T025127Z">
         <seg>使文件/目录 {0,choice,0#Read-only|1#Writeable}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make Final</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T051808Z" creationid="Admin" creationdate="20170912T051808Z">
+        <seg>使 final</seg>
       </tuv>
     </tu>
     <tu>
@@ -27026,6 +28340,14 @@ Cannot generate JavaDoc</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Make method constructor</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T052623Z" creationid="Admin" creationdate="20170912T052623Z">
+        <seg>制作方法构造函数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Make project before reloading classes</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T024722Z" creationid="Administrator" creationdate="20170910T024722Z">
@@ -27054,6 +28376,22 @@ Cannot generate JavaDoc</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T065039Z" creationid="Admin" creationdate="20170911T065039Z">
         <seg>请确保{1}已正确安装。&lt;/body&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make vararg parameter last</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T043238Z" creationid="Admin" creationdate="20170912T043238Z">
+        <seg>使可变参数在最后</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make {0} final</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T051816Z" creationid="Admin" creationdate="20170912T051811Z">
+        <seg>使 {0} final</seg>
       </tuv>
     </tu>
     <tu>
@@ -27450,6 +28788,14 @@ Cannot generate JavaDoc</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Method ''{0}'' is inherited.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040811Z" creationid="Admin" creationdate="20170912T040811Z">
+        <seg>方法“{0}”被继承。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Method ''{0}'' not found</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T015420Z" creationid="Administrator" creationdate="20170910T015420Z">
@@ -27470,6 +28816,14 @@ Cannot generate JavaDoc</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T031816Z" creationid="Administrator" creationdate="20170909T031816Z">
         <seg>方法层次结构</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Method Is Inherited</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040859Z" creationid="Admin" creationdate="20170912T040859Z">
+        <seg>方法继承</seg>
       </tuv>
     </tu>
     <tu>
@@ -27758,6 +29112,14 @@ Cannot generate JavaDoc</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T140118Z" creationid="Administrator" creationdate="20170909T140118Z">
         <seg>方法抛出''{0}'' 异常。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Method to Import</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040649Z" creationid="Admin" creationdate="20170912T040631Z">
+        <seg>要导入的方法</seg>
       </tuv>
     </tu>
     <tu>
@@ -28324,6 +29686,14 @@ for this anonymous class.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move ''{0}'' to the end of the list</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T045811Z" creationid="Admin" creationdate="20170912T045811Z">
+        <seg>移动 ''{0}'' 到列表结尾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move Caret Backward a Paragraph</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T025803Z" creationid="Administrator" creationdate="20170909T025803Z">
@@ -28540,6 +29910,38 @@ for this anonymous class.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move Catch Up</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T051224Z" creationid="Admin" creationdate="20170912T051224Z">
+        <seg>向上移动 catch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move Class in Extend list</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T050656Z" creationid="Admin" creationdate="20170912T050656Z">
+        <seg>在扩展列表中移动类</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move Class to Package</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T051406Z" creationid="Admin" creationdate="20170912T051406Z">
+        <seg>移动类到包</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move Class to Separate File</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T051258Z" creationid="Admin" creationdate="20170912T051258Z">
+        <seg>将类移动到单独的文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move Component</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T040610Z" creationid="Administrator" creationdate="20170910T040610Z">
@@ -28700,10 +30102,34 @@ for this anonymous class.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move bound ''{0}'' to the beginning of the bounds list of type parameter ''{1}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T051214Z" creationid="Admin" creationdate="20170912T051134Z">
+        <seg>移动 bound ''{0}'' 到类型参数bound 列表的开头 ''{1}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move caret</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T064618Z" creationid="Administrator" creationdate="20170910T064618Z">
         <seg>移动插入符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move catch for ''{0}'' before ''{1}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T051253Z" creationid="Admin" creationdate="20170912T051253Z">
+        <seg>移动 catch ''{0}'' 在 ''{1}'' 之前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move class ''{0}'' to ''{0}.java''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T051404Z" creationid="Admin" creationdate="20170912T051404Z">
+        <seg>移动类''{0}''到''{0}.java''</seg>
       </tuv>
     </tu>
     <tu>
@@ -28912,6 +30338,14 @@ for this anonymous class.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T041156Z" creationid="Administrator" creationdate="20170909T041156Z">
         <seg>移到另一个更改列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move to package ''{0}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T051407Z" creationid="Admin" creationdate="20170912T051407Z">
+        <seg>移动类到包''{0}''</seg>
       </tuv>
     </tu>
     <tu>
@@ -29368,6 +30802,14 @@ for this anonymous class.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T063311Z" creationid="Administrator" creationdate="20170909T063311Z">
         <seg>从未修改的选项卡导航时将重新使用它</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Negation Broader Scope</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T051439Z" creationid="Admin" creationdate="20170912T051439Z">
+        <seg>否定更大的范围</seg>
       </tuv>
     </tu>
     <tu>
@@ -31612,6 +33054,14 @@ for this anonymous class.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Original class</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T054617Z" creationid="Admin" creationdate="20170912T054617Z">
+        <seg>原始类</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Orthogonal Layout</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T040950Z" creationid="Administrator" creationdate="20170909T040950Z">
@@ -32042,6 +33492,14 @@ Do you want to create it?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T022838Z" creationid="Admin" creationdate="20170911T022838Z">
         <seg>包"{0}"未找到</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Package Creation Failed</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T042541Z" creationid="Admin" creationdate="20170912T042541Z">
+        <seg>包创建失败</seg>
       </tuv>
     </tu>
     <tu>
@@ -32702,6 +34160,14 @@ Do you want to create it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Permute arguments</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T053704Z" creationid="Admin" creationdate="20170912T053704Z">
+        <seg>置换参数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Personal License</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T054059Z" creationid="Admin" creationdate="20170911T054059Z">
@@ -32858,6 +34324,14 @@ Do you want to create it?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T035019Z" creationid="Admin" creationdate="20170912T035019Z">
         <seg>Playback 调试器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please Correct "New Method Body" Template</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T042522Z" creationid="Admin" creationdate="20170912T042522Z">
+        <seg>请更正“new 方法体”模板</seg>
       </tuv>
     </tu>
     <tu>
@@ -35104,6 +36578,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reason: {1}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T041827Z" creationid="Admin" creationdate="20170912T041827Z">
+        <seg>原因：{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reassign wildcard</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T035112Z" creationid="Admin" creationdate="20170911T035112Z">
@@ -35864,6 +37346,22 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remove ''{0}'' from ''{1}'' throws list</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T050311Z" creationid="Admin" creationdate="20170912T050311Z">
+        <seg>移除 ''{0}''从 ''{1}''抛出列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove ''{0}'' suppression</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T052813Z" creationid="Admin" creationdate="20170912T052813Z">
+        <seg>移除 ''{0}'' 抑制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remove 'catch...'</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T084054Z" creationid="Administrator" creationdate="20170909T084050Z">
@@ -36056,6 +37554,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remove field ''{0}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T051550Z" creationid="Admin" creationdate="20170912T051550Z">
+        <seg>移除 字段''{0}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remove from Entry Points</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T104633Z" creationid="Admin" creationdate="20170911T104633Z">
@@ -36092,6 +37598,46 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T053545Z" creationid="Administrator" creationdate="20170909T053545Z">
         <seg>删除之前的新行:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove parameter ''{0}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T051546Z" creationid="Admin" creationdate="20170912T051546Z">
+        <seg>移除参数 ''{0}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove qualifier</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T051449Z" creationid="Admin" creationdate="20170912T051449Z">
+        <seg>移除限定符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove redundant 'else'</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T051458Z" creationid="Admin" creationdate="20170912T051458Z">
+        <seg>移除多余的 'else'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove redundant arguments</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T054313Z" creationid="Admin" creationdate="20170912T054313Z">
+        <seg>移除多余参数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove redundant arguments to call ''{0}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T054317Z" creationid="Admin" creationdate="20170912T054228Z">
+        <seg>移除多余参数去调用 ''{0}''</seg>
       </tuv>
     </tu>
     <tu>
@@ -36148,6 +37694,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T025641Z" creationid="Administrator" creationdate="20170910T025641Z">
         <seg>移除选择的渲染器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove suppression</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T052815Z" creationid="Admin" creationdate="20170912T052815Z">
+        <seg>移除抑制</seg>
       </tuv>
     </tu>
     <tu>
@@ -36212,6 +37766,38 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T032452Z" creationid="Administrator" creationdate="20170909T032452Z">
         <seg>删除未使用的导入并重新排序/重新组织导入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove unused parameter</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T051544Z" creationid="Admin" creationdate="20170912T051544Z">
+        <seg>移除没有使用的参数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove unused variable</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T051548Z" creationid="Admin" creationdate="20170912T051548Z">
+        <seg>移除没有使用的变量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove variable ''{0}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T051549Z" creationid="Admin" creationdate="20170912T051549Z">
+        <seg>移除变量 ''{0}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove {0, choice, 1#1st|2#2nd|3#3rd|4#{0,number}th} parameter from method ''{1}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T042015Z" creationid="Admin" creationdate="20170912T042015Z">
+        <seg>移除方法 ''{1}'' 的第 {0,number} 个参数</seg>
       </tuv>
     </tu>
     <tu>
@@ -36296,6 +37882,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rename Wrong Reference</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T051600Z" creationid="Admin" creationdate="20170912T051600Z">
+        <seg>重命名错误的引用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rename class ''{0}'' to ''{1}''</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T100350Z" creationid="Administrator" creationdate="20170909T100350Z">
@@ -36332,6 +37926,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T120255Z" creationid="Admin" creationdate="20170911T120255Z">
         <seg>重命名检查配置文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rename reference</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T051601Z" creationid="Admin" creationdate="20170912T051601Z">
+        <seg>重命名引用</seg>
       </tuv>
     </tu>
     <tu>
@@ -36460,6 +38062,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T090959Z" creationid="Administrator" creationdate="20170909T090959Z">
         <seg>用'java.text.MessageFormat.format()'替换'+'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Replace 'addAll/putAll' method with parametrized constructor call</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T055404Z" creationid="Admin" creationdate="20170912T055404Z">
+        <seg>用参数化构造函数的调用替换'addAll / putAll'方法</seg>
       </tuv>
     </tu>
     <tu>
@@ -36648,10 +38258,34 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Replace with ''{0}'' method call</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T060433Z" creationid="Admin" creationdate="20170912T060433Z">
+        <seg>用 ''{0}'' 方法调用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Replace with actual file template</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T114811Z" creationid="Admin" creationdate="20170911T114811Z">
         <seg>替换为实际文件模板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Replace with list access</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T054453Z" creationid="Admin" creationdate="20170912T054453Z">
+        <seg>替换为列表访问</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Replace with single method call</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T060418Z" creationid="Admin" creationdate="20170912T060418Z">
+        <seg>用简单方法调用替换</seg>
       </tuv>
     </tu>
     <tu>
@@ -37336,6 +38970,22 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reuse previous variable ''{0}'' declaration</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T051626Z" creationid="Admin" creationdate="20170912T051626Z">
+        <seg>重用之前变量''{0}''声明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reuse variable declaration</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T051607Z" creationid="Admin" creationdate="20170912T051607Z">
+        <seg>重用变量声明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Revert</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T041138Z" creationid="Administrator" creationdate="20170909T041138Z">
@@ -37828,6 +39478,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T104622Z" creationid="Admin" creationdate="20170911T104622Z">
         <seg>安全删除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Safe delete ''{0}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T051630Z" creationid="Admin" creationdate="20170912T051630Z">
+        <seg>安全删除 ''{0}''</seg>
       </tuv>
     </tu>
     <tu>
@@ -38588,6 +40246,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T023235Z" creationid="Admin" creationdate="20170911T023235Z">
         <seg>搜索测试</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Searching For Usages</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T042104Z" creationid="Admin" creationdate="20170912T042104Z">
+        <seg>搜索用法</seg>
       </tuv>
     </tu>
     <tu>
@@ -39632,6 +41298,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Set package name to ''{0}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T041056Z" creationid="Admin" creationdate="20170912T041056Z">
+        <seg>将包名设置为 ''{0}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Set up HTTP proxy settings</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T101249Z" creationid="Administrator" creationdate="20170909T101249Z">
@@ -39740,6 +41414,22 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T055320Z" creationid="Admin" creationdate="20170911T055320Z">
         <seg>设置导入成功。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Setup JDK</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T051703Z" creationid="Admin" creationdate="20170912T051703Z">
+        <seg>设置 JDK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Setup JDK Location</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T051656Z" creationid="Admin" creationdate="20170912T051656Z">
+        <seg>设置 JDK 位置</seg>
       </tuv>
     </tu>
     <tu>
@@ -41392,6 +43082,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Side Effects Found</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T051709Z" creationid="Admin" creationdate="20170912T051709Z">
+        <seg>发现副作用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Side-by-side layout on the left</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T062549Z" creationid="Admin" creationdate="20170911T062549Z">
@@ -41448,9 +43146,25 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Simplify ''{0}'' to {1}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T051731Z" creationid="Admin" creationdate="20170912T051723Z">
+        <seg>简化 ''{0}'' 为 {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Simplify Boolean Expression</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T093233Z" creationid="Admin" creationdate="20170911T093233Z">
+        <seg>简化布尔表达式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Simplify boolean expression</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T051711Z" creationid="Admin" creationdate="20170912T051711Z">
         <seg>简化布尔表达式</seg>
       </tuv>
     </tu>
@@ -42352,6 +44066,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Static import method</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T053449Z" creationid="Admin" creationdate="20170912T053449Z">
+        <seg>静态导入方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Static inner classes</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T053248Z" creationid="Administrator" creationdate="20170909T053248Z">
@@ -43064,6 +44786,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Suppress for {0} annotated by ''{1}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T053153Z" creationid="Admin" creationdate="20170912T053050Z">
+        <seg>以 ''{1}'' 注解抑制 {0} </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Suppress inspection</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T114005Z" creationid="Admin" creationdate="20170911T114005Z">
@@ -43220,6 +44950,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T091017Z" creationid="Administrator" creationdate="20170909T091017Z">
         <seg>用try-with-resources包围</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Surround with try/catch</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T051758Z" creationid="Admin" creationdate="20170912T051758Z">
+        <seg>用 try/catch 包围</seg>
       </tuv>
     </tu>
     <tu>
@@ -46226,6 +47964,22 @@ already exists.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Transform</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T052101Z" creationid="Admin" creationdate="20170912T052101Z">
+        <seg>转换</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Transform {0} into final one element array</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T052016Z" creationid="Admin" creationdate="20170912T052016Z">
+        <seg>将 {0} 转换成 final 单元素数组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Transparency</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T062715Z" creationid="Admin" creationdate="20170911T062715Z">
@@ -46294,6 +48048,14 @@ already exists.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T101250Z" creationid="Administrator" creationdate="20170909T101250Z">
         <seg>重试</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Try to generify ''{0}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T043154Z" creationid="Admin" creationdate="20170912T043154Z">
+        <seg>尝试生成 ''{0}''</seg>
       </tuv>
     </tu>
     <tu>
@@ -47640,6 +49402,14 @@ Error message: {1}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T064851Z" creationid="Administrator" creationdate="20170909T064851Z">
         <seg>使用"驼峰"词</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use ''{0}'' from {1} distribution</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T053637Z" creationid="Admin" creationdate="20170912T053637Z">
+        <seg>使用 {1} 分发中的 “{0}”</seg>
       </tuv>
     </tu>
     <tu>
@@ -49064,6 +50834,14 @@ as a source directory?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Wrap Expression</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T052038Z" creationid="Admin" creationdate="20170912T052038Z">
+        <seg>包裹表达式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Wrap Method Return Value</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T041827Z" creationid="Administrator" creationdate="20170909T041827Z">
@@ -49144,6 +50922,14 @@ as a source directory?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Wrap parameter using 'Math.toIntExact()'</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T055533Z" creationid="Admin" creationdate="20170912T055533Z">
+        <seg>使用 'Math.toIntExact()' 包裹参数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Wrap return value of the specified method with object</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T041829Z" creationid="Administrator" creationdate="20170909T041829Z">
@@ -49160,10 +50946,66 @@ as a source directory?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Wrap using ''Arrays.asList''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T055139Z" creationid="Admin" creationdate="20170912T054657Z">
+        <seg>使用 ''Arrays.asList'' 包裹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wrap using ''{0}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T052055Z" creationid="Admin" creationdate="20170912T052041Z">
+        <seg>使用 ''{0}'' 包裹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wrap using 'Math.toIntExact()'</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T055431Z" creationid="Admin" creationdate="20170912T055431Z">
+        <seg>使用 'Math.toIntExact()' 包裹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wrap using 'java.util.Optional'</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T060511Z" creationid="Admin" creationdate="20170912T060511Z">
+        <seg>用 'java.util.Optional' 包裹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Wrap when typing reaches right margin</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T065759Z" creationid="Administrator" creationdate="20170909T065759Z">
         <seg>当键入到右页边距的时候换行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wrap {0, choice, 1#1st|2#2nd|3#3rd|4#{0,number}th} parameter using ''Arrays.asList''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T055129Z" creationid="Admin" creationdate="20170912T054646Z">
+        <seg>使用 ''Arrays.asList'' 包裹第 {0,number} 个参数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wrap {0, choice, 1#1st|2#2nd|3#3rd|4#{0,number}th} parameter using ''Math.toIntExact()''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T055651Z" creationid="Admin" creationdate="20170912T055651Z">
+        <seg>使用 ''Math.toIntExact()'' 包裹第 {0,number} 个参数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wrap {0, choice, 1#1st|2#2nd|3#3rd|4#{0,number}th} parameter using ''java.util.Optional''</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T060500Z" creationid="Admin" creationdate="20170912T060500Z">
+        <seg>用 ''java.util.Optional'' 包裹第 {0,number} 个参数</seg>
       </tuv>
     </tu>
     <tu>
@@ -49730,8 +51572,8 @@ as a source directory?</seg>
       <tuv lang="EN-US">
         <seg>abstract</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T103606Z" creationid="Admin" creationdate="20170911T103606Z">
-        <seg>抽象的</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040455Z" creationid="Admin" creationdate="20170911T103606Z">
+        <seg>abstract</seg>
       </tuv>
     </tu>
     <tu>
@@ -50064,6 +51906,14 @@ as a source directory?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>default</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040511Z" creationid="Admin" creationdate="20170912T040511Z">
+        <seg>default</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>default package</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T030517Z" creationid="Admin" creationdate="20170911T030517Z">
@@ -50308,6 +52158,14 @@ as a source directory?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T094001Z" creationid="Administrator" creationdate="20170909T094001Z">
         <seg>fileNameWithoutExtension()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>final</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040504Z" creationid="Admin" creationdate="20170912T040457Z">
+        <seg>final</seg>
       </tuv>
     </tu>
     <tu>
@@ -50904,6 +52762,14 @@ as a source directory?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>native</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040505Z" creationid="Admin" creationdate="20170912T040458Z">
+        <seg>native</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>nid={0}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T030207Z" creationid="Administrator" creationdate="20170910T030207Z">
@@ -51242,8 +53108,8 @@ as a source directory?</seg>
       <tuv lang="EN-US">
         <seg>static</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T103608Z" creationid="Admin" creationdate="20170911T103608Z">
-        <seg>静态</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040456Z" creationid="Admin" creationdate="20170911T103608Z">
+        <seg>static</seg>
       </tuv>
     </tu>
     <tu>
@@ -51260,6 +53126,14 @@ as a source directory?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T030200Z" creationid="Administrator" creationdate="20170910T030148Z">
         <seg>状态: ''{0}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>strictfp</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040508Z" creationid="Admin" creationdate="20170912T040508Z">
+        <seg>strictfp</seg>
       </tuv>
     </tu>
     <tu>
@@ -51340,6 +53214,14 @@ as a source directory?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T114523Z" creationid="Admin" creationdate="20170911T114523Z">
         <seg>toString() 问题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>transient</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040509Z" creationid="Admin" creationdate="20170912T040509Z">
+        <seg>transient</seg>
       </tuv>
     </tu>
     <tu>
@@ -51452,6 +53334,14 @@ as a source directory?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T093958Z" creationid="Administrator" creationdate="20170909T093958Z">
         <seg>variableOfType(Type)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>volatile</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T040510Z" creationid="Admin" creationdate="20170912T040510Z">
+        <seg>volatile</seg>
       </tuv>
     </tu>
     <tu>
@@ -51974,6 +53864,14 @@ Would you like to overwrite {1,choice,1#it|2#these files}?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T050652Z" creationid="Admin" creationdate="20170911T050652Z">
         <seg>{0} 浏览器的路径未指定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} class initializer</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T050326Z" creationid="Admin" creationdate="20170912T050326Z">
+        <seg>{0} 类初始化器</seg>
       </tuv>
     </tu>
     <tu>
