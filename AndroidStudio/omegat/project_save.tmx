@@ -1122,10 +1122,10 @@ Use ; (分号) 来分隔资源模式;
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>-d &lt;directorypath&gt;  --  directory to be inspected.</seg>
+        <seg>-d &lt;directory_path&gt;  --  directory to be inspected.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T080749Z" creationid="Admin" creationdate="20170911T080749Z">
-        <seg>-d &lt;directorypath&gt;  --  要检查的目录</seg>
+        <seg>-d &lt;directory_path&gt;  --  要检查的目录</seg>
       </tuv>
     </tu>
     <tu>
@@ -49321,10 +49321,10 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Running on a JDK8 version affected by drag and drop issues (1.8.060 through 1.8.076).</seg>
+        <seg>Running on a JDK8 version affected by drag and drop issues (1.8.0_60 through 1.8.0_76).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170911T072422Z" creationid="Admin" creationdate="20170911T072422Z">
-        <seg>在受拖放问题影响的 JDK8 版本上运行 (1.8.060 到 1.8.076)。</seg>
+        <seg>在受拖放问题影响的 JDK8 版本上运行 (1.8.0_60 到 1.8.0_76)。</seg>
       </tuv>
     </tu>
     <tu>
