@@ -64185,8 +64185,8 @@ Error message: {1}</seg>
       <tuv lang="EN-US">
         <seg>What''s _New in {0}</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg> {0} 更新说明(_N)</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170913T093138Z">
+        <seg>{0} 更新说明(_N)</seg>
       </tuv>
     </tu>
     <tu>
@@ -69741,8 +69741,8 @@ Do you want to review them?</seg>
       <tuv lang="EN-US">
         <seg>{0} has {1,choice,1#1 usage that is|2#{1,number} usages that are} not safe to delete.</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>{0} 有{1,number} 个使用，删除不安全。</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170913T093115Z">
+        <seg>{0} 有{1} 个使用，删除不安全。</seg>
       </tuv>
     </tu>
     <tu>
