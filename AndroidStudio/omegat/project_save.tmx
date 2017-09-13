@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Delete</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170913T060134Z" creationid="Admin" creationdate="20170913T060134Z">
+        <seg>删除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>''boolean'' value expected in condition</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T114641Z" creationid="Administrator" creationdate="20170909T114607Z">
@@ -5358,6 +5366,14 @@ as well as for the standard SDK classes resolution</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20170912T104859Z" creationid="Admin" creationdate="20170912T104859Z">
         <seg>每周将发送几KB的存档</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An archive of a few kilobytes will be sent weekly.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170913T060150Z" creationid="Admin" creationdate="20170913T060150Z">
+        <seg>每周将发送几KB的存档。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19400,6 +19416,14 @@ already contains {1} named ''{2}''</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do &amp;Not Delete</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170913T060138Z" creationid="Admin" creationdate="20170913T060138Z">
+        <seg>不删除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do Not Delete</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170911T141932Z" creationid="Administrator" creationdate="20170911T141932Z">
@@ -22958,6 +22982,14 @@ Plugins were not loaded.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T163522Z" creationid="Administrator" creationdate="20170912T163516Z">
         <seg>计算…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Evaluation Feedback</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170913T051637Z" creationid="Admin" creationdate="20170913T051637Z">
+        <seg>评估反馈</seg>
       </tuv>
     </tu>
     <tu>
@@ -29336,6 +29368,30 @@ Compilation will proceed without clearing output directories</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you have any technical questions that you would like to ask</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170913T051802Z" creationid="Admin" creationdate="20170913T051802Z">
+        <seg>如果您有任何技术问题想要询问</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you have questions about licensing or purchasing</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170913T051826Z" creationid="Admin" creationdate="20170913T051826Z">
+        <seg>如果您对许可或购买有疑问</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you would like to tell us about the things you love/hate</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170913T051819Z" creationid="Admin" creationdate="20170913T051819Z">
+        <seg>如果你想告诉我们你所爱/恨的东西</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ignore</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T041229Z" creationid="Administrator" creationdate="20170909T041229Z">
@@ -32440,6 +32496,14 @@ in class ''{1}''</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170912T141518Z" creationid="Administrator" creationdate="20170912T141518Z">
         <seg>在 {0} 中的唯一使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It's been ### days since you started evaluating, and your opinion is really valuable to us.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170913T051744Z" creationid="Admin" creationdate="20170913T051744Z">
+        <seg>开始评估后已经###天了，您的意见对我们来说真的很有价值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54105,6 +54169,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some modules has circular dependency.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170913T051603Z" creationid="Admin" creationdate="20170913T051603Z">
+        <seg>一些模块存在循环依赖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Some modules have cyclic dependencies.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T105634Z" creationid="Administrator" creationdate="20170909T105634Z">
@@ -57061,6 +57133,14 @@ already exists in group "{1}".</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Thanks!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170913T051922Z" creationid="Admin" creationdate="20170913T051922Z">
+        <seg>谢谢！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The "{0}"
 is not an {1} module file (.iml)</seg>
       </tuv>
@@ -57083,6 +57163,14 @@ is not an {1} module file (.iml)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T064329Z" creationid="Administrator" creationdate="20170910T064329Z">
         <seg>此项目未正确配置JDK。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The JetBrains Team</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170913T051934Z" creationid="Admin" creationdate="20170913T051934Z">
+        <seg>JetBrains 团队</seg>
       </tuv>
     </tu>
     <tu>
@@ -58253,6 +58341,14 @@ already exists.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This data is anonymous, does not contain any personal information, collected for use only by {0} and will never be transmitted to any third party.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170913T060159Z" creationid="Admin" creationdate="20170913T060159Z">
+        <seg>该数据是匿名的，不包含任何个人信息，仅由{0}收集，不会传送给任何第三方。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This document contains very long lines.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T064725Z" creationid="Administrator" creationdate="20170910T064725Z">
@@ -58385,6 +58481,14 @@ already exists.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T101406Z" creationid="Administrator" creationdate="20170909T101406Z">
         <seg>这将尝试使用您的系统设置，这将有用如果您的系统使用代理自动配置文件（.pac）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This will be the only time you see this screen, we promise!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170913T051725Z" creationid="Admin" creationdate="20170913T051725Z">
+        <seg>这将是你唯一一次看到这个屏幕的，我们承诺！</seg>
       </tuv>
     </tu>
     <tu>
@@ -62559,6 +62663,22 @@ Error message: {1}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We look forward to helping you out in any way we can.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170913T051929Z" creationid="Admin" creationdate="20170913T051929Z">
+        <seg>我们期待着以任何方式帮助您。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We need you for 5 seconds.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170913T051708Z" creationid="Admin" creationdate="20170913T051708Z">
+        <seg>我们需要您5秒钟。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We recommend using J2SDK 1.4.001 or higher</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170910T013254Z" creationid="Administrator" creationdate="20170910T013254Z">
@@ -63631,6 +63751,14 @@ as a source directory?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20170909T095504Z" creationid="Administrator" creationdate="20170909T095504Z">
         <seg>您只能国际化 Java字符串文字或其子字符串。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can use the &lt;s0&gt;Help | Submit Feedback&lt;/s0&gt; menu item at any time later.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170913T051918Z" creationid="Admin" creationdate="20170913T051918Z">
+        <seg>你可以之后在任何时间使用 &lt;s0&gt;帮助 | 提交反馈&lt;/s0&gt; 菜单。</seg>
       </tuv>
     </tu>
     <tu>
