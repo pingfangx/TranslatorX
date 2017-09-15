@@ -1,0 +1,6 @@
+Search Everywhere=全局搜索
+Double =双击 
+Go to File=转到文件
+Recent Files=最新文件
+Navigation Bar=导航栏
+Drop files here to open=拖放文件到这里打开    错误反馈:https://pingfangx.github.io
