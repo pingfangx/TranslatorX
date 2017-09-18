@@ -8332,8 +8332,8 @@ as well as for the standard SDK classes resolution.</seg>
       <tuv lang="EN-US">
         <seg>Ant Build</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>Ant 构建</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170918T065654Z">
+        <seg>Ant Build</seg>
       </tuv>
     </tu>
     <tu>
@@ -16478,8 +16478,8 @@ Method {0} is not static</seg>
       <tuv lang="EN-US">
         <seg>Commander</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>命令</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170918T065647Z">
+        <seg>Commander</seg>
       </tuv>
     </tu>
     <tu>
@@ -20158,8 +20158,8 @@ Method {0} is not static</seg>
       <tuv lang="EN-US">
         <seg>Database</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>数据库</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170918T065731Z">
+        <seg>Database</seg>
       </tuv>
     </tu>
     <tu>
@@ -20198,8 +20198,8 @@ Method {0} is not static</seg>
       <tuv lang="EN-US">
         <seg>Debug</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>调试</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170918T065702Z">
+        <seg>Debug</seg>
       </tuv>
     </tu>
     <tu>
@@ -21142,8 +21142,8 @@ Method {0} is not static</seg>
       <tuv lang="EN-US">
         <seg>Dependency Viewer</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>依赖查看器</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170918T065722Z">
+        <seg>Dependency Viewer</seg>
       </tuv>
     </tu>
     <tu>
@@ -27128,8 +27128,8 @@ Reason: {1}</seg>
       <tuv lang="EN-US">
         <seg>Favorites</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>收藏</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170918T065651Z">
+        <seg>Favorites</seg>
       </tuv>
     </tu>
     <tu>
@@ -28432,8 +28432,8 @@ Do you want overwrite it or to append?</seg>
       <tuv lang="EN-US">
         <seg>Find</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>查找</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170918T065707Z">
+        <seg>Find</seg>
       </tuv>
     </tu>
     <tu>
@@ -31290,8 +31290,8 @@ Code Style</seg>
       <tuv lang="EN-US">
         <seg>Hierarchy</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>层次结构</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170918T065711Z">
+        <seg>Hierarchy</seg>
       </tuv>
     </tu>
     <tu>
@@ -34284,8 +34284,8 @@ in class ''{1}''</seg>
       <tuv lang="EN-US">
         <seg>Inspection Results</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>检查结果</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170918T065714Z">
+        <seg>Inspection Results</seg>
       </tuv>
     </tu>
     <tu>
@@ -38608,8 +38608,8 @@ Cannot generate JavaDoc</seg>
       <tuv lang="EN-US">
         <seg>Messages</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>消息</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170918T065648Z">
+        <seg>Messages</seg>
       </tuv>
     </tu>
     <tu>
@@ -39522,8 +39522,8 @@ for this anonymous class.</seg>
       <tuv lang="EN-US">
         <seg>Module Dependencies</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>模块依赖关系</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170918T065727Z">
+        <seg>Module Dependencies</seg>
       </tuv>
     </tu>
     <tu>
@@ -46819,8 +46819,8 @@ to migrate using the migration map "{0}"</seg>
       <tuv lang="EN-US">
         <seg>Preview</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>预览</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170918T065659Z">
+        <seg>Preview</seg>
       </tuv>
     </tu>
     <tu>
@@ -47473,8 +47473,8 @@ Would you like to stop at the breakpoint?</seg>
       <tuv lang="EN-US">
         <seg>Project</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>项目</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170918T065649Z">
+        <seg>Project</seg>
       </tuv>
     </tu>
     <tu>
@@ -51963,8 +51963,8 @@ Code Style</seg>
       <tuv lang="EN-US">
         <seg>Run</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>运行</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170918T065704Z">
+        <seg>Run</seg>
       </tuv>
     </tu>
     <tu>
@@ -58445,8 +58445,8 @@ Package ''{2}'' cannot be created there.</seg>
       <tuv lang="EN-US">
         <seg>Structure</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>结构</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170918T065650Z">
+        <seg>Structure</seg>
       </tuv>
     </tu>
     <tu>
@@ -62071,8 +62071,8 @@ already exists.</seg>
       <tuv lang="EN-US">
         <seg>Time Tracking</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>时间轨迹</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170918T065728Z">
+        <seg>Time Tracking</seg>
       </tuv>
     </tu>
     <tu>
@@ -66233,8 +66233,8 @@ Error message: {1}</seg>
       <tuv lang="EN-US">
         <seg>Version Control</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>版本控制</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170918T065725Z">
+        <seg>Version Control</seg>
       </tuv>
     </tu>
     <tu>
