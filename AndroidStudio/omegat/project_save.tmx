@@ -39238,8 +39238,8 @@ Cannot generate JavaDoc</seg>
       <tuv lang="EN-US">
         <seg>JVM: {0} by {1}</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>JVM: {0} 由 {1}</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170920T031601Z">
+        <seg>JVM: {0} 由 {1} 【汉化反馈: http://www.pingfangx.com】</seg>
       </tuv>
     </tu>
     <tu>
@@ -72379,8 +72379,8 @@ Error message: {1}</seg>
       <tuv lang="EN-US">
         <seg>Validate the current XML file</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>验证当前的 XML 文件</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170920T022134Z">
+        <seg>校验当前的 XML 文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -75583,8 +75583,8 @@ Would you like to open it?</seg>
       <tuv lang="EN-US">
         <seg>_About</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>关于(_A)</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170920T031233Z">
+        <seg>关于 | 汉化反馈(_A)</seg>
       </tuv>
     </tu>
     <tu>
@@ -76487,8 +76487,8 @@ Would you like to open it?</seg>
       <tuv lang="EN-US">
         <seg>_Validate</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>验证(_V)</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170920T022132Z">
+        <seg>校验(_V)</seg>
       </tuv>
     </tu>
     <tu>
@@ -81599,8 +81599,8 @@ Would you like to open it?</seg>
       <tuv lang="EN-US">
         <seg>{0,choice, 0#Moments|1#A minute|2#{0,number} minutes|60#1 hour} ago</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>{0,choice, 0#片刻|1#1 分钟|2#{0,number} 分钟|60#1 小时} 之前</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20170920T021849Z">
+        <seg>{0,choice, 0#片刻|1#1 分钟|2#{0,number} 分钟|60#1 小时}之前</seg>
       </tuv>
     </tu>
     <tu>
