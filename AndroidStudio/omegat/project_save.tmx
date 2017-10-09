@@ -4438,8 +4438,8 @@ Use ; (分号) 来分隔资源模式;
       <tuv lang="EN-US">
         <seg>&lt;html&gt;&lt;body&gt;New projects can either be opened in a new window or replace the project in the existing window.&lt;br&gt;How would you like to open the project?&lt;/body&gt;&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>&lt;html&gt;&lt;body&gt;新项目可以在新窗口中打开，或替换现有窗口中的项目。&lt;br&gt;你想如何打开项目？&lt;/body&gt;&lt;/html&gt;</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20171009T023331Z">
+        <seg>&lt;html&gt;&lt;body&gt;新项目可以在新窗口中打开，也可以替换现有窗口中的项目。&lt;br&gt;你想如何打开项目？&lt;/body&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -58538,8 +58538,8 @@ Code Style</seg>
       <tuv lang="EN-US">
         <seg>Search for &amp;text occurrences</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>搜索文本出现(&amp;t)</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20171009T052208Z">
+        <seg>搜索文本匹配项(&amp;t)</seg>
       </tuv>
     </tu>
     <tu>
@@ -58562,8 +58562,8 @@ Code Style</seg>
       <tuv lang="EN-US">
         <seg>Search for text &amp;occurrences</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>搜索文本出现(&amp;o)</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20171009T052058Z">
+        <seg>搜索文本匹配项(&amp;o)</seg>
       </tuv>
     </tu>
     <tu>
@@ -59026,8 +59026,8 @@ Code Style</seg>
       <tuv lang="EN-US">
         <seg>Select All Occurrences</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>选择所有出现</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20171009T052040Z">
+        <seg>选择所有匹配项</seg>
       </tuv>
     </tu>
     <tu>
@@ -60202,8 +60202,8 @@ Code Style</seg>
       <tuv lang="EN-US">
         <seg>Set multiple cursors by adding all occurrences of the current word to the selection.</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>通过将当前单词的所有出现添加到选择，来设置多个光标。</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20171009T052046Z">
+        <seg>通过将当前单词的所有匹配项添加到选择，来设置多个光标。</seg>
       </tuv>
     </tu>
     <tu>
