@@ -24527,8 +24527,8 @@ with covariant return type?</seg>
       <tuv lang="EN-US">
         <seg>Do you want {0} the base {1,choice,1#method|2#methods}?</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>你想要 {0} 基于 {1,choice,1#方法|2#方法}?</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20171010T095708Z">
+        <seg>你想要 {0} base 的方法吗?</seg>
       </tuv>
     </tu>
     <tu>
@@ -42358,8 +42358,8 @@ Cannot generate JavaDoc</seg>
       <tuv lang="EN-US">
         <seg>Method ''{0}''</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>方法''{0}''</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20171010T095218Z">
+        <seg>''{0}'' 方法</seg>
       </tuv>
     </tu>
     <tu>
@@ -79255,8 +79255,8 @@ Would you like to open it?</seg>
       <tuv lang="EN-US">
         <seg>implements {0} {1} {2}.</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>实现 {0} {1} {2}。</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20171010T102806Z">
+        <seg>实现了 {1} {2} 的{0}。</seg>
       </tuv>
     </tu>
     <tu>
@@ -80183,16 +80183,16 @@ Would you like to open it?</seg>
       <tuv lang="EN-US">
         <seg>of class</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>类的</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20171010T095034Z">
+        <seg>类</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>of interface</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>接口的</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20171010T095030Z">
+        <seg>接口</seg>
       </tuv>
     </tu>
     <tu>
@@ -80271,8 +80271,8 @@ Would you like to open it?</seg>
       <tuv lang="EN-US">
         <seg>overrides {0} {1} {2}.</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>重写 {0} {1} {2}。</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20171010T102804Z">
+        <seg>重写了 {1} {2} 的{0}。</seg>
       </tuv>
     </tu>
     <tu>
@@ -81167,16 +81167,16 @@ Would you like to open it?</seg>
       <tuv lang="EN-US">
         <seg>to find usages of</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>查找...的使用</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20171010T100206Z">
+        <seg>查找使用对</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>to refactor</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>去重构</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20171010T095733Z">
+        <seg>重构</seg>
       </tuv>
     </tu>
     <tu>
