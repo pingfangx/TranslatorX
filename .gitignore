@@ -11,3 +11,5 @@
 **/*-level1.tmx
 **/*-level2.tmx
 **/*-omegat.tmx
+*.jar
+**/original/
