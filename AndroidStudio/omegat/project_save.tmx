@@ -3332,8 +3332,8 @@ Are you sure you want to stop {2, choice, 1#incompatible running instance|2#{2, 
       <tuv lang="EN-US">
         <seg>(in {0})</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>(在 {0})</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20171027T025915Z">
+        <seg>({0} 中)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8940,8 +8940,8 @@ as well as for the standard SDK classes resolution.</seg>
       <tuv lang="EN-US">
         <seg>Android Monitor</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>Android 监视器</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20171027T030642Z">
+        <seg>Android Monitor</seg>
       </tuv>
     </tu>
     <tu>
@@ -21061,8 +21061,8 @@ Method {0} is not static</seg>
       <tuv lang="EN-US">
         <seg>Create constructor matching super</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>创建构造器函数匹配超类</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20171027T025450Z">
+        <seg>创建构造方法匹配超类</seg>
       </tuv>
     </tu>
     <tu>
@@ -23029,8 +23029,8 @@ Method {0} is not static</seg>
       <tuv lang="EN-US">
         <seg>Deleted:</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>删除的:</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20171027T025323Z">
+        <seg>已删除的:</seg>
       </tuv>
     </tu>
     <tu>
@@ -27131,8 +27131,8 @@ with covariant return type?</seg>
       <tuv lang="EN-US">
         <seg>Enum constant ''{0}'' in ''{1}''</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>枚举常量''{0}''在''{1}''</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20171027T025843Z">
+        <seg>在''{1}''中的枚举常量''{0}''</seg>
       </tuv>
     </tu>
     <tu>
@@ -41430,8 +41430,8 @@ Cannot generate JavaDoc</seg>
       <tuv lang="EN-US">
         <seg>Make ''{0}'' not {1}</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>使''{0}''不 {1}</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20171027T031545Z">
+        <seg>使 ''{0}'' 不 {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -41454,8 +41454,8 @@ Cannot generate JavaDoc</seg>
       <tuv lang="EN-US">
         <seg>Make ''{0}'' {1}</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>使''{0}''{1}</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20171027T031539Z">
+        <seg>使 ''{0}'' {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -43432,8 +43432,8 @@ for this anonymous class.</seg>
       <tuv lang="EN-US">
         <seg>Modified:</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>修改的:</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20171027T025320Z">
+        <seg>已修改的:</seg>
       </tuv>
     </tu>
     <tu>
@@ -45928,8 +45928,8 @@ for this anonymous class.</seg>
       <tuv lang="EN-US">
         <seg>New:</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>新建:</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20171027T025321Z">
+        <seg>新建的:</seg>
       </tuv>
     </tu>
     <tu>
@@ -82591,8 +82591,8 @@ Do you want to review them?</seg>
       <tuv lang="EN-US">
         <seg>{0} in {1}</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>{0} 在 {1} 中</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20171027T025750Z">
+        <seg>{1} 中的 {0} </seg>
       </tuv>
     </tu>
     <tu>
@@ -83433,8 +83433,8 @@ does not exist.</seg>
       <tuv lang="EN-US">
         <seg>{0}() in {1}</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>{0}() 在 {1} 中</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20171027T025801Z">
+        <seg>{1} 中的 {0}() </seg>
       </tuv>
     </tu>
     <tu>
