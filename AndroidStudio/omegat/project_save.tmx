@@ -31702,6 +31702,14 @@ Do you want overwrite it or to append?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flatten Modules</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20171028T081707Z" creationid="Admin" creationdate="20171028T081707Z">
+        <seg>Flatten 模块</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flatten Packages</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -34092,6 +34100,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>隐藏网格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hide Module Groups</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20171028T081726Z" creationid="Admin" creationdate="20171028T081726Z">
+        <seg>隐藏模块组</seg>
       </tuv>
     </tu>
     <tu>
@@ -40182,6 +40198,22 @@ Cannot generate JavaDoc</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Admin" changedate="20171028T070732Z" creationid="Admin" creationdate="20171028T070732Z">
         <seg>库 ''{0}'' 和 {1} 个库在项目中使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Library ''{0}'' has broken {1, choice, 1#path|2#paths}.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20171028T081744Z" creationid="Admin" creationdate="20171028T081744Z">
+        <seg>库有 ''{0}'' 有损坏的路径。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Library ''{0}'' will be added to the selected modules.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20171028T081803Z" creationid="Admin" creationdate="20171028T081803Z">
+        <seg>库''{0}''将被添加到所选模块。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55194,6 +55226,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rename module</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20171028T081653Z" creationid="Admin" creationdate="20171028T081653Z">
+        <seg>重命名模块</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rename original interface to:</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -60954,6 +60994,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Show Module Groups</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20171028T081728Z" creationid="Admin" creationdate="20171028T081728Z">
+        <seg>显示模块组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Show Modules</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -61590,6 +61638,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>显示方法分隔符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show modules in a flat list</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20171028T081724Z" creationid="Admin" creationdate="20171028T081724Z">
+        <seg>在平面列表中显示模块</seg>
       </tuv>
     </tu>
     <tu>
@@ -79169,6 +79225,14 @@ Would you like to open it?</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>不完整代码引入变量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>invalid {0} {1, choice, 1#root|2#roots}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20171028T081756Z" creationid="Admin" creationdate="20171028T081756Z">
+        <seg>无效的 {0} 个根目录</seg>
       </tuv>
     </tu>
     <tu>
