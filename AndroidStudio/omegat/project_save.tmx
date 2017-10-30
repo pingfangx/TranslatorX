@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"{0}" directory cannot be found</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>"{0}" 目录无法找到</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"{0}" is not a directory.</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -9370,6 +9378,14 @@ as well as for the standard SDK classes resolution.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Android {0} requires at least Java 1.8</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20171030T020735Z" creationid="Admin" creationdate="20171030T020735Z">
+        <seg>Android {0} 至少需要 Java 1.8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Animate windows</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -12752,6 +12768,14 @@ and replace them with usages of {2} where possible.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Caching resources [{0}]</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20171030T020626Z" creationid="Admin" creationdate="20171030T020626Z">
+        <seg>缓存资源 [{0}]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Calculating changes...</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -13498,6 +13522,14 @@ and replace them with usages of {2} where possible.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cannot compute package for file {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20171030T020529Z" creationid="Admin" creationdate="20171030T020529Z">
+        <seg>无法为文件 {0} 计算包</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cannot connect to remote process, host is unknown</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -13773,6 +13805,14 @@ of the selected files was not stored due to its big size.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cannot delete file {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20171030T020516Z" creationid="Admin" creationdate="20171030T020516Z">
+        <seg>无法删除文件 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cannot delete root directory ''{0}''</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -13793,6 +13833,14 @@ of the selected files was not stored due to its big size.</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>无法删除临时文件 {0}。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot delete {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20171030T020711Z" creationid="Admin" creationdate="20171030T020711Z">
+        <seg>无法删除 {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -14257,6 +14305,14 @@ All mentioned modules will be treated as Unknown modules.</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>无法移动类至默认包</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot move content from {0} to {1}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20171030T020727Z" creationid="Admin" creationdate="20171030T020727Z">
+        <seg>无法将内容从 {0} 移动到 {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -29529,6 +29585,22 @@ Exception message: {1}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Executing DEX [{0}]</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20171030T020101Z" creationid="Admin" creationdate="20171030T020101Z">
+        <seg>执行 DEX [{0}]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Executing ProGuard [{0}]</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20171030T020621Z" creationid="Admin" creationdate="20171030T020621Z">
+        <seg>执行 ProGuard [{0}]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Executing post-compile tasks...</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -32070,6 +32142,14 @@ Do you want overwrite it or to append?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>File {0} doesn't exist</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>文件 {0} 不存在</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>File {0} has been locally modified.</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -33982,6 +34062,14 @@ Do you want overwrite it or to append?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Generating BuildConfig.java files [{0}]</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20171030T020544Z" creationid="Admin" creationdate="20171030T020544Z">
+        <seg>生成 BuildConfig.java 文件 [{0}]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Generating HTML...</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -33994,6 +34082,14 @@ Do you want overwrite it or to append?</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>生成 HTML:{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Generating R.java and Manifest.java files [{0}]</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20171030T020538Z" creationid="Admin" creationdate="20171030T020538Z">
+        <seg>生成 R.java 和 Manifest.java 文件 [{0}]</seg>
       </tuv>
     </tu>
     <tu>
@@ -40558,6 +40654,14 @@ Cannot generate JavaDoc</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>Java 模块</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Java SDK {0} is not found</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20171030T020452Z" creationid="Admin" creationdate="20171030T020452Z">
+        <seg>找不到 Java SDK {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -50726,10 +50830,42 @@ Do you want to create it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Packaging Android AAR dependencies [{0}]</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20171030T020613Z" creationid="Admin" creationdate="20171030T020613Z">
+        <seg>打包 Android AAR 依赖 [{0}]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Packaging Android libraries [{0}]</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20171030T020606Z" creationid="Admin" creationdate="20171030T020606Z">
+        <seg>打包 Android 库 [{0}]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Packaging issues</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>打包问题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Packaging resources [{0}]</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20171030T020638Z" creationid="Admin" creationdate="20171030T020638Z">
+        <seg>打包资源 [{0}]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Packaging {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20171030T020631Z" creationid="Admin" creationdate="20171030T020631Z">
+        <seg>打包 {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -53564,6 +53700,22 @@ Would you like to stop at the breakpoint?</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>处理 {0} 注释(_A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Processing AIDL files</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20171030T020519Z" creationid="Admin" creationdate="20171030T020519Z">
+        <seg>处理 AIDL 文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Processing RenderScript files</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20171030T020524Z" creationid="Admin" creationdate="20171030T020524Z">
+        <seg>处理 RenderScript 文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -77865,6 +78017,86 @@ Would you like to open it?</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>[未命名组]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[{0}] Android SDK is invalid or not specified</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20171030T020458Z" creationid="Admin" creationdate="20171030T020458Z">
+        <seg>[{0}] Android SDK 无效或未指定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[{0}] Android SDK is not specified</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20171030T020123Z" creationid="Admin" creationdate="20171030T020123Z">
+        <seg>[{0}] Android SDK 未指定或无法解析</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[{0}] AndroidManifest.xml file not found</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20171030T020552Z" creationid="Admin" creationdate="20171030T020552Z">
+        <seg>[{0}] 找不到 AndroidManifest.xml 文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[{0}] Cannot compute output path for APK</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20171030T020723Z" creationid="Admin" creationdate="20171030T020723Z">
+        <seg>[{0}] 无法计算 APK 的输出路径</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[{0}] Cannot find main content root</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20171030T020618Z" creationid="Admin" creationdate="20171030T020618Z">
+        <seg>[{0}] 找不到主内容根</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[{0}] Cannot find proguard config file</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20171030T020716Z" creationid="Admin" creationdate="20171030T020716Z">
+        <seg>[{0}] 找不到 proguard 配置文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[{0}] Dex won''t be launched because it doesn''t contain compiled files</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20171030T020514Z" creationid="Admin" creationdate="20171030T020514Z">
+        <seg>[{0}] Dex 不会被启动，因为它不包含已编译的文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[{0}] Output directory is not specified</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20171030T020505Z" creationid="Admin" creationdate="20171030T020505Z">
+        <seg>[{0}] 输出目录未指定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[{0}] Package is not specified in AndroidManifest.xml</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20171030T020557Z" creationid="Admin" creationdate="20171030T020557Z">
+        <seg>[{0}] AndroidManifest.xml 中未指定包</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[{0}] Package name must contain at least 2 segments</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20171030T020708Z" creationid="Admin" creationdate="20171030T020708Z">
+        <seg>[{0}] 包名称必须至少包含2段</seg>
       </tuv>
     </tu>
     <tu>
