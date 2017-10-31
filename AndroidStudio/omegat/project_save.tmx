@@ -40516,8 +40516,8 @@ Cannot generate JavaDoc</seg>
       <tuv lang="EN-US">
         <seg>JVM: {0} by {1}</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>JVM: {0} 由 {1} 【汉化反馈: http://www.pingfangx.com】</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20171031T040030Z">
+        <seg>JVM: {0} 由 {1} ————————————————————【关于汉化: http://www.pingfangx.com】</seg>
       </tuv>
     </tu>
     <tu>
@@ -78151,8 +78151,8 @@ Would you like to open it?</seg>
       <tuv lang="EN-US">
         <seg>_About</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>关于 | 汉化反馈(_A)</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20171031T035407Z">
+        <seg>关于 | 关于汉化(_A)</seg>
       </tuv>
     </tu>
     <tu>
