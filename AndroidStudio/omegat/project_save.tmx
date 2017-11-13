@@ -3685,7 +3685,7 @@ Are you sure you want to stop {2, choice, 1#incompatible running instance|2#{2, 
         <seg>({0} {0,choice,1#directory|2#directories})</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>个目录</seg>
+        <seg>{0} 个目录</seg>
       </tuv>
     </tu>
     <tu>
@@ -4799,7 +4799,7 @@ Use ; (分号) 来分隔资源模式;
         <seg>&lt;html&gt;&lt;body&gt;Choose Implementation of &lt;b&gt;{0}&lt;/b&gt; ({1} found{2})&lt;/body&gt;&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>&lt;html&gt;&lt;body&gt;选择 &lt;b&gt;{0}&lt;/b&gt; 的实现方法({1} 找到)&lt;/body&gt;&lt;/html&gt;</seg>
+        <seg>&lt;html&gt;&lt;body&gt;选择 &lt;b&gt;{0}&lt;/b&gt; 的实现方法({1} 找到 {2})&lt;/body&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4823,7 +4823,7 @@ Use ; (分号) 来分隔资源模式;
         <seg>&lt;html&gt;&lt;body&gt;Choose Subclass of &lt;b&gt;{0}&lt;/b&gt; ({1} classes found{2})&lt;/body&gt;&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>&lt;html&gt;&lt;body&gt;选择&lt;b&gt;{0}&lt;/b&gt;的子类({1} 个类已找到)&lt;/body&gt;&lt;/html&gt;</seg>
+        <seg>&lt;html&gt;&lt;body&gt;选择&lt;b&gt;{0}&lt;/b&gt;的子类({1} 个类已找到 {2})&lt;/body&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4831,7 +4831,7 @@ Use ; (分号) 来分隔资源模式;
         <seg>&lt;html&gt;&lt;body&gt;Choose Test Subject for &lt;b&gt;{0}&lt;/b&gt; ({1} found{2})&lt;/body&gt;&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>&lt;html&gt;&lt;body&gt;选择&lt;b&gt;{0}&lt;/b&gt; 的测试对象({1} 找到)&lt;/body&gt;&lt;/html&gt;</seg>
+        <seg>&lt;html&gt;&lt;body&gt;选择&lt;b&gt;{0}&lt;/b&gt; 的测试对象({1} 找到 {2})&lt;/body&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4839,7 +4839,7 @@ Use ; (分号) 来分隔资源模式;
         <seg>&lt;html&gt;&lt;body&gt;Choose Test for &lt;b&gt;{0}&lt;/b&gt; ({1} found{2})&lt;/body&gt;&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>&lt;html&gt;&lt;body&gt;选择 &lt;b&gt;{0}&lt;/b&gt; 的测试({1} 找到)&lt;/body&gt;&lt;/html&gt;</seg>
+        <seg>&lt;html&gt;&lt;body&gt;选择 &lt;b&gt;{0}&lt;/b&gt; 的测试({1} 找到 {2})&lt;/body&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -69132,7 +69132,7 @@ Please update modules configuration</seg>
         <seg>The plugin you want to install optionally requires other plugin{0, choice, 1#|2#s} ({1}).</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>您要安装的插件可能需要其他插件。</seg>
+        <seg>您要安装的插件可能需要其他插件 ({1})。</seg>
       </tuv>
     </tu>
     <tu>
@@ -69140,7 +69140,7 @@ Please update modules configuration</seg>
         <seg>The plugin you want to install requires other plugin{0, choice, 1#|2#s} ({1}) which have to be installed as well.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>您要安装的插件需要其他必须的插件安装好。</seg>
+        <seg>您要安装的插件需要其他必须的插件 ({1}) 安装好。</seg>
       </tuv>
     </tu>
     <tu>
@@ -69578,7 +69578,7 @@ Any JAR files created will be named after the name of the main module.</seg>
 already exists.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>文件 ''{0}'' 已经存在。</seg>
+        <seg>{1} 文件 ''{0}'' 已经存在。</seg>
       </tuv>
     </tu>
     <tu>
@@ -77920,7 +77920,7 @@ Would you like to open it?</seg>
         <seg>Your {0} license has expired.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>您的许可证已过期。</seg>
+        <seg>您的 {0} 许可证已过期。</seg>
       </tuv>
     </tu>
     <tu>
@@ -85392,7 +85392,7 @@ Would you like to open it?</seg>
         <seg>{0,choice,1#Plugin|2#Plugins} incompatible with the new build found:{0,choice,1#' '|2#'&lt;br/&gt;'} {1}</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>个插件与发现的新版本不兼容:{0,choice,1# ' ' |2# '&lt;br/&gt;' } {1}</seg>
+        <seg>插件与发现的新版本不兼容:{0,choice,1# ' ' |2# '&lt;br/&gt;' } {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -86746,7 +86746,7 @@ Do you want to review them?</seg>
         <seg>{0} settings were imported to {1} scheme.{2}</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>{0} 设置将要导入到 {1} 方案中。</seg>
+        <seg>{0} 设置将要导入到 {1} 方案中。{2}</seg>
       </tuv>
     </tu>
     <tu>
