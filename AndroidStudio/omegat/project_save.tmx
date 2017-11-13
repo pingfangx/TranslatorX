@@ -5031,9 +5031,9 @@ Use ; (分号) 来分隔资源模式;
         <seg>&lt;html&gt;&lt;body&gt;TODO check has skipped {0,choice, 0#|1#one file|2#{0} files}.&lt;br/&gt;
 No new or edited TODO items, or items located in changed text fragments were found.&lt;/body&gt;&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>&lt;html&gt;&lt;body&gt;TODO 检查跳过 {0] 文件。&lt;br/&gt;
-没有新建或修改的 TODO 项，或没有找到修改文本片断中的项。.&lt;/body&gt;&lt;/html&gt;</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20171113T085700Z">
+        <seg>&lt;html&gt;&lt;body&gt;TODO 检查跳过 {0} 个文件。&lt;br/&gt;
+没有新建或编辑的 TODO 项，或没有找到更改的文本片断中的项。&lt;/body&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5112,24 +5112,24 @@ No new or edited TODO items, or items located in changed text fragments were fou
       <tuv lang="EN-US">
         <seg>&lt;html&gt;&lt;body&gt;{0, choice, 1#One|2#{0}} added/edited TODO {0,choice, 1#item|2#items},&lt;br/&gt;and {1, choice, 1#one item|2#{1} items} located in changed fragments were found.&lt;br/&gt;Would you like to review them?&lt;br/&gt;{2,choice, 0#|1#One file was skipped.|2#{2} files were skipped.}&lt;/body&gt;&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>&lt;html&gt;&lt;body&gt;{0} 个添加/修改的 TODO 项,&lt;br/&gt; 并且找到 {1} 项位于更改的片断中。&lt;br/&gt;你想要回顾他们吗？&lt;br/&gt;{2} 个文件已跳过。&lt;/body&gt;&lt;/html&gt;</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20171113T085537Z">
+        <seg>&lt;html&gt;&lt;body&gt;找到 {0} 个添加/编辑的 TODO 项,&lt;br/&gt; 并且 {1} 项位于更改的片断中。&lt;br/&gt;你想要回顾他们吗？&lt;br/&gt;{2} 个文件已跳过。&lt;/body&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>&lt;html&gt;&lt;body&gt;{0,choice, 0#|1#One|2#{0}} added/edited TODO {0,choice, 0#|1#item was|2#items were} found.&lt;br/&gt;Would you like to review {0,choice,1#it|2#them}?&lt;br/&gt;{1,choice, 0#|1#One file was skipped.|2#{1} files were skipped.}&lt;/body&gt;&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>&lt;html&gt;&lt;body&gt;&gt;找到 {0} 个添加或编辑的 TODO。&lt;br/&gt; 你想要回顾 {0,choice,1#它|2#它们}吗?&lt;br/&gt;{1} 个文件已跳过。&lt;/body&gt;&lt;/html&gt;</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20171113T085516Z">
+        <seg>&lt;html&gt;&lt;body&gt;找到 {0} 个添加/编辑的 TODO 项。&lt;br/&gt; 你想要回顾{0,choice,1#它|2#它们}吗?&lt;br/&gt;{1} 个文件已跳过。&lt;/body&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>&lt;html&gt;&lt;body&gt;{0,choice, 1#One|2#{0}} TODO {0,choice, 1#item was|2#items were} found in changed fragments.&lt;br/&gt;Would you like to review {0,choice,1#it|2#them}?&lt;br/&gt;{1,choice, 0#|1#One file was skipped.|2#{1} files were skipped.}&lt;/body&gt;&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>&lt;html&gt;&lt;body&gt;在更改的片断中找到 {0} 个 TODO 项。&lt;br/&gt;你想要回顾 {0,choice,1#它|2#它们}吗?&lt;br/&gt;{1} 个文件已跳过。&lt;/body&gt;&lt;/html&gt;</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20171113T085153Z">
+        <seg>&lt;html&gt;&lt;body&gt;在更改的片断中找到 {0} 个 TODO 项。&lt;br/&gt;你想要回顾{0,choice,1#它|2#它们}吗?&lt;br/&gt;{1} 个文件已跳过。&lt;/body&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15509,8 +15509,8 @@ Method {0} is not static</seg>
       <tuv lang="EN-US">
         <seg>Change {0} ''{1}'' type to ''{2}''</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>更改变量 {0}''{1}'' 类型为 ''{2}''</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20171113T063048Z">
+        <seg>更改变量 {0} ''{1}'' 类型为 ''{2}''</seg>
       </tuv>
     </tu>
     <tu>
@@ -42980,8 +42980,8 @@ Cannot generate JavaDoc</seg>
       <tuv lang="EN-US">
         <seg>Make ''{0}'' {1}</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>使 ''{0}''{1}</seg>
+      <tuv lang="ZH-CN" changeid="Admin" changedate="20171113T090526Z">
+        <seg>使 ''{0}'' {1}</seg>
       </tuv>
     </tu>
     <tu>
