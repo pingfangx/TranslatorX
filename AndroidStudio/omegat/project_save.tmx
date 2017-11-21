@@ -4391,7 +4391,7 @@ Use ; (分号) 来分隔资源模式;
         <seg>&lt;b&gt;&lt;code&gt;{0}&lt;/code&gt;&lt;/b&gt; is not a correct identifier to use in &lt;b&gt;&lt;code&gt;{1}&lt;/code&gt;&lt;/b&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>&lt;b&gt;&lt;code&gt;{0}&lt;/code&gt;&lt;/b&gt;不是一个正确的标识符，使用于 &lt;b&gt;&lt;code&gt;{1}&lt;/code&gt;&lt;/b&gt;</seg>
+        <seg>&lt;b&gt;&lt;code&gt;{0}&lt;/code&gt;&lt;/b&gt; 不是一个正确的标识符，使用于 &lt;b&gt;&lt;code&gt;{1}&lt;/code&gt;&lt;/b&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4815,7 +4815,7 @@ Use ; (分号) 来分隔资源模式;
         <seg>&lt;html&gt;&lt;body&gt;Choose Overriding Method of &lt;b&gt;{0}&lt;/b&gt; ({1} methods found)&lt;/body&gt;&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>&lt;html&gt;&lt;body&gt;选择&lt;b&gt;{0}&lt;/b&gt;的重写方法({1} 个方法已找到)&lt;/body&gt;&lt;/html&gt;</seg>
+        <seg>&lt;html&gt;&lt;body&gt;选择 &lt;b&gt;{0}&lt;/b&gt; 的重写方法({1} 个方法已找到)&lt;/body&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4823,7 +4823,7 @@ Use ; (分号) 来分隔资源模式;
         <seg>&lt;html&gt;&lt;body&gt;Choose Subclass of &lt;b&gt;{0}&lt;/b&gt; ({1} classes found{2})&lt;/body&gt;&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>&lt;html&gt;&lt;body&gt;选择&lt;b&gt;{0}&lt;/b&gt;的子类({1} 个类已找到 {2})&lt;/body&gt;&lt;/html&gt;</seg>
+        <seg>&lt;html&gt;&lt;body&gt;选择 &lt;b&gt;{0}&lt;/b&gt; 的子类({1} 个类已找到 {2})&lt;/body&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4831,7 +4831,7 @@ Use ; (分号) 来分隔资源模式;
         <seg>&lt;html&gt;&lt;body&gt;Choose Test Subject for &lt;b&gt;{0}&lt;/b&gt; ({1} found{2})&lt;/body&gt;&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>&lt;html&gt;&lt;body&gt;选择&lt;b&gt;{0}&lt;/b&gt; 的测试对象({1} 找到 {2})&lt;/body&gt;&lt;/html&gt;</seg>
+        <seg>&lt;html&gt;&lt;body&gt;选择 &lt;b&gt;{0}&lt;/b&gt; 的测试对象({1} 找到 {2})&lt;/body&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4887,7 +4887,7 @@ Use ; (分号) 来分隔资源模式;
         <seg>&lt;html&gt;&lt;body&gt;Don't report assertions with condition statically proven to be always &lt;code&gt;true&lt;/code&gt;&lt;/body&gt;&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>&lt;html&gt;&lt;body&gt;不要报告条件静态证明总是 &lt;code&gt;true&lt;/code&gt;的断言&lt;/body&gt;&lt;/html&gt;</seg>
+        <seg>&lt;html&gt;&lt;body&gt;不要报告条件静态证明总是 &lt;code&gt;true&lt;/code&gt; 的断言&lt;/body&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5241,7 +5241,7 @@ No new or edited TODO items, or items located in changed text fragments were fou
         <seg>&lt;html&gt;Are you sure to disable plugin &lt;b&gt;{0}&lt;/b&gt;?&lt;br/&gt;Functionality provided by the plugin will no longer be available.&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>&lt;html&gt;确实要禁用插件&lt;b&gt;{0}&lt;/b&gt;?&lt;br/&gt;该插件提供的功能将不再可用.&lt;/html&gt;</seg>
+        <seg>&lt;html&gt;确实要禁用插件 &lt;b&gt;{0}&lt;/b&gt;?&lt;br/&gt;该插件提供的功能将不再可用.&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5249,7 +5249,7 @@ No new or edited TODO items, or items located in changed text fragments were fou
         <seg>&lt;html&gt;Are you sure you would like to disable plugin &lt;b&gt;{0}&lt;/b&gt;?&lt;br/&gt;Functionality provided by the plugin and dependent plugins will no longer be available.&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>&lt;html&gt;您确实想要禁用插件&lt;b&gt;{0}&lt;/b&gt;吗?&lt;br/&gt;该插件及依赖该插件的提供的功能将不再可用.&lt;/html&gt;</seg>
+        <seg>&lt;html&gt;您确实想要禁用插件 &lt;b&gt;{0}&lt;/b&gt; 吗?&lt;br/&gt;该插件及依赖该插件的提供的功能将不再可用.&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5433,7 +5433,7 @@ No new or edited TODO items, or items located in changed text fragments were fou
         <seg>&lt;html&gt;No candidates found for method call &lt;b&gt;{0}&lt;/b&gt;.&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>&lt;html&gt;没有找到调用 &lt;b&gt;{0}&lt;/b&gt;的方法候选。&lt;/html&gt;</seg>
+        <seg>&lt;html&gt;没有找到调用 &lt;b&gt;{0}&lt;/b&gt; 的方法候选。&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5561,7 +5561,7 @@ No new or edited TODO items, or items located in changed text fragments were fou
         <seg>&lt;html&gt;Submit report as &lt;a&gt;{0}&lt;/a&gt;&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>&lt;html&gt;以&lt;a&gt;{0}&lt;/a&gt;提交报告&lt;/html&gt;</seg>
+        <seg>&lt;html&gt;以 &lt;a&gt;{0}&lt;/a&gt; 提交报告&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5841,7 +5841,7 @@ No new or edited TODO items, or items located in changed text fragments were fou
         <seg>&lt;s0&gt;&amp;shortcut:CommentByLineComment;&lt;/s0&gt; comments or uncomments the current line or selected block with single line comments (&lt;s1&gt;//...&lt;/s1&gt;).</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>&lt;s0&gt;&amp;shortcut:CommentByLineComment;&lt;/s0&gt; 使用单行注释(&lt;s1&gt;//...&lt;/s1&gt;)来注释或取消注释单前行或选中块。</seg>
+        <seg>&lt;s0&gt;&amp;shortcut:CommentByLineComment;&lt;/s0&gt; 使用单行注释(&lt;s1&gt;//...&lt;/s1&gt;)来注释或取消注释单前行或所选块。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5865,7 +5865,7 @@ No new or edited TODO items, or items located in changed text fragments were fou
         <seg>&lt;s0&gt;&amp;shortcut:EditorJoinLines;&lt;/s0&gt; shortcut joins two lines into one and removes unnecessary space to match your code style.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>&lt;s0&gt;&amp;shortcut:EditorJoinLines;&lt;/s0&gt; 将两行合并为一行，并移除不需要的空格以匹配你的代码风格。</seg>
+        <seg>&lt;s0&gt;&amp;shortcut:EditorJoinLines;&lt;/s0&gt; 将两行合并为一行，并移除不需要的空格以匹配你的代码样式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6129,7 +6129,7 @@ No new or edited TODO items, or items located in changed text fragments were fou
         <seg>A custom dictionary is a mere textual file with a &lt;s0&gt;.dic&lt;/s0&gt; extension, with each word starting on a new line.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>一个自定义词典只是一个带有&lt;s0&gt; .dic &lt;/s0&gt;扩展名的文本文件，每个单词在一行。</seg>
+        <seg>一个自定义词典只是一个带有 &lt;s0&gt;.dic&lt;/s0&gt; 扩展名的文本文件，每个单词在一行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8915,7 +8915,7 @@ will be changed.</seg>
         <seg>All typos are highlighted, which leaves you with the task of choosing the correct word, accepting the current spelling, or disabling inspection.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>所有打字错误都被高亮显示，使您可以选择正确的单词，接受当前的拼写或禁用检查。</seg>
+        <seg>所有错别字都会被高亮显示，使您可以选择正确的单词，接受当前的拼写或禁用检查。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8931,7 +8931,7 @@ will be changed.</seg>
         <seg>All you have to do is to point to the directories where your dictionaries are stored, in the &lt;s0&gt;Spelling&lt;/s0&gt; of the &lt;s1&gt;Settings&lt;/s1&gt; dialog.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>所有你需要做的是在&lt;s1&gt;Settings&lt;/s1&gt; 对话框的&lt;s0&gt;Spelling&lt;/s0&gt; 指向你的字典存储目录。</seg>
+        <seg>你只需要在 &lt;s1&gt;Settings&lt;/s1&gt; 对话框的 &lt;s0&gt;Spelling&lt;/s0&gt; 指向你的字典存储目录即可。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15326,7 +15326,7 @@ Method {0} is not static</seg>
         <seg>Change current code style scheme</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>更改目前的代码风格方案</seg>
+        <seg>更改目前的代码样式方案</seg>
       </tuv>
     </tu>
     <tu>
@@ -15334,7 +15334,7 @@ Method {0} is not static</seg>
         <seg>Change current code style scheme, color\&amp;fonts scheme, keymap or Look\&amp;Feel</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>更改当前的代码风格方案，颜色&amp;字体方案，快捷键或外观&amp;感觉等。</seg>
+        <seg>更改当前的代码样式方案，颜色&amp;字体方案，快捷键或外观&amp;感觉等。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15974,7 +15974,7 @@ Method {0} is not static</seg>
         <seg>Choose &lt;s0&gt;File | Settings&lt;/s0&gt; on the main menu, and then open the page &lt;s1&gt;Terminal&lt;/s1&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>在主菜单选择&lt;s0&gt;File | Settings&lt;/s0&gt; ，然后打开 &lt;s1&gt;Terminal&lt;/s1&gt; 页。</seg>
+        <seg>在主菜单选择 &lt;s0&gt;File | Settings&lt;/s0&gt; ，然后打开 &lt;s1&gt;Terminal&lt;/s1&gt; 页。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16534,7 +16534,7 @@ Method {0} is not static</seg>
         <seg>Choose the desired file and press &lt;s2&gt;Enter&lt;/s2&gt; to open it.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>选择所需的文件，然后按&lt;s2&gt;Enter&lt;/s2&gt;将其打开。</seg>
+        <seg>选择所需的文件，然后按 &lt;s2&gt;Enter&lt;/s2&gt; 将其打开。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18374,7 +18374,7 @@ Method {0} is not static</seg>
         <seg>Code Style Scheme</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>代码风格方案</seg>
+        <seg>代码样式方案</seg>
       </tuv>
     </tu>
     <tu>
@@ -18462,7 +18462,7 @@ Method {0} is not static</seg>
         <seg>Code style issues</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>代码风格问题</seg>
+        <seg>代码样式问题</seg>
       </tuv>
     </tu>
     <tu>
@@ -26112,7 +26112,7 @@ with covariant return type?</seg>
         <seg>Duplicate Code Style Scheme As</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>重复代码风格方案为</seg>
+        <seg>重复代码样式方案为</seg>
       </tuv>
     </tu>
     <tu>
@@ -27922,7 +27922,7 @@ with covariant return type?</seg>
         <seg>Enable this framework in the corresponding page of the &lt;s0&gt;Editor | Emmet&lt;/s0&gt; node (&lt;s1&gt;Settings/Preferences&lt;/s1&gt;):</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>在&lt;s0&gt;Editor | Emmet&lt;/s0&gt; (&lt;s1&gt;Settings/Preferences&lt;/s1&gt;) 节点下相应的页面启用此框加：</seg>
+        <seg>在 &lt;s0&gt;Editor | Emmet&lt;/s0&gt; (&lt;s1&gt;Settings/Preferences&lt;/s1&gt;) 节点下相应的页面启用此框加：</seg>
       </tuv>
     </tu>
     <tu>
@@ -32785,7 +32785,7 @@ Do you want overwrite it or to append?</seg>
         <seg>First, right-click the editor tab, and choose &lt;s0&gt;Close Others&lt;/s0&gt; on the context menu.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>其一，右击选项卡，在上下文菜单中选择&lt;s0&gt;Close Others&lt;/s0&gt;。</seg>
+        <seg>其一，右击选项卡，在上下文菜单中选择 &lt;s0&gt;Close Others&lt;/s0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33209,7 +33209,7 @@ Do you want overwrite it or to append?</seg>
         <seg>For example, go to the &lt;s0&gt;java.util.Collections&lt;/s0&gt; JDK class, place the cursor within the &lt;s1&gt;EMPTY_MAP&lt;/s1&gt; field and press &lt;s2&gt;&amp;shortcut:CopyReference;&lt;/s2&gt;:</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>例如。转到&lt;s0&gt;java.util.Collections&lt;/s0&gt; JDK 类，将光标放到 &lt;s1&gt;EMPTY_MAP&lt;/s1&gt; 字段内，然后按 &lt;s2&gt;&amp;shortcut:CopyReference;&lt;/s2&gt;：</seg>
+        <seg>例如。转到 &lt;s0&gt;java.util.Collections&lt;/s0&gt; JDK 类，将光标放到 &lt;s1&gt;EMPTY_MAP&lt;/s1&gt; 字段内，然后按 &lt;s2&gt;&amp;shortcut:CopyReference;&lt;/s2&gt;：</seg>
       </tuv>
     </tu>
     <tu>
@@ -33249,7 +33249,7 @@ Do you want overwrite it or to append?</seg>
         <seg>For example, start typing a class name and press &lt;s0&gt;&amp;shortcut:CodeCompletion;&lt;/s0&gt; to complete it.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>例如，先输入一个类名，然后按&lt;s0&gt;&amp;shortcut:CodeCompletion;&lt;/s0&gt; 来补全它。</seg>
+        <seg>例如，先输入一个类名，然后按 &lt;s0&gt;&amp;shortcut:CodeCompletion;&lt;/s0&gt; 来补全它。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33657,7 +33657,7 @@ Do you want overwrite it or to append?</seg>
         <seg>From the &lt;s0&gt;Changes&lt;/s0&gt; tool window you can perform all the necessary version control actions: commit changes, manage changelists, put resources under version control, examine differences and more.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>在&lt;s0&gt;Changes&lt;/s0&gt; 工具窗口，您可以执行所有必要的版本控制操作：提交更改，管理更改列表，将资源放在版本控制下，检查差异等。</seg>
+        <seg>在 &lt;s0&gt;Changes&lt;/s0&gt; 工具窗口，您可以执行所有必要的版本控制操作：提交更改，管理更改列表，将资源放在版本控制下，检查差异等。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34339,7 +34339,7 @@ Code Style</seg>
         <seg>Global code style settings can be configured&lt;br&gt;in IDE Settings/Global Code Style&lt;/body&gt;&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>全局代码风格设置可以配置&lt;br&gt;在 IDE 设置/全局代码风格&lt;/body&gt;&lt;/html&gt;</seg>
+        <seg>全局代码样式设置可以配置&lt;br&gt;在 IDE 设置/全局代码样式&lt;/body&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -36283,7 +36283,7 @@ Compilation will proceed without clearing output directories.</seg>
         <seg>If necessary, you can always return the file to its original type using the &lt;s0&gt;Mark as &lt;file type&gt;&lt;/s0&gt; context menu command.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>如果需要，你总是可以在上下文菜单命令中使用&lt;s0&gt;Mark as &lt;file type&gt;&lt;/s0&gt; 返回文件的原始类型。</seg>
+        <seg>如果需要，你总是可以在上下文菜单命令中使用 &lt;s0&gt;Mark as &lt;file type&gt;&lt;/s0&gt; 返回文件的原始类型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36315,7 +36315,7 @@ Compilation will proceed without clearing output directories.</seg>
         <seg>If nothing is selected in the editor, and you press &lt;s0&gt;&amp;shortcut:$Copy;&lt;/s0&gt;, then the whole line at caret is copied to the clipboard.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>如果编辑器中没有选中的话，按&lt;s0&gt;&amp;shortcut:$Copy;&lt;/s0&gt; 会把插入符号处的整行复制到剪贴板中。</seg>
+        <seg>如果编辑器中没有选中的话，按 &lt;s0&gt;&amp;shortcut:$Copy;&lt;/s0&gt; 会把插入符号处的整行复制到剪贴板中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36411,7 +36411,7 @@ Compilation will proceed without clearing output directories.</seg>
         <seg>If you don't want the "lightbulb" icon to appear in the editor to indicate a particular fix, open the list of available actions by pressing &lt;s0&gt;&amp;shortcut:ShowIntentionActions;&lt;/s0&gt; and toggle the lightbulb icon near the text of the action into inactive state by clicking it with the mouse.&lt;br1&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>如果您不希望编辑器中出现 "灯泡" 图标来指示特定修复，请按&lt;s0&gt;&amp;shortcut:ShowIntentionActions;&lt;/s0&gt; 打开可用操作列表，然后通过用鼠标点击操作文本旁边的灯泡按钮来切换为未激活状态。&lt;br1&gt;</seg>
+        <seg>如果您不希望编辑器中出现 "灯泡" 图标来指示特定修复，请按 &lt;s0&gt;&amp;shortcut:ShowIntentionActions;&lt;/s0&gt; 打开可用操作列表，然后通过用鼠标点击操作文本旁边的灯泡按钮来切换为未激活状态。&lt;br1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -37317,7 +37317,7 @@ please fill in your JetBrains Account login and password.</seg>
         <seg>In the &lt;s0&gt;Project&lt;/s0&gt; tool window, select the file you want to ignore, and choose &lt;s1&gt;Mark as plain text&lt;/s1&gt; in its context menu.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>在&lt;s0&gt;Project&lt;/s0&gt; 工具窗口中，选择想要忽略的文件，然后在上下文菜单中选择 &lt;s1&gt;Mark as plain text&lt;/s1&gt; 。</seg>
+        <seg>在 &lt;s0&gt;Project&lt;/s0&gt; 工具窗口中，选择想要忽略的文件，然后在上下文菜单中选择 &lt;s1&gt;Mark as plain text&lt;/s1&gt; 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37757,7 +37757,7 @@ please fill in your JetBrains Account login and password.</seg>
         <seg>Indent current line or selected block according to the code style settings</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>根据代码风格设置缩进当前行或者选中块</seg>
+        <seg>根据代码样式设置缩进当前行或者选中块</seg>
       </tuv>
     </tu>
     <tu>
@@ -40949,7 +40949,7 @@ Cannot generate JavaDoc</seg>
         <seg>Just press &lt;s0&gt;&amp;shortcut:GotoAction;&lt;/s0&gt; (&lt;s1&gt;Help | Find Action&lt;/s1&gt; on the main menu) and start typing the name of the action.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>只需按 &lt;s0&gt;&amp;shortcut:GotoAction;&lt;/s0&gt; (在主菜单的&lt;s1&gt;Help | Find Action&lt;/s1&gt; ) ，然后开始输入操作的名字。</seg>
+        <seg>只需按 &lt;s0&gt;&amp;shortcut:GotoAction;&lt;/s0&gt; (在主菜单的 &lt;s1&gt;Help | Find Action&lt;/s1&gt; ) ，然后开始输入操作的名字。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43109,7 +43109,7 @@ Cannot generate JavaDoc</seg>
         <seg>Make sure to select the check box &lt;s0&gt;Simultaneous &lt;tag&gt;&lt;/tag&gt; editing&lt;/s0&gt; in the Smart keys page of the Editor settings/preferences.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>确保在编辑器设置/偏好中的 Smart keys 页面，选中复选框&lt;s0&gt;Simultaneous &lt;tag&gt;&lt;/tag&gt; editing&lt;/s0&gt; 。</seg>
+        <seg>确保在编辑器设置/偏好中的 Smart keys 页面，选中复选框 &lt;s0&gt;Simultaneous &lt;tag&gt;&lt;/tag&gt; editing&lt;/s0&gt; 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43141,7 +43141,7 @@ Cannot generate JavaDoc</seg>
         <seg>Make the editor tabs and lines in navigation lists stand out using the &lt;s0&gt;File Colors&lt;/s0&gt; page of the project settings.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>使用项目设置的&lt;s0&gt;File Colors&lt;/s0&gt;页面，可使导航列表中的编辑器选项卡和线条突出。</seg>
+        <seg>使用项目设置的 &lt;s0&gt;File Colors&lt;/s0&gt; 页面，可使导航列表中的编辑器选项卡和线条突出。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45193,7 +45193,7 @@ must not contain source root "{1}".</seg>
         <seg>Moreover, it's possible to propagate such a move in a method declaration to the method invocations - just immediately after move press &lt;s0&gt;&amp;shortcut:ShowIntentionActions;&lt;/s0&gt;, and choose &lt;s1&gt;Apply signature change&lt;/s1&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>此外，可以将这种移动从方法申明应用到方法调用，只需在移动后立即按下&lt;s0&gt;&amp;shortcut:ShowIntentionActions;&lt;/s0&gt;并选择 &lt;s1&gt;Apply signature change&lt;/s1&gt;。</seg>
+        <seg>此外，可以将这种移动从方法申明应用到方法调用，只需在移动后立即按下 &lt;s0&gt;&amp;shortcut:ShowIntentionActions;&lt;/s0&gt; 并选择 &lt;s1&gt;Apply signature change&lt;/s1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50961,7 +50961,7 @@ Do you want to create it?</seg>
         <seg>Parameter &lt;code&gt;#ref&lt;/code&gt; is not used  in either this method or any of its derived methods</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>参数&lt;code&gt; #ref &lt;/code&gt; 不用于此方法或其任何衍生方法</seg>
+        <seg>参数 &lt;code&gt; #ref &lt;/code&gt; 不用于此方法或其任何衍生方法</seg>
       </tuv>
     </tu>
     <tu>
@@ -52877,7 +52877,7 @@ be marked as source paths.</seg>
         <seg>Press &lt;s1&gt;&amp;shortcut:ActivateTerminalToolWindow;&lt;/s1&gt;, and see the terminal running.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>按下 &lt;s1&gt;&amp;shortcut:ActivateTerminalToolWindow;&lt;/s1&gt;并查看终端运行。</seg>
+        <seg>按下 &lt;s1&gt;&amp;shortcut:ActivateTerminalToolWindow;&lt;/s1&gt; 并查看终端运行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59805,7 +59805,7 @@ Code Style</seg>
         <seg>Same way, press &lt;s2&gt;&amp;shortcut:FindInPath;&lt;/s2&gt; to hide the &lt;s3&gt;Replace with&lt;/s3&gt; field, and switch to mere search.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>同样的，按&lt;s2&gt;&amp;shortcut:FindInPath;&lt;/s2&gt; 来隐藏&lt;s3&gt;Replace with&lt;/s3&gt; 字段，切换为只搜索。</seg>
+        <seg>同样的，按 &lt;s2&gt;&amp;shortcut:FindInPath;&lt;/s2&gt; 来隐藏 &lt;s3&gt;Replace with&lt;/s3&gt; 字段，切换为只搜索。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60965,7 +60965,7 @@ Code Style</seg>
         <seg>See &lt;s1&gt;File | Settings | Live Templates&lt;/s1&gt; for more details.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>参阅&lt;s1&gt;File | Settings | Live Templates&lt;/s1&gt; 。</seg>
+        <seg>参阅 &lt;s1&gt;File | Settings | Live Templates&lt;/s1&gt; 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61805,7 +61805,7 @@ Code Style</seg>
         <seg>Select such file in the &lt;s0&gt;Local&lt;/s0&gt; tab of the &lt;s1&gt;Changes&lt;/s1&gt; tool window, and on the context menu choose &lt;s2&gt;Move to Another Changelist&lt;/s2&gt;, or &lt;s3&gt;Shelve Changes&lt;/s3&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>在&lt;s1&gt;Changes&lt;/s1&gt; 工具窗口的 &lt;s0&gt;Local&lt;/s0&gt; 选项卡先择这样的文件，然后在上下文菜单中选择 &lt;s2&gt;Move to Another Changelist&lt;/s2&gt; 或者 &lt;s3&gt;Shelve Changes&lt;/s3&gt; 。</seg>
+        <seg>在 &lt;s1&gt;Changes&lt;/s1&gt; 工具窗口的 &lt;s0&gt;Local&lt;/s0&gt; 选项卡选择这样的文件，然后在上下文菜单中选择 &lt;s2&gt;Move to Another Changelist&lt;/s2&gt; 或者 &lt;s3&gt;Shelve Changes&lt;/s3&gt; 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -64869,7 +64869,7 @@ Code Style</seg>
         <seg>So doing, &lt;s0&gt;&amp;productName;&lt;/s0&gt; pinpoints the top five most suitable results and highlights them on the blue background.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>这样做的话， &lt;s0&gt;&amp;productName;&lt;/s0&gt; 会确定前五名最适合的结果，并将它们突出显示在蓝色背景上。</seg>
+        <seg>这样做的话， &lt;s0&gt;&amp;productName;&lt;/s0&gt; 会确定前五个最适合的结果，并将它们突出显示在蓝色背景上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65384,7 +65384,7 @@ cannot be defined in module "{1}" because it belongs to content of nested module
         <seg>Speed up HTML, XML or CSS development with &lt;s0&gt;Emmet&lt;/s0&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>使用&lt;s0&gt;Emmet&lt;/s0&gt;加速 HTML ， XML 或 CSS 的开发。</seg>
+        <seg>使用 &lt;s0&gt;Emmet&lt;/s0&gt; 加速 HTML ， XML 或 CSS 的开发。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65632,7 +65632,7 @@ cannot be defined in module "{1}" because it belongs to content of nested module
         <seg>Start typing a method declaration or a statement, and press &lt;s0&gt;&amp;shortcut:EditorChooseLookupItemCompleteStatement;&lt;/s0&gt; after the opening parenthesis.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>开始输入方法申明或语句，然后在左括号后按&lt;s0&gt;&amp;shortcut:EditorChooseLookupItemCompleteStatement;&lt;/s0&gt; 。</seg>
+        <seg>开始输入方法申明或语句，然后在左括号后按 &lt;s0&gt;&amp;shortcut:EditorChooseLookupItemCompleteStatement;&lt;/s0&gt; 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -66232,7 +66232,7 @@ cannot be defined in module "{1}" because it belongs to content of nested module
         <seg>String s = (&lt;s0&gt;&lt;caret is here&gt;&lt;/s0&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>String s = (&lt;s0&gt;&lt;插入符置于此处&gt;&lt;/s0&gt;</seg>
+        <seg>String s = (&lt;s0&gt;&lt;插入符号放到这里&gt;&lt;/s0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -67024,7 +67024,7 @@ cannot be defined in module "{1}" because it belongs to content of nested module
         <seg>Switch label&lt;code&gt;#ref&lt;/code&gt; #loc is unreachable</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>switch 标签&lt;code&gt;#ref&lt;/code&gt; #loc 不可达</seg>
+        <seg>switch 标签 &lt;code&gt;#ref&lt;/code&gt; #loc 不可达</seg>
       </tuv>
     </tu>
     <tu>
@@ -68328,7 +68328,7 @@ is not an {1} module file (.iml)</seg>
         <seg>The &lt;s0&gt;Version Control&lt;/s0&gt; tool window shows all deleted, modified, and unversioned files in a single view.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>&lt;s0&gt;Version Control&lt;/s0&gt;工具窗口在一个视图中显示所有删除、修改和未加入版本控制的文件。</seg>
+        <seg>&lt;s0&gt;Version Control&lt;/s0&gt; 工具窗口在一个视图中显示所有删除、修改和未加入版本控制的文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -68908,7 +68908,7 @@ Please update modules configuration</seg>
         <seg>The keyboard shortcut &lt;s0&gt;&amp;shortcut:CheckinProject;&lt;/s0&gt; enables you to quickly invoke the &lt;s1&gt;Commit Changes&lt;/s1&gt; dialog.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>快捷键&lt;s0&gt;&amp;shortcut:CheckinProject;&lt;/s0&gt; 使你能够快速调用 &lt;s1&gt;Commit Changes（提交改变）&lt;/s1&gt; 对话框。</seg>
+        <seg>快捷键 &lt;s0&gt;&amp;shortcut:CheckinProject;&lt;/s0&gt; 使你能够快速调用 &lt;s1&gt;Commit Changes（提交改变）&lt;/s1&gt; 对话框。</seg>
       </tuv>
     </tu>
     <tu>
@@ -69348,7 +69348,7 @@ Please update modules configuration</seg>
         <seg>The selected name is automatically entered in the editor followed by the entered character.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>选择的名称将在编辑器中自动输入，并且后面加上所输入的符号。</seg>
+        <seg>选择的名称将在编辑器中自动输入，并在后面加上所输入的符号。</seg>
       </tuv>
     </tu>
     <tu>
@@ -69420,7 +69420,7 @@ Please update modules configuration</seg>
         <seg>The shortcuts such as &lt;s0&gt;&amp;shortcut:QuickJavaDoc;&lt;/s0&gt; (&lt;s1&gt;View | Quick Documentation&lt;/s1&gt;), &lt;s2&gt;&amp;shortcut:ParameterInfo;&lt;/s2&gt; (&lt;s3&gt;View | Parameter Info&lt;/s3&gt;), &lt;s4&gt;&amp;shortcut:GotoDeclaration;&lt;/s4&gt; (&lt;s5&gt;Navigate | Declaration&lt;/s5&gt;) and others can be used not only in the editor but in the code completion popup list as well.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>快捷键如 &lt;s0&gt;&amp;shortcut:QuickJavaDoc;&lt;/s0&gt; (&lt;s1&gt;视图 | 快捷文档&lt;/s1&gt;) ， &lt;s2&gt;&amp;shortcut:ParameterInfo;&lt;/s2&gt; (&lt;s3&gt;视图 | 参数信息&lt;/s3&gt;) ， &lt;s4&gt;&amp;shortcut:GotoDeclaration;&lt;/s4&gt; (&lt;s5&gt;导航 | Declaration&lt;/s5&gt;) 等，即可以用于编辑器，也可以用于弹窗中的代码补全。</seg>
+        <seg>快捷键如 &lt;s0&gt;&amp;shortcut:QuickJavaDoc;&lt;/s0&gt; (&lt;s1&gt;View | Quick Documentation&lt;/s1&gt;) ， &lt;s2&gt;&amp;shortcut:ParameterInfo;&lt;/s2&gt; (&lt;s3&gt;View | Parameter Info&lt;/s3&gt;) ， &lt;s4&gt;&amp;shortcut:GotoDeclaration;&lt;/s4&gt; (&lt;s5&gt;Navigate | Declaration&lt;/s5&gt;) 等，即可以用于编辑器，也可以用于弹窗中的代码补全。</seg>
       </tuv>
     </tu>
     <tu>
@@ -69464,7 +69464,7 @@ Any JAR files created will be named after the name of the main module.</seg>
         <seg>The speed search is available in all the tree views: just start typing and you'll quickly locate the necessary item.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>所有树视图中都提供速度搜索：只需开始输入，您就可以快速找到所需的项目。</seg>
+        <seg>所有树视图中都提供快速搜索：只需开始输入，您就可以快速找到所需的项目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -69594,7 +69594,7 @@ already exists.</seg>
         <seg>Then return to your source code and press &lt;s0&gt;&amp;shortcut:$Paste;&lt;/s0&gt;:</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>然后返回你的源码，按&lt;s0&gt;&amp;shortcut:$Paste;&lt;/s0&gt;：</seg>
+        <seg>然后返回你的源码，按 &lt;s0&gt;&amp;shortcut:$Paste;&lt;/s0&gt;：</seg>
       </tuv>
     </tu>
     <tu>
@@ -69954,7 +69954,7 @@ already exists.</seg>
         <seg>They are visible in the &lt;s0&gt;Favorites&lt;/s0&gt; tool window, which you can dock or float as required:</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>它们将在&lt;s0&gt;Favorites&lt;/s0&gt; 工具窗口可见，您可以根据需要设置停靠或浮动：</seg>
+        <seg>它们将在 &lt;s0&gt;Favorites&lt;/s0&gt; 工具窗口可见，您可以根据需要设置停靠或浮动：</seg>
       </tuv>
     </tu>
     <tu>
@@ -70218,7 +70218,7 @@ already exists.</seg>
         <seg>This will result in the following:</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>这将导致以下内容：</seg>
+        <seg>这将生成以下内容：</seg>
       </tuv>
     </tu>
     <tu>
@@ -70578,7 +70578,7 @@ already exists.</seg>
         <seg>To do that, place the caret at the symbol's name or at its usage in code and press &lt;s0&gt;&amp;shortcut:ShowUsages;&lt;/s0&gt; (&lt;s1&gt;Edit | Find | Show Usages&lt;/s1&gt; in the main menu), scroll the list and click the desired usage.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>要这样做，将插入符号置于符号的名称处或代码中它的使用处，然后按下 &lt;s0&gt;&amp;shortcut:ShowUsages;&lt;/s0&gt; (在主菜单中的&lt;s1&gt;Edit | Find | Show Usages&lt;/s1&gt; )，滚动列表并点击期望的使用。</seg>
+        <seg>要这样做，将插入符号置于符号的名称处或代码中它的使用处，然后按下 &lt;s0&gt;&amp;shortcut:ShowUsages;&lt;/s0&gt; (在主菜单中的 &lt;s1&gt;Edit | Find | Show Usages&lt;/s1&gt; )，滚动列表并点击期望的使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -70618,7 +70618,7 @@ already exists.</seg>
         <seg>To do that, use &lt;s0&gt;&amp;shortcut:MoveElementLeft;&lt;/s0&gt;/&lt;s1&gt;&amp;shortcut:MoveElementRight;&lt;/s1&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>要这样做，可以使用&lt;s0&gt;&amp;shortcut:MoveElementLeft;&lt;/s0&gt;/&lt;s1&gt;&amp;shortcut:MoveElementRight;&lt;/s1&gt;。</seg>
+        <seg>要这样做，可以使用 &lt;s0&gt;&amp;shortcut:MoveElementLeft;&lt;/s0&gt;/&lt;s1&gt;&amp;shortcut:MoveElementRight;&lt;/s1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -70626,7 +70626,7 @@ already exists.</seg>
         <seg>To do that, use the same &lt;s0&gt;&amp;shortcut:RecentFiles;&lt;/s0&gt; shortcut with the &lt;s1&gt;Find&lt;/s1&gt; tool window having the focus, and select the desired find usages result from the &lt;s2&gt;Recent Find Usages&lt;/s2&gt; popup.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>要做到这一点，当&lt;s1&gt;Find&lt;/s1&gt; 工具窗口有焦点时，使用相同的 &lt;s0&gt;&amp;shortcut:RecentFiles;&lt;/s0&gt; ，然后从 &lt;s2&gt;Recent Find Usages&lt;/s2&gt; 弹窗中选择所需的使用查找结果。</seg>
+        <seg>要做到这一点，当 &lt;s1&gt;Find&lt;/s1&gt; 工具窗口有焦点时，使用相同的 &lt;s0&gt;&amp;shortcut:RecentFiles;&lt;/s0&gt; ，然后从 &lt;s2&gt;Recent Find Usages&lt;/s2&gt; 弹窗中选择所需的使用查找结果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -70634,7 +70634,7 @@ already exists.</seg>
         <seg>To easily evaluate the value of any expression while debugging the program, select its text in the editor (you may press a &lt;s0&gt;&amp;shortcut:EditorSelectWord;&lt;/s0&gt; a few times to efficiently perform this operation) and press &lt;s1&gt;&amp;shortcut:EvaluateExpression;&lt;/s1&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>要在调试程序时轻松计算任何表达式的值，请在编辑器中选择其文本(你可能会按 &lt;s0&gt;&amp;shortcut:EditorSelectWord;&lt;/s0&gt; 几次来高效地执行该操作)，然后按&lt;s1&gt;&amp;shortcut:EvaluateExpression;&lt;/s1&gt;。</seg>
+        <seg>要在调试程序时轻松计算任何表达式的值，请在编辑器中选择其文本(你可能会按 &lt;s0&gt;&amp;shortcut:EditorSelectWord;&lt;/s0&gt; 几次来高效地执行该操作)，然后按 &lt;s1&gt;&amp;shortcut:EvaluateExpression;&lt;/s1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -70666,7 +70666,7 @@ already exists.</seg>
         <seg>To help you learn the purpose of each item in the main menu, its short description is shown in the status bar at the bottom of the application frame when you position the mouse pointer over this item.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>为了帮助您了解主菜单中每个项目的目的，当您将鼠标指针放在该项目上时，其简短描述将显示在应用程序框架底部的状态栏中。</seg>
+        <seg>为了帮助您了解主菜单中每个项目的用途，当您将鼠标指针放在该项目上时，它的简短描述将显示在应用程序框架底部的状态栏中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -70682,7 +70682,7 @@ already exists.</seg>
         <seg>To make sure you didn't miss some slash of quotation mark, place the caret somewhere in the expression you want to check, and press &lt;s0&gt;&amp;shortcut:ShowIntentionActions;&lt;/s0&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>为了确保你不会遗漏引号中的斜线，将插入符号放到想检查表达式处，然后按&lt;s0&gt;&amp;shortcut:ShowIntentionActions;&lt;/s0&gt;。</seg>
+        <seg>为了确保你不会遗漏引号中的斜线，将插入符号放到想检查表达式处，然后按 &lt;s0&gt;&amp;shortcut:ShowIntentionActions;&lt;/s0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -70786,7 +70786,7 @@ already exists.</seg>
         <seg>To quickly evaluate the value of any expression while debugging the program, hold Alt and click this expression to see its value and calculate it, call a method, etc.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>要在调试程序时快速计算任何表达式的值，请按住 Alt 键并单击此表达式以查看其值并计算它，调用方法等。</seg>
+        <seg>要在调试程序时快速计算任何表达式的值，请按住 Alt 键并单击此表达式以查看其值，计算表达式，调用方法等。</seg>
       </tuv>
     </tu>
     <tu>
@@ -70834,7 +70834,7 @@ already exists.</seg>
         <seg>To see the inheritance hierarchy for a selected class, press &lt;s0&gt;&amp;shortcut:TypeHierarchy;&lt;/s0&gt; (&lt;s1&gt;Navigate | Type Hierarchy&lt;/s1&gt;).</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>要查看所选类的继承层次，按&lt;s0&gt;&amp;shortcut:TypeHierarchy;&lt;/s0&gt; (&lt;s1&gt;Navigate | Type Hierarchy&lt;/s1&gt;)。</seg>
+        <seg>要查看所选类的继承层次，按 &lt;s0&gt;&amp;shortcut:TypeHierarchy;&lt;/s0&gt; (&lt;s1&gt;Navigate | Type Hierarchy&lt;/s1&gt;)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -70866,7 +70866,7 @@ already exists.</seg>
         <seg>To show separator lines between methods in the editor, open the editor settings and select the &lt;s0&gt;Show method separators&lt;/s0&gt; check box in the &lt;s1&gt;Appearance&lt;/s1&gt; page.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>要在编辑器中的方法之前显示分隔线，打开编辑器设置在&lt;s1&gt;Appearance&lt;/s1&gt; 页选择 &lt;s0&gt;Show method separators&lt;/s0&gt; 复选框。</seg>
+        <seg>要在编辑器中的方法之前显示分隔线，打开编辑器设置在 &lt;s1&gt;Appearance&lt;/s1&gt; 页选择 &lt;s0&gt;Show method separators&lt;/s0&gt; 复选框。</seg>
       </tuv>
     </tu>
     <tu>
@@ -70898,7 +70898,7 @@ already exists.</seg>
         <seg>To uncomment a commented block press &lt;s0&gt;&amp;shortcut:CommentByBlockComment;&lt;/s0&gt; anywhere inside it.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>要取消块注释，在注释内部按&lt;s0&gt;&amp;shortcut:CommentByBlockComment;&lt;/s0&gt; 。</seg>
+        <seg>要取消块注释，在注释内部按 &lt;s0&gt;&amp;shortcut:CommentByBlockComment;&lt;/s0&gt; 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -70906,7 +70906,7 @@ already exists.</seg>
         <seg>To view all exit points of a method, place the caret at one of them, e.g. the &lt;s0&gt;return&lt;/s0&gt; statement, and press &lt;s1&gt;&amp;shortcut:HighlightUsagesInFile;&lt;/s1&gt;:</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>要查看一个方法的所有退出点，将插入符号放到其中一个退出点上，比如&lt;s0&gt;return&lt;/s0&gt; 语句，然后按 &lt;s1&gt;&amp;shortcut:HighlightUsagesInFile;&lt;/s1&gt;：</seg>
+        <seg>要查看一个方法的所有退出点，将插入符号放到其中一个退出点上，比如 &lt;s0&gt;return&lt;/s0&gt; 语句，然后按 &lt;s1&gt;&amp;shortcut:HighlightUsagesInFile;&lt;/s1&gt;：</seg>
       </tuv>
     </tu>
     <tu>
@@ -73868,7 +73868,7 @@ Error message: {1}</seg>
         <seg>Use &lt;s0&gt;&amp;shortcut:EditorCompleteStatement;&lt;/s0&gt; to complete a current statement such as &lt;s1&gt;if&lt;/s1&gt;, &lt;s2&gt;do-while&lt;/s2&gt;, &lt;s3&gt;try-catch&lt;/s3&gt;, &lt;s4&gt;return&lt;/s4&gt; (or a method call) into a syntactically correct construct (e.g. add curly braces).</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>使用&lt;s0&gt;&amp;shortcut:EditorCompleteStatement;&lt;/s0&gt; 来把当前语句(如 &lt;s1&gt;if&lt;/s1&gt;, &lt;s2&gt;do-while&lt;/s2&gt;, &lt;s3&gt;try-catch&lt;/s3&gt;, &lt;s4&gt;return&lt;/s4&gt; (或方法调用))补全为语法正确的结构(比如加上大括号)。 。</seg>
+        <seg>使用 &lt;s0&gt;&amp;shortcut:EditorCompleteStatement;&lt;/s0&gt; 来把当前语句(如 &lt;s1&gt;if&lt;/s1&gt;, &lt;s2&gt;do-while&lt;/s2&gt;, &lt;s3&gt;try-catch&lt;/s3&gt;, &lt;s4&gt;return&lt;/s4&gt; (或方法调用))补全为语法正确的结构(比如加上大括号)。 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -73980,7 +73980,7 @@ Error message: {1}</seg>
         <seg>Use &lt;s0&gt;Code | Reformat Code&lt;/s0&gt; to reformat code according to your code style preferences (&lt;s1&gt;File | Settings | Code Style&lt;/s1&gt;).</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>使用 &lt;s0&gt;Code | Reformat Code&lt;/s0&gt; 来根据你的代码风格(&lt;s1&gt;File | Settings | Code Style&lt;/s1&gt;) 格式化代码。</seg>
+        <seg>使用 &lt;s0&gt;Code | Reformat Code&lt;/s0&gt; 来根据你的代码样式(&lt;s1&gt;File | Settings | Code Style&lt;/s1&gt;) 格式化代码。</seg>
       </tuv>
     </tu>
     <tu>
@@ -73988,7 +73988,7 @@ Error message: {1}</seg>
         <seg>Use &lt;s0&gt;Refactor | Copy&lt;/s0&gt; to create a class which is a copy of the selected class.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>使用&lt;s0&gt;Refactor | Copy&lt;/s0&gt; 来创建所选类的副本。</seg>
+        <seg>使用 &lt;s0&gt;Refactor | Copy&lt;/s0&gt; 来创建所选类的副本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -73996,7 +73996,7 @@ Error message: {1}</seg>
         <seg>Use &lt;s1&gt;&amp;shortcut:ActivateChangesToolWindow;&lt;/s1&gt; keyboard shortcut to show or hide this tool window.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>使用 &lt;s1&gt;&amp;shortcut:ActivateChangesToolWindow;&lt;/s1&gt; 来显示或隐藏该工具窗口。</seg>
+        <seg>使用  &lt;s1&gt;&amp;shortcut:ActivateChangesToolWindow;&lt;/s1&gt; 来显示或隐藏该工具窗口。</seg>
       </tuv>
     </tu>
     <tu>
@@ -74356,7 +74356,7 @@ Error message: {1}</seg>
         <seg>Use per-project code style scheme</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>使用每个项目的代码风格方案</seg>
+        <seg>使用每个项目的代码样式方案</seg>
       </tuv>
     </tu>
     <tu>
@@ -74428,7 +74428,7 @@ Error message: {1}</seg>
         <seg>Use the &lt;s0&gt;&amp;shortcut:PasteMultiple;&lt;/s0&gt; shortcut to choose and insert recent clipboard contents into the text.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>使用&lt;s0&gt;&amp;shortcut:PasteMultiple;&lt;/s0&gt; 来选择和插入最近的剪贴板内容到文本中。</seg>
+        <seg>使用 &lt;s0&gt;&amp;shortcut:PasteMultiple;&lt;/s0&gt; 可以从最近的剪贴板内容中选择并插入到文本中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -75348,7 +75348,7 @@ Error message: {1}</seg>
         <seg>Vice versa, if a non-ASCII character is entered in the resource bundle editor, it is reflected in the underlying &lt;s0&gt;*.properties&lt;/s0&gt; file as a corresponding escaped character in the format &lt;s1&gt;\uXXXX&lt;/s1&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>反之，如果在资源束编辑器中输入了非 ASCII 字符，则它在原本的&lt;s0&gt;*.properties&lt;/s0&gt; 文件中将显示为&lt;s1&gt;\uXXXX&lt;/s1&gt;格式的转义字符。</seg>
+        <seg>反之，如果在资源束编辑器中输入了非 ASCII 字符，则它在原本的 &lt;s0&gt;*.properties&lt;/s0&gt; 文件中将显示为 &lt;s1&gt;\uXXXX&lt;/s1&gt; 格式的转义字符。</seg>
       </tuv>
     </tu>
     <tu>
@@ -75860,7 +75860,7 @@ Error message: {1}</seg>
         <seg>When in the &lt;s0&gt;Go to Class&lt;/s0&gt;, &lt;s1&gt;Go to Symbol&lt;/s1&gt;, or &lt;s2&gt;Go to File&lt;/s2&gt; popup, you can ease the search by filtering the lookup list with the help of the "camel words" prefixes.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>当在&lt;s0&gt;转到类&lt;/s0&gt;， &lt;s1&gt;转到符号&lt;/s1&gt;或者 &lt;s2&gt;转到文件&lt;/s2&gt; 弹窗时，您可以借助 "驼峰词" 前缀过滤查找列表，来轻松完成搜索。</seg>
+        <seg>当在 &lt;s0&gt;转到类&lt;/s0&gt;， &lt;s1&gt;转到符号&lt;/s1&gt; 或者 &lt;s2&gt;转到文件&lt;/s2&gt; 弹窗时，您可以借助 "驼峰词" 前缀过滤查找列表，来轻松完成搜索。</seg>
       </tuv>
     </tu>
     <tu>
@@ -75900,7 +75900,7 @@ Error message: {1}</seg>
         <seg>When nothing is selected in the editor, the line at the cursor will be moved.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>当编辑器中没有选择任何内容时，光标上处行将被移动。</seg>
+        <seg>当编辑器中没有选择任何内容时，光标所在的行将被移动。</seg>
       </tuv>
     </tu>
     <tu>
@@ -75956,7 +75956,7 @@ Error message: {1}</seg>
         <seg>When using Code Completion, you can accept the currently highlighted selection in the popup list with the period character (&lt;s0&gt;.&lt;/s0&gt;), comma (&lt;s1&gt;,&lt;/s1&gt;), semicolon (&lt;s2&gt;;&lt;/s2&gt;), space and other characters.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>当使用代码补全时，你可以使用句号(&lt;s0&gt;.&lt;/s0&gt;)，逗号 (&lt;s1&gt;,&lt;/s1&gt;)，分号(&lt;s2&gt;;&lt;/s2&gt;)，空格及其他字符来接受弹出列表中当前高亮的选中。</seg>
+        <seg>当使用代码补全时，你可以使用句号(&lt;s0&gt;.&lt;/s0&gt;)，逗号 (&lt;s1&gt;,&lt;/s1&gt;)，分号(&lt;s2&gt;;&lt;/s2&gt;)，空格及其他字符来接受弹出列表中当前高亮的选中项。</seg>
       </tuv>
     </tu>
     <tu>
@@ -76020,7 +76020,7 @@ Error message: {1}</seg>
         <seg>When you invoke the &lt;s0&gt;Move&lt;/s0&gt; refactoring (&lt;s1&gt;&amp;shortcut:Move;&lt;/s1&gt;) on an inner class that is declared &lt;s2&gt;static&lt;/s2&gt;, you are provided with an option to either make it a top-level class, or move it to another class.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>当你在一个申明为&lt;s2&gt;static&lt;/s2&gt;的内部类上执行 &lt;s0&gt;Move&lt;/s0&gt; 重构时 (&lt;s1&gt;&amp;shortcut:Move;&lt;/s1&gt;) ，你可以选择一个选项，使其成为项级类，或者将其移到另一个类。</seg>
+        <seg>当你在一个申明为 &lt;s2&gt;static&lt;/s2&gt; 的内部类上执行 &lt;s0&gt;Move&lt;/s0&gt; 重构时 (&lt;s1&gt;&amp;shortcut:Move;&lt;/s1&gt;) ，你可以选择一个选项，使其成为项级类，或者将其移到另一个类。</seg>
       </tuv>
     </tu>
     <tu>
@@ -76100,7 +76100,7 @@ Error message: {1}</seg>
         <seg>While in the &lt;s0&gt;Find in Path&lt;/s0&gt; dialog, you can switch to replace by pressing &lt;s1&gt;&amp;shortcut:ReplaceInPath;&lt;/s1&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>在&lt;s0&gt;Find in Path&lt;/s0&gt; 对话框中，你可以按 &lt;s1&gt;&amp;shortcut:ReplaceInPath;&lt;/s1&gt;切换为替换。</seg>
+        <seg>在 &lt;s0&gt;Find in Path&lt;/s0&gt; 对话框中，你可以按 &lt;s1&gt;&amp;shortcut:ReplaceInPath;&lt;/s1&gt; 切换为替换。</seg>
       </tuv>
     </tu>
     <tu>
@@ -77288,7 +77288,7 @@ as a source directory?</seg>
         <seg>You can drag an external file from the Explorer or Finder, and drop it onto the &lt;s0&gt;Favorites&lt;/s0&gt; tool window.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>您可以从 Explorer 或 Finder 拖动外部文件，并将其放在&lt;s0&gt; Favorites &lt;/s0&gt;工具窗口中。</seg>
+        <seg>您可以从 Explorer 或 Finder 拖动外部文件，并将其放在 &lt;s0&gt; Favorites &lt;/s0&gt; 工具窗口中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -77304,7 +77304,7 @@ as a source directory?</seg>
         <seg>You can easily make column selection by dragging your mouse pointer while keeping the &lt;s0&gt;Alt&lt;/s0&gt; key pressed.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>按住&lt;s0&gt;Alt&lt;/s0&gt; 键的同时拖动鼠标指针，你可以轻松地进行列选择。</seg>
+        <seg>按住 &lt;s0&gt;Alt&lt;/s0&gt; 键的同时拖动鼠标指针，你可以轻松地进行列选择。</seg>
       </tuv>
     </tu>
     <tu>
@@ -77464,7 +77464,7 @@ as a source directory?</seg>
         <seg>You can quickly open a Maven project by selecting a &lt;s0&gt;pom.xml&lt;/s0&gt; file in the &lt;s1&gt;File | Open&lt;/s1&gt; dialog.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>在&lt;s1&gt;File | Open&lt;/s1&gt;对话框中选择一个 &lt;s0&gt;pom.xml&lt;/s0&gt; 文件来快速打开 Maven 项目。</seg>
+        <seg>在 &lt;s1&gt;File | Open&lt;/s1&gt; 对话框中选择一个 &lt;s0&gt;pom.xml&lt;/s0&gt; 文件来快速打开 Maven 项目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -77472,7 +77472,7 @@ as a source directory?</seg>
         <seg>You can quickly open an Eclipse project by selecting a &lt;s0&gt;.classpath&lt;/s0&gt; or &lt;s1&gt;.project&lt;/s1&gt; file in the &lt;s2&gt;File | Open&lt;/s2&gt; dialog.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>你可以在 &lt;s2&gt;File | Open&lt;/s2&gt;对话框中选择一个&lt;s0&gt;.classpath&lt;/s0&gt; 或 &lt;s1&gt;.project&lt;/s1&gt; 文件，来快速打开一个 Eclipse 项目。</seg>
+        <seg>你可以在 &lt;s2&gt;File | Open&lt;/s2&gt; 对话框中选择一个 &lt;s0&gt;.classpath&lt;/s0&gt; 或 &lt;s1&gt;.project&lt;/s1&gt; 文件，来快速打开一个 Eclipse 项目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -77520,7 +77520,7 @@ as a source directory?</seg>
         <seg>You can simply apply differences between panes, by clicking one of these &lt;i0&gt;chevron&lt;/i0&gt; buttons.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>你可以通过点击&lt;i0&gt;chevron&lt;/i0&gt; 按钮之一来简单地应用窗格中的差异。</seg>
+        <seg>你可以通过点击 &lt;i0&gt;chevron&lt;/i0&gt; 按钮之一来简单地应用窗格中的差异。</seg>
       </tuv>
     </tu>
     <tu>
@@ -77608,7 +77608,7 @@ as a source directory?</seg>
         <seg>You don't need to guess which &lt;s0&gt;index.html&lt;/s0&gt; file you are looking at...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>你不需要猜测你在看哪一个&lt;s0&gt;index.html&lt;/s0&gt; ...</seg>
+        <seg>你不需要猜测你在看哪一个 &lt;s0&gt;index.html&lt;/s0&gt; ...</seg>
       </tuv>
     </tu>
     <tu>
@@ -79896,7 +79896,7 @@ Would you like to open it?</seg>
         <seg>complete statement</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>补全代码</seg>
+        <seg>补全语句</seg>
       </tuv>
     </tu>
     <tu>
@@ -84448,7 +84448,7 @@ Would you like to open it?</seg>
         <seg>tab in lookups</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>查找中的选项卡</seg>
+        <seg>查找结果中使用 tab</seg>
       </tuv>
     </tu>
     <tu>
