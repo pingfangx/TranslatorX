@@ -22660,7 +22660,7 @@ is located below existing content root "{1}".</seg>
         <seg>Current version:</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>当前版本:</seg>
+        <seg>★★汉化提示：请先将汉化还原后再更新★★ 当前版本:</seg>
       </tuv>
     </tu>
     <tu>
@@ -36291,7 +36291,7 @@ Compilation will proceed without clearing output directories.</seg>
         <seg>If necessary, you can show the tool window buttons just for a moment.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>如有必要，您可以稍等一下显示工具窗口按钮。</seg>
+        <seg>如有必要，您可以临时显示工具窗口按钮。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36443,7 +36443,7 @@ Compilation will proceed without clearing output directories.</seg>
         <seg>If you need more workspace, you can hide the tool windows bars: click &lt;i0&gt; in the lower left corner.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>如果您需要更多的工作区，您可以隐藏工具窗口栏：点击左下角的&lt;i0&gt;。</seg>
+        <seg>如果您需要更多的工作区，您可以通过点击左下角的 &lt;i0&gt; 来隐藏工具窗口栏。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40275,7 +40275,7 @@ in class ''{1}''</seg>
         <seg>Iteration can be replaced with bulk ''{0}'' call</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>迭代可以用 bulk ''{0}'' 调用替换</seg>
+        <seg>迭代可以用 bulk(批量) ''{0}'' 调用替换</seg>
       </tuv>
     </tu>
     <tu>
@@ -40981,7 +40981,7 @@ Cannot generate JavaDoc</seg>
         <seg>Just right-click an annotation and use the &lt;s0&gt;Show Diff&lt;/s0&gt; command in the context menu.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>只需右键单击注解并在上下文菜单中使用 &lt;s0&gt;Show Diff&lt;/s0&gt; 命令。</seg>
+        <seg>只需右键单击注释并在上下文菜单中使用 &lt;s0&gt;Show Diff&lt;/s0&gt; 命令。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47305,7 +47305,7 @@ must not contain source root "{1}".</seg>
         <seg>New version:</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>新版本:</seg>
+        <seg>★★汉化提示：请先将汉化还原后再更新★★ 新版本:</seg>
       </tuv>
     </tu>
     <tu>
@@ -51353,7 +51353,7 @@ Do you want to create it?</seg>
         <seg>Patch size:</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>补丁大小:</seg>
+        <seg>★★汉化提示：请先将汉化还原后再更新★★ 补丁大小:</seg>
       </tuv>
     </tu>
     <tu>
@@ -57837,7 +57837,7 @@ Code Style</seg>
         <seg>Replace iteration with bulk ''{0}'' call</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>用 bulk ''{0}'' 调用替换迭代</seg>
+        <seg>用 bulk(批量) ''{0}'' 调用替换迭代</seg>
       </tuv>
     </tu>
     <tu>
@@ -57997,7 +57997,7 @@ Code Style</seg>
         <seg>Replace with bulk method call</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>用 bulk 方法调用替换</seg>
+        <seg>用 bulk(批量) 方法调用替换</seg>
       </tuv>
     </tu>
     <tu>
@@ -75324,7 +75324,7 @@ Error message: {1}</seg>
         <seg>Version control annotations show the latest changes of each line in one click.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>版本控制注释在一次点击中显示每一行的最新更改。</seg>
+        <seg>版本控制注释只需一次点击即可显示每一行的最新更改。</seg>
       </tuv>
     </tu>
     <tu>
@@ -79288,7 +79288,7 @@ Would you like to open it?</seg>
         <seg>annotations and diffs</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>注解和差异</seg>
+        <seg>注释和差异</seg>
       </tuv>
     </tu>
     <tu>
@@ -86426,7 +86426,7 @@ Do you want to review them?</seg>
         <seg>{0} is ready to &lt;a href="update"&gt;update&lt;/a&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>{0} 已准备好 &lt;a href="update"&gt;更新&lt;/a&gt;。</seg>
+        <seg>{0} 已准备好 &lt;a href="update"&gt;更新&lt;/a&gt;&lt;br/&gt;★★汉化提示：请先将汉化还原后再更新★★&lt;br/&gt;更新后再重新汉化，或到 http://www.pingfangx.com/xx/translation/android_studio 下载最新的汉化包。</seg>
       </tuv>
     </tu>
     <tu>
