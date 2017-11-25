@@ -2,67 +2,32 @@
 平方X原创汉化，转载请注明出处。  
 [http://www.pingfangx.com/xx/translation/android_studio](http://www.pingfangx.com/xx/translation/android_studio)  
 
-![预览图](https://pingfangx.github.io/resource/blogx/2421.1.png)
+!-[预览图](https://pingfangx.github.io/resource/blogx/2421.1.png)
 
 # 0x01 如何下载
-可从以下 2 个地方下载，都包括 4 种方法对应的文件。  
+可从 [github releases](https://github.com/pingfangx/TranslatorX/releases) 或 [csdn 专辑](http://download.csdn.net/album/detail/4157) 下载。  
 其中 csdn 的系统会自己提高下载所需的积分，不是作者设置的。大家可以从 github 免积分下载。
 
-[github 下载](https://github.com/pingfangx/TranslatorX/releases)  
-
-[csdn 下载](http://download.csdn.net/album/detail/4157)
+支持版本  
+* 3.0
+* 3.0.1
 
 # 0x02 如何使用
-有以下 4 种汉化方式：  
-方法一、二比较简单，直接放入 /lib/ 中即可，要还原汉化直接删除即可；  
-方法三直接修改 jar 包，汉化内容更多，注意备份；  
-方法四直接替换原来的 resources_en.jar ，注意备份。
+下载 `resources_cn.jar` 或者 `resources_cn_with_tips.jar` 放到 Android Studio 的安装目录下的 /lib/ 中即可。  
+* resources_cn.jar 文件较小，就 200 多 k ；  
+* resources_cn_with_tips.jar 包含了每日提示的汉化，由于 tips 中包含图片等内容，因此文件较大。  
 
-## 方法一：下载 resources_cn.jar ，放到 Android Studio 的安装目录下的 /lib/ 中即可
-最简单的方法，仅汉化了 messages  
-要还原汉化，将该文件删除即可。
-
-## 方法二：下载 resources_cn_with_tips.jar，放到 Android Studio 的安装目录下的 /lib/ 中
-比一中增加了 tips 的汉化，由于 tips 中包含图片等内容，因此文件较大。  
-要还原汉化，将该文件删除即可。
-
-## 方法三：下载并解压 as-v3.0_r3.zip ，打开 AndroidStudioTranslatorX.jar，点备份后点汉化
-比二中更增加了一些 class 文件的汉化，汉化更多了一点点。  
-是一个 jar 包，需要 java 运行环境，可以使用 AndroidStudioTranslatorX.bat 打开，或
-```
-java -jar AndroidStudioTranslatorX.jar
-```
-汉化之前先备份，要还原汉化，点恢复即可。
-
-## 方法四：下载 resources_en.jar ，放到 Android Studio 的安装目录下的 /lib/ 中替换原文件
-直接替换，用于英文操作系统等，注意备份。
+命名 resources_cn_with_tips-3.0.1_r1.jar ，指 AndroidStudio 3.0.1 汉化包的第 1 个版本，包含 tips。  
+一般 AndroidStudio 小版本更新时，汉化包通用，但更新时会自动删除汉化包，请先备份汉化包或更新后重新下载。
 
 # 0x03 如何反馈
 请提至 [https://github.com/pingfangx/TranslatorX/issues](https://github.com/pingfangx/TranslatorX/issues)
 
 # 0x04 常见问题
-## 4.1 打不开 AndroidStudioTranslatorX.jar
-需要 java 运行环境，你可以到 [oracle](http://www.oracle.com/technetwork/java/javase/downloads/index.html) 下载 jdk 并安装。  
-可以使用 AndroidStudioTranslatorX.bat 打开，或
-```
-java -jar AndroidStudioTranslatorX.jar
-```
-如果打开后闪退，请将错误信息反馈到 [https://github.com/pingfangx/TranslatorX/issues](https://github.com/pingfangx/TranslatorX/issues)
-
-## 4.2 汉化后中文显示为框框
+## 4.1 汉化后中文显示为框框
 当前字体不支持中文显示，请到 File → Settings → Appearance & Behavior → Appearance →  
 勾选 Override default fonts by (not recommended):
 选择 Microsoft YaHei 或者其他显示为框框的中文字体。
-
-## 4.3 汉化后更新 Android Studio 失败，更新后打不开
-请将汉化还原后再更新，更新后再进行汉化  
-一般的小版本，可以使用之前的汉化包汉化，或者重新下载最新的汉化包。  
-汉化修改了相关 jar 包（方法一、二不影响），导致更新时会失败，更新后打不开。  
-如果已经打不开了，请重新下载安装。
-
-## 4.4 英文操作系统汉化无效
-英文操作系统请使用方法三或方法四。  
-因为方法一、二提供的是中文格式的语言包，英文系统默认读的英文语言包。
 
 # 0x05 关于
 汉化是个出力不讨好的活。  

@@ -22660,7 +22660,7 @@ is located below existing content root "{1}".</seg>
         <seg>Current version:</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>★★汉化提示：请先将汉化还原后再更新★★ 当前版本:</seg>
+        <seg>当前版本:</seg>
       </tuv>
     </tu>
     <tu>
@@ -47305,7 +47305,7 @@ must not contain source root "{1}".</seg>
         <seg>New version:</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>★★汉化提示：请先将汉化还原后再更新★★ 新版本:</seg>
+        <seg>新版本:</seg>
       </tuv>
     </tu>
     <tu>
@@ -51353,7 +51353,7 @@ Do you want to create it?</seg>
         <seg>Patch size:</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>★★汉化提示：请先将汉化还原后再更新★★ 补丁大小:</seg>
+        <seg>补丁大小:</seg>
       </tuv>
     </tu>
     <tu>
@@ -86426,7 +86426,7 @@ Do you want to review them?</seg>
         <seg>{0} is ready to &lt;a href="update"&gt;update&lt;/a&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>{0} 已准备好 &lt;a href="update"&gt;更新&lt;/a&gt;&lt;br/&gt;★★汉化提示：请先将汉化还原后再更新★★&lt;br/&gt;更新后再重新汉化，或到 http://www.pingfangx.com/xx/translation/android_studio 下载最新的汉化包。</seg>
+        <seg>{0} 已准备好 &lt;a href="update"&gt;更新&lt;/a&gt;&lt;br/&gt;</seg>
       </tuv>
     </tu>
     <tu>
