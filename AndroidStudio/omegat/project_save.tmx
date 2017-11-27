@@ -4855,7 +4855,7 @@ Use ; (分号) 来分隔资源模式;
         <seg>&lt;html&gt;&lt;body&gt;Configure the project Execution settings, set up Deployment options and customize the Debugger behavior.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>&lt;html&gt;&lt;body&gt;配置项目执行设置，设置部署选项并自定义调试器行为。</seg>
+        <seg>&lt;html&gt;&lt;body&gt;配置项目执行设置，设置部署选项及自定义调试器行为。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35259,7 +35259,7 @@ Code Style</seg>
         <seg>Have you noticed the buttons &lt;i0&gt;&lt;i1&gt; marking differences in the Differences viewer?</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>你有没有注意到按钮 &lt;i0&gt;&lt;i1&gt; 在差异查看器中处理差异？</seg>
+        <seg>你有没有注意到按钮 &lt;i0&gt;&lt;i1&gt; 在差异查看器中处理差异吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -36251,7 +36251,7 @@ Compilation will proceed without clearing output directories.</seg>
         <seg>If a method signature has been changed, &amp;productName; highlights the tags that ran out of sync with the documentation comment and suggests a quick fix:</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>如果方法签名已更改，&amp;productName;高亮与文档注释不同步的标签，并给出快速修复的建议：</seg>
+        <seg>如果方法签名已更改，&amp;productName; 会高亮与文档注释不同步的标签，并给出快速修复的建议：</seg>
       </tuv>
     </tu>
     <tu>
@@ -36283,7 +36283,7 @@ Compilation will proceed without clearing output directories.</seg>
         <seg>If necessary, you can always return the file to its original type using the &lt;s0&gt;Mark as &lt;file type&gt;&lt;/s0&gt; context menu command.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>如果需要，你总是可以在上下文菜单命令中使用 &lt;s0&gt;Mark as &lt;file type&gt;&lt;/s0&gt; 返回文件的原始类型。</seg>
+        <seg>如果需要，你总是可以在上下文菜单命令中使用 &lt;s0&gt;Mark as &lt;file type&gt;&lt;/s0&gt; 恢复文件的原始类型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40019,7 +40019,7 @@ in class ''{1}''</seg>
         <seg>It is enough to type the initial letters of the camel names in lower case, and they will be smartly recognized.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>只需输入骆驼名字的首字母小写就足够了，他们将被智能地识别。</seg>
+        <seg>只需输入驼峰名字的首字母小写就足够了，他们将被智能地识别。</seg>
       </tuv>
     </tu>
     <tu>
@@ -68908,7 +68908,7 @@ Please update modules configuration</seg>
         <seg>The keyboard shortcut &lt;s0&gt;&amp;shortcut:CheckinProject;&lt;/s0&gt; enables you to quickly invoke the &lt;s1&gt;Commit Changes&lt;/s1&gt; dialog.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>快捷键 &lt;s0&gt;&amp;shortcut:CheckinProject;&lt;/s0&gt; 使你能够快速调用 &lt;s1&gt;Commit Changes（提交改变）&lt;/s1&gt; 对话框。</seg>
+        <seg>快捷键 &lt;s0&gt;&amp;shortcut:CheckinProject;&lt;/s0&gt; 使你能够快速调用 &lt;s1&gt;Commit Changes（提交更改）&lt;/s1&gt; 对话框。</seg>
       </tuv>
     </tu>
     <tu>
@@ -74452,7 +74452,7 @@ Error message: {1}</seg>
         <seg>Use the Scope-Based tab in the TODO tool window to show only those items that pertain to the scope of interest.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>使用 TODO 工具窗口中的“基于范围的”选项卡仅显示与感兴趣的范围相关的项目。</seg>
+        <seg>使用 TODO 工具窗口中的 ''Scope Based'' 选项卡仅显示与感兴趣的范围相关的项目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -75948,7 +75948,7 @@ Error message: {1}</seg>
         <seg>When using Code Completion, you can accept the currently highlighted selection in the popup list with the &lt;s0&gt;&amp;shortcut:EditorChooseLookupItemCompleteStatement;&lt;/s0&gt;, &amp;productName; will not just insert the selected string, but also will do its best to turn current code construct into syntactically correct one (balance parentheses, add missing braces and semicolons, etc.)</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>使用代码补全时，你可使用 &lt;s0&gt;&amp;shortcut:EditorChooseLookupItemCompleteStatement;&lt;/s0&gt; 来接受弹出列表中当前高亮的项目， &amp;productName; 不仅会插入所选字符串，还会尽力将当前代码调整为语法正确的结构(平衡括号，添加丢失的大括号、分号等)。</seg>
+        <seg>使用代码补全时，你可使用 &lt;s0&gt;&amp;shortcut:EditorChooseLookupItemCompleteStatement;&lt;/s0&gt; 来接受弹出列表中当前高亮的项目， &amp;productName; 不仅会插入所选字符串，还会尽力将当前代码调整为语法正确的结构(平衡括号，添加缺少的大括号、分号等)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -76060,7 +76060,7 @@ Error message: {1}</seg>
         <seg>When you perform search and replace in a file, pressing &lt;s0&gt;&amp;shortcut:Find;&lt;/s0&gt; shows the search pane.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>当你在一个文件中执行搜索和替换，按 &lt;s0&gt;&amp;shortcut:Find;&lt;/s0&gt; 显示搜索面板。</seg>
+        <seg>当你在一个文件中执行搜索和替换时，按 &lt;s0&gt;&amp;shortcut:Find;&lt;/s0&gt; 显示搜索面板。</seg>
       </tuv>
     </tu>
     <tu>
@@ -83592,7 +83592,7 @@ Would you like to open it?</seg>
         <seg>postfix completion</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>后缀完成</seg>
+        <seg>后缀补全</seg>
       </tuv>
     </tu>
     <tu>
