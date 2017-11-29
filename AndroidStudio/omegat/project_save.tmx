@@ -4871,7 +4871,7 @@ Use ; (分号) 来分隔资源模式;
         <seg>&lt;html&gt;&lt;body&gt;Configure your project integration with different build tools: Maven, Gradle or Gant.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>&lt;html&gt;&lt;body&gt;使用不同的构建工具配置项目集成：Maven, Gradle 或 Gant.&lt;/body&gt;&lt;/html&gt;。</seg>
+        <seg>&lt;html&gt;&lt;body&gt;使用不同的构建工具配置项目集成：Maven, Gradle 或 Gant。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5513,7 +5513,7 @@ No new or edited TODO items, or items located in changed text fragments were fou
         <seg>&lt;html&gt;Show &amp;options before removing&lt;br&gt;from version control&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>&lt;html&gt;从版本控制中删除前&lt;br/&gt;显示选项&lt;/html&gt;(&amp;o)</seg>
+        <seg>&lt;html&gt;从版本控制中删除前&lt;br&gt;显示选项&lt;/html&gt;(&amp;o)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5521,7 +5521,7 @@ No new or edited TODO items, or items located in changed text fragments were fou
         <seg>&lt;html&gt;Show options before adding&lt;br&gt;to version control&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>&lt;html&gt;在添加到版本控制前&lt;br/&gt;显示选项&lt;/html&gt;</seg>
+        <seg>&lt;html&gt;在添加到版本控制前&lt;br&gt;显示选项&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5529,7 +5529,7 @@ No new or edited TODO items, or items located in changed text fragments were fou
         <seg>&lt;html&gt;Simple property accessors&lt;html&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>&lt;html&gt;简单属性访问器&lt;/html&gt;</seg>
+        <seg>&lt;html&gt;简单属性访问器&lt;html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -40725,7 +40725,7 @@ Cannot generate JavaDoc</seg>
         <seg>Java modules are used for developing &lt;b&gt;JVM-based&lt;/b&gt; desktop and web applications, including applications that use &lt;b&gt;Java EE&lt;/b&gt; and other enterprise development frameworks.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>Java 模块用于开发基于 JVM 的桌面和 Web 应用程序，包括使用 &lt;b&gt;Java EE&lt;/b&gt; 和其他企业开发框架的应用程序。</seg>
+        <seg>Java 模块用于开发&lt;b&gt;基于 JVM&lt;/b&gt; 的桌面和 Web 应用程序，包括使用 &lt;b&gt;Java EE&lt;/b&gt; 和其他企业开发框架的应用程序。</seg>
       </tuv>
     </tu>
     <tu>
@@ -86426,7 +86426,7 @@ Do you want to review them?</seg>
         <seg>{0} is ready to &lt;a href="update"&gt;update&lt;/a&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>{0} 已准备好 &lt;a href="update"&gt;更新&lt;/a&gt;&lt;br/&gt;</seg>
+        <seg>{0} 已准备好 &lt;a href="update"&gt;更新&lt;/a&gt;.</seg>
       </tuv>
     </tu>
     <tu>
