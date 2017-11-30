@@ -4343,7 +4343,7 @@ Use ; (分号) 来分隔资源模式;
         <seg>&lt;a href="http://bugs.sun.com/view_bug.do?bug_id=6624717"&gt;More info...&lt;/a&gt;&lt;/body&gt;&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>&lt;a href="http://bugs.sun.com/viewbug.do?bugid=6624717"&gt;更多信息...&lt;/a&gt;&lt;/body&gt;&lt;/html&gt;(_b)</seg>
+        <seg>&lt;a href="http://bugs.sun.com/view_bug.do?bug_id=6624717"&gt;更多信息...&lt;/a&gt;&lt;/body&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -29877,8 +29877,8 @@ Exception message: {1}</seg>
 [&lt;options&gt;]</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>预期参数: &lt;projectfilepath&gt; &lt;inspectionprofile&gt; &lt;outputpath&gt; &lt;inspectionsprofile&gt; -- 在此处用项目或本地或路径中的配置名来赋给检查配置；当使用 -e|-profileName|-profilePath 其中之一时指定（stabbed）
-[&lt;options&gt;](_f)</seg>
+        <seg>预期参数: &lt;project_file_path&gt; &lt;inspection_profile&gt; &lt;output_path&gt; &lt;inspections_profile&gt; -- use here profile name configured in the project or locally or path to the inspection profile; can be stabbed when one of the -e|-profileName|-profilePath is used
+[&lt;options&gt;]</seg>
       </tuv>
     </tu>
     <tu>
@@ -58357,7 +58357,7 @@ Code Style</seg>
         <seg>Required parameters: &lt;old_file&gt; &lt;new_file&gt; [&lt;delta_file_name&gt;]</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>必需的参数: &lt;oldfile&gt; &lt;newfile&gt; [&lt;deltafilename&gt;](_f)</seg>
+        <seg>必须的参数: &lt;old_file&gt; &lt;new_file&gt; [&lt;delta_file_name&gt;]</seg>
       </tuv>
     </tu>
     <tu>
