@@ -46,14 +46,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>"{0}" directory cannot be found</seg>
-      </tuv>
-      <tuv lang="ZH-CN">
-        <seg>"{0}" 目录无法找到</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>"{0}" is not a directory.</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -2909,7 +2901,7 @@ Are you sure you want to stop {2, choice, 1#incompatible running instance|2#{2, 
         <seg>',' on next line</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>',' 在下一行</seg>
+        <seg>',' 另起一行</seg>
       </tuv>
     </tu>
     <tu>
@@ -3069,7 +3061,7 @@ Are you sure you want to stop {2, choice, 1#incompatible running instance|2#{2, 
         <seg>'catch' on new line</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>'catch' 在新行</seg>
+        <seg>'catch' 另起一行</seg>
       </tuv>
     </tu>
     <tu>
@@ -3149,7 +3141,7 @@ Are you sure you want to stop {2, choice, 1#incompatible running instance|2#{2, 
         <seg>'else' on new line</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>'else' 在新行</seg>
+        <seg>'else' 另起一行</seg>
       </tuv>
     </tu>
     <tu>
@@ -3181,7 +3173,7 @@ Are you sure you want to stop {2, choice, 1#incompatible running instance|2#{2, 
         <seg>'finally' on new line</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>'finally' 在新行</seg>
+        <seg>'finally' 另起一行</seg>
       </tuv>
     </tu>
     <tu>
@@ -3381,7 +3373,7 @@ Are you sure you want to stop {2, choice, 1#incompatible running instance|2#{2, 
         <seg>'while' on new line</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>'while' 在新行</seg>
+        <seg>'while' 另起一行</seg>
       </tuv>
     </tu>
     <tu>
@@ -5337,7 +5329,7 @@ No new or edited TODO items, or items located in changed text fragments were fou
         <seg>&lt;html&gt;End of line comments sequence&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>&lt;html&gt;行结束评论序列&lt;/html&gt;</seg>
+        <seg>&lt;html&gt;行结束注释序列&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5401,7 +5393,7 @@ No new or edited TODO items, or items located in changed text fragments were fou
         <seg>&lt;html&gt;Inline parameter names for literal call arguments&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>&lt;html&gt;文字调用参数的内联参数名称&lt;/html&gt;</seg>
+        <seg>&lt;html&gt;文本调用参数的内联参数名称&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5449,7 +5441,7 @@ No new or edited TODO items, or items located in changed text fragments were fou
         <seg>&lt;html&gt;One-line methods&lt;html&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>&lt;html&gt;一行方法&lt;html&gt;</seg>
+        <seg>&lt;html&gt;单行方法&lt;html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7825,7 +7817,7 @@ No new or edited TODO items, or items located in changed text fragments were fou
         <seg>Add parentheses around method arguments</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>添加括号到方法参数</seg>
+        <seg>添加方法参数的括号</seg>
       </tuv>
     </tu>
     <tu>
@@ -8201,7 +8193,7 @@ No new or edited TODO items, or items located in changed text fragments were fou
         <seg>Additional shift:</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>额外的转变:</seg>
+        <seg>额外的偏移:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8305,7 +8297,7 @@ No new or edited TODO items, or items located in changed text fragments were fou
         <seg>After anonymous class header:</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>在匿名类头部后:</seg>
+        <seg>匿名类头部后:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8329,7 +8321,7 @@ No new or edited TODO items, or items located in changed text fragments were fou
         <seg>After class header:</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>在类头部后:</seg>
+        <seg>类头部后:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8361,7 +8353,7 @@ No new or edited TODO items, or items located in changed text fragments were fou
         <seg>After imports:</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>在导入后:</seg>
+        <seg>导入后:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8987,7 +8979,7 @@ will be changed.</seg>
         <seg>Allow placement of caret after end of line</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>允许放置插入符号行结束后</seg>
+        <seg>允许放置插入符号在行尾</seg>
       </tuv>
     </tu>
     <tu>
@@ -8995,7 +8987,7 @@ will be changed.</seg>
         <seg>Allow placement of caret inside tabs</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>允许插入符号放置在标签</seg>
+        <seg>允许插入符号放置在 tab 内</seg>
       </tuv>
     </tu>
     <tu>
@@ -9333,7 +9325,7 @@ as well as for the standard SDK classes resolution.</seg>
         <seg>Analyzing Project</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>正在分析项目</seg>
+        <seg>分析项目</seg>
       </tuv>
     </tu>
     <tu>
@@ -9365,7 +9357,7 @@ as well as for the standard SDK classes resolution.</seg>
         <seg>Analyzing package dependencies</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>分析包依赖关系</seg>
+        <seg>分析包依赖</seg>
       </tuv>
     </tu>
     <tu>
@@ -9374,14 +9366,6 @@ as well as for the standard SDK classes resolution.</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>锚点引用问题</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Android {0} requires at least Java 1.8</seg>
-      </tuv>
-      <tuv lang="ZH-CN">
-        <seg>Android {0} 至少需要 Java 1.8</seg>
       </tuv>
     </tu>
     <tu>
@@ -10295,7 +10279,7 @@ as well as for the standard SDK classes resolution.</seg>
         <seg>Are you sure you want to exit without applying changes?</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>您确定要退出且不应用更改吗?</seg>
+        <seg>您确定不应用更改就退出吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -10639,7 +10623,7 @@ as well as for the standard SDK classes resolution.</seg>
         <seg>Assert statement</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>断言语句</seg>
+        <seg>Assert 语句</seg>
       </tuv>
     </tu>
     <tu>
@@ -11177,7 +11161,7 @@ and replace them with usages of {2} where possible.</seg>
         <seg>Autoreparse delay (ms):</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>自动重分析延时(ms):</seg>
+        <seg>自动重分析延时(毫秒):</seg>
       </tuv>
     </tu>
     <tu>
@@ -11305,7 +11289,7 @@ and replace them with usages of {2} where possible.</seg>
         <seg>Backward Dependencies (Usages)</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>后向的依赖关系(用法)</seg>
+        <seg>反向的依赖关系(用法)</seg>
       </tuv>
     </tu>
     <tu>
@@ -11321,7 +11305,7 @@ and replace them with usages of {2} where possible.</seg>
         <seg>Backward Dependency Analysis</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>分析反向依赖</seg>
+        <seg>反向依赖分析</seg>
       </tuv>
     </tu>
     <tu>
@@ -11587,7 +11571,7 @@ and replace them with usages of {2} where possible.</seg>
         <seg>Before imports:</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>在导入前:</seg>
+        <seg>导入前:</seg>
       </tuv>
     </tu>
     <tu>
@@ -11595,7 +11579,7 @@ and replace them with usages of {2} where possible.</seg>
         <seg>Before method body:</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>在方法主体前:</seg>
+        <seg>方法主体前:</seg>
       </tuv>
     </tu>
     <tu>
@@ -11707,7 +11691,7 @@ and replace them with usages of {2} where possible.</seg>
         <seg>Binary operation</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>二元操作</seg>
+        <seg>二元运算</seg>
       </tuv>
     </tu>
     <tu>
@@ -11923,7 +11907,7 @@ and replace them with usages of {2} where possible.</seg>
         <seg>Bottom</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>底</seg>
+        <seg>Bottom</seg>
       </tuv>
     </tu>
     <tu>
@@ -12619,7 +12603,7 @@ and replace them with usages of {2} where possible.</seg>
         <seg>By default expand with</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>默认展开为</seg>
+        <seg>默认展开通过</seg>
       </tuv>
     </tu>
     <tu>
@@ -12764,14 +12748,6 @@ and replace them with usages of {2} where possible.</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>取消(&amp;n)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Caching resources [{0}]</seg>
-      </tuv>
-      <tuv lang="ZH-CN">
-        <seg>缓存资源 [{0}]</seg>
       </tuv>
     </tu>
     <tu>
@@ -13003,7 +12979,7 @@ and replace them with usages of {2} where possible.</seg>
         <seg>Can''t apply {0, number} {0, choice, 1#hunk|2#hunks}</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>不能应用 {0, number} {0, choice, 1#块|2#块}</seg>
+        <seg>不能应用 {0, number} 块</seg>
       </tuv>
     </tu>
     <tu>
@@ -13522,14 +13498,6 @@ and replace them with usages of {2} where possible.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Cannot compute package for file {0}</seg>
-      </tuv>
-      <tuv lang="ZH-CN">
-        <seg>无法为文件 {0} 计算包</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Cannot connect to remote process, host is unknown</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -13805,14 +13773,6 @@ of the selected files was not stored due to its big size.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Cannot delete file {0}</seg>
-      </tuv>
-      <tuv lang="ZH-CN">
-        <seg>无法删除文件 {0}</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Cannot delete root directory ''{0}''</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -13833,14 +13793,6 @@ of the selected files was not stored due to its big size.</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>无法删除临时文件 {0}。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Cannot delete {0}</seg>
-      </tuv>
-      <tuv lang="ZH-CN">
-        <seg>无法删除 {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -14305,14 +14257,6 @@ All mentioned modules will be treated as Unknown modules.</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>无法移动类至默认包</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Cannot move content from {0} to {1}</seg>
-      </tuv>
-      <tuv lang="ZH-CN">
-        <seg>无法将内容从 {0} 移动到 {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -15854,7 +15798,7 @@ Method {0} is not static</seg>
         <seg>Checking Class Files</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>正在检查类文件</seg>
+        <seg>检查类文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -16174,7 +16118,7 @@ Method {0} is not static</seg>
         <seg>Choose Fields to Initialize by Constructor</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>选择字段以便构造方法初始化</seg>
+        <seg>选择由构造方法初始化的字段</seg>
       </tuv>
     </tu>
     <tu>
@@ -16342,7 +16286,7 @@ Method {0} is not static</seg>
         <seg>Choose Super Class Constructor</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>选择超类构造器</seg>
+        <seg>选择超类构造函数</seg>
       </tuv>
     </tu>
     <tu>
@@ -22980,7 +22924,7 @@ is located below existing content root "{1}".</seg>
         <seg>Data URIs</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>数据 URI</seg>
+        <seg>Data URIs</seg>
       </tuv>
     </tu>
     <tu>
@@ -25120,7 +25064,7 @@ already contains {1} named ''{2}''</seg>
         <seg>Do not Indent Children Of</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>不要缩进...的子代码</seg>
+        <seg>不要缩进...的子元素</seg>
       </tuv>
     </tu>
     <tu>
@@ -25128,7 +25072,7 @@ already contains {1} named ''{2}''</seg>
         <seg>Do not force</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>不要强制</seg>
+        <seg>不强制</seg>
       </tuv>
     </tu>
     <tu>
@@ -25160,7 +25104,7 @@ already contains {1} named ''{2}''</seg>
         <seg>Do not indent children of:</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>不缩进子级:</seg>
+        <seg>不缩进子元素:</seg>
       </tuv>
     </tu>
     <tu>
@@ -25168,7 +25112,7 @@ already contains {1} named ''{2}''</seg>
         <seg>Do not indent top level class members</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>不缩进顶层类成员</seg>
+        <seg>不缩进顶级类成员</seg>
       </tuv>
     </tu>
     <tu>
@@ -25232,7 +25176,7 @@ already contains {1} named ''{2}''</seg>
         <seg>Do not wrap one line comments</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>一行注释不换行</seg>
+        <seg>单行注释不换行</seg>
       </tuv>
     </tu>
     <tu>
@@ -25726,7 +25670,7 @@ with covariant return type?</seg>
         <seg>Dont Wrap If Inline Content Only</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>不要换行(如果是一行内容)</seg>
+        <seg>如果只有内联内容不要换行</seg>
       </tuv>
     </tu>
     <tu>
@@ -27874,7 +27818,7 @@ with covariant return type?</seg>
         <seg>Enable in-place mode</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>启用就地模式</seg>
+        <seg>启用 in-place 模式</seg>
       </tuv>
     </tu>
     <tu>
@@ -28890,7 +28834,7 @@ Plugins were not loaded.</seg>
         <seg>Error stripe mark</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>误差条纹标记</seg>
+        <seg>错误条纹标记</seg>
       </tuv>
     </tu>
     <tu>
@@ -29258,7 +29202,7 @@ Plugins were not loaded.</seg>
         <seg>Example: *.domain.com, 192.168.*</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>便如: *.domain.com, 192.168.*</seg>
+        <seg>例如: *.domain.com, 192.168.*</seg>
       </tuv>
     </tu>
     <tu>
@@ -29585,22 +29529,6 @@ Exception message: {1}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Executing DEX [{0}]</seg>
-      </tuv>
-      <tuv lang="ZH-CN">
-        <seg>执行 DEX [{0}]</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Executing ProGuard [{0}]</seg>
-      </tuv>
-      <tuv lang="ZH-CN">
-        <seg>执行 ProGuard [{0}]</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Executing post-compile tasks...</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -29852,7 +29780,7 @@ Exception message: {1}</seg>
         <seg>Expected</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>预期</seg>
+        <seg>期望</seg>
       </tuv>
     </tu>
     <tu>
@@ -29860,7 +29788,7 @@ Exception message: {1}</seg>
         <seg>Expected :</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>预期:</seg>
+        <seg>期望:</seg>
       </tuv>
     </tu>
     <tu>
@@ -32047,7 +31975,7 @@ a field {1} of the base {2}</seg>
         <seg>File watcher failed to start</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>文件监视器无法启动</seg>
+        <seg>文件观察器无法启动</seg>
       </tuv>
     </tu>
     <tu>
@@ -32055,7 +31983,7 @@ a field {1} of the base {2}</seg>
         <seg>File watcher gave up to operate</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>文件监视器放弃操作</seg>
+        <seg>文件观察器放弃操作</seg>
       </tuv>
     </tu>
     <tu>
@@ -32135,14 +32063,6 @@ Do you want overwrite it or to append?</seg>
     <tu>
       <tuv lang="EN-US">
         <seg>File {0} doesn''t exist</seg>
-      </tuv>
-      <tuv lang="ZH-CN">
-        <seg>文件 {0} 不存在</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>File {0} doesn't exist</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>文件 {0} 不存在</seg>
@@ -33449,7 +33369,7 @@ Do you want overwrite it or to append?</seg>
         <seg>Foreground</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>前台</seg>
+        <seg>前景</seg>
       </tuv>
     </tu>
     <tu>
@@ -34062,14 +33982,6 @@ Do you want overwrite it or to append?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Generating BuildConfig.java files [{0}]</seg>
-      </tuv>
-      <tuv lang="ZH-CN">
-        <seg>生成 BuildConfig.java 文件 [{0}]</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Generating HTML...</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -34082,14 +33994,6 @@ Do you want overwrite it or to append?</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>生成 HTML:{0}</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Generating R.java and Manifest.java files [{0}]</seg>
-      </tuv>
-      <tuv lang="ZH-CN">
-        <seg>生成 R.java 和 Manifest.java 文件 [{0}]</seg>
       </tuv>
     </tu>
     <tu>
@@ -35083,7 +34987,7 @@ Code Style</seg>
         <seg>HTML 'style' attribute</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>HTML 'style' 的属性</seg>
+        <seg>HTML 'style' 属性</seg>
       </tuv>
     </tu>
     <tu>
@@ -35483,7 +35387,7 @@ Code Style</seg>
         <seg>Hide file extension in editor tabs</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>在编辑器选项卡隐藏文件扩展名</seg>
+        <seg>隐藏编辑器选项卡中的文件扩展名</seg>
       </tuv>
     </tu>
     <tu>
@@ -36323,7 +36227,7 @@ Compilation will proceed without clearing output directories.</seg>
         <seg>If primary font fails, IDE tries to use the secondary one</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>如果主字体失败，IDE 将尝试使用次要字体</seg>
+        <seg>如果主字体无效，IDE 将尝试使用次要字体</seg>
       </tuv>
     </tu>
     <tu>
@@ -37005,7 +36909,7 @@ please fill in your JetBrains Account login and password.</seg>
         <seg>Import From</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>导入从</seg>
+        <seg>导入源</seg>
       </tuv>
     </tu>
     <tu>
@@ -37165,7 +37069,7 @@ please fill in your JetBrains Account login and password.</seg>
         <seg>Import {0} settings from:</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>从 {0} 导入设置：</seg>
+        <seg>导入 {0} 设置从：</seg>
       </tuv>
     </tu>
     <tu>
@@ -37269,7 +37173,7 @@ please fill in your JetBrains Account login and password.</seg>
         <seg>In empty tag</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>在空的标签</seg>
+        <seg>在空标签</seg>
       </tuv>
     </tu>
     <tu>
@@ -37509,7 +37413,7 @@ please fill in your JetBrains Account login and password.</seg>
         <seg>Incompatible Configuration{0, choice, 1# Is|2#s Are} Running</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>不兼容的配置{0, choice, 1#在|2#在}运行</seg>
+        <seg>不兼容的配置在运行</seg>
       </tuv>
     </tu>
     <tu>
@@ -37629,7 +37533,7 @@ please fill in your JetBrains Account login and password.</seg>
         <seg>Incorrect function.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>功能不正确。</seg>
+        <seg>不正确的函数。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37709,7 +37613,7 @@ please fill in your JetBrains Account login and password.</seg>
         <seg>Indent 'break' from 'case'</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>从 'case' 缩进 'break'</seg>
+        <seg>缩进 'case' 里的 'break'</seg>
       </tuv>
     </tu>
     <tu>
@@ -38037,7 +37941,7 @@ please fill in your JetBrains Account login and password.</seg>
         <seg>Inline ''{0}'' body into the next ''{1}'' call</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>内联 ''{0}'' 身体进入下一个 ''{1}'' 调用</seg>
+        <seg>内联 ''{0}'' 主体进入下一个 ''{1}'' 调用</seg>
       </tuv>
     </tu>
     <tu>
@@ -38623,7 +38527,7 @@ in class ''{1}''</seg>
         <seg>Insert imports for inner classes</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>插入导入到内部类</seg>
+        <seg>为内部类插入导入</seg>
       </tuv>
     </tu>
     <tu>
@@ -38671,7 +38575,7 @@ in class ''{1}''</seg>
         <seg>Insert pair '}'</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>插入成对的 '}'</seg>
+        <seg>插入成对 '}'</seg>
       </tuv>
     </tu>
     <tu>
@@ -39255,7 +39159,7 @@ in class ''{1}''</seg>
         <seg>Intention List</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>意向清单</seg>
+        <seg>意向列表</seg>
       </tuv>
     </tu>
     <tu>
@@ -39851,7 +39755,7 @@ in class ''{1}''</seg>
         <seg>Invert 'if' condition</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>返转 'if' 条件</seg>
+        <seg>反转 'if' 条件</seg>
       </tuv>
     </tu>
     <tu>
@@ -39915,7 +39819,7 @@ in class ''{1}''</seg>
         <seg>Is Active</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>是活跃的</seg>
+        <seg>是激活的</seg>
       </tuv>
     </tu>
     <tu>
@@ -40658,14 +40562,6 @@ Cannot generate JavaDoc</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Java SDK {0} is not found</seg>
-      </tuv>
-      <tuv lang="ZH-CN">
-        <seg>找不到 Java SDK {0}</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Java Server Page files</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -41005,7 +40901,7 @@ Cannot generate JavaDoc</seg>
         <seg>Keep Maximum Blank Lines</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>保持最大的空白行</seg>
+        <seg>保持最大的空行</seg>
       </tuv>
     </tu>
     <tu>
@@ -41013,7 +40909,7 @@ Cannot generate JavaDoc</seg>
         <seg>Keep Whitespaces Inside</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>保留里面的空格</seg>
+        <seg>保留内部的空格</seg>
       </tuv>
     </tu>
     <tu>
@@ -41117,7 +41013,7 @@ Cannot generate JavaDoc</seg>
         <seg>Keep line breaks in text</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>在文本中保留换行符</seg>
+        <seg>保留文本中的换行符</seg>
       </tuv>
     </tu>
     <tu>
@@ -41157,7 +41053,7 @@ Cannot generate JavaDoc</seg>
         <seg>Keep white spaces</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>保持空隔</seg>
+        <seg>保持空白</seg>
       </tuv>
     </tu>
     <tu>
@@ -41165,7 +41061,7 @@ Cannot generate JavaDoc</seg>
         <seg>Keep white spaces inside:</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>保留里面的空格:</seg>
+        <seg>保留内部的空格:</seg>
       </tuv>
     </tu>
     <tu>
@@ -41389,7 +41285,7 @@ Cannot generate JavaDoc</seg>
         <seg>Lambda Body</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>Lambda 身体</seg>
+        <seg>Lambda 主体</seg>
       </tuv>
     </tu>
     <tu>
@@ -41605,7 +41501,7 @@ Cannot generate JavaDoc</seg>
         <seg>Left</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>左</seg>
+        <seg>Left</seg>
       </tuv>
     </tu>
     <tu>
@@ -42741,7 +42637,7 @@ Cannot generate JavaDoc</seg>
         <seg>Lookup List</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>查找列表</seg>
+        <seg>查阅列表</seg>
       </tuv>
     </tu>
     <tu>
@@ -43917,7 +43813,7 @@ Cannot generate JavaDoc</seg>
         <seg>Method bodies</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>方法体</seg>
+        <seg>方法主体</seg>
       </tuv>
     </tu>
     <tu>
@@ -44543,7 +44439,7 @@ for this anonymous class.</seg>
         <seg>Minimum Blank Lines</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>最小的空白行</seg>
+        <seg>最小的空行</seg>
       </tuv>
     </tu>
     <tu>
@@ -44679,7 +44575,7 @@ for this anonymous class.</seg>
         <seg>Modifier list</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>修改器列表</seg>
+        <seg>修饰符列表</seg>
       </tuv>
     </tu>
     <tu>
@@ -46625,7 +46521,7 @@ must not contain source root "{1}".</seg>
         <seg>Native file watcher executable not found</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>本机文件监视器可执行文件未找到</seg>
+        <seg>本地文件观察器可执行文件未找到</seg>
       </tuv>
     </tu>
     <tu>
@@ -46633,7 +46529,7 @@ must not contain source root "{1}".</seg>
         <seg>Native file watcher is not executable: &lt;a href="{0}"&gt;{0}&lt;/a&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>本地文件监视器不可执行：&lt;a href="{0}"&gt; {0} &lt;/a&gt;</seg>
+        <seg>本地文件观察器不可执行：&lt;a href="{0}"&gt; {0} &lt;/a&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -46641,7 +46537,7 @@ must not contain source root "{1}".</seg>
         <seg>Native file watcher is not supported on this platform</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>本平台不支持本地文件监视器</seg>
+        <seg>本平台不支持本地文件观察器</seg>
       </tuv>
     </tu>
     <tu>
@@ -47233,7 +47129,7 @@ must not contain source root "{1}".</seg>
         <seg>New line after '('</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>在 '(' 后新行</seg>
+        <seg>在 '(' 后换行</seg>
       </tuv>
     </tu>
     <tu>
@@ -47241,7 +47137,7 @@ must not contain source root "{1}".</seg>
         <seg>New line after '['</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>在后 '[' 新行</seg>
+        <seg>'[' 后换行</seg>
       </tuv>
     </tu>
     <tu>
@@ -47249,7 +47145,7 @@ must not contain source root "{1}".</seg>
         <seg>New line after '{'</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>在 '{' 后新行</seg>
+        <seg>'{' 后换行</seg>
       </tuv>
     </tu>
     <tu>
@@ -47465,7 +47361,7 @@ must not contain source root "{1}".</seg>
         <seg>Next line if wrapped</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>下一行如果已换行</seg>
+        <seg>换行的下一行</seg>
       </tuv>
     </tu>
     <tu>
@@ -48381,7 +48277,7 @@ Please use Settings | Paths to configure roots.</seg>
         <seg>No rules are violated</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>没有规则违反</seg>
+        <seg>没有规则被违反</seg>
       </tuv>
     </tu>
     <tu>
@@ -50217,7 +50113,7 @@ Do you want to create it?</seg>
         <seg>Output directory:</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>输出目录：</seg>
+        <seg>输出目录:</seg>
       </tuv>
     </tu>
     <tu>
@@ -50745,7 +50641,7 @@ Do you want to create it?</seg>
         <seg>Package pattern expected</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>包模式预期</seg>
+        <seg>期望包模式</seg>
       </tuv>
     </tu>
     <tu>
@@ -50830,42 +50726,10 @@ Do you want to create it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Packaging Android AAR dependencies [{0}]</seg>
-      </tuv>
-      <tuv lang="ZH-CN">
-        <seg>打包 Android AAR 依赖 [{0}]</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Packaging Android libraries [{0}]</seg>
-      </tuv>
-      <tuv lang="ZH-CN">
-        <seg>打包 Android 库 [{0}]</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Packaging issues</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>打包问题</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Packaging resources [{0}]</seg>
-      </tuv>
-      <tuv lang="ZH-CN">
-        <seg>打包资源 [{0}]</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Packaging {0}</seg>
-      </tuv>
-      <tuv lang="ZH-CN">
-        <seg>打包 {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -51049,7 +50913,7 @@ Do you want to create it?</seg>
         <seg>Parameter descriptions on new line</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>参数描述在新行</seg>
+        <seg>参数描述另起一行</seg>
       </tuv>
     </tu>
     <tu>
@@ -51777,7 +51641,7 @@ Do you want to create it?</seg>
         <seg>Place ')' on new line</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>放置 ')' 在新行</seg>
+        <seg>')' 另起一行</seg>
       </tuv>
     </tu>
     <tu>
@@ -51785,7 +51649,7 @@ Do you want to create it?</seg>
         <seg>Place ']' on new line</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>放置 ']' 在新行上</seg>
+        <seg>']' 另起一行</seg>
       </tuv>
     </tu>
     <tu>
@@ -51793,7 +51657,7 @@ Do you want to create it?</seg>
         <seg>Place '}' on new line</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>放置 '}' 在新行</seg>
+        <seg>'}' 另起一行</seg>
       </tuv>
     </tu>
     <tu>
@@ -51817,7 +51681,7 @@ Do you want to create it?</seg>
         <seg>Placement:</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>放置:</seg>
+        <seg>布局:</seg>
       </tuv>
     </tu>
     <tu>
@@ -52027,7 +51891,7 @@ be marked as source paths.</seg>
         <seg>Please enter your password to create a launcher script in a ''{0}''</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>请输入您的密码创建一个启动脚本在一个 ''{0}''</seg>
+        <seg>请输入您的密码以创建一个启动脚本在一个 ''{0}''</seg>
       </tuv>
     </tu>
     <tu>
@@ -52125,7 +51989,7 @@ be marked as source paths.</seg>
         <seg>Please select previous {0} config folder or installation home</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>请选择之前的 {0} 配置文件夹或安装目录</seg>
+        <seg>请选择以前的 {0} 配置文件夹或安装目录</seg>
       </tuv>
     </tu>
     <tu>
@@ -52725,7 +52589,7 @@ be marked as source paths.</seg>
         <seg>Prefer longer names</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>提升较长的名称</seg>
+        <seg>更喜欢较长的名称</seg>
       </tuv>
     </tu>
     <tu>
@@ -52733,7 +52597,7 @@ be marked as source paths.</seg>
         <seg>Prefer one import statement per page directive</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>每页指令一个 import 语句</seg>
+        <seg>偏好每页指令一个 import 语句</seg>
       </tuv>
     </tu>
     <tu>
@@ -53246,7 +53110,7 @@ to migrate using the migration map "{0}"</seg>
         <seg>Previous version ({0})</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>之前的版本({0})</seg>
+        <seg>以前的版本({0})</seg>
       </tuv>
     </tu>
     <tu>
@@ -53700,22 +53564,6 @@ Would you like to stop at the breakpoint?</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>处理 {0} 注释(_A)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Processing AIDL files</seg>
-      </tuv>
-      <tuv lang="ZH-CN">
-        <seg>处理 AIDL 文件</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Processing RenderScript files</seg>
-      </tuv>
-      <tuv lang="ZH-CN">
-        <seg>处理 RenderScript 文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -54253,7 +54101,7 @@ Code Style</seg>
         <seg>Project files cannot be watched (are they under network mount?)</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>无法监视项目文件(它们在网络挂载下吗？)</seg>
+        <seg>无法观察项目文件(它们在网络挂载下吗？)</seg>
       </tuv>
     </tu>
     <tu>
@@ -55693,7 +55541,7 @@ Code Style</seg>
         <seg>Reformat Block</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>格式化块</seg>
+        <seg>重新格式化块</seg>
       </tuv>
     </tu>
     <tu>
@@ -55741,7 +55589,7 @@ Code Style</seg>
         <seg>Reformat changed text</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>重新格式化更改文本</seg>
+        <seg>重新格式化更改的文本</seg>
       </tuv>
     </tu>
     <tu>
@@ -55781,7 +55629,7 @@ Code Style</seg>
         <seg>Reformatting code...</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>格式化代码...</seg>
+        <seg>重新格式化代码...</seg>
       </tuv>
     </tu>
     <tu>
@@ -55789,7 +55637,7 @@ Code Style</seg>
         <seg>Reformatting {0}</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>格式化中 {0}</seg>
+        <seg>重新格式化 {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -58413,7 +58261,7 @@ Code Style</seg>
         <seg>Rerun Dependency Analysis</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>重新运行依赖项分析</seg>
+        <seg>重新运行依赖分析</seg>
       </tuv>
     </tu>
     <tu>
@@ -59045,7 +58893,7 @@ Code Style</seg>
         <seg>Right</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>右</seg>
+        <seg>Right</seg>
       </tuv>
     </tu>
     <tu>
@@ -60901,7 +60749,7 @@ Code Style</seg>
         <seg>Secondary font:</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>次要字体:</seg>
+        <seg>备用字体:</seg>
       </tuv>
     </tu>
     <tu>
@@ -61309,7 +61157,7 @@ Code Style</seg>
         <seg>Select Methods to Implement</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>选择实现的方法</seg>
+        <seg>选择要实现的方法</seg>
       </tuv>
     </tu>
     <tu>
@@ -62021,7 +61869,7 @@ Code Style</seg>
         <seg>Selected files</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>选定的文件</seg>
+        <seg>选中的文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -62805,7 +62653,7 @@ Code Style</seg>
         <seg>Show "close" button on editor tabs</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>在编辑选项卡显示 "关闭" 按钮</seg>
+        <seg>显示编辑器选项卡中的 "关闭" 按钮</seg>
       </tuv>
     </tu>
     <tu>
@@ -63149,7 +62997,7 @@ Code Style</seg>
         <seg>Show Illegals Only</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>仅显示非法</seg>
+        <seg>只显示非法</seg>
       </tuv>
     </tu>
     <tu>
@@ -63517,7 +63365,7 @@ Code Style</seg>
         <seg>Show breadcrumbs</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>显示面包屑导航(breadcrumbs)</seg>
+        <seg>显示面包屑导航</seg>
       </tuv>
     </tu>
     <tu>
@@ -63989,7 +63837,7 @@ Code Style</seg>
         <seg>Show parameter name hints</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>显示参数名称提示</seg>
+        <seg>显示参数名提示</seg>
       </tuv>
     </tu>
     <tu>
@@ -64157,7 +64005,7 @@ Code Style</seg>
         <seg>Show tabs in single row</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>在单行显示选项卡</seg>
+        <seg>选项卡单行显示</seg>
       </tuv>
     </tu>
     <tu>
@@ -64309,7 +64157,7 @@ Code Style</seg>
         <seg>Show virtual space at file bottom</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>显示虚拟空间在文件底部</seg>
+        <seg>显示文件底部的虚拟空白</seg>
       </tuv>
     </tu>
     <tu>
@@ -64325,7 +64173,7 @@ Code Style</seg>
         <seg>Show whitespaces</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>显示空格</seg>
+        <seg>显示空白符</seg>
       </tuv>
     </tu>
     <tu>
@@ -64581,7 +64429,7 @@ Code Style</seg>
         <seg>Simple lambdas in one line</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>简单的 lambdas 表达式在同一行</seg>
+        <seg>简单的 lambdas 表达式在一行</seg>
       </tuv>
     </tu>
     <tu>
@@ -64717,7 +64565,7 @@ Code Style</seg>
         <seg>Skip if defined</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>跳过如果定义</seg>
+        <seg>如果已定义则跳过</seg>
       </tuv>
     </tu>
     <tu>
@@ -64757,7 +64605,7 @@ Code Style</seg>
         <seg>Slider or Ctrl+Wheel change font size</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>用滑块或 Ctrl 轮更改字体大小</seg>
+        <seg>用滑块或 Ctrl+滚轮 更改字体大小</seg>
       </tuv>
     </tu>
     <tu>
@@ -64813,7 +64661,7 @@ Code Style</seg>
         <seg>Smart tabs</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>智能制表符</seg>
+        <seg>智能 tab</seg>
       </tuv>
     </tu>
     <tu>
@@ -65248,7 +65096,7 @@ cannot be defined in module "{1}" because it belongs to content of nested module
         <seg>Special 'else if' treatment</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>特殊的 'else if' 对待</seg>
+        <seg>特殊的 'else if' 处理</seg>
       </tuv>
     </tu>
     <tu>
@@ -66784,7 +66632,7 @@ cannot be defined in module "{1}" because it belongs to content of nested module
         <seg>Surround with ()</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>用() 包围</seg>
+        <seg>用 () 包围</seg>
       </tuv>
     </tu>
     <tu>
@@ -67328,7 +67176,7 @@ cannot be defined in module "{1}" because it belongs to content of nested module
         <seg>Tab size:</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>制表符大小：</seg>
+        <seg>tab 大小：</seg>
       </tuv>
     </tu>
     <tu>
@@ -67352,7 +67200,7 @@ cannot be defined in module "{1}" because it belongs to content of nested module
         <seg>Tabs and Indents</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>制表符和缩进</seg>
+        <seg>tab 和缩进</seg>
       </tuv>
     </tu>
     <tu>
@@ -68868,7 +68716,7 @@ Please update modules configuration</seg>
         <seg>The following rule{0, choice, 1# is|2#s are} violated: {1}</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>以下规则{0, choice, 1#被|2#被}违反: {1}</seg>
+        <seg>以下规则被违反: {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -71474,7 +71322,7 @@ already exists.</seg>
         <seg>Top</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>顶</seg>
+        <seg>Top</seg>
       </tuv>
     </tu>
     <tu>
@@ -72596,7 +72444,7 @@ Error message: {1}</seg>
         <seg>Unfortunately, xdg-utils seem to be unavailable on your system.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>不幸的是，xdg-utils 似乎在您的系统上不可用。</seg>
+        <seg>抱歉，xdg-utils 似乎在您的系统上不可用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -72684,7 +72532,7 @@ Error message: {1}</seg>
         <seg>Unix and OS X (\n)</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>Unix and OS X (\n)</seg>
+        <seg>Unix 和 OS X (\n)</seg>
       </tuv>
     </tu>
     <tu>
@@ -73612,7 +73460,7 @@ Error message: {1}</seg>
         <seg>Usage Example</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>使用例子</seg>
+        <seg>使用示例</seg>
       </tuv>
     </tu>
     <tu>
@@ -73788,7 +73636,7 @@ Error message: {1}</seg>
         <seg>Usages of package ''{0}'' in package ''{1}''</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>在包 ''{1}'' 里,包 ''{0}'' 的使用</seg>
+        <seg>在包 ''{1}'' 中,包 ''{0}'' 的使用</seg>
       </tuv>
     </tu>
     <tu>
@@ -74164,7 +74012,7 @@ Error message: {1}</seg>
         <seg>Use default indent options (General)</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>使用默认缩进选项(通常)</seg>
+        <seg>使用默认缩进选项(常规)</seg>
       </tuv>
     </tu>
     <tu>
@@ -74276,7 +74124,7 @@ Error message: {1}</seg>
         <seg>Use indents relative to expression start</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>使用相对于表达式开始的缩进</seg>
+        <seg>相对于表达式的开始使用缩进</seg>
       </tuv>
     </tu>
     <tu>
@@ -74356,7 +74204,7 @@ Error message: {1}</seg>
         <seg>Use per-project code style scheme</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>使用每个项目的代码样式方案</seg>
+        <seg>使用单个项目的代码样式方案</seg>
       </tuv>
     </tu>
     <tu>
@@ -75532,7 +75380,7 @@ Error message: {1}</seg>
         <seg>Virtual Space</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>虚拟空间</seg>
+        <seg>虚拟空白</seg>
       </tuv>
     </tu>
     <tu>
@@ -75804,7 +75652,7 @@ Error message: {1}</seg>
         <seg>When closing active editor:</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>当关闭活动编辑器时:</seg>
+        <seg>关闭活动编辑器时:</seg>
       </tuv>
     </tu>
     <tu>
@@ -76664,7 +76512,7 @@ as a source directory?</seg>
         <seg>Wrap text</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>文字换行</seg>
+        <seg>文本换行</seg>
       </tuv>
     </tu>
     <tu>
@@ -76984,7 +76832,7 @@ as a source directory?</seg>
         <seg>XML entities</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>XML 实体</seg>
+        <seg>XML entities</seg>
       </tuv>
     </tu>
     <tu>
@@ -78017,86 +77865,6 @@ Would you like to open it?</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>[未命名组]</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>[{0}] Android SDK is invalid or not specified</seg>
-      </tuv>
-      <tuv lang="ZH-CN">
-        <seg>[{0}] Android SDK 无效或未指定</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>[{0}] Android SDK is not specified</seg>
-      </tuv>
-      <tuv lang="ZH-CN">
-        <seg>[{0}] Android SDK 未指定或无法解析</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>[{0}] AndroidManifest.xml file not found</seg>
-      </tuv>
-      <tuv lang="ZH-CN">
-        <seg>[{0}] 找不到 AndroidManifest.xml 文件</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>[{0}] Cannot compute output path for APK</seg>
-      </tuv>
-      <tuv lang="ZH-CN">
-        <seg>[{0}] 无法计算 APK 的输出路径</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>[{0}] Cannot find main content root</seg>
-      </tuv>
-      <tuv lang="ZH-CN">
-        <seg>[{0}] 找不到主内容根</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>[{0}] Cannot find proguard config file</seg>
-      </tuv>
-      <tuv lang="ZH-CN">
-        <seg>[{0}] 找不到 proguard 配置文件</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>[{0}] Dex won''t be launched because it doesn''t contain compiled files</seg>
-      </tuv>
-      <tuv lang="ZH-CN">
-        <seg>[{0}] Dex 不会被启动，因为它不包含已编译的文件</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>[{0}] Output directory is not specified</seg>
-      </tuv>
-      <tuv lang="ZH-CN">
-        <seg>[{0}] 输出目录未指定</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>[{0}] Package is not specified in AndroidManifest.xml</seg>
-      </tuv>
-      <tuv lang="ZH-CN">
-        <seg>[{0}] AndroidManifest.xml 中未指定包</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>[{0}] Package name must contain at least 2 segments</seg>
-      </tuv>
-      <tuv lang="ZH-CN">
-        <seg>[{0}] 包名称必须至少包含2段</seg>
       </tuv>
     </tu>
     <tu>
@@ -84096,7 +83864,7 @@ Would you like to open it?</seg>
         <seg>selection</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>选择区域</seg>
+        <seg>选择</seg>
       </tuv>
     </tu>
     <tu>
@@ -85056,7 +84824,7 @@ Would you like to open it?</seg>
         <seg>{0, choice, 0#No matches|1#One match|2#{0} matches}</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>{0, choice, 0#无匹配|1#一个匹配|2#{0} 个匹配}</seg>
+        <seg>{0, choice, 0#无匹配|1#1 个匹配|2#{0} 个匹配}</seg>
       </tuv>
     </tu>
     <tu>
@@ -85120,7 +84888,7 @@ Would you like to open it?</seg>
         <seg>{0, number} {0, choice, 1#hunk is|2#hunks are} already applied</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>{0, number} {0, choice, 1#块|2#块} 已应用</seg>
+        <seg>{0, number} 块已应用</seg>
       </tuv>
     </tu>
     <tu>
@@ -85376,7 +85144,7 @@ Would you like to open it?</seg>
         <seg>{0,choice,0#No|1#{0}} {0,choice,0#occurrences|1#occurrence|2#occurrences} found so far</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>目前找到{0,choice,0#0个|1#{0} 个} {0,choice,0#匹配项|1#匹配项|2#匹配项} </seg>
+        <seg>目前找到{0} 个匹配项</seg>
       </tuv>
     </tu>
     <tu>
@@ -85384,7 +85152,7 @@ Would you like to open it?</seg>
         <seg>{0,choice,0#No|1#{0}} {0,choice,0#occurrences|1#occurrence|2#occurrences} replaced</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>{0,choice,0#0个|1#{0} 个} {0,choice,0#匹配项|1#匹配项|2#匹配项} 已替换</seg>
+        <seg>{0} 个匹配项已替换</seg>
       </tuv>
     </tu>
     <tu>
@@ -85740,7 +85508,7 @@ Would you like to overwrite {1,choice,1#it|2#these files}?</seg>
         <seg>{0} Mb.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>{0} Mb。</seg>
+        <seg>{0} Mb 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -86052,7 +85820,7 @@ Would you like to overwrite {1,choice,1#it|2#these files}?</seg>
         <seg>{0} exit {0, choice, 1#point|2#points} highlighted (press {1} again to remove the highlighting, Escape to remove all highlighting)</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>{0} 退出 {0, choice, 1#点|2#点} 高亮 (再按 {1} 移除高亮，按 Esc 移除所有高亮)</seg>
+        <seg>{0} 个退出点高亮 (再按 {1} 移除高亮，按 Esc 移除所有高亮)</seg>
       </tuv>
     </tu>
     <tu>
@@ -86474,7 +86242,7 @@ Do you want to review them?</seg>
         <seg>{0} kb.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>{0} kb。</seg>
+        <seg>{0} kb 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -86634,7 +86402,7 @@ Do you want to review them?</seg>
         <seg>{0} overridden {0, choice, 1#method|2#methods} found (press {1} again to remove the highlighting, Escape to remove all highlighting)</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>找到 {0} overridden {0, choice, 1#个方法|2#个方法}  (再按 {1} 移除高亮，按 Esc 移除所有高亮)</seg>
+        <seg>找到 {0} 个重写方法 (再按 {1} 移除高亮，按 Esc 移除所有高亮)</seg>
       </tuv>
     </tu>
     <tu>
@@ -87050,7 +86818,7 @@ Do you want to review them?</seg>
         <seg>{0} {0, choice, 1#usage|2#usages} found (press {2} again to remove the highlighting, Escape to remove all highlighting)</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>找到 {0}{0, choice, 1#个使用|2#个使用} (再按 {2} 移除高亮，按 Esc 移除所有高亮)</seg>
+        <seg>找到 {0} 个使用 (再按 {2} 移除高亮，按 Esc 移除所有高亮)</seg>
       </tuv>
     </tu>
     <tu>
@@ -87058,7 +86826,7 @@ Do you want to review them?</seg>
         <seg>{0} {0, choice, 1#usage|2#usages} of {1} found (press {2} again to remove the highlighting, Escape to remove all highlighting)</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>找到 {1} 的 {0} {0, choice, 1#个使用|2#个使用}  (再按 {2} 移除高亮，按 Esc 移除所有高亮)</seg>
+        <seg>找到 {1} 的 {0} 个使用 (再按 {2} 移除高亮，按 Esc 移除所有高亮)</seg>
       </tuv>
     </tu>
     <tu>
