@@ -6110,6 +6110,22 @@ No new or edited TODO items, or items located in changed text fragments were fou
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;IntelliJ IDEA&lt;/s0&gt; enables you to perform the following types of comparison:</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>&lt;s0&gt;&amp;productName;&lt;/s0&gt; 使您可以执行以下类型的比较：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;IntelliJ IDEA&lt;/s0&gt; helps create test cases directly from class declaration.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>&lt;s0&gt;&amp;productName;&lt;/s0&gt; 可以直接从类声明创建测试用例。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;TODO&lt;/s0&gt; tool window lets you preview each of the encountered TODO items - just click the preview button on the toolbar.</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -35148,6 +35164,14 @@ Do you want overwrite it or to append?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>From the &lt;s0&gt;Version Control&lt;/s0&gt; tool window you can perform all the necessary version control actions: commit changes, manage changelists, put resources under version control, examine differences and more.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>在 &lt;s0&gt;Version Control&lt;/s0&gt; 工具窗口，您可以执行所有必要的版本控制操作：提交更改，管理更改列表，将资源放在版本控制下，检查差异等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>From сlipboard</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -37918,6 +37942,14 @@ Compilation will proceed without clearing output directories.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a method signature has been changed, IntelliJ IDEA highlights the tags that ran out of sync with the documentation comment and suggests a quick fix:</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>如果方法签名已更改，&amp;productName; 会高亮与文档注释不同步的标签，并给出快速修复的建议：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If disabled, use "{0}" to show/hide tooltips</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -38119,6 +38151,14 @@ Compilation will proceed without clearing output directories.</seg>
     <tu>
       <tuv lang="EN-US">
         <seg>If you notice that &amp;productName; works slowly, consider the possibility to reduce the number of folders under antivirus protection.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>如果你注意到 &amp;productName; 工作缓慢，考虑一下减少防病毒保护下的文件夹数量的可能性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you notice that IntelliJ IDEA works slowly, consider the possibility to reduce the number of folders under antivirus protection.</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>如果你注意到 &amp;productName; 工作缓慢，考虑一下减少防病毒保护下的文件夹数量的可能性。</seg>
@@ -41098,6 +41138,14 @@ in class ''{1}''</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IntelliJ IDEA has analyzed which of its features you are using and has found some that you have probably missed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>&amp;productName; 分析了你正使用的一些功能，并查找你可能错过的功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Intention List</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -41935,6 +41983,14 @@ in class ''{1}''</seg>
     <tu>
       <tuv lang="EN-US">
         <seg>It is very easy to copy and paste fragments of code between different files with &amp;productName; because it automatically inserts necessary imports to the destination file to make the code compilable.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>使用 &amp;productName; 在不同的文件中复制和粘贴的代码片段很容易，因为它会在目标文件中自动插入必要的导入来使代码可编译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is very easy to copy and paste fragments of code between different files with &lt;f0&gt;IntelliJ&lt;/f0&gt; &lt;f1&gt;IDEA&lt;/f1&gt; because it automatically inserts necessary imports to the destination file to make the code compilable.</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>使用 &amp;productName; 在不同的文件中复制和粘贴的代码片段很容易，因为它会在目标文件中自动插入必要的导入来使代码可编译。</seg>
@@ -58016,6 +58072,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Refer to a non-existing target tag in your Ant build file, and IntelliJ IDEA will suggest you to automatically create the corresponding tag.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>在 Ant 构建文件中引用一个不存在的目标标签， &amp;productName; 将会建议你自动创建相应的标签。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Refer to the Comparison section of online help for details.</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -63048,6 +63112,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Scratch files allow you experiment and prototype right in the editor, without creating any project files.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>临时文件允许您在编辑器右侧进行实验和试样，而无需创建任何项目文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Scratch files allows you experiment and prototype right in the editor, without creating any project files.</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -64620,6 +64692,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>选择模块源的外部注解所在的路径</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select several tasks, using &lt;s0&gt;Shift&lt;/s0&gt; or &lt;s1&gt;Control/Command&lt;/s1&gt; keys, click the right arrow, and then click &lt;s2&gt;Remove&lt;/s2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>使用 &lt;s0&gt;Shift&lt;/s0&gt; 或 &lt;s1&gt;Control/Command&lt;/s1&gt; 键选中多个任务，点击右键头，然后点击 &lt;s2&gt;Remove&lt;/s2&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -67843,6 +67923,14 @@ surrounding ranges were commented.</seg>
     <tu>
       <tuv lang="EN-US">
         <seg>So doing, &lt;s0&gt;&amp;productName;&lt;/s0&gt; pinpoints the top five most suitable results and highlights them on the blue background.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>这样做的话， &lt;s0&gt;&amp;productName;&lt;/s0&gt; 会确定前五个最适合的结果，并将它们突出显示在蓝色背景上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>So doing, &lt;s0&gt;IntelliJ IDEA&lt;/s0&gt; pinpoints the top five most suitable results and highlights them on the blue background.</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>这样做的话， &lt;s0&gt;&amp;productName;&lt;/s0&gt; 会确定前五个最适合的结果，并将它们突出显示在蓝色背景上。</seg>
@@ -77329,6 +77417,14 @@ Error message: {1}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use &lt;s0&gt;Analyze | Inspect Code&lt;/s0&gt; to run code analysis for the whole project or a custom scope and examine the results in a friendly view.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>使用 &lt;s0&gt;Analyze | Inspect Code&lt;/s0&gt; 来运行整个项目或自定义范围内的代码分析，并以友好的视图检查结果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use &lt;s0&gt;Basic Completion&lt;/s0&gt; (&lt;s1&gt;&amp;shortcut:CodeCompletion;&lt;/s1&gt;) for completing words in text and comments in files of many different types.</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -79233,15 +79329,39 @@ Error message: {1}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Welcome to &lt;s0&gt;&amp;productName;&lt;/s0&gt; &lt;s1&gt;&amp;majorVersion;&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>欢迎来到 &lt;s0&gt;&amp;productName;&lt;/s0&gt; &lt;s1&gt;&amp;majorVersion;&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Welcome to &lt;s0&gt;&amp;productName;&lt;/s0&gt; &lt;s1&gt;5.0&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>迎来到 &lt;s0&gt;&amp;productName;&lt;/s0&gt; &lt;s1&gt;5.0&lt;/s1&gt;</seg>
+        <seg>欢迎来到 &lt;s0&gt;&amp;productName;&lt;/s0&gt; &lt;s1&gt;&amp;majorVersion;&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Welcome to &lt;s0&gt;&amp;productName;&lt;/s0&gt; Productivity Guide</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>欢迎来到 &lt;s0&gt;&amp;productName;&lt;/s0&gt; 生产力指南</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Welcome to &lt;s0&gt;IntelliJ IDEA&lt;/s0&gt; &lt;s1&gt;5.0&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>欢迎来到 &lt;s0&gt;IntelliJ IDEA&lt;/s0&gt; &lt;s1&gt;5.0&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Welcome to &lt;s0&gt;IntelliJ IDEA&lt;/s0&gt; Productivity Guide</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>欢迎来到 &lt;s0&gt;&amp;productName;&lt;/s0&gt; 生产力指南</seg>
@@ -79457,6 +79577,14 @@ Error message: {1}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When using Code Completion, you can accept the currently highlighted selection in the popup list with the &lt;s0&gt;&amp;shortcut:EditorChooseLookupItemCompleteStatement;&lt;/s0&gt;, IntelliJ IDEA will not just insert the selected string, but also will do its best to turn current code construct into syntactically correct one (balance parentheses, add missing braces and semicolons, etc.)</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>使用代码补全时，你可使用 &lt;s0&gt;&amp;shortcut:EditorChooseLookupItemCompleteStatement;&lt;/s0&gt; 来接受弹出列表中当前高亮的项目， &amp;productName; 不仅会插入所选字符串，还会尽力将当前代码调整为语法正确的结构(平衡括号，添加缺少的大括号、分号等)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When using Code Completion, you can accept the currently highlighted selection in the popup list with the period character (&lt;s0&gt;.&lt;/s0&gt;), comma (&lt;s1&gt;,&lt;/s1&gt;), semicolon (&lt;s2&gt;;&lt;/s2&gt;), space and other characters.</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -79546,6 +79674,14 @@ Error message: {1}</seg>
     <tu>
       <tuv lang="EN-US">
         <seg>When you paste a text block into your code, &lt;f0&gt;&amp;productName;&lt;/f0&gt; helps you by autoindenting it to fit the new location.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>将文本块粘贴到代码中时，&lt;f0&gt;&amp;productName;&lt;/f0&gt; 帮助您自动缩进来适应新的位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you paste a text block into your code, &lt;f0&gt;IntelliJ IDEA&lt;/f0&gt; helps you by autoindenting it to fit the new location.</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>将文本块粘贴到代码中时，&lt;f0&gt;&amp;productName;&lt;/f0&gt; 帮助您自动缩进来适应新的位置。</seg>
