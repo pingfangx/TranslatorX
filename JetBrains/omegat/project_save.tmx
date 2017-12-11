@@ -4012,6 +4012,110 @@ Use ; (分号) 来分隔资源模式;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>../../../../../Downloads/10.0/images/arrow.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>../../../../../Downloads/10.0/images/arrow.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>../../../../../Downloads/10.0/images/arrowLeftDown.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>../../../../../Downloads/10.0/images/arrowLeftDown.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>../../../../../Downloads/10.0/images/arrowRight.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>../../../../../Downloads/10.0/images/arrowRight.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>../../../../../Downloads/10.0/images/arrowRightDown.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>../../../../../Downloads/10.0/images/arrowRightDown.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>../../../../../Downloads/10.0/images/closing_tags.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>../../../../../Downloads/10.0/images/closing_tags.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>../../../../../Downloads/10.0/images/copy_rich_text.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>../../../../../Downloads/10.0/images/copy_rich_text.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>../../../../../Downloads/10.0/images/lens.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>../../../../../Downloads/10.0/images/lens.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>../../../../../Downloads/10.0/images/lens1.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>../../../../../Downloads/10.0/images/lens1.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>../../../../../Downloads/10.0/images/multiselection2.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>../../../../../Downloads/10.0/images/multiselection2.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>../../../../../Downloads/10.0/images/multiselection_column.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>../../../../../Downloads/10.0/images/multiselection_column.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>../../../../../Downloads/10.0/images/multiselection_words.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>../../../../../Downloads/10.0/images/multiselection_words.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>../../../../../Downloads/10.0/images/remove.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>../../../../../Downloads/10.0/images/remove.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>../../../../../Downloads/10.0/images/scratches_view.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>../../../../../Downloads/10.0/images/scratches_view.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>../../../platform/platform-resources-en/src/tips/css/tips.css</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -6001,7 +6105,7 @@ No new or edited TODO items, or items located in changed text fragments were fou
         <seg>&lt;s0&gt;&amp;productName;&lt;/s0&gt; allows you to search through the classes, files, tool windows, actions, settings, and symbols of your project by double pressing the &lt;s1&gt;Shift&lt;/s1&gt; key.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>&lt;s0&gt;&amp;productName;&lt;/s0&gt; 允许你搜索项目中的类，文件，工具窗口，操作，设置以及符号，只需按双击 &lt;s1&gt;Shift&lt;/s1&gt; 。</seg>
+        <seg>&lt;s0&gt;&amp;productName;&lt;/s0&gt; 允许你搜索项目中的类，文件，工具窗口，操作，设置以及符号，只需双击 &lt;s1&gt;Shift&lt;/s1&gt; 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10173,7 +10277,15 @@ as well as for the standard SDK classes resolution.</seg>
         <seg>Another way to reopen a project is to right-click the PhpStorm icon on the task bar:</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>重新打开一个项目的方式是在任务栏右击 PhpStorm 图标：</seg>
+        <seg>重新打开一个项目的方式是在任务栏右击 &amp;productName; 图标：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Another way to reopen a project is to right-click the WebStorm icon on the task bar:</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>重新打开一个项目的方式是在任务栏右击 &amp;productName; 图标：</seg>
       </tuv>
     </tu>
     <tu>
@@ -29301,6 +29413,22 @@ with covariant return type?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enable this feature in the &lt;s0&gt;Live Edit&lt;/s0&gt; page of the &lt;s1&gt;Settings&lt;/s1&gt; dialog, or check the command &lt;s2&gt;Live Edit&lt;/s2&gt; in the &lt;s3&gt;View&lt;/s3&gt; menu:</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>在 &lt;s1&gt;Settings&lt;/s1&gt; 对话框的 &lt;s0&gt;Live Edit&lt;/s0&gt; 页启用该功能，或者在 &lt;s3&gt;View&lt;/s3&gt; 菜单中选择 &lt;s2&gt;Live Edit&lt;/s2&gt; 命令：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable this framework in the &lt;s0&gt;Emmet(Zen Coding)&lt;/s0&gt; page of the &lt;s1&gt;Settings&lt;/s1&gt; dialog:</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>在 &lt;s1&gt;Settings&lt;/s1&gt; 对话框中的 &lt;s0&gt;Emmet(Zen Coding)&lt;/s0&gt; 页启用此框架：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enable this framework in the CSS or HTML pages under the &lt;s0&gt;Emmet(Zen Coding)&lt;/s0&gt; node of the &lt;s1&gt;Settings/Preferences&lt;/s1&gt; dialog:</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -37158,6 +37286,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Having pressed &lt;s1&gt;Alt+Shift&lt;/s1&gt;, click the left mouse button at the desired position to set additional cursors in the editor.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>按住 &lt;s1&gt;Alt+Shift&lt;/s1&gt; ，在所需位置单击鼠标左键即可在编辑器中设置额外的光标。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Having pressed &lt;s1&gt;Alt&lt;/s1&gt;, click the left mouse button at the desired position to set additional cursors in the editor.</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -38294,6 +38430,14 @@ Compilation will proceed without clearing output directories.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If none of the applicable predefined File Watchers is associated with the current project, WebStorm suggests to add one.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>如果没有适用的预定义文件查看器与当前项目关联，WebStorm 会建议添加一个。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If not already imported</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -38383,6 +38527,14 @@ Compilation will proceed without clearing output directories.</seg>
     <tu>
       <tuv lang="EN-US">
         <seg>If there is an injection of some language in your code, you can edit it in a dedicated editor.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>如果在代码中注入某种语言，则可以在专用编辑器中进行编辑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If there's an injection of some language in your code, you can edit it in a dedicated editor.</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>如果在代码中注入某种语言，则可以在专用编辑器中进行编辑。</seg>
@@ -42410,6 +42562,14 @@ in class ''{1}''</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>在 &lt;s0&gt;File Structure&lt;/s0&gt; 弹窗中切换 HTML5 大纲视图非常简单。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is very easy to change the built-in web server port (&lt;s0&gt;File | Settings – Debugger – JavaScript&lt;/s0&gt;), and use the "Built-in server port" spinner to set the new value.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>很容易改变内置的 web 服务器端口 (&lt;s0&gt;File | Settings – Debugger – JavaScript&lt;/s0&gt;) ，然后使用 "Built-in server port" spinner 来设置新的值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47872,6 +48032,14 @@ must not contain source root "{1}".</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>模块</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Monitor your changes you make to an HTML file, in Chrome browser, without refreshing a page.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>在 Chrome 浏览器中监控您对 HTML 文件所做的更改，而无需刷新页面。</seg>
       </tuv>
     </tu>
     <tu>
@@ -64132,6 +64300,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>搜索类，文件，工具窗口，操作和首选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Searches through classes, files, tool windows, actions, settings, and symbols by double pressing the &lt;s0&gt;Shift&lt;/s0&gt; key.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>双击 &lt;s0&gt;Shift&lt;/s0&gt; 搜索类，文件，工具窗口，操作，设置以及符号。</seg>
       </tuv>
     </tu>
     <tu>
@@ -82029,6 +82205,14 @@ as a source directory?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can also click the mouse on usages with the &lt;s1&gt;Ctrl&lt;/s1&gt;(Windows or *nix)/&lt;s2&gt;Cmd&lt;/s2&gt;(MacOS) key pressed to jump to declarations.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>你也可以按住 &lt;s1&gt;Ctrl&lt;/s1&gt;(Windows or *nix)/&lt;s2&gt;Cmd&lt;/s2&gt;(MacOS) 键，在使用处点击鼠标，即可跳转到定义处。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can also click the mouse on usages with the &lt;s2&gt;Ctrl&lt;/s2&gt; key pressed to jump to declarations.</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -86841,6 +87025,14 @@ Would you like to open it?</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>images/line_separator_folder.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/live_edit.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>images/live_edit.png</seg>
       </tuv>
     </tu>
     <tu>
