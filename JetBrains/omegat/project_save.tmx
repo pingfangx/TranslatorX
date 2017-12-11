@@ -3058,6 +3058,14 @@ Are you sure you want to stop {2, choice, 1#incompatible running instance|2#{2, 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>'&gt;' block</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>'&gt;' 块</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>'&gt;' expected</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -3554,6 +3562,14 @@ Are you sure you want to stop {2, choice, 1#incompatible running instance|2#{2, 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>'|' block</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>'|' 块</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>'}' expected</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -3976,6 +3992,14 @@ Use ; (分号) 来分隔资源模式;
       </tuv>
       <tuv lang="ZH-CN">
         <seg>-profilePath         --  配置文件的绝对路径</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5982,6 +6006,14 @@ No new or edited TODO items, or items located in changed text fragments were fou
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&amp;productName;&lt;/s0&gt; can work with several projects in one window.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>&lt;s0&gt;&amp;productName;&lt;/s0&gt; 可以在一个窗口中操作多个项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&amp;productName;&lt;/s0&gt; enables you to perform the following types of comparison:</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -6034,6 +6066,14 @@ No new or edited TODO items, or items located in changed text fragments were fou
       </tuv>
       <tuv lang="ZH-CN">
         <seg>&lt;s0&gt;&amp;shortcut:CommentByLineComment;&lt;/s0&gt; 使用单行注释(&lt;s1&gt;//...&lt;/s1&gt;)来注释或取消注释单前行或所选块。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&amp;shortcut:CommentByLineComment;&lt;/s0&gt; comments or uncomments the current line or several selected lines with single line comments (&lt;s1&gt;{#&lt;/s1&gt; in Django templates, or &lt;s2&gt;#&lt;/s2&gt; in Python scripts).</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>&lt;s0&gt;&amp;shortcut:CommentByLineComment;&lt;/s0&gt; 使用单行注释来注释或取消注释当前行或选中的几行(用 Django 模板的 &lt;s1&gt;{#&lt;/s1&gt; ，或 Python 脚本的 &lt;s2&gt;#&lt;/s2&gt;)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6127,6 +6167,14 @@ No new or edited TODO items, or items located in changed text fragments were fou
     <tu>
       <tuv lang="EN-US">
         <seg>&lt;s0&gt;TODO&lt;/s0&gt; tool window lets you preview each of the encountered TODO items - just click the preview button on the toolbar.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>&lt;s0&gt;TODO&lt;/s0&gt; 工具窗口允许预览每个遇到的待办事项——只需单击工具栏上的预览按钮即可。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;TODO&lt;/s0&gt; tool window lets you preview each of the encountered TODO items – just click the preview button on the toolbar.</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>&lt;s0&gt;TODO&lt;/s0&gt; 工具窗口允许预览每个遇到的待办事项——只需单击工具栏上的预览按钮即可。</seg>
@@ -6394,6 +6442,14 @@ No new or edited TODO items, or items located in changed text fragments were fou
       </tuv>
       <tuv lang="ZH-CN">
         <seg>通过按两次 &lt;s0&gt;&amp;shortcut:CodeCompletion;&lt;/s0&gt; ，可以执行一个特殊的代码补体功能变体：可以从没有在当前文件中声明的命名空间中补全 XML 标签名称。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A special variant of the Code Completion feature invoked by pressing &lt;s0&gt;&amp;shortcut:CodeCompletion;&lt;/s0&gt; twice allows you to complete the name of any class no matter if it was imported in the current file or not.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>通过按两次 &lt;s0&gt;&amp;shortcut:CodeCompletion;&lt;/s0&gt; ，可以执行一个特殊的代码补体功能变体：可以允许你补全任何类名，不管它是否已导入当前文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8694,6 +8750,22 @@ No new or edited TODO items, or items located in changed text fragments were fou
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After moving the lines down:</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>向下移动行之后：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After moving the lines up:</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>向上移动行之后：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After package statement:</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -9240,10 +9312,26 @@ will be changed.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All you have to do is to define issue navigation patterns on the &lt;s0&gt;Version Control&lt;/s0&gt; page of the &lt;s1&gt;Settings&lt;/s1&gt;/&lt;s2&gt;Preferences&lt;/s2&gt; dialog:</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>所有你所需要做的就是在  &lt;s1&gt;Settings&lt;/s1&gt;/&lt;s2&gt;Preferences&lt;/s2&gt; 对话框中的 &lt;s0&gt;Version Control&lt;/s0&gt; 页中定义问题导航模式：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All you have to do is to point to the directories where your dictionaries are stored, in the &lt;s0&gt;Spelling&lt;/s0&gt; of the &lt;s1&gt;Settings&lt;/s1&gt; dialog.</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>你只需要在 &lt;s1&gt;Settings&lt;/s1&gt; 对话框的 &lt;s0&gt;Spelling&lt;/s0&gt; 指向你的字典存储目录即可。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All you have to do is to point to the directories where your dictionaries are stored, in the &lt;s0&gt;Spelling&lt;/s0&gt; page of the &lt;s1&gt;Editor Settings/Preferences&lt;/s1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>你只需要在 &lt;s1&gt;Settings&lt;/s1&gt; 对话框的 &lt;s0&gt;Spelling&lt;/s0&gt; 页指向你的字典存储目录即可。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10030,6 +10118,14 @@ as well as for the standard SDK classes resolution.</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>另一个变量 ''{0}'' 定义与内联一起使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Another way to reopen a project is to right-click the &lt;s0&gt;&amp;productName;&lt;/s0&gt; icon on the task bar:</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>重新打开一个项目的方式是在任务栏右击 &lt;s0&gt;&amp;productName;&lt;/s0&gt; ：</seg>
       </tuv>
     </tu>
     <tu>
@@ -10992,6 +11088,14 @@ as well as for the standard SDK classes resolution.</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>从 Java 9 开始， '_' 是一个关键字，不能用作标识符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As you type the name of the utility you want to run, the lookup list shrinks to show the matching entries only.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>在输入要运行的实用程序的名称时，查找列表将缩小以仅显示匹配的条目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12100,6 +12204,14 @@ and replace them with usages of {2} where possible.</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>在 {0} 前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Before:</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>之前：</seg>
       </tuv>
     </tu>
     <tu>
@@ -16549,6 +16661,14 @@ Method {0} is not static</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>选择要包含在 hashCode() 中的字段(&amp;f)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose &lt;s0&gt;File | Settings&lt;/s0&gt; (Windows/*nix) or &lt;s1&gt;PyCharm | Preferences&lt;/s1&gt; (Mac) on the main menu, and then open the page &lt;s2&gt;Terminal&lt;/s2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>在主菜单选择 &lt;s0&gt;File | Settings&lt;/s0&gt; (Windows/*nix) 或 &lt;s1&gt;PyCharm | Preferences&lt;/s1&gt; (Mac) ，然后打开 &lt;s2&gt;Terminal&lt;/s2&gt; 页。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26785,6 +26905,14 @@ with covariant return type?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Double quoted string</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>双引号的字符串</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Double-click to see)</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -27423,6 +27551,14 @@ with covariant return type?</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>Duplocator</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>During the debugging session, switch to the Debugger Console, and then press the very lowest button in its toolbar.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>在调试会话期间，切换到调试器控制台，然后按工具栏中最下面的按钮。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29077,10 +29213,18 @@ with covariant return type?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enable this framework in the CSS or HTML pages under the &lt;s0&gt;Emmet(Zen Coding)&lt;/s0&gt; node of the &lt;s1&gt;Settings/Preferences&lt;/s1&gt; dialog:</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>在 &lt;s1&gt;Settings/Preferences&lt;/s1&gt; 对话框中 &lt;s0&gt;Emmet(Zen Coding)&lt;/s0&gt; 节点下的 CSS 或 HTML 页启用此框架：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enable this framework in the corresponding page of the &lt;s0&gt;Editor | Emmet&lt;/s0&gt; node (&lt;s1&gt;Settings/Preferences&lt;/s1&gt;):</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>在 &lt;s0&gt;Editor | Emmet&lt;/s0&gt; (&lt;s1&gt;Settings/Preferences&lt;/s1&gt;) 节点下相应的页面启用此框加：</seg>
+        <seg>在 &lt;s0&gt;Editor | Emmet&lt;/s0&gt; (&lt;s1&gt;Settings/Preferences&lt;/s1&gt;) 节点下相应的页面启用此框架：</seg>
       </tuv>
     </tu>
     <tu>
@@ -34044,6 +34188,14 @@ Do you want overwrite it or to append?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Find any action, symbol, or setting in &lt;s0&gt;&amp;productName;&lt;/s0&gt; with Double Shift:</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>在 &lt;s0&gt;&amp;productName;&lt;/s0&gt; 中双击 Shift 搜索任何操作、符号或设置：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Find in Path</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -34716,6 +34868,14 @@ Do you want overwrite it or to append?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, in the code fragment below, you can select an expression in the code, and press &lt;s0&gt;&amp;shortcut:IntroduceVariable;&lt;/s0&gt; (&lt;s1&gt;Refactor | Extract | Variable&lt;/s1&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>例如，在下面的代码片段中，您可以在代码中选择一个表达式，然后按 &lt;s0&gt;&amp;shortcut:IntroduceVariable;&lt;/s0&gt; (&lt;s1&gt;Refactor | Extract | Variable&lt;/s1&gt;)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, in the code fragment below, you can select an expression in the code:</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -34728,6 +34888,14 @@ Do you want overwrite it or to append?</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>例如，它也许会选择方法名称，然后选择调用此方法的表达式，然后整个语句，然后包含语句的代码块等等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, select a code fragment and press &lt;s0&gt;&amp;shortcut:MoveStatementUp;&lt;/s0&gt; or &lt;s1&gt;&amp;shortcut:MoveStatementDown;&lt;/s1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>选择一个代码片断，然后按 &lt;s0&gt;&amp;shortcut:MoveStatementUp;&lt;/s0&gt; 或者 &lt;s1&gt;&amp;shortcut:MoveStatementDown;&lt;/s1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34752,6 +34920,14 @@ Do you want overwrite it or to append?</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>例如，输入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, type &lt;i0&gt;for&lt;/i0&gt; in a Django template</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>比如，在 Django 模板中输入 &lt;i0&gt;for&lt;/i0&gt; </seg>
       </tuv>
     </tu>
     <tu>
@@ -35048,6 +35224,14 @@ Do you want overwrite it or to append?</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>找到使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Found yourself in a situation, when you want to use an interpreter located remotely?</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>发现有使用远程解释器的情景？</seg>
       </tuv>
     </tu>
     <tu>
@@ -35784,6 +35968,14 @@ Do you want overwrite it or to append?</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>获取版本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Get familiar with the main features of the IDE by reading these tips.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>阅读这些提示，熟悉 IDE 的主要功能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36866,6 +37058,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>你有没有注意到按钮 &lt;i0&gt;&lt;i1&gt; 在差异查看器中处理差异吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Having pressed &lt;s1&gt;Alt&lt;/s1&gt;, click the left mouse button at the desired position to set additional cursors in the editor.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>按住 &lt;s1&gt;Alt&lt;/s1&gt; ，在所需位置单击鼠标左键即可在编辑器中设置额外的光标。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38030,6 +38230,14 @@ Compilation will proceed without clearing output directories.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the class is not imported yet, the import statement is generated automatically.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>如果类尚未导入，则会自动生成导入语句。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the cursor is between the parentheses of a method call, pressing &lt;s0&gt;&amp;shortcut:ParameterInfo;&lt;/s0&gt; brings up a list of valid parameters.</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -38070,6 +38278,14 @@ Compilation will proceed without clearing output directories.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you are going to use Django live templates, make sure that Django is selected as the default Python template language in the Settings / Preferences dialog:</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>如果你想要使用 Django 代码模板，请确保在 Settings / Preferences 对话框中把 Django 选为默认 Python 模板语言：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you are sharing project with your team, please use Project libraries instead.&lt;br&gt;&lt;br&gt;Expand the node and select child items to manage Global libraries.</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -38090,6 +38306,14 @@ Compilation will proceed without clearing output directories.</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>如果你关闭了对话框，你总是可以在主菜单中的 &lt;s0&gt;Help | Tip of the Day&lt;/s0&gt; 找回它。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you close the dialog, you can always get back to it using &lt;s0&gt;Help | Tip of the Day&lt;/s0&gt; on the menu bar.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>如果你关闭了对话框，你总是可以使用主菜单中的 &lt;s0&gt;Help | Tip of the Day&lt;/s0&gt; 找回它。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38122,6 +38346,14 @@ Compilation will proceed without clearing output directories.</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>如果您不想将某些更改提交到存储库，通过移动到单独的更改列表或将它们放到 shelf，你可以将它们暂放到一边。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you have already spent some time working in the interactive consoles, you don't need to re-type the previously entered commands to repeat them.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>如果您已经在交互式控制台上工作了一段时间，则不需要重新键入以前输入的命令来重复它们。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38178,6 +38410,14 @@ Compilation will proceed without clearing output directories.</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>如果你把插入符号放到某符号处并按下 &lt;s0&gt;&amp;shortcut:Refactorings.QuickListPopupAction;&lt;/s0&gt;，你将会看到适用于当前上下文的重构列表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you type an asterisk, PyCharm will show the complete list of all the available tasks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>如果输入星号，PyCharm 将显示所有可用任务的完整列表。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38992,6 +39232,14 @@ please fill in your JetBrains Account login and password.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In &lt;s0&gt;&amp;productName;&lt;/s0&gt;, you can have multiple cursors.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>在 &lt;s0&gt;&amp;productName;&lt;/s0&gt; 中，你可以有多个光标。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In Comments</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -39012,6 +39260,14 @@ please fill in your JetBrains Account login and password.</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>在三元运算符(?:)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In an already existing project (&lt;s0&gt;Settings/Preferences - Project &lt;project name&gt; - Project Interpreter&lt;/s0&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>在已存在的项目中 (&lt;s0&gt;Settings/Preferences - Project &lt;project name&gt; - Project Interpreter&lt;/s0&gt;)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39100,6 +39356,14 @@ please fill in your JetBrains Account login and password.</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>在 &lt;s0&gt;Project&lt;/s0&gt; 工具窗口中，选择想要忽略的文件，然后在上下文菜单中选择 &lt;s1&gt;Mark as plain text&lt;/s1&gt; 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the Settings/Preferences dialog, expand the node &lt;s0&gt;Build, Execution, Deployment&lt;/s0&gt;, and click &lt;s1&gt;Debugger&lt;/s1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>在 Settings/Preferences 对话框中，展开结点 &lt;s0&gt;Build, Execution, Deployment&lt;/s0&gt;  ，然后点击 &lt;s1&gt;Debugger&lt;/s1&gt; 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41042,6 +41306,22 @@ in class ''{1}''</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Instead, press &lt;s0&gt;&amp;shortcut:EditorScrollUp;&lt;/s0&gt; and &lt;s1&gt;&amp;shortcut:EditorScrollDown;&lt;/s1&gt; to scroll through the history of commands.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>只需要按 &lt;s0&gt;&amp;shortcut:EditorScrollUp;&lt;/s0&gt; 和 &lt;s1&gt;&amp;shortcut:EditorScrollDown;&lt;/s1&gt; 来浏览命令历史记录。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Instead, you can use the familiar code completion &lt;s0&gt;&amp;shortcut:CodeCompletion;&lt;/s0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>只需使用熟悉的代码补全 &lt;s0&gt;&amp;shortcut:CodeCompletion;&lt;/s0&gt; 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Instrumenting agent (requires debugger restart)</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -41982,6 +42262,14 @@ in class ''{1}''</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is very easy to change the built-in web server port.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>很容易改变内置的 web 服务器端口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is very easy to copy and paste fragments of code between different files with &amp;productName; because it automatically inserts necessary imports to the destination file to make the code compilable.</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -42090,6 +42378,14 @@ in class ''{1}''</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>这是很容易做到的——只需右击想要隐藏的按钮，然后在上下文菜单中选择 &lt;s0&gt;Remove from Sidebar&lt;/s0&gt; 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It's very easy to navigate between the Django templates and referencing views.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>很容易在 Django 模板和参考视图间导航。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42864,6 +43160,22 @@ Cannot generate JavaDoc</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Just choose &lt;s0&gt;Run Python Console&lt;/s0&gt; or &lt;s1&gt;Run Django Console&lt;/s1&gt; in the &lt;s2&gt;Tools&lt;/s2&gt; menu.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>只需在 &lt;s2&gt;Tools&lt;/s2&gt; 菜单中选择 &lt;s0&gt;Run Python Console&lt;/s0&gt; 或 &lt;s1&gt;Run Django Console&lt;/s1&gt; 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Just choose &lt;s1&gt;Tools | Open Terminal&lt;/s1&gt; on the main menu, and enjoy using the embedded local terminal.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>只在主菜单选择 &lt;s1&gt;Tools | Open Terminal&lt;/s1&gt; ，并尽情使用嵌入的本地终端。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Just click on highlighted source file name and line number in the console to see the source in the editor.</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -43124,6 +43436,22 @@ Cannot generate JavaDoc</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>按住 &lt;s1&gt;Ctrl&lt;/s1&gt; 键，使用 &lt;s2&gt;Up&lt;/s2&gt; 和 &lt;s3&gt;Down&lt;/s3&gt; 方向键， &lt;s4&gt;Tab&lt;/s4&gt; 或 &lt;s5&gt;Shift+Tab&lt;/s5&gt; 及 &lt;s6&gt;Alt&lt;/s6&gt; 来导航，使用 &lt;s7&gt;Delete&lt;/s7&gt; 或 &lt;s8&gt;BackSpace&lt;/s8&gt; 来关闭编辑器选项卡或隐藏工具窗口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Key</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>Key</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Key conflicts with existing one: ''{0}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>与现有 key 冲突：''{0}''</seg>
       </tuv>
     </tu>
     <tu>
@@ -44091,7 +44419,15 @@ Cannot generate JavaDoc</seg>
         <seg>Live Templates allow you to generate many typical code constructs in seconds!</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>代码模板允许您在几秒内生成许多典型的代码结构！</seg>
+        <seg>代码模板允许你快生成许多典型的代码结构！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Live Templates let you generate many typical code constructs in seconds.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>代码模板允许你快速生成许多典型的代码结构。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45193,6 +45529,14 @@ Cannot generate JavaDoc</seg>
     <tu>
       <tuv lang="EN-US">
         <seg>Make the editor tabs and lines in navigation lists stand out using the &lt;s0&gt;File Colors&lt;/s0&gt; page of the project settings.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>使用项目设置的 &lt;s0&gt;File Colors&lt;/s0&gt; 页面，可使导航列表中的编辑器选项卡和线条突出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make the editor tabs and the lines in navigation lists stand out using the &lt;s0&gt;File Colors&lt;/s0&gt; page of the Appearance &amp; Behavior settings.</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>使用项目设置的 &lt;s0&gt;File Colors&lt;/s0&gt; 页面，可使导航列表中的编辑器选项卡和线条突出。</seg>
@@ -47384,6 +47728,14 @@ must not contain source root "{1}".</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>超过 {0} 匹配</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moreover, from within the lookup list, you can press &lt;s1&gt;&amp;shortcut:QuickJavaDoc;&lt;/s1&gt; to view the item's documentation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>此外，在查阅列表中，可以按 &lt;s1&gt;&amp;shortcut:QuickJavaDoc;&lt;/s1&gt; 查看每一项的文档。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49760,6 +50112,14 @@ must not contain source root "{1}".</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>下一行,每行都移动后</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Next, open an HTML page in your browser and see it running on the defined port.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>接下来，在浏览器中打开一个 HTML 页面，可以看到它运行在自定义的端口上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55344,6 +55704,14 @@ be marked as source paths.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Press &lt;s0&gt;&amp;shortcut:EditorEscape;&lt;/s0&gt; to remove all the additional cursors but one that resides at the line at caret.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>按 &lt;s0&gt;&amp;shortcut:EditorEscape;&lt;/s0&gt; 删除所有额外的光标，除了位于插入符号处的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Press &lt;s0&gt;&amp;shortcut:EditorEscape;&lt;/s0&gt; to remove highlighting.</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -55493,6 +55861,14 @@ to migrate using the migration map "{0}"</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>按 {0} 查看其他命名空间的标签</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pressing &lt;s0&gt;&amp;shortcut:CommentByBlockComment;&lt;/s0&gt; for a selected block of source code in a Django template surrounds the block with &lt;s1&gt;{% comment %}&lt;/s1&gt; and &lt;s2&gt;{% endcomment %}&lt;/s2&gt; tags.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>按 &lt;s0&gt;&amp;shortcut:CommentByBlockComment;&lt;/s0&gt; 使用 Django 模板包围一个源码块，用 &lt;s1&gt;{% comment %}&lt;/s1&gt; 和 &lt;s2&gt;{% endcomment %}&lt;/s2&gt; 标签。</seg>
       </tuv>
     </tu>
     <tu>
@@ -57156,6 +57532,22 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>把一个堆栈跟踪或一个完整的线程堆转储放到这里:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PyCharm allows configuring Python interpreters on the various stages of development:</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>PyCharm 允许在开发的各个阶段配置 Python 解释器：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PyCharm keeps track of which of its features you are using and will offer you some tips to let you know about the features you may have missed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>PyCharm 跟踪了你正使用的一些功能，并给你一些提示以让你知道你可能错过的功能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61896,6 +62288,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Right-clicking on a breakpoint (in the left gutter) invokes the context menu where you can quickly enable/disable the breakpoint or adjust its properties.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>右击一个断点标记(在左边的 gutter 上)调用上下文菜单，你可以快速启用/禁用断点或调整其属性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Right-clicking on a breakpoint marker (on the bar to the left from the text) invokes the speedmenu where you can quickly enable/disable the breakpoint or adjust its properties.</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -62560,6 +62960,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SSH</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>SSH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>STATISTICS</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -62652,6 +63060,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>对选中范围安全地解除包围或移除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Same name</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>相同的名字</seg>
       </tuv>
     </tu>
     <tu>
@@ -63840,6 +64256,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See &lt;s0&gt;Live Templates&lt;/s0&gt; page of the &lt;s1&gt;Settings / Preferences&lt;/s1&gt; dialog for more details.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>查看 &lt;s1&gt;Settings / Preferences&lt;/s1&gt; 对话框的 &lt;s0&gt;Live Templates&lt;/s0&gt; 页了解更多信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See &lt;s1&gt;File | Settings | Live Templates&lt;/s1&gt; for more details.</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -64716,6 +65140,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>在 &lt;s1&gt;Changes&lt;/s1&gt; 工具窗口的 &lt;s0&gt;Local&lt;/s0&gt; 选项卡选择这样的文件，然后在上下文菜单中选择 &lt;s2&gt;Move to Another Changelist&lt;/s2&gt; 或者 &lt;s3&gt;Shelve Changes&lt;/s3&gt; 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select such file in the &lt;s0&gt;Local&lt;/s0&gt; tab of the &lt;s1&gt;Changes&lt;/s1&gt; tool window, and on the context menu choose &lt;s2&gt;Move to another changelist&lt;/s2&gt;, or &lt;s3&gt;Shelve Changes&lt;/s3&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>在 &lt;s1&gt;Changes&lt;/s1&gt; 工具窗口的 &lt;s0&gt;Local&lt;/s0&gt; 选项卡选择这样的文件，然后在上下文菜单中选择 &lt;s2&gt;Move to another changelist&lt;/s2&gt; 或者 &lt;s3&gt;Shelve Changes&lt;/s3&gt; 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -67574,6 +68006,14 @@ surrounding ranges were commented.</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>右侧并排布局</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sign: brace, comma, etc</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>符号：括号、逗号等</seg>
       </tuv>
     </tu>
     <tu>
@@ -71533,10 +71973,26 @@ is not an {1} module file (.iml)</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;s0&gt;&amp;shortcut:EditorJoinLines;&lt;/s0&gt; shortcut joins two lines into one and removes unnecessary spaces to match your code style.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>&lt;s0&gt;&amp;shortcut:EditorJoinLines;&lt;/s0&gt; 将两行合并为一行，并移除不需要的空格以匹配你的代码样式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;s0&gt;&amp;shortcut:JumpToLastWindow;&lt;/s0&gt; key moves the focus from the editor to the last focused tool window.</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>&lt;s0&gt;&amp;shortcut:JumpToLastWindow;&lt;/s0&gt; 将焦点从编辑器移到上一个激活的工具窗口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;s0&gt;Code | Move Statement Up/Down&lt;/s0&gt; action is useful for reorganizing the code lines in your file, e.g., for bringing a variable declaration closer to the variable usage.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>&lt;s0&gt;Code | Move Statement Up/Down&lt;/s0&gt; 操作对在文件中组织代码行很有用，比如移动一个变量声明使其接近变量的使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -71557,7 +72013,23 @@ is not an {1} module file (.iml)</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;s0&gt;Local Changes&lt;/s0&gt; tab of the &lt;s1&gt;Version Control&lt;/s1&gt; tool window shows all deleted, modified, and unversioned files in a single view.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>&lt;s1&gt;Version Control&lt;/s1&gt; 工具窗口的 &lt;s0&gt;Local Changes&lt;/s0&gt; 选项卡在一个视图中显示所有删除、修改和未加入版本控制的文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;s0&gt;Quick Definition Viewer&lt;/s0&gt; (&lt;s1&gt;&amp;shortcut:QuickImplementations;&lt;/s1&gt;) can also be used for items in lookup lists that appear on code completion and class/file/symbol navigaton commands.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>&lt;s0&gt;Quick Definition Viewer(快速定义查看)&lt;/s0&gt; (&lt;s1&gt;&amp;shortcut:QuickImplementations;&lt;/s1&gt;) 也可以用于代码补全或类/文件/符号导航命令时显示的查询列表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;s0&gt;Quick Definition Viewer&lt;/s0&gt; (&lt;s1&gt;&amp;shortcut:QuickImplementations;&lt;/s1&gt;) can be also used for items in lookup lists that appear on code completion and class/file/symbol navigaton commands.</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>&lt;s0&gt;Quick Definition Viewer(快速定义查看)&lt;/s0&gt; (&lt;s1&gt;&amp;shortcut:QuickImplementations;&lt;/s1&gt;) 也可以用于代码补全或类/文件/符号导航命令时显示的查询列表。</seg>
@@ -71757,6 +72229,14 @@ is not an {1} module file (.iml)</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The console becomes interactive, and shows a prompt, where you can enter commands, and view output.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>控制台变为交互式，并显示一个提示符，您可以在其中输入命令并查看输出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The corresponding Eclipse project is imported with default settings, without launching the wizard.</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -71905,6 +72385,14 @@ is not an {1} module file (.iml)</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>驱动器无法在磁盘上找到指定区域或磁道。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The easiest way to run a utility of the &lt;s0&gt;manage.py&lt;/s0&gt; task is to choose &lt;s1&gt;Run manage.py Task&lt;/s1&gt; in the &lt;s2&gt;Tools&lt;/s2&gt; menu, or press &lt;s3&gt;&amp;shortcut:Django.RunManageTaskAction;&lt;/s3&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>运行 &lt;s0&gt;manage.py&lt;/s0&gt; 任务最简单的方法是在 &lt;s2&gt;Tools&lt;/s2&gt; 菜单中选择 &lt;s1&gt;Run manage.py Task&lt;/s1&gt; 或者按 &lt;s3&gt;&amp;shortcut:Django.RunManageTaskAction;&lt;/s3&gt; 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -72221,6 +72709,14 @@ Please update modules configuration</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>建议名称的列表将相应减少。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The list of tool windows shows up, leaving you with the task of selecting the desired one:</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>工具窗口列表显示出来，让您选择所需的工具：</seg>
       </tuv>
     </tu>
     <tu>
@@ -72895,6 +73391,14 @@ already exists.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Then click the gear button, and choose the option &lt;s0&gt;Add Remote&lt;/s0&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>然后点击齿轮按钮，选择 &lt;s0&gt;Add Remote&lt;/s0&gt; 操作：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Then return to your source code and press &lt;s0&gt;&amp;shortcut:$Paste;&lt;/s0&gt;:</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -72907,6 +73411,14 @@ already exists.</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>然后输入冒号 (&lt;s2&gt;:&lt;/s2&gt;) 和行号。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then, use the "Built-in server port" spin box to set the new value.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>然后，使用 "Built-in server port" spin box 来设置新的值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -73263,6 +73775,14 @@ already exists.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These tips will be shown while the startup process is going on.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>这些提示将在启动过程中显示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They are visible in the &lt;s0&gt;Favorites&lt;/s0&gt; tool window, which you can dock or float as required:</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -73307,6 +73827,14 @@ already exists.</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>该 SDK 将被所有项目模块默认使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This behavior is enabled, if &lt;s0&gt;None&lt;/s0&gt; is selected from the &lt;s1&gt;Case sensitive completion&lt;/s1&gt; drop-down list (the &lt;s2&gt;Code Completion&lt;/s2&gt; page of the Editor settings).</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>当在 &lt;s1&gt;Case sensitive completion&lt;/s1&gt; 下拉列表中选择 &lt;s0&gt;None&lt;/s0&gt; 时（编辑器设置中的 &lt;s2&gt;Code Completion&lt;/s2&gt; 页），该行为生效。</seg>
       </tuv>
     </tu>
     <tu>
@@ -73387,6 +73915,14 @@ already exists.</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>此意图操作甚至不会更改您当前的编辑位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is most easy.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>这很简单。</seg>
       </tuv>
     </tu>
     <tu>
@@ -73523,6 +74059,14 @@ already exists.</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>这将尝试使用您的系统设置，这将有用如果您的系统使用代理自动配置文件(.pac)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This will automatically generate the except clause.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>这将自动生成 except 子句。</seg>
       </tuv>
     </tu>
     <tu>
@@ -73863,6 +74407,14 @@ already exists.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To configure a remote interpreter, press &lt;s0&gt;&amp;shortcut:ShowSettings;&lt;/s0&gt;, and under the &lt;s1&gt;Project: &lt;name&gt;&lt;/s1&gt; node, open the page &lt;s2&gt;Project Interpreter&lt;/s2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>要配置远程解释器，按 &lt;s0&gt;&amp;shortcut:ShowSettings;&lt;/s0&gt; ，然后在 &lt;s1&gt;Project: &lt;name&gt;&lt;/s1&gt; 节点，打开 &lt;s2&gt;Project Interpreter&lt;/s2&gt; 页。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To configure automatic update settings, see the &lt;b&gt;&lt;a href="updates"&gt;Updates&lt;/a&gt;&lt;/b&gt; dialog of your IDE {0}.</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -73903,10 +74455,26 @@ already exists.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To do that, just choose &lt;s0&gt;Move to Changelist&lt;/s0&gt; on the file context menu in the Local Changes tab of the Version Control tool window:</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>要这样做，只需在版本控制工具窗口的上下文菜单中选择 &lt;s0&gt;Move to Changelist&lt;/s0&gt; 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To do that, place the caret at the symbol's name or at its usage in code and press &lt;s0&gt;&amp;shortcut:ShowUsages;&lt;/s0&gt; (&lt;s1&gt;Edit | Find | Show Usages&lt;/s1&gt; in the main menu), scroll the list and click the desired usage.</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>要这样做，将插入符号置于符号的名称处或代码中它的使用处，然后按下 &lt;s0&gt;&amp;shortcut:ShowUsages;&lt;/s0&gt; (在主菜单中的 &lt;s1&gt;Edit | Find | Show Usages&lt;/s1&gt; )，滚动列表并点击期望的使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To do that, press &lt;s0&gt;&amp;shortcut:GotoAction;&lt;/s0&gt; twice, type &lt;s1&gt;Clone caret&lt;/s1&gt;, and then choose the desired action.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>要做到这样，按下 &lt;s0&gt;&amp;shortcut:GotoAction;&lt;/s0&gt; ，输入 &lt;s1&gt;Clone caret&lt;/s1&gt; 并选择所需的操作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -73923,6 +74491,14 @@ already exists.</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>要做到这一点，按下 &lt;s0&gt;Ctrl&lt;/s0&gt; 两次并按住，然后按方向键。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To do that, press the key &lt;s0&gt;Alt&lt;/s0&gt; (for Windows/*nix) or &lt;s1&gt;Cmd&lt;/s1&gt; (for Mac) twice and keep it down.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>要做到那样，按下两次 &lt;s0&gt;Alt&lt;/s0&gt; (for Windows/*nix) 或 &lt;s1&gt;Cmd&lt;/s1&gt; (for Mac) 并保持按下。</seg>
       </tuv>
     </tu>
     <tu>
@@ -73951,6 +74527,14 @@ already exists.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To do that, use the icons &lt;i0/&gt; and &lt;i1/&gt; in the left gutter of the editor.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>要这样做，使用编辑器左边 gutter 上的 &lt;i0/&gt; 和 &lt;i1/&gt; 图标。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To do that, use the same &lt;s0&gt;&amp;shortcut:RecentFiles;&lt;/s0&gt; shortcut with the &lt;s1&gt;Find&lt;/s1&gt; tool window having the focus, and select the desired find usages result from the &lt;s2&gt;Recent Find Usages&lt;/s2&gt; popup.</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -73967,10 +74551,26 @@ already exists.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To easily evaluate the value of any expression while debugging the program, select its text in the editor (you might want to press a &lt;s0&gt;&amp;shortcut:EditorSelectWord;&lt;/s0&gt; a few times to efficiently perform this operation) and then press &lt;s1&gt;&amp;shortcut:EvaluateExpression;&lt;/s1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>要在调试程序时轻松计算任何表达式的值，请在编辑器中选择其文本(你可能会按 &lt;s0&gt;&amp;shortcut:EditorSelectWord;&lt;/s0&gt; 几次来高效地执行该操作)，然后按 &lt;s1&gt;&amp;shortcut:EvaluateExpression;&lt;/s1&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To easily locate an item in the list, just start typing its name.</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>要轻松找到列表中的项目，只需开始输入其名称。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To enable this feature, select the check box &lt;s0&gt;Show quick doc on mouse move&lt;/s0&gt; in the &lt;s1&gt;General&lt;/s1&gt; page of the editor settings:</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>要启用该功能，在编辑器设置中的 &lt;s1&gt;General&lt;/s1&gt; 页选中复选框 &lt;s0&gt;Show quick doc on mouse move&lt;/s0&gt; 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -74015,10 +74615,26 @@ already exists.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To make sure you didn't miss some slash or quotation mark, place the caret somewhere in the expression you want to check, and press &lt;s0&gt;&amp;shortcut:ShowIntentionActions;&lt;/s0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>为了确保你不会遗漏引号中的斜线，将插入符号放到想检查表达式处，然后按 &lt;s0&gt;&amp;shortcut:ShowIntentionActions;&lt;/s0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To navigate to the declaration of a class, method or variable used somewhere in the code, position the caret at the usage and press &lt;s0&gt;&amp;shortcut:GotoDeclaration;&lt;/s0&gt; (&lt;s1&gt;Navigate | Declaration&lt;/s1&gt;).</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>要从类，方法或字段在代码中的使用处导航到定义处，请将插入符号定位到使用处，然后按 &lt;s0&gt;&amp;shortcut:GotoDeclaration;&lt;/s0&gt; (&lt;s1&gt;Navigate | Declaration&lt;/s1&gt;)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To navigate to the declaration of a class, method or variable used somewhere in the code, position the caret at the usage and press &lt;s0&gt;&amp;shortcut:GotoDeclaration;&lt;/s0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>要从类，方法或字段在代码中的使用处导航到定义处，请将插入符号定位到使用处，然后按 &lt;s0&gt;&amp;shortcut:GotoDeclaration;&lt;/s0&gt; 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -74035,6 +74651,22 @@ already exists.</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>最近缩进位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To open a project in the same window with the already opened one, choose &lt;s1&gt;Open&lt;/s1&gt; on the &lt;s2&gt;File&lt;/s2&gt; menu, then in the &lt;s3&gt;Open project&lt;/s3&gt; dialog box, select the option &lt;s4&gt;Open in current window&lt;/s4&gt;, and select the check box &lt;s5&gt;Add to currently opened projects&lt;/s5&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>要在已打开一个项目的窗口中再打开一个项目，在 &lt;s2&gt;File&lt;/s2&gt; 菜单中选择 &lt;s1&gt;Open&lt;/s1&gt; ，然后在 &lt;s3&gt;Open project&lt;/s3&gt; 对话框中，选择按钮 &lt;s4&gt;Open in current window&lt;/s4&gt; ，然后选中复选框 &lt;s5&gt;Add to currently opened projects&lt;/s5&gt; 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To open again one of the recent projects, use &lt;s0&gt;Reopen&lt;/s0&gt;(on Windows and Linux)/&lt;s1&gt;Open Recent&lt;/s1&gt;(on MacOS) on the &lt;s2&gt;File&lt;/s2&gt; menu:</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>要重新打开一个最近项目，在 &lt;s2&gt;File&lt;/s2&gt; 菜单使用 &lt;s0&gt;Reopen&lt;/s0&gt;(Windows 或 Linux)/&lt;s1&gt;Open Recent&lt;/s1&gt;(MacOS) ：</seg>
       </tuv>
     </tu>
     <tu>
@@ -74143,6 +74775,14 @@ already exists.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To quickly see the documentation for the symbol at caret, press &lt;s0&gt;&amp;shortcut:QuickJavaDoc;&lt;/s0&gt; (&lt;s1&gt;View | Quick Documentation&lt;/s1&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>要快速查看插入符号处的符号的文档，按 &lt;s0&gt;&amp;shortcut:QuickJavaDoc;&lt;/s0&gt; (&lt;s1&gt;View | Quick Documentation&lt;/s1&gt;)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To quickly select the currently edited element (class, file, method or field) in any view (&lt;s0&gt;Project&lt;/s0&gt; view, &lt;s1&gt;Structure&lt;/s1&gt; view or other), press &lt;s2&gt;&amp;shortcut:SelectIn;&lt;/s2&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -74183,6 +74823,14 @@ already exists.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To select multiple words, press &lt;s0&gt;Alt+Shift&lt;/s0&gt; (on Windows and Linux) or &lt;s1&gt;Cmd+Alt+Shift&lt;/s1&gt;(on MAC), place the caret at each word to be selected and double-click the left mouse button.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>要选择多个单词，按住  &lt;s0&gt;Alt+Shift&lt;/s0&gt; (Windows 和 Linux) 或 &lt;s1&gt;Cmd+Alt+Shift&lt;/s1&gt;(MAC)，将插入符放到每个要选的词中并双击鼠标左键。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To select multiple words, press &lt;s0&gt;Alt+Shift&lt;/s0&gt;, place the caret at each word to be selected and double-click the left mouse button.</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -74219,6 +74867,14 @@ already exists.</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>要这样做，将插入符号放到你想重命名的符号处，然后按 &lt;s0&gt;&amp;shortcut:RenameElement;&lt;/s0&gt; (&lt;s1&gt;Refactor | Rename&lt;/s1&gt;)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To try it, place the caret at the variable you want to rename, and press &lt;s0&gt;&amp;shortcut:RenameElement;&lt;/s0&gt; (&lt;s1&gt;Refactor | Rename&lt;/s1&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>要这样做，将插入符号放到你想重命名的变量处，然后按 &lt;s0&gt;&amp;shortcut:RenameElement;&lt;/s0&gt; (&lt;s1&gt;Refactor | Rename&lt;/s1&gt;)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -74499,6 +75155,14 @@ already exists.</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>在分割线上使用 Ctrl+单击 / Cmd+单击，可以在工具窗口的垂直放置和并排放置之间切换：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Toggle between the vertical and side-by-side placement of the tool windows by Ctrl+click (Windows/*nix) or Cmd+click (Mac) on the splitter:</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>在分割线上使用 Ctrl+click (Windows/*nix) 或 Cmd+click (Mac) ，可以在工具窗口的垂直放置和并排放置之间切换：</seg>
       </tuv>
     </tu>
     <tu>
@@ -74971,6 +75635,14 @@ already exists.</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>重试</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Try out the features described in the tips while this dialog stays open on the screen.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>此对话框在屏幕上保持打开状态时，请尝试使用提示中描述的功能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -77457,10 +78129,26 @@ Error message: {1}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use &lt;s0&gt;type hinting&lt;/s0&gt; to inform PyCharm about the expected types of parameters, local variables, fields, or return values.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>使用 &lt;s0&gt;type hinting&lt;/s0&gt; 来通知 PyCharm 提示期望的参数类型、局部变量、字段或返回值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use &lt;s1&gt;&amp;shortcut:ActivateChangesToolWindow;&lt;/s1&gt; keyboard shortcut to show or hide this tool window.</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>使用  &lt;s1&gt;&amp;shortcut:ActivateChangesToolWindow;&lt;/s1&gt; 来显示或隐藏该工具窗口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use &lt;s2&gt;&amp;shortcut:ActivateVersionControlToolWindow;&lt;/s2&gt; keyboard shortcut to show or hide this tool window.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>使用 &lt;s2&gt;&amp;shortcut:ActivateVersionControlToolWindow;&lt;/s2&gt; 来显示或隐藏该工具窗口。</seg>
       </tuv>
     </tu>
     <tu>
@@ -79369,6 +80057,22 @@ Error message: {1}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Welcome to PyCharm &amp;majorVersion;.&amp;minorVersion;</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>欢迎使用 PyCharm &amp;majorVersion;.&amp;minorVersion;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Welcome to PyCharm Productivity Guide</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>欢迎来到 PyCharm 生产力指南</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>What do you want?</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -79405,6 +80109,14 @@ Error message: {1}</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>IDEA 9的新功能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When a project is only being created (&lt;s0&gt;File | New Project&lt;/s0&gt;, or &lt;s1&gt;Create New Project&lt;/s1&gt; on the Welcome screen).</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>当项目仅被创建时 (&lt;s0&gt;File | New Project&lt;/s0&gt; 或欢迎屏幕的 &lt;s1&gt;Create New Project&lt;/s1&gt;)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -79549,6 +80261,22 @@ Error message: {1}</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>在文件中搜索文本字符串时，可以使用最近的历史记录：搜索窗格打开时，点击向下箭头来显示最近的记录。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the expected type is specified as a docstring, PyCharm provides code completion that suggests elements of the corresponding type:</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>当期望的类型被一个文档字符串批定时，PyCharm 提供建议相应类型元素的代码补全：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When there is no selection, the line at the cursor will be moved.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>当没有选择时，光标处的行将被移动。</seg>
       </tuv>
     </tu>
     <tu>
@@ -79729,10 +80457,26 @@ Error message: {1}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When you want to catch exceptions thrown by some code fragment, select it in the editor, press &lt;s0&gt;&amp;shortcut:SurroundWith;&lt;/s0&gt; (&lt;s1&gt;Code | Surround With&lt;/s1&gt;) and choose &lt;s2&gt;try/except&lt;/s2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>当你想要捕获一些代码片段内抛出的异常时，在编辑器中选择，然后按下 &lt;s0&gt;&amp;shortcut:SurroundWith;&lt;/s0&gt; (&lt;s1&gt;Code | Surround With&lt;/s1&gt;) 并选择 &lt;s2&gt;try/except&lt;/s2&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When you want to catch exceptions thrown by some code fragment, select it in the editor, press &lt;s0&gt;&amp;shortcut:SurroundWith;&lt;/s0&gt; (&lt;s1&gt;Code | Surround With&lt;/s1&gt;) and choose &lt;s2&gt;try / catch&lt;/s2&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>当你想要捕获一些代码片段内抛出的异常时，在编辑器中选择，然后按下 &lt;s0&gt;&amp;shortcut:SurroundWith;&lt;/s0&gt; (&lt;s1&gt;Code | Surround With&lt;/s1&gt;) 并选择 &lt;s2&gt;try / catch&lt;/s2&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>While debugging, you might need an interactive console at hand...</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>在调试时，您可能需要一个交互式控制台...</seg>
       </tuv>
     </tu>
     <tu>
@@ -79897,6 +80641,14 @@ Error message: {1}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>With PyCharm it is quite easy.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>使用 PyCharm 这很容易。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>With Subpackages</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -79949,6 +80701,14 @@ Error message: {1}</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>工作目录：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Working in the interactive consoles, you don't need to memorise the command line syntax or available functions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>在交互式控制台中工作，你不需要记住命令行语法或可用的功能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -80477,6 +81237,14 @@ as a source directory?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Wrong name</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>错误的名字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Wrong name format: {0}</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -80781,6 +81549,22 @@ as a source directory?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>YAML</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>YAML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>YAML files</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>YAML 文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Yes</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -80853,6 +81637,22 @@ as a source directory?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can also click &lt;s0&gt;&lt;i1&gt;&lt;/s0&gt; in the upper-right corner of the product window.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>您也可以点击产品窗口右上角的 &lt;s0&gt;&lt;i1&gt;&lt;/s0&gt; 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can also click the mouse on usages with the &lt;s1&gt;Ctrl&lt;/s1&gt; key pressed to jump to declarations.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>你也可以按住 &lt;s1&gt;Ctrl&lt;/s1&gt; 键，在使用处点击鼠标，即可跳转到定义处。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can also click the mouse on usages with the &lt;s2&gt;Ctrl&lt;/s2&gt; key pressed to jump to declarations.</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -80909,6 +81709,14 @@ as a source directory?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can always get back to them by selecting &lt;s0&gt;Help | Productivity Guide&lt;/s0&gt; on the menu bar.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>你总是可以从菜单中选择&lt;s0&gt;帮助|生产力指南&lt;/s0&gt;来找回它们。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can avoid escaping backslashes in your regular expressions.</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -80929,6 +81737,14 @@ as a source directory?</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>可以从一个版本控制系统中检出整个项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can comment and uncomment lines of code using &lt;s0&gt;&amp;shortcut:CommentByLineComment;&lt;/s0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>你可以使用 &lt;s0&gt;&amp;shortcut:CommentByLineComment;&lt;/s0&gt; 来注释/取消注释行代码。</seg>
       </tuv>
     </tu>
     <tu>
@@ -81013,10 +81829,26 @@ as a source directory?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can easily override the methods of the base class by pressing &lt;s0&gt;&amp;shortcut:OverrideMethods;&lt;/s0&gt; (&lt;s1&gt;Code | Override Methods&lt;/s1&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>你可以通过按 &lt;s0&gt;&amp;shortcut:OverrideMethods;&lt;/s0&gt; (&lt;s1&gt;Code | Override Methods&lt;/s1&gt;)轻松地覆写基类的方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can easily rename your classes, methods and variables with automatic correction of all places where they are used.</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>您可以轻松地重命名您的类，方法和变量，并自动更正所有使用它们的位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can easily rename your local variables with automatic correction of all places where they are used.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>您可以轻松地重命名你的局部变量，并自动更正所有使用它们的位置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -81049,6 +81881,14 @@ as a source directory?</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>您可以从项目中排除任何文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can gain quick access to the available tool windows: hover your mouse pointer over &lt;i0&gt; icon in the lower left corner of the IDE window.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>您可以快速访问可用的工具窗口：将鼠标指针悬停在 IDE 窗口左下角的 &lt;i0&gt; 图标上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -81129,6 +81969,14 @@ as a source directory?</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>你可以很快地找到特定类，方法或变量在整个项目中的所有使用，只需将插入符号定位于符号的名字处或代码中的使用处，然后按 &lt;s0&gt;&amp;shortcut:FindUsages;&lt;/s0&gt; (&lt;s1&gt;Edit | Find | Find Usages&lt;/s1&gt; )。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can quickly find all places where a particular class, method or variable is used in the whole project by positioning the caret at the symbol's name or at its usage in code and pressing &lt;s0&gt;&amp;shortcut:FindUsages;&lt;/s0&gt; (&lt;s1&gt;Find Usages&lt;/s1&gt; in the popup menu).</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>你可以很快地找到特定类，方法或变量在整个项目中的所有使用，只需将插入符号定位于符号的名字处或代码中的使用处，然后按 &lt;s0&gt;&amp;shortcut:FindUsages;&lt;/s0&gt; (弹窗中的 &lt;s1&gt;Find Usages&lt;/s1&gt;)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -81240,7 +82088,7 @@ as a source directory?</seg>
         <seg>You can use &lt;s0&gt;Basic Completion&lt;/s0&gt; (&lt;s1&gt;&amp;shortcut:CodeCompletion;&lt;/s1&gt;) in HTML, CSS and JavaScript files, for completing attributes, parameters, tags, selectors, etc.</seg>
       </tuv>
       <tuv lang="ZH-CN">
-        <seg>你可以在 HTML， CSS 和 JavaScript 文件中使用 &lt;s0&gt;Basic Completion(基本补全)&lt;/s0&gt; (&lt;s1&gt;&amp;shortcut:CodeCompletion;&lt;/s1&gt;) 来被全属性，参数，标签，选择器等。</seg>
+        <seg>你可以在 HTML， CSS 和 JavaScript 文件中使用 &lt;s0&gt;Basic Completion(基本补全)&lt;/s0&gt; (&lt;s1&gt;&amp;shortcut:CodeCompletion;&lt;/s1&gt;) 来补全属性，参数，标签，选择器等。</seg>
       </tuv>
     </tu>
     <tu>
@@ -81249,6 +82097,14 @@ as a source directory?</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>你可以在 Java 字符串及其他文件类型中，使用&lt;s0&gt;Basic Completion(基本补全)&lt;/s0&gt; (&lt;s1&gt;&amp;shortcut:CodeCompletion;&lt;/s1&gt;) 来补全 &lt;s2&gt;.properties&lt;/s2&gt; 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can use Basic Completion (&lt;s0&gt;&amp;shortcut:CodeCompletion;&lt;/s0&gt;) in HTML, CSS and JavaScript files, for completing attributes, parameters, tags, selectors, etc.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>你可以在 HTML， CSS 和 JavaScript 文件中使用基本补全 (&lt;s0&gt;&amp;shortcut:CodeCompletion;&lt;/s0&gt;) 来补全属性，参数，标签，选择器等。</seg>
       </tuv>
     </tu>
     <tu>
@@ -81269,6 +82125,14 @@ as a source directory?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can use this remote interpreter for your project, or just leave it as one of the available interpreters.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>您可以将此远程解释器用于您的项目，也可以将其作为可用的解释器之一。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can view all methods of the implemented interfaces in a class, if you place the caret at the implements keyword in the class declaration, press &lt;s0&gt;&amp;shortcut:HighlightUsagesInFile;&lt;/s0&gt;, and select the desired interface from the list:</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -81285,6 +82149,14 @@ as a source directory?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can work in the Python or Django shell without leaving the IDE.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>你不需要离开 IDE 就可以运行 Python 或 Django 脚本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You do not have read permissions to {0}</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -81297,6 +82169,14 @@ as a source directory?</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>您不需要在编辑器中打开一个文件来更改其换行符样式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You don't need to guess which &lt;s0&gt;__init__.py&lt;/s0&gt; or &lt;s1&gt;views.py&lt;/s1&gt; you are looking at...</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>你不需要猜测你在看哪一个 &lt;s0&gt;__init__.py&lt;/s0&gt; 或 &lt;s1&gt;views.py&lt;/s1&gt; ...</seg>
       </tuv>
     </tu>
     <tu>
@@ -82873,6 +83753,14 @@ Would you like to open it?</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>然后按下 &lt;s0&gt;&amp;shortcut:SmartTypeCompletion;&lt;/s0&gt;：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>and then press the &lt;s0&gt;Tab&lt;/s0&gt; key to see what happens.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>然后按 &lt;s0&gt;Tab&lt;/s0&gt; 键看会发生什么。</seg>
       </tuv>
     </tu>
     <tu>
@@ -84965,6 +85853,14 @@ Would you like to open it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>images/builtInServer.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>images/builtInServer.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>images/camel_completion.png</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -85001,6 +85897,14 @@ Would you like to open it?</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>images/checkRegExp.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/class_name_completion.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>images/class_name_completion.png</seg>
       </tuv>
     </tu>
     <tu>
@@ -85149,6 +86053,14 @@ Would you like to open it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>images/default_template_language.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>images/default_template_language.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>images/dragToOpen.png</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -85205,6 +86117,22 @@ Would you like to open it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>images/extract_variable_1.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>images/extract_variable_1.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/extract_variable_2.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>images/extract_variable_2.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>images/extract_variable_incomplete.png</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -85249,6 +86177,30 @@ Would you like to open it?</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>images/goto_symbol.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/goto_template_icon.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>images/goto_template_icon.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/goto_view.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>images/goto_view.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/goto_view_icon.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>images/goto_view_icon.png</seg>
       </tuv>
     </tu>
     <tu>
@@ -85341,6 +86293,22 @@ Would you like to open it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>images/jumplist.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>images/jumplist.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/launch_console_in_debugger.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>images/launch_console_in_debugger.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>images/lens.png</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -85385,6 +86353,22 @@ Would you like to open it?</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>images/live_templates_2.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/lower_left.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>images/lower_left.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/managepy.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>images/managepy.png</seg>
       </tuv>
     </tu>
     <tu>
@@ -85501,6 +86485,14 @@ Would you like to open it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>images/override_methods.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>images/override_methods.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>images/param_info.png</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -85517,10 +86509,34 @@ Would you like to open it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>images/pyColoredFiles.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>images/pyColoredFiles.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/pyconsole.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>images/pyconsole.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>images/qdoc_live_template.png</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>images/qdoc_live_template.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/quick_doc_on_mouse_move.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>images/quick_doc_on_mouse_move.png</seg>
       </tuv>
     </tu>
     <tu>
@@ -85653,6 +86669,14 @@ Would you like to open it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>images/reopen.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>images/reopen.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>images/resource_bundle_1.png</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -85685,6 +86709,22 @@ Would you like to open it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>images/searchEverywhere.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>images/searchEverywhere.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/searchEverywhere_lense.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>images/searchEverywhere_lense.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>images/search_settings.png</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -85713,6 +86753,14 @@ Would you like to open it?</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>images/select_tasks.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/showToolWindows.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>images/showToolWindows.png</seg>
       </tuv>
     </tu>
     <tu>
@@ -85849,6 +86897,22 @@ Would you like to open it?</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>images/todo_scopes.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/try_except.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>images/try_except.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/type_hinting_return.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>images/type_hinting_return.png</seg>
       </tuv>
     </tu>
     <tu>
@@ -86401,6 +87465,14 @@ Would you like to open it?</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>最后撤销操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>launch_console_in_debugger</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>launch_console_in_debugger</seg>
       </tuv>
     </tu>
     <tu>
@@ -88081,6 +89153,14 @@ Would you like to open it?</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>suggestVariableName()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>surround</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>surround</seg>
       </tuv>
     </tu>
     <tu>
