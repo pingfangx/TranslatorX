@@ -6030,6 +6030,14 @@ No new or edited TODO items, or items located in changed text fragments were fou
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&amp;productName;&lt;/s0&gt; lets you enable drag-n-drop only with ALT key pressed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>&lt;s0&gt;&amp;productName;&lt;/s0&gt; 允许你只在按下 ALT 键时启用拖放功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&amp;productName;&lt;/s0&gt; makes it possible to launch the embedded local terminal using keyboard only.</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -6146,6 +6154,14 @@ No new or edited TODO items, or items located in changed text fragments were fou
       </tuv>
       <tuv lang="ZH-CN">
         <seg>&lt;s0&gt;Ctrl+点击&lt;/s0&gt; (Windows) 或 &lt;s1&gt;Cmd+点击&lt;/s1&gt; (MacOS) 一个编辑器中的选项卡，可以导航到文件路径中的任何部分。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;Ctrl+Click&lt;/s0&gt; a tab in the editor to navigate to any part of the file path.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>&lt;s0&gt;Ctrl+Click&lt;/s0&gt;  一个编辑器中的选项卡，可以导航到文件路径中的任何部分。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8310,6 +8326,14 @@ No new or edited TODO items, or items located in changed text fragments were fou
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add the next found occurrence to the selection by pressing &lt;s2&gt;&amp;shortcut:SelectNextOccurrence;&lt;/s2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>按 &lt;s2&gt;&amp;shortcut:SelectNextOccurrence;&lt;/s2&gt; 将下一个匹配项添加到选择。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add to Dependency Injection Annotations</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -9278,6 +9302,14 @@ No new or edited TODO items, or items located in changed text fragments were fou
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All the encountered occurrences of a search string are highlighted, while the selection is in different color.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>搜索字符串的所有匹配项高亮显示，而选择是不同的颜色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All the words from the current file that start with the typed prefix will appear in the lookup list.</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -9308,6 +9340,14 @@ will be changed.</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>所有你所需要做的就是在 &lt;s0&gt;Settings | Version Control | Issue Navigation&lt;/s0&gt; 对话框中定义问题导航模式：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All you have to do is to define issue navigation patterns in the &lt;s0&gt;Settings | Version Control&lt;/s0&gt; dialog:</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>所有你所需要做的就是在 &lt;s0&gt;Settings | Version Control&lt;/s0&gt; 对话框中定义问题导航模式：</seg>
       </tuv>
     </tu>
     <tu>
@@ -10126,6 +10166,14 @@ as well as for the standard SDK classes resolution.</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>重新打开一个项目的方式是在任务栏右击 &lt;s0&gt;&amp;productName;&lt;/s0&gt; ：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Another way to reopen a project is to right-click the PhpStorm icon on the task bar:</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>重新打开一个项目的方式是在任务栏右击 PhpStorm 图标：</seg>
       </tuv>
     </tu>
     <tu>
@@ -16665,6 +16713,14 @@ Method {0} is not static</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose &lt;s0&gt;File | Settings&lt;/s0&gt; (Windows or *nix) or &lt;s1&gt;PhpStorm | Preferences&lt;/s1&gt; (MacOS) on the main menu, and then open the page &lt;s2&gt;Terminal&lt;/s2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>在主菜单选择 &lt;s0&gt;File | Settings&lt;/s0&gt; (Windows 或 *nix) 或 &lt;s1&gt;PhpStorm | Preferences&lt;/s1&gt; (MacOS) ，然后打开 &lt;s2&gt;Terminal&lt;/s2&gt; 页。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose &lt;s0&gt;File | Settings&lt;/s0&gt; (Windows/*nix) or &lt;s1&gt;PyCharm | Preferences&lt;/s1&gt; (Mac) on the main menu, and then open the page &lt;s2&gt;Terminal&lt;/s2&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -17269,6 +17325,14 @@ Method {0} is not static</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>选择语句解除包围/删除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose the symbol from a drop-down list that appears.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>从出现的下拉列表中选择符号。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20197,6 +20261,14 @@ Method {0} is not static</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>将编辑器中的选定文本与剪贴板内容进行比较</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compare the two address bars:</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>比较两个地址栏：</seg>
       </tuv>
     </tu>
     <tu>
@@ -25567,6 +25639,14 @@ is located below existing content root "{1}".</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Did you know that &lt;s0&gt;&amp;productName;&lt;/s0&gt; allows using multiselection while searching in a file (&lt;s1&gt;&amp;shortcut:Find;&lt;/s1&gt;)?</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>你知道 &lt;s0&gt;&amp;productName;&lt;/s0&gt; 允许在文件中搜索时 (&lt;s1&gt;&amp;shortcut:Find;&lt;/s1&gt;) 使用多重选择？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Did you know that Quick Definition View ({0}) works in completion lookups as well?</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -25587,6 +25667,14 @@ is located below existing content root "{1}".</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>你知道有可能复制富文本吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Did you know that you can avoid accidental moving of the tool window buttons or editor tabs?</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>您是否知道可以避免意外移动工具窗口按钮或编辑器选项卡吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -34956,6 +35044,14 @@ Do you want overwrite it or to append?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, you can surround html blocks with tags, etc.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>例如，你可以用标签等包围 html 块等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For information on how to upgrade your evaluation software please go to {0}</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -38190,6 +38286,14 @@ Compilation will proceed without clearing output directories.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If none of the applicable predefined File Watchers is associated with the current project, PhpStorm suggests to add one.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>如果没有适用的预定义文件查看器与当前项目关联，PhpStorm 会建议添加一个。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If not already imported</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -38278,6 +38382,14 @@ Compilation will proceed without clearing output directories.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If there is an injection of some language in your code, you can edit it in a dedicated editor.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>如果在代码中注入某种语言，则可以在专用编辑器中进行编辑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you are going to use Django live templates, make sure that Django is selected as the default Python template language in the Settings / Preferences dialog:</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -38306,6 +38418,14 @@ Compilation will proceed without clearing output directories.</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>如果你关闭了对话框，你总是可以在主菜单中的 &lt;s0&gt;Help | Tip of the Day&lt;/s0&gt; 找回它。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you close the dialog, you can always get back to it using &lt;s0&gt;Help | Tip of the Day&lt;/s0&gt; in the main menu.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>如果你关闭了对话框，你总是可以使用主菜单中的 &lt;s0&gt;Help | Tip of the Day&lt;/s0&gt; 找回它。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39336,6 +39456,22 @@ please fill in your JetBrains Account login and password.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In order to invoke the refactoring, move the cursor over the local variable to apply the refactoring to</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>为了调用重构，将光标移到局部变量上以应用重构</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In particular, it is possible to edit regular expressions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>特别是可以编辑正则表达式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In s&amp;ingle module</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -39460,6 +39596,14 @@ please fill in your JetBrains Account login and password.</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>包括测试依赖关系</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Include all the occurrences of a search string in the multiple selection by pressing &lt;s3&gt;&amp;shortcut:SelectAllOccurrences;&lt;/s3&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>按 &lt;s3&gt;&amp;shortcut:SelectAllOccurrences;&lt;/s3&gt; 将搜索字符串的所有匹配项添加到多选中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42262,6 +42406,14 @@ in class ''{1}''</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is quite easy to toggle HTML5 outline view in the &lt;s0&gt;File Structure&lt;/s0&gt; pop-up.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>在 &lt;s0&gt;File Structure&lt;/s0&gt; 弹窗中切换 HTML5 大纲视图非常简单。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is very easy to change the built-in web server port.</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -43176,6 +43328,14 @@ Cannot generate JavaDoc</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Just click &lt;s0&gt;&amp;shortcut:FileStructurePopup;&lt;/s0&gt; once more, and the check box &lt;s1&gt;HTML5 outline&lt;/s1&gt; becomes selected.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>只需再点一次 &lt;s0&gt;&amp;shortcut:FileStructurePopup;&lt;/s0&gt; ，复选框 &lt;s1&gt;HTML5 outline&lt;/s1&gt; 将会选中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Just click on highlighted source file name and line number in the console to see the source in the editor.</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -43236,6 +43396,14 @@ Cannot generate JavaDoc</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>只需右键单击注释并在上下文菜单中使用 &lt;s0&gt;Show Diff&lt;/s0&gt; 命令。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Just start typing a regular expression, then press &lt;s0&gt;&amp;shortcut:ShowIntentionActions;&lt;/s0&gt; and choose &lt;s1&gt;Edit RegExp&lt;/s1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>只需开始输入一个正则表达式，然后按 &lt;s0&gt;&amp;shortcut:ShowIntentionActions;&lt;/s0&gt; 并选择 &lt;s1&gt;Edit RegExp&lt;/s1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43796,6 +43964,14 @@ Cannot generate JavaDoc</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>最后 {0} 小时</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Later, this name will help you find the desired breakpoint:</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>稍后，这个名字将帮助您找到所需的断点：</seg>
       </tuv>
     </tu>
     <tu>
@@ -52106,6 +52282,14 @@ can be replaced with usages of {1}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On order to invoke this refactoring, select an expression to be replaced with a constant and press &lt;s0&gt;&amp;shortcut:IntroduceConstant;&lt;/s0&gt; (&lt;s1&gt;Refactor | Extract Constant&lt;/s1&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>为了调用这个重构，选择一个用要用常量代替的表达式，按 &lt;s0&gt;&amp;shortcut:IntroduceConstant;&lt;/s0&gt; (&lt;s1&gt;Refactor | Extract Constant&lt;/s1&gt;)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On-demand</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -55716,6 +55900,14 @@ be marked as source paths.</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>按 &lt;s0&gt;&amp;shortcut:EditorEscape;&lt;/s0&gt; 移除高亮。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press &lt;s0&gt;&amp;shortcut:ViewBreakpoints;&lt;/s0&gt; to show all the existing breakpoints, then right-click the breakpoint you want to give a description, and choose &lt;s1&gt;Edit description&lt;/s1&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>按 &lt;s0&gt;&amp;shortcut:ViewBreakpoints;&lt;/s0&gt; 查看所有现有的断点，然后右击你想要添加描述的断点，选择 &lt;s1&gt;Edit description&lt;/s1&gt; ：</seg>
       </tuv>
     </tu>
     <tu>
@@ -65192,6 +65384,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select the necessary element in the drop-down, and the corresponding file path is opened in an external browser (e.g., in the Explorer, if your OS is Windows).</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>在下拉框中选择所需的元素，相应的文件路径将在外部浏览器中打开(例如，如果您的操作系统是 Windows，会在资源管理器中打开)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select the necessary element in the drop-down, and the corresponding file path opens in an external browser (e.g., in the Explorer, if your OS is Windows).</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -68382,6 +68582,14 @@ surrounding ranges were commented.</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>这样做，如果一个类有多个构造函数，则会显示以下链接：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>So doing, if you just click the desired browser icon, the file shows up in the built-in server port; however, when you keep the Shift key pressed while clicking the browser icon, the file runs immediately from its location.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>这样做，如果你只是点击所需的浏览器图标，该文件显示在内置的服务器端口; 但是，如果在按住 Shift 键的同时单击浏览器图标，文件将立即从其位置运行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -71989,6 +72197,14 @@ is not an {1} module file (.iml)</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;s0&gt;'File watcher available'&lt;/s0&gt; inspection is invoked on every file that is recognized as the target for applying predefined file watchers (SASS, LESS, SCSS, TypeScript, Jade, Dart2JS or CoffeeScript).</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>&lt;s0&gt;'File watcher available'&lt;/s0&gt; 检查器应用于每一个被识别为应用预定义的观察器的对象(SASS, LESS, SCSS, TypeScript, Jade, Dart2JS 或 CoffeeScript)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;s0&gt;Code | Move Statement Up/Down&lt;/s0&gt; action is useful for reorganizing the code lines in your file, e.g., for bringing a variable declaration closer to the variable usage.</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -72069,6 +72285,14 @@ is not an {1} module file (.iml)</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Extract Constant refactoring creates a constant that holds the selected expression as the value and replaces its occurrences as the references to this newly created constant.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>提取常量重构创建一个常量，将所选表达式保存为值，并将其作为对新创建的常量的引用的替换。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Extract Variable refactoring helps you simplify complicated statements in your code.</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -72097,6 +72321,14 @@ is not an {1} module file (.iml)</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>IDE 忽略信号：运行配置中的 "停止" 按钮可能不起作用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Inline Variable refactoring replaces redundant variable usage with its last assigned value</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>内联变量重构用其上次分配的值替换冗余变量用法</seg>
       </tuv>
     </tu>
     <tu>
@@ -72701,6 +72933,14 @@ Please update modules configuration</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>许可证将于 {0,date,yyyy-MM-dd} 到期</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The list of available options ("wrappers") is context-sensitive and depends on the language that you are currently using.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>可用选项的列表 ("wrappers") 是基于上下文的，并取决于你当前使用的语言。</seg>
       </tuv>
     </tu>
     <tu>
@@ -73391,6 +73631,14 @@ already exists.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Then click the browse button, in the Interpreters window click Add and choose the option &lt;s0&gt;Remote&lt;/s0&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>然后点击浏览按钮，在解释器窗口中点击添加并选择选项 &lt;s0&gt;Remote&lt;/s0&gt;：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Then click the gear button, and choose the option &lt;s0&gt;Add Remote&lt;/s0&gt;:</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -73411,6 +73659,14 @@ already exists.</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>然后输入冒号 (&lt;s2&gt;:&lt;/s2&gt;) 和行号。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then use the "Built-in server port" spin box to set the new value.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>然后，使用 "Built-in server port" spin box 来设置新的值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -74407,6 +74663,14 @@ already exists.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To configure a remote interpreter, press &lt;s0&gt;&amp;shortcut:ShowSettings;&lt;/s0&gt;, and open the &lt;s1&gt;PHP&lt;/s1&gt; page.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>要配置远程解释器，按 &lt;s0&gt;&amp;shortcut:ShowSettings;&lt;/s0&gt; ，然后打开 &lt;s1&gt;PHP&lt;/s1&gt; 页。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To configure a remote interpreter, press &lt;s0&gt;&amp;shortcut:ShowSettings;&lt;/s0&gt;, and under the &lt;s1&gt;Project: &lt;name&gt;&lt;/s1&gt; node, open the page &lt;s2&gt;Project Interpreter&lt;/s2&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -74427,6 +74691,14 @@ already exists.</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>要创建临时文件，按 &lt;s0&gt;&amp;shortcut:NewScratchFile;&lt;/s0&gt;，然后选择语言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To delete an occurrence of a search string from a multiselection, press &lt;s0&gt;&amp;shortcut:UnselectPreviousOccurrence;&lt;/s0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>要从搜索字符串的匹配项的多选中删除一个，按 &lt;s0&gt;&amp;shortcut:UnselectPreviousOccurrence;&lt;/s0&gt; 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -74456,6 +74728,14 @@ already exists.</seg>
     <tu>
       <tuv lang="EN-US">
         <seg>To do that, just choose &lt;s0&gt;Move to Changelist&lt;/s0&gt; on the file context menu in the Local Changes tab of the Version Control tool window:</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>要这样做，只需在版本控制工具窗口的上下文菜单中选择 &lt;s0&gt;Move to Changelist&lt;/s0&gt; 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To do that, just choose &lt;s0&gt;Move to Changelist&lt;/s0&gt; on the file context menu in the Version Control tool window:</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>要这样做，只需在版本控制工具窗口的上下文菜单中选择 &lt;s0&gt;Move to Changelist&lt;/s0&gt; 。</seg>
@@ -74775,6 +75055,14 @@ already exists.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To quickly see the documentation for the class or method used at the editor's caret, press &lt;s0&gt;&amp;shortcut:QuickJavaDoc;&lt;/s0&gt; (&lt;s1&gt;View | Quick Documentation&lt;/s1&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>要快速查看编辑器中插入符号处的类或方法的文档，按 &lt;s0&gt;&amp;shortcut:QuickJavaDoc;&lt;/s0&gt; (&lt;s1&gt;View | Quick Documentation&lt;/s1&gt;)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To quickly see the documentation for the symbol at caret, press &lt;s0&gt;&amp;shortcut:QuickJavaDoc;&lt;/s0&gt; (&lt;s1&gt;View | Quick Documentation&lt;/s1&gt;).</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -74791,6 +75079,14 @@ already exists.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To quickly wrap a code block in useful constructs, select it in the editor, press &lt;s0&gt;&amp;shortcut:SurroundWith;&lt;/s0&gt; (&lt;s1&gt;Code | Surround With&lt;/s1&gt;) and choose the desired code block, e.g. &lt;s2&gt;if&lt;/s2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>要使用有用的结构快速包围代码，在编辑器中选择，按 &lt;s0&gt;&amp;shortcut:SurroundWith;&lt;/s0&gt; (&lt;s1&gt;Code | Surround With&lt;/s1&gt;) 然后选择所需的代码块，如 &lt;s2&gt;if&lt;/s2&gt; 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To see all the available scratch files, choose Scratches view in the Project tool window.</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -74803,6 +75099,14 @@ already exists.</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>要查看所选类的继承层次，按 &lt;s0&gt;&amp;shortcut:TypeHierarchy;&lt;/s0&gt; (&lt;s1&gt;Navigate | Type Hierarchy&lt;/s1&gt;)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To see the inheritance hierarchy for a selected function, press &lt;s0&gt;&amp;shortcut:TypeHierarchy;&lt;/s0&gt; (&lt;s1&gt;View | Type Hierarchy&lt;/s1&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>要查看所选方法的继承层次，按 &lt;s0&gt;&amp;shortcut:TypeHierarchy;&lt;/s0&gt; (&lt;s1&gt;View | Type Hierarchy&lt;/s1&gt;)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -74835,6 +75139,14 @@ already exists.</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>要选择多个单词，按住 &lt;s0&gt;Alt+Shift&lt;/s0&gt;，将插入符放到每个要选的词中并双击鼠标左键。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To select multiple words, press &lt;s0&gt;Alt&lt;/s0&gt;, place the caret at each word to be selected and double-click the left mouse button.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>要选择多个单词，按 &lt;s0&gt;Alt&lt;/s0&gt; ，将插入符放于要选择的单词然后双击鼠标左键。</seg>
       </tuv>
     </tu>
     <tu>
@@ -74883,6 +75195,22 @@ already exists.</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>要取消块注释，在注释内部按 &lt;s0&gt;&amp;shortcut:CommentByBlockComment;&lt;/s0&gt; 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To uncomment a commented block, press &lt;s0&gt;&amp;shortcut:CommentByBlockComment;&lt;/s0&gt; anywhere inside it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>要取消块注释，在注释内部按 &lt;s0&gt;&amp;shortcut:CommentByBlockComment;&lt;/s0&gt; 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To use multiple selection, add several cursors to your editor, and then press &lt;s0&gt;Shift&lt;/s0&gt; with the left or right arrow keys.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>要使用多个选择，请将多个光标添加到您的编辑器中，然后按下 &lt;s0&gt;Shift&lt;/s0&gt; 并使用左或右方向键。</seg>
       </tuv>
     </tu>
     <tu>
@@ -75163,6 +75491,14 @@ already exists.</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>在分割线上使用 Ctrl+click (Windows/*nix) 或 Cmd+click (Mac) ，可以在工具窗口的垂直放置和并排放置之间切换：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Toggle between the vertical and side-by-side placement of the tool windows by Ctrl+click/Cmd+Click on the splitter:</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>在分割线上使用 Ctrl+单击 / Cmd+单击，可以在工具窗口的垂直放置和并排放置之间切换：</seg>
       </tuv>
     </tu>
     <tu>
@@ -78145,6 +78481,14 @@ Error message: {1}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use &lt;s2&gt;&amp;shortcut:ActivateChangesToolWindow;&lt;/s2&gt; keyboard shortcut to show or hide this tool window.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>使用 &lt;s2&gt;&amp;shortcut:ActivateChangesToolWindow;&lt;/s2&gt; 来显示或隐藏该工具窗口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use &lt;s2&gt;&amp;shortcut:ActivateVersionControlToolWindow;&lt;/s2&gt; keyboard shortcut to show or hide this tool window.</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -80073,6 +80417,14 @@ Error message: {1}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Welcome!</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>欢迎！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>What do you want?</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -80261,6 +80613,14 @@ Error message: {1}</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>在文件中搜索文本字符串时，可以使用最近的历史记录：搜索窗格打开时，点击向下箭头来显示最近的记录。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When searching for a text string in a file, use recent history: with the search pane already open, press &lt;s0&gt;&amp;shortcut:Find;&lt;/s0&gt; once again to show the list of recent entries.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>在文件中搜索文本字符串时，可以使用最近的历史记录：搜索窗格打开时，再按一次 &lt;s0&gt;&amp;shortcut:Find;&lt;/s0&gt; 来显示最近的记录。</seg>
       </tuv>
     </tu>
     <tu>
@@ -80637,6 +80997,14 @@ Error message: {1}</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>用块</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With PhpStorm it is quite easy.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>使用 PhpStorm 这很容易。</seg>
       </tuv>
     </tu>
     <tu>
@@ -81629,6 +81997,14 @@ as a source directory?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can add a brief description of any breakpoint, to ease search in future.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>您可以添加任何断点的简要说明，以便日后轻松搜索。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can also choose an item with: {0}</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -81737,6 +82113,14 @@ as a source directory?</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>可以从一个版本控制系统中检出整个项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can comment and uncomment lines and blocks of code using &lt;s0&gt;&amp;shortcut:CommentByLineComment;&lt;/s0&gt; and &lt;s1&gt;&amp;shortcut:CommentByBlockComment;&lt;/s1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>你可以使用 &lt;s0&gt;&amp;shortcut:CommentByLineComment;&lt;/s0&gt; 和 &lt;s1&gt;&amp;shortcut:CommentByBlockComment;&lt;/s1&gt; 来注释/取消注释行或代码块。</seg>
       </tuv>
     </tu>
     <tu>
@@ -81957,6 +82341,14 @@ as a source directory?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can preview HTML files in a browser of your choice by clicking the browser icons toolbar:</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>您可以通过单击浏览器图标工具栏在您选择的浏览器中预览 HTML 文件：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can quickly find a setting you need in the &lt;s0&gt;Settings/Preferences&lt;/s0&gt; dialog, without browsing through the numerous options.</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -82081,6 +82473,14 @@ as a source directory?</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>你可以使用右下角的图标，来切换补全变量按相关性或字母顺序排列。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can try out the features described in the tips while this dialog stays open on the screen.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>当对话框在屏幕上保持打开状态时，您也可以尝试提示中描述的功能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -83729,6 +84129,22 @@ Would you like to open it?</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>然后按下 &lt;s0&gt;&amp;shortcut:CodeCompletion;&lt;/s0&gt; 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>and press &lt;s0&gt;&amp;shortcut:Inline;&lt;/s0&gt; (&lt;s1&gt;Refactor | Inline... &lt;/s1&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>然后按 &lt;s0&gt;&amp;shortcut:Inline;&lt;/s0&gt; (&lt;s1&gt;Refactor | Inline... &lt;/s1&gt;)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>and press &lt;s0&gt;&amp;shortcut:IntroduceVariable;&lt;/s0&gt; (&lt;s1&gt;Refactor | Extract Variable&lt;/s1&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>然后按 &lt;s0&gt;&amp;shortcut:IntroduceVariable;&lt;/s0&gt; (&lt;s1&gt;Refactor | Extract Variable&lt;/s1&gt;)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -85741,6 +86157,14 @@ Would you like to open it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>images/address_bars.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>images/address_bars.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>images/alt_insert_in_editor.png</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -85849,6 +86273,14 @@ Would you like to open it?</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>images/breakpoint_speedmenu.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/browser_icons.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>images/browser_icons.png</seg>
       </tuv>
     </tu>
     <tu>
@@ -85973,6 +86405,14 @@ Would you like to open it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>images/complete_method.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>images/complete_method.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>images/complete_statement.png</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -86045,10 +86485,26 @@ Would you like to open it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>images/ctrl_shift_i_lookup.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>images/ctrl_shift_i_lookup.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>images/ctrl_shift_in_lookup.png</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>images/ctrl_shift_in_lookup.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/dddisable.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>images/dddisable.png</seg>
       </tuv>
     </tu>
     <tu>
@@ -86117,6 +86573,22 @@ Would you like to open it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>images/extract_constant_1.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>images/extract_constant_1.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/extract_constant_2.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>images/extract_constant_2.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>images/extract_variable_1.png</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -86137,6 +86609,14 @@ Would you like to open it?</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>images/extract_variable_incomplete.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/file_watcher.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>images/file_watcher.png</seg>
       </tuv>
     </tu>
     <tu>
@@ -86237,6 +86717,14 @@ Would you like to open it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>images/html5_outline.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>images/html5_outline.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>images/image_completion.png</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -86249,6 +86737,22 @@ Would you like to open it?</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>images/image_lookup.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/inline_variable_1.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>images/inline_variable_1.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/inline_variable_2.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>images/inline_variable_2.png</seg>
       </tuv>
     </tu>
     <tu>
@@ -86445,6 +86949,22 @@ Would you like to open it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>images/multiselection.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>images/multiselection.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/multiselection1.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>images/multiselection1.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>images/multiselection2.png</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -86465,6 +86985,22 @@ Would you like to open it?</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>images/multiselection_words.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/named_breakpoint.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>images/named_breakpoint.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/named_breakpoint1.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>images/named_breakpoint1.png</seg>
       </tuv>
     </tu>
     <tu>
@@ -86641,6 +87177,14 @@ Would you like to open it?</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>images/reference_pasted.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/remote.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>images/remote.png</seg>
       </tuv>
     </tu>
     <tu>
@@ -86945,6 +87489,14 @@ Would you like to open it?</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>images/word_completion.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>img</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>img</seg>
       </tuv>
     </tu>
     <tu>
