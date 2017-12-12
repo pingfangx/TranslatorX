@@ -24119,6 +24119,14 @@ is located below existing content root "{1}".</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DDdisable</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>禁用拖放</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>D_ebug Log Settings...</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -84685,6 +84693,14 @@ Would you like to open it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>built in server</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>内置服务器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>button to create a new {0} based on default settings</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -84817,6 +84833,14 @@ Would you like to open it?</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>实现两个接口的类</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>class name completion</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>类名补全</seg>
       </tuv>
     </tu>
     <tu>
@@ -84981,6 +85005,14 @@ Would you like to open it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>comment</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>注释</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>comment code</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -85121,6 +85153,30 @@ Would you like to open it?</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>配置终端</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>consoles</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>控制台</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>consoles code completion</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>控制台代码补全</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>consoles history</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>控制台历史记录</seg>
       </tuv>
     </tu>
     <tu>
@@ -85805,6 +85861,14 @@ Would you like to open it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>extract variable</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>提取变量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>facet</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -85897,6 +85961,14 @@ Would you like to open it?</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>文件结构弹窗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>file watchers inspection</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>文件观察器检查</seg>
       </tuv>
     </tu>
     <tu>
@@ -86217,6 +86289,14 @@ Would you like to open it?</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>水平滚动</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>html5 outline</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>HTML5 大纲</seg>
       </tuv>
     </tu>
     <tu>
@@ -87877,6 +87957,14 @@ Would you like to open it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>inline variable</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>内联变量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>inner classes</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -87905,6 +87993,14 @@ Would you like to open it?</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>插入代码模板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>inspect code</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>检查代码</seg>
       </tuv>
     </tu>
     <tu>
@@ -87985,6 +88081,22 @@ Would you like to open it?</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>接口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>interpreter</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>解释器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>introduce constant</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>引入常量</seg>
       </tuv>
     </tu>
     <tu>
@@ -88213,6 +88325,14 @@ Would you like to open it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>launch console</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>启动控制台</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>launch_console_in_debugger</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -88325,10 +88445,26 @@ Would you like to open it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>live edit</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>live edit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>live templates</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>代码模板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>live templates django</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>django 代码模板</seg>
       </tuv>
     </tu>
     <tu>
@@ -88425,6 +88561,14 @@ Would you like to open it?</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>main() 方法声明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>managepy</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>管理 py</seg>
       </tuv>
     </tu>
     <tu>
@@ -88709,6 +88853,22 @@ Would you like to open it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>multiple projects</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>多个项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>multiselection</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>多选</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>multiselection 1</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -88725,6 +88885,22 @@ Would you like to open it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>multiselection in search</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>搜索中的多选</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>multiselection in search 1</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>搜索中的多选 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>multiselection words</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -88737,6 +88913,14 @@ Would you like to open it?</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>n/a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>named breakpoints</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>命名断点</seg>
       </tuv>
     </tu>
     <tu>
@@ -89245,6 +89429,14 @@ Would you like to open it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>py color files</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>颜色标记 py 文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>qfo</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -89349,6 +89541,14 @@ Would you like to open it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>remote interpreter</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>远程解释器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>remove tool window button</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -89377,6 +89577,14 @@ Would you like to open it?</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>重命名字段将隐藏 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>reopen</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>重新打开</seg>
       </tuv>
     </tu>
     <tu>
@@ -90005,6 +90213,14 @@ Would you like to open it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>templates</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>模板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>terminal</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -90149,6 +90365,14 @@ Would you like to open it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>tool windows quick access</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>工具窗口快速访问</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>transient</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -90209,6 +90433,14 @@ Would you like to open it?</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>type hinting</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>类型提示</seg>
       </tuv>
     </tu>
     <tu>
@@ -90465,6 +90697,14 @@ Would you like to open it?</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>vcs 快速列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>view in browser</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>在浏览器中查看</seg>
       </tuv>
     </tu>
     <tu>
