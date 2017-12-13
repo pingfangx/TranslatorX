@@ -1,7 +1,0 @@
-Search Everywhere=全局搜索
-Double =双击 
-Project View=项目视图
-Go to File=转到文件
-Recent Files=最新文件
-Navigation Bar=导航栏　
-Drop files here to open=拖放文件到这里打开    汉化反馈:http://www.pingfangx.com

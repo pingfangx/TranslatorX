@@ -1,6 +1,0 @@
-;要处理的 jar 包，如果不需要处理，在开头添加“;”
-lib/idea.jar
-lib/resources.jar
-lib/resources_en.jar
-plugins/android/lib/android.jar
-plugins/android/lib/resources_en.jar
