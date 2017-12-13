@@ -1,24 +1,43 @@
-# Android Studio 3.0 汉化包  
+# JetBrains 系列软件汉化包  
+关键字:  
+Android Studio 3.0 汉化包  
+IntelliJ IDEA 2017.3 汉化包  
+PhpStorm 2017.3 汉化包  
+PyCharm 2017.3 汉化包  
+WebStorm 2017.3 汉化包  
+
+
 平方X原创汉化，转载请注明出处。  
-[http://www.pingfangx.com/xx/translation/android_studio](http://www.pingfangx.com/xx/translation/android_studio)  
+[http://www.pingfangx.com/xx/translation](http://www.pingfangx.com/xx/translation)  
 
 ![预览图](https://pingfangx.github.io/resource/blogx/2421.1.png)
 
-# 0x01 如何下载
-可从 [github releases](https://github.com/pingfangx/TranslatorX/releases) 或 [csdn 专辑](http://download.csdn.net/album/detail/4157) 下载。  
-其中 csdn 的系统会自己提高下载所需的积分，不是作者设置的。大家可以从 github 免积分下载。
+# 0x01 如何使用
+下载 resources_cn_\*.jar 放到软件安装目录下的 /lib/ 中即可。  
+命名 resources_cn_AndroidStudio_3.0_r1.jar ，指 AndroidStudio 3.0 汉化包的第 1 个版本。  
+一般软件小版本更新时，汉化包是通用的，但更新时会自动删除汉化包，请先备份汉化包或更新后重新下载。
+
+# 0x02 如何下载
+可从 [github releases](https://github.com/pingfangx/TranslatorX/releases) 或 [csdn 专辑](http://download.csdn.net/album/detail/4157) 或 [百度云](https://pan.baidu.com/s/1c1UVmPa) 下载。  
+其中 csdn 的系统会自己提高下载所需的积分，不是作者设置的。大家可以从 github 或百度云免积分下载。
 
 支持版本  
+## Android Studio
 * 3.0
 * 3.0.1
 
-# 0x02 如何使用
-下载 `resources_cn.jar` 或者 `resources_cn_with_tips.jar` 放到 Android Studio 的安装目录下的 /lib/ 中即可。  
-* resources_cn.jar 文件较小，就 200 多 k ；  
-* resources_cn_with_tips.jar 包含了每日提示的汉化，由于 tips 中包含图片等内容，因此文件较大。  
+## IntelliJ IDEA
+* 2017.3
 
-命名 resources_cn_with_tips-3.0.1_r1.jar ，指 AndroidStudio 3.0.1 汉化包的第 1 个版本，包含 tips。  
-一般 AndroidStudio 小版本更新时，汉化包通用，但更新时会自动删除汉化包，请先备份汉化包或更新后重新下载。
+## PhpStorm
+* 2017.3
+
+## PyCharm
+* 2017.3
+
+## WebStorm
+* 2017.3
+
 
 # 0x03 如何反馈
 请提至 [https://github.com/pingfangx/TranslatorX/issues](https://github.com/pingfangx/TranslatorX/issues)
@@ -50,7 +69,7 @@
 啊嘞，自己当初只是想了解一下 Android Studio 所有的快捷键而已啊……我都干了些神马？？？
 
 每一条自己都认真翻译过来的，没有直接使用机器翻译，当然了，也不一定太认真，有的内容自己没有使用过，可能翻译不正确，甚至就直接没有翻译。  
-有意见、建议、反馈请到上面 0x02 中提到的地方，谢谢。
+有意见、建议、反馈请到上面 0x03 中提到的地方，谢谢。
 
 # 0x06 感谢  
 在整个汉化过程中，很多文章给出了汉化方法、汉化包等，给了自己一些参考，非常感谢前人的努力，以下列出部分：  
@@ -58,4 +77,4 @@
 [2].[ewen0930.《PhpStorm Chinese Language Pack（中文语言包）》](https://github.com/ewen0930)  
 [3].[ACXNX.《AndroidStudio 中文汉化包》](https://github.com/ACXNX/AndroidStudio-ChineseLanguagePackage)  
 [4].[韩梦飞沙 韩亚飞.《安卓工作室 韩梦飞沙 汉化 使用 教程》](http://www.cnblogs.com/yue31313/p/7464727.html)  
-[5].[第七下载.《Android Studio汉化包 2.3.3.0 官方最新版》](https://www.7down.com/soft/40545.html)  
+
