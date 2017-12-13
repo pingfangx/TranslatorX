@@ -18,25 +18,29 @@ WebStorm 2017.3 汉化包
 一般软件小版本更新时，汉化包是通用的，但更新时会自动删除汉化包，请先备份汉化包或更新后重新下载。
 
 # 0x02 如何下载
-可从 [github releases](https://github.com/pingfangx/TranslatorX/releases) 或 [csdn 专辑](http://download.csdn.net/album/detail/4157) 或 [百度云](https://pan.baidu.com/s/1c1UVmPa) 下载。  
-其中 csdn 的系统会自己提高下载所需的积分，不是作者设置的。大家可以从 github 或百度云免积分下载。
-
-支持版本  
+可从 [百度云](https://pan.baidu.com/s/1c1UVmPa) 或 [csdn 专辑](http://download.csdn.net/album/detail/4157) 下载。  
+其中 csdn 的系统会自己提高下载所需的积分，不是作者设置的。可从百度云免积分下载。  
 ## Android Studio
-* 3.0
-* 3.0.1
+* 3.0.1——resources_cn_AndroidStudio_3.0_r1.jar
+[[百度云]](https://pan.baidu.com/s/1c1UVmPa) [[csdn]](http://download.csdn.net/download/pingfangx/10156925)
+* 3.0——resources_cn_AndroidStudio_3.0_r1.jar
+[[百度云]](https://pan.baidu.com/s/1c1UVmPa) [[csdn]](http://download.csdn.net/download/pingfangx/10156925)
 
 ## IntelliJ IDEA
-* 2017.3
+* 2017.3——resources_cn_IntelliJIDEA_2017.3_r1.jar
+[[百度云]](https://pan.baidu.com/s/1c1UVmPa) [[csdn]](http://download.csdn.net/download/pingfangx/10156934)
 
 ## PhpStorm
-* 2017.3
+* 2017.3——resources_cn_PhpStorm_2017.3_r1.jar
+[[百度云]](https://pan.baidu.com/s/1c1UVmPa) [[csdn]](http://download.csdn.net/download/pingfangx/10156940)
 
 ## PyCharm
-* 2017.3
+* 2017.3——resources_cn_PyCharm_2017.3_r1.jar
+[[百度云]](https://pan.baidu.com/s/1c1UVmPa) [[csdn]](http://download.csdn.net/download/pingfangx/10156949)
 
 ## WebStorm
-* 2017.3
+* 2017.3——resources_cn_WebStorm_2017.3_r1.jar
+[[百度云]](https://pan.baidu.com/s/1c1UVmPa) [[csdn]](http://download.csdn.net/download/pingfangx/10156944)
 
 
 # 0x03 如何反馈
