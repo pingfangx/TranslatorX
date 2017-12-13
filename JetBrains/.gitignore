@@ -6,9 +6,11 @@
 /omegat/project_stats.txt
 /omegat/project_stats_match.txt
 # 输出
-/target/*
+#/target/*
 !/target/.gitkeep
 # 各记忆文件，只需要omegat/project_save.tmx即可
 /*-level1.tmx
 /*-level2.tmx
 /*-omegat.tmx
+# 汉化包
+/jars
