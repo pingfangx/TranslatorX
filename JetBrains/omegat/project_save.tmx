@@ -14865,6 +14865,14 @@ All mentioned modules will be treated as Unknown modules.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cannot find source class for {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171215T061421Z" creationid="pingfangx" creationdate="20171215T061421Z">
+        <seg>找不到 {0} 的源码类</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cannot find sources for class containing field ''{0}''</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -56209,6 +56217,14 @@ to migrate using the migration map "{0}"</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Press {0} to navigate through the history</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171215T061504Z" creationid="pingfangx" creationdate="20171215T061504Z">
+        <seg>按 {0} 浏览历史记录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Press {0} to search for matching files of any type</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -82185,6 +82201,14 @@ as a source directory?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>您可以添加任何断点的简要说明，以便日后轻松搜索。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can also choose an item with {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171215T061538Z" creationid="pingfangx" creationdate="20171215T061538Z">
+        <seg>您也可以选择一个项目用 {0}</seg>
       </tuv>
     </tu>
     <tu>
