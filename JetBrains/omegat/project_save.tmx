@@ -4854,8 +4854,8 @@ Use ; (分号) 来分隔资源模式;
       <tuv lang="EN-US">
         <seg>&lt;default&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
-        <seg>&lt;默认&gt;</seg>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171217T044150Z" creationid="pingfangx" creationdate="20171213T025638Z">
+        <seg>&lt;default&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6064,8 +6064,8 @@ No new or edited TODO items, or items located in changed text fragments were fou
       <tuv lang="EN-US">
         <seg>&lt;no-name&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
-        <seg>&lt;没有名字&gt;</seg>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171217T044153Z" creationid="pingfangx" creationdate="20171213T025638Z">
+        <seg>&lt;no-name&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10638,8 +10638,8 @@ as well as for the standard SDK classes resolution.</seg>
       <tuv lang="EN-US">
         <seg>Application</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
-        <seg>应用程序</seg>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171217T044139Z" creationid="pingfangx" creationdate="20171213T025638Z">
+        <seg>Application</seg>
       </tuv>
     </tu>
     <tu>
@@ -42856,8 +42856,8 @@ in class ''{1}''</seg>
       <tuv lang="EN-US">
         <seg>JAR Application</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
-        <seg>JAR 应用程序</seg>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171217T044140Z" creationid="pingfangx" creationdate="20171213T025638Z">
+        <seg>JAR Application</seg>
       </tuv>
     </tu>
     <tu>
@@ -78633,6 +78633,14 @@ Error message: {1}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use &lt;s0&gt;Analyze | Locate Duplicates&lt;/s0&gt; to find repetitive blocks of code in a single file, a project, a module, or a custom scope.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171217T050510Z" creationid="pingfangx" creationdate="20171217T050356Z">
+        <seg>使用 &lt;s0&gt;Analyze | Locate Duplicates&lt;/s0&gt; 可以在一个文件、项目、模块或自定义范围内查找重复的代码块。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use &lt;s0&gt;Basic Completion&lt;/s0&gt; (&lt;s1&gt;&amp;shortcut:CodeCompletion;&lt;/s1&gt;) for completing words in text and comments in files of many different types.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -85431,8 +85439,8 @@ Would you like to open it?</seg>
       <tuv lang="EN-US">
         <seg>default package</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
-        <seg>默认包</seg>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171217T044151Z" creationid="pingfangx" creationdate="20171213T025638Z">
+        <seg>default package</seg>
       </tuv>
     </tu>
     <tu>
@@ -88561,6 +88569,14 @@ Would you like to open it?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>局部变量 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>locate duplicates</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171217T050521Z" creationid="pingfangx" creationdate="20171217T050521Z">
+        <seg>查找重复</seg>
       </tuv>
     </tu>
     <tu>
