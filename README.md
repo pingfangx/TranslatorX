@@ -20,34 +20,35 @@ Android Studio 更新时会自动删除汉化包，请先备份汉化包或更�
 
 # 0x02 如何下载
 可从 [百度云] 或 [csdn 专辑](http://download.csdn.net/album/detail/4157) 下载。  
-其中 csdn 的系统会自己提高下载所需的积分，不是作者设置的。可从百度云免积分下载。  
+其中 csdn 的系统会自己提高下载所需的积分，不是作者设置的。可从百度云免积分下载。
+
 ## Android Studio
-* 3.0.1——resources_cn_AndroidStudio_3.0.1_r1.jar
-[[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10161357)]
+* 3.0.1——resources_cn_AndroidStudio_3.0.1_r2.jar
+[[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10162211)]
 * 3.0——resources_cn_AndroidStudio_3.0_r1.jar
 [[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10156925)]
 
 ## IntelliJ IDEA
-* 2017.3.1——resources_cn_IntelliJIDEA_2017.3.1_r1.jar
-[[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10161361)]
+* 2017.3.1——resources_cn_IntelliJIDEA_2017.3.1_r2.jar
+[[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10162213)]
 * 2017.3——resources_cn_IntelliJIDEA_2017.3_r1.jar
 [[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10156934)]
 
 ## PhpStorm
-* 2017.3.1——resources_cn_PhpStorm_2017.3.1_r1.jar
-[[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10161363)]
+* 2017.3.1——resources_cn_PhpStorm_2017.3.1_r2.jar
+[[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10162215)]
 * 2017.3——resources_cn_PhpStorm_2017.3_r1.jar
 [[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10156940)]
 
 ## PyCharm
-* 2017.3.1——resources_cn_PyCharm_2017.3.1_r1.jar
-[[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10161369)]
+* 2017.3.1——resources_cn_PyCharm_2017.3.1_r2.jar
+[[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10162217)]
 * 2017.3——resources_cn_PyCharm_2017.3_r1.jar
 [[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10156949)]
 
 ## WebStorm
-* 2017.3.1——resources_cn_WebStorm_2017.3.1_r1.jar
-[[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10161367)]
+* 2017.3.1——resources_cn_WebStorm_2017.3.1_r2.jar
+[[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10162219)]
 * 2017.3——resources_cn_WebStorm_2017.3_r1.jar
 [[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10156944)]
 
