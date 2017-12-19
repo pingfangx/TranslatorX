@@ -9224,16 +9224,16 @@ No new or edited TODO items, or items located in changed text fragments were fou
       <tuv lang="EN-US">
         <seg>All elements are null</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
-        <seg>所有元素者是空</seg>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171227T031012Z" creationid="pingfangx" creationdate="20171213T025638Z">
+        <seg>所有元素都是 null</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>All elements in range ({0}, {1}) are null</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
-        <seg>所有元素在范围({0}, {1}) 都是空</seg>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171227T031029Z" creationid="pingfangx" creationdate="20171213T025638Z">
+        <seg>所有元素在范围({0}, {1}) 都是 null</seg>
       </tuv>
     </tu>
     <tu>
@@ -9417,7 +9417,7 @@ No new or edited TODO items, or items located in changed text fragments were fou
         <seg>All the words from the current file that start with the typed prefix will appear in the lookup list.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
-        <seg>来自当前文件的所有以键入的前缀开头的单词将显示在查找列表中。</seg>
+        <seg>来自当前文件的所有以键入的前缀开头的单词将显示在查阅列表中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11255,7 +11255,7 @@ as well as for the standard SDK classes resolution.</seg>
         <seg>As you type the name of the utility you want to run, the lookup list shrinks to show the matching entries only.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
-        <seg>在输入要运行的实用程序的名称时，查找列表将缩小以仅显示匹配的条目。</seg>
+        <seg>在输入要运行的实用程序的名称时，查阅列表将缩小以仅显示匹配的条目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43555,7 +43555,7 @@ Cannot generate JavaDoc</seg>
         <seg>Just press &lt;s1&gt;&amp;shortcut:$Copy;&lt;/s1&gt; on any element in the lookup list.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
-        <seg>只需在查找列表中的任何元素处按 &lt;s1&gt;&amp;shortcut:$Copy;&lt;/s1&gt; 。</seg>
+        <seg>只需在查阅列表中的任何元素处按 &lt;s1&gt;&amp;shortcut:$Copy;&lt;/s1&gt; 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -57987,7 +57987,7 @@ Code Style</seg>
         <seg>Quick Definition in lookup lists</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
-        <seg>在查找列表中的快速定义</seg>
+        <seg>在查阅列表中的快速定义</seg>
       </tuv>
     </tu>
     <tu>
@@ -58011,7 +58011,7 @@ Code Style</seg>
         <seg>Quick Documentation in lookups</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
-        <seg>在查找列表中的快速文档</seg>
+        <seg>在查阅列表中的快速文档</seg>
       </tuv>
     </tu>
     <tu>
@@ -72639,8 +72639,8 @@ is not an {1} module file (.iml)</seg>
       <tuv lang="EN-US">
         <seg>The code style settings of your project {0} were migrated to the new format.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
-        <seg>项目 {0} 的代码样式设置迁移到新格式。</seg>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171219T092544Z" creationid="pingfangx" creationdate="20171213T025638Z">
+        <seg>项目 {0} 的代码样式设置已迁移到新格式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -80523,8 +80523,8 @@ Error message: {1}</seg>
       <tuv lang="EN-US">
         <seg>We''re keeping the old format for now, for backwards compatibility.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
-        <seg>为了向后兼容，我们再在保留旧格式。</seg>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171219T092454Z" creationid="pingfangx" creationdate="20171213T025638Z">
+        <seg>为了向后兼容，我们现在保留旧格式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -80764,7 +80764,7 @@ Error message: {1}</seg>
         <seg>When in the &lt;s0&gt;Go to Class&lt;/s0&gt;, &lt;s1&gt;Go to Symbol&lt;/s1&gt;, or &lt;s2&gt;Go to File&lt;/s2&gt; popup, you can ease the search by filtering the lookup list with the help of the "camel words" prefixes.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
-        <seg>当在 &lt;s0&gt;转到类&lt;/s0&gt;， &lt;s1&gt;转到符号&lt;/s1&gt; 或者 &lt;s2&gt;转到文件&lt;/s2&gt; 弹窗时，您可以借助 "驼峰词" 前缀过滤查找列表，来轻松完成搜索。</seg>
+        <seg>当在 &lt;s0&gt;转到类&lt;/s0&gt;， &lt;s1&gt;转到符号&lt;/s1&gt; 或者 &lt;s2&gt;转到文件&lt;/s2&gt; 弹窗时，您可以借助 "驼峰词" 前缀过滤查阅列表，来轻松完成搜索。</seg>
       </tuv>
     </tu>
     <tu>
@@ -80788,7 +80788,7 @@ Error message: {1}</seg>
         <seg>When multiple choices are available, they are shown in the lookup list.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
-        <seg>当有多个选择可用时，它们将显示在查找列表中。</seg>
+        <seg>当有多个选择可用时，它们将显示在查阅列表中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -85352,7 +85352,7 @@ Would you like to open it?</seg>
         <seg>ctrl dot in lookups</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
-        <seg>在查找列表中按 Ctrl + 点</seg>
+        <seg>在查阅列表中按 Ctrl + 点</seg>
       </tuv>
     </tu>
     <tu>
@@ -85384,7 +85384,7 @@ Would you like to open it?</seg>
         <seg>ctrl shift I for lookup</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
-        <seg>查找列表中查看定义</seg>
+        <seg>查阅列表中查看定义</seg>
       </tuv>
     </tu>
     <tu>
@@ -85592,7 +85592,7 @@ Would you like to open it?</seg>
         <seg>dot etc in lookups</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
-        <seg>查找列表中的点号等</seg>
+        <seg>查阅列表中使用点号等符号</seg>
       </tuv>
     </tu>
     <tu>
@@ -89544,7 +89544,7 @@ Would you like to open it?</seg>
         <seg>quick java doc in lookups</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
-        <seg>查找列表中的快速 java 文档</seg>
+        <seg>查阅列表中的快速 java 文档</seg>
       </tuv>
     </tu>
     <tu>
