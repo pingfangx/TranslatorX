@@ -35,6 +35,8 @@ Android Studio 更新时会自动删除汉化包，请先备份汉化包或更�
 [[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10156934)]
 
 ## PhpStorm
+* 2017.3.2——resources_cn_PhpStorm_2017.3.2_r1.jar
+[[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10171245)]
 * 2017.3.1——resources_cn_PhpStorm_2017.3.1_r2.jar
 [[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10162215)]
 * 2017.3——resources_cn_PhpStorm_2017.3_r1.jar

@@ -64288,6 +64288,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Search recursively in directory</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171224T061039Z" creationid="pingfangx" creationdate="20171224T061039Z">
+        <seg>在目录中递归搜索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Search results</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
