@@ -18,46 +18,64 @@ WebStorm 2017.3-2017.3.1 汉化包
 一般软件小版本更新时，汉化包是通用的，除 AndroidStudio 外，软件更新时会保留汉化包，更新后亦可下载新的汉化包。  
 Android Studio 更新时会自动删除汉化包，请先备份汉化包或更新后重新下载。
 
-# 0x02 如何下载
+# 0x02 如何反馈
+源码：[https://github.com/pingfangx/TranslatorX](https://github.com/pingfangx/TranslatorX)  
+反馈：[https://github.com/pingfangx/TranslatorX/issues](https://github.com/pingfangx/TranslatorX/issues)
+
+# 0x03 如何下载
+
 可从 [百度云] 或 [csdn 专辑](http://download.csdn.net/album/detail/4157) 下载。  
-其中 csdn 的系统会自己提高下载所需的积分，不是作者设置的。可从百度云免积分下载。
+其中 csdn 的系统会自己提高下载所需的积分，不是作者设置的。可从百度云免积分下载。  
 
 ## Android Studio
+* 3.0.1——resources_cn_AndroidStudio_3.0.1_r3.jar
+[[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10181810)]
 * 3.0.1——resources_cn_AndroidStudio_3.0.1_r2.jar
 [[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10162211)]
+* 3.0.1——resources_cn_AndroidStudio_3.0.1_r1.jar
+[[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10161357)]
 * 3.0——resources_cn_AndroidStudio_3.0_r1.jar
 [[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10156925)]
 
 ## IntelliJ IDEA
+* 2017.3.2——resources_cn_IntelliJIDEA_2017.3.2_r1.jar
+[[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10181823)]
 * 2017.3.1——resources_cn_IntelliJIDEA_2017.3.1_r2.jar
 [[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10162213)]
+* 2017.3.1——resources_cn_IntelliJIDEA_2017.3.1_r1.jar
+[[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10161361)]
 * 2017.3——resources_cn_IntelliJIDEA_2017.3_r1.jar
 [[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10156934)]
 
 ## PhpStorm
 * 2017.3.2——resources_cn_PhpStorm_2017.3.2_r1.jar
-[[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10171245)]
+[[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10181836)]
 * 2017.3.1——resources_cn_PhpStorm_2017.3.1_r2.jar
 [[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10162215)]
+* 2017.3.1——resources_cn_PhpStorm_2017.3.1_r1.jar
+[[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10161363)]
 * 2017.3——resources_cn_PhpStorm_2017.3_r1.jar
 [[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10156940)]
 
 ## PyCharm
+* 2017.3.2——resources_cn_PyCharm_2017.3.2_r1.jar
+[[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10181839)]
 * 2017.3.1——resources_cn_PyCharm_2017.3.1_r2.jar
 [[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10162217)]
+* 2017.3.1——resources_cn_PyCharm_2017.3.1_r1.jar
+[[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10161369)]
 * 2017.3——resources_cn_PyCharm_2017.3_r1.jar
 [[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10156949)]
 
 ## WebStorm
+* 2017.3.2——resources_cn_WebStorm_2017.3.2_r1.jar
+[[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10181842)]
 * 2017.3.1——resources_cn_WebStorm_2017.3.1_r2.jar
 [[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10162219)]
+* 2017.3.1——resources_cn_WebStorm_2017.3.1_r1.jar
+[[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10161367)]
 * 2017.3——resources_cn_WebStorm_2017.3_r1.jar
 [[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10156944)]
-
-
-# 0x03 如何反馈
-源码：[https://github.com/pingfangx/TranslatorX](https://github.com/pingfangx/TranslatorX)  
-反馈：[https://github.com/pingfangx/TranslatorX/issues](https://github.com/pingfangx/TranslatorX/issues)
 
 # 0x04 常见问题
 ## 4.1 汉化后中文显示为框框
