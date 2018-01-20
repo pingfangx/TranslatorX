@@ -1,10 +1,10 @@
 # JetBrains 系列软件汉化包  
 关键字:  
 Android Studio 3.0-3.0.1 汉化包  
-IntelliJ IDEA 2017.3-2017.3.1 汉化包  
-PhpStorm 2017.3-2017.3.1 汉化包  
-PyCharm 2017.3-2017.3.1 汉化包  
-WebStorm 2017.3-2017.3.1 汉化包  
+IntelliJ IDEA 2017.3-2017.3.3 汉化包  
+PhpStorm 2017.3-2017.3.3 汉化包  
+PyCharm 2017.3-2017.3.3 汉化包  
+WebStorm 2017.3-2017.3.3 汉化包  
 
 
 平方X原创汉化，转载请注明出处。  
@@ -13,8 +13,9 @@ WebStorm 2017.3-2017.3.1 汉化包
 ![预览图](https://pingfangx.github.io/resource/blogx/2421.1.png)
 
 # 0x01 如何使用
-下载 resources_cn_\*.jar 放到软件安装目录下的 /lib/ 中即可。  
-命名 resources_cn_AndroidStudio_3.0_r1.jar ，指 AndroidStudio 3.0 汉化包的第 1 个版本。  
+下载对应软件对应版本的 resources_cn_\*.jar 放到软件安装目录下的 /lib/ 中即可。  
+
+汉化包的命名 resources_cn_AndroidStudio_3.0_r1.jar ，指 AndroidStudio 3.0 汉化包的第 1 个版本。  
 一般软件小版本更新时，汉化包是通用的，除 AndroidStudio 外，软件更新时会保留汉化包，更新后亦可下载新的汉化包。  
 Android Studio 更新时会自动删除汉化包，请先备份汉化包或更新后重新下载。
 
@@ -38,6 +39,8 @@ Android Studio 更新时会自动删除汉化包，请先备份汉化包或更�
 [[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10156925)]
 
 ## IntelliJ IDEA
+* 2017.3.3——resources_cn_IntelliJIDEA_2017.3.3_r1.jar
+[[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10216178)]
 * 2017.3.2——resources_cn_IntelliJIDEA_2017.3.2_r1.jar
 [[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10181823)]
 * 2017.3.1——resources_cn_IntelliJIDEA_2017.3.1_r2.jar
@@ -48,6 +51,8 @@ Android Studio 更新时会自动删除汉化包，请先备份汉化包或更�
 [[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10156934)]
 
 ## PhpStorm
+* 2017.3.3——resources_cn_PhpStorm_2017.3.3_r1.jar
+[[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10216182)]
 * 2017.3.2——resources_cn_PhpStorm_2017.3.2_r1.jar
 [[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10181836)]
 * 2017.3.1——resources_cn_PhpStorm_2017.3.1_r2.jar
@@ -58,6 +63,8 @@ Android Studio 更新时会自动删除汉化包，请先备份汉化包或更�
 [[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10156940)]
 
 ## PyCharm
+* 2017.3.3——resources_cn_PyCharm_2017.3.3_r1.jar
+[[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10216183)]
 * 2017.3.2——resources_cn_PyCharm_2017.3.2_r1.jar
 [[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10181839)]
 * 2017.3.1——resources_cn_PyCharm_2017.3.1_r2.jar
@@ -68,6 +75,8 @@ Android Studio 更新时会自动删除汉化包，请先备份汉化包或更�
 [[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10156949)]
 
 ## WebStorm
+* 2017.3.3——resources_cn_WebStorm_2017.3.3_r1.jar
+[[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10216185)]
 * 2017.3.2——resources_cn_WebStorm_2017.3.2_r1.jar
 [[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10181842)]
 * 2017.3.1——resources_cn_WebStorm_2017.3.1_r2.jar
