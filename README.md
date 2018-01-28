@@ -4,6 +4,7 @@ Android Studio 3.0-3.0.1 汉化包
 IntelliJ IDEA 2017.3-2017.3.3 汉化包  
 PhpStorm 2017.3-2017.3.3 汉化包  
 PyCharm 2017.3-2017.3.3 汉化包  
+RubyMine 2017.3.2 汉化包  
 WebStorm 2017.3-2017.3.3 汉化包  
 
 
@@ -13,22 +14,25 @@ WebStorm 2017.3-2017.3.3 汉化包
 ![预览图](https://pingfangx.github.io/resource/blogx/2421.1.png)
 
 # 0x01 如何使用
-下载对应软件对应版本的 resources_cn_\*.jar 放到软件安装目录下的 /lib/ 中即可。  
+下载对应软件、对应版本的最新汉化包 resources_cn_\*.jar 放到软件安装目录下的 /lib/ 中即可。  
 
-汉化包的命名 resources_cn_AndroidStudio_3.0_r1.jar ，指 AndroidStudio 3.0 汉化包的第 1 个版本。  
+比如，您使用 AndroidStudio，版本为 3.0.1 ，汉化包最新版本为 r4 ，
+则下载 resources_cn_AndroidStudio_3.0.1_r4.jar 放到 AndroidStudio 的安装目录下的 /lib/ 中。  
+
 一般软件小版本更新时，汉化包是通用的，除 AndroidStudio 外，软件更新时会保留汉化包，更新后亦可下载新的汉化包。  
 Android Studio 更新时会自动删除汉化包，请先备份汉化包或更新后重新下载。
 
 # 0x02 如何反馈
+常见问题见下方的第 4 点，如果还有问题，可接交 issue ，作者会及时回复。  
 源码：[https://github.com/pingfangx/TranslatorX](https://github.com/pingfangx/TranslatorX)  
 反馈：[https://github.com/pingfangx/TranslatorX/issues](https://github.com/pingfangx/TranslatorX/issues)
 
 # 0x03 如何下载
-
 可从 [百度云] 或 [csdn 专辑](http://download.csdn.net/album/detail/4157) 下载。  
 其中 csdn 的系统会自己提高下载所需的积分，不是作者设置的。可从百度云免积分下载。  
 
 ## Android Studio
+* 3.0.1——resources_cn_AndroidStudio_3.0.1_r4.jar [[百度云]]
 * 3.0.1——resources_cn_AndroidStudio_3.0.1_r3.jar
 [[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10181810)]
 * 3.0.1——resources_cn_AndroidStudio_3.0.1_r2.jar
@@ -39,8 +43,8 @@ Android Studio 更新时会自动删除汉化包，请先备份汉化包或更�
 [[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10156925)]
 
 ## IntelliJ IDEA
-* 2017.3.3——resources_cn_IntelliJIDEA_2017.3.3_r1.jar
-[[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10216178)]
+* 2017.3.3——resources_cn_IntelliJIDEA_2017.3.3_r2.jar [[百度云]]
+* 2017.3.3——resources_cn_IntelliJIDEA_2017.3.3_r1.jar [[百度云]]
 * 2017.3.2——resources_cn_IntelliJIDEA_2017.3.2_r1.jar
 [[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10181823)]
 * 2017.3.1——resources_cn_IntelliJIDEA_2017.3.1_r2.jar
@@ -51,8 +55,8 @@ Android Studio 更新时会自动删除汉化包，请先备份汉化包或更�
 [[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10156934)]
 
 ## PhpStorm
-* 2017.3.3——resources_cn_PhpStorm_2017.3.3_r1.jar
-[[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10216182)]
+* 2017.3.3——resources_cn_PhpStorm_2017.3.3_r2.jar [[百度云]]
+* 2017.3.3——resources_cn_PhpStorm_2017.3.3_r1.jar [[百度云]]
 * 2017.3.2——resources_cn_PhpStorm_2017.3.2_r1.jar
 [[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10181836)]
 * 2017.3.1——resources_cn_PhpStorm_2017.3.1_r2.jar
@@ -63,8 +67,8 @@ Android Studio 更新时会自动删除汉化包，请先备份汉化包或更�
 [[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10156940)]
 
 ## PyCharm
-* 2017.3.3——resources_cn_PyCharm_2017.3.3_r1.jar
-[[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10216183)]
+* 2017.3.3——resources_cn_PyCharm_2017.3.3_r2.jar [[百度云]]
+* 2017.3.3——resources_cn_PyCharm_2017.3.3_r1.jar [[百度云]]
 * 2017.3.2——resources_cn_PyCharm_2017.3.2_r1.jar
 [[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10181839)]
 * 2017.3.1——resources_cn_PyCharm_2017.3.1_r2.jar
@@ -74,9 +78,12 @@ Android Studio 更新时会自动删除汉化包，请先备份汉化包或更�
 * 2017.3——resources_cn_PyCharm_2017.3_r1.jar
 [[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10156949)]
 
+## RubyMine
+* 2017.3.2——resources_cn_RubyMine_2017.3.2_r1.jar [[百度云]]
+
 ## WebStorm
-* 2017.3.3——resources_cn_WebStorm_2017.3.3_r1.jar
-[[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10216185)]
+* 2017.3.3——resources_cn_WebStorm_2017.3.3_r2.jar [[百度云]]
+* 2017.3.3——resources_cn_WebStorm_2017.3.3_r1.jar [[百度云]]
 * 2017.3.2——resources_cn_WebStorm_2017.3.2_r1.jar
 [[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10181842)]
 * 2017.3.1——resources_cn_WebStorm_2017.3.1_r2.jar
@@ -87,10 +94,21 @@ Android Studio 更新时会自动删除汉化包，请先备份汉化包或更�
 [[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10156944)]
 
 # 0x04 常见问题
-## 4.1 汉化后中文显示为框框
+## 4.1 汉化的原理是什么
+[[2454]汉化过程中的问题总结](http://blog.pingfangx.com/2454.html)
+
+## 4.2 汉化后中文显示为框框
 当前字体不支持中文显示，请到 File → Settings → Appearance & Behavior → Appearance →  
 勾选 Override default fonts by (not recommended):
 选择 Microsoft YaHei 或者其他显示为框框的中文字体。
+
+## 4.3 汉化包放入 lib 中之后，汉化没有生效
+如果你使用的苹果系统，请更新汉化包
+* AndroidStudio 请更新 3.0.1_r4 及以后的汉化包  
+* RubyMine 请更新 2017.3.2 及以后的汉化包  
+* 其他软件请更新 2017.3.3_r2 及以后的汉化包  
+
+如果你的操作系统为英文，请切换为中文再使用汉化包，如果你不想切换，请将汉化包中所有的 _zh_CN.properties 的文件去掉 _zh_CN  
 
 # 0x05 关于
 汉化是个出力不讨好的活。  
