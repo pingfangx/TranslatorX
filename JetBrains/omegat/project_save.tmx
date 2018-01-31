@@ -22465,8 +22465,8 @@ is located below existing content root "{1}".</seg>
       <tuv lang="EN-US">
         <seg>Couldn''t resolve URL &lt;i&gt;{0}&lt;/i&gt; &lt;p&gt;Configuring paths to API docs in &lt;a href="open://Project Settings"&gt;project settings&lt;/a&gt; might help</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
-        <seg>无法解析网址 &lt;i&gt;{0}&lt;/i&gt; &lt;p&gt;在&lt;a href="open://Project Settings"&gt;project settings&lt;/a&gt; 中配置 API 文档可能会有帮助。</seg>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180131T025228Z" creationid="pingfangx" creationdate="20171213T025638Z">
+        <seg>无法解析网址 &lt;i&gt;{0}&lt;/i&gt; &lt;p&gt;在 &lt;a href="open://Project Settings"&gt;project settings&lt;/a&gt; 中配置 API 文档可能会有帮助。</seg>
       </tuv>
     </tu>
     <tu>
@@ -74441,8 +74441,8 @@ already exists.</seg>
       <tuv lang="EN-US">
         <seg>They are visible in the &lt;s0&gt;Favorites&lt;/s0&gt; tool window, which you can dock or float as required:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
-        <seg>它们将在 &lt;s0&gt;Favorites&lt;/s0&gt; 工具窗口可见，您可以根据需要设置停靠或浮动：</seg>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180131T025138Z" creationid="pingfangx" creationdate="20171213T025638Z">
+        <seg>你可以在 &lt;s0&gt;Favorites&lt;/s0&gt; 工具窗口看到它们，该窗口可以根据需要设置为停靠或浮动：</seg>
       </tuv>
     </tu>
     <tu>
@@ -83287,8 +83287,8 @@ Would you like to open it?</seg>
       <tuv lang="EN-US">
         <seg>You want your bookmarks and breakpoints to be always at hand, so that you can easily navigate through them?</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
-        <seg>您希望您的书签和断点永远在手前，以便您可以轻松浏览它们吗？</seg>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180131T025127Z" creationid="pingfangx" creationdate="20171213T025638Z">
+        <seg>你希望你的书签和断点近在眼前，可以很方便地浏览它们吗？</seg>
       </tuv>
     </tu>
     <tu>
