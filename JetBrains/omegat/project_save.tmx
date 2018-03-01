@@ -5276,6 +5276,14 @@ Use ; (分号) 来分隔资源模式;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;html&gt;&lt;body&gt;Replace {0} occurrences of ''{1}'' across&lt;br&gt;{2} files with ''{3}''?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180301T145155Z" creationid="pingfangx" creationdate="20180301T145155Z">
+        <seg>&lt;html&gt;&lt;body&gt;用 ''{3}'' 替换 {2} 个文件中的 {0} 个 ''{1}'' 匹配项?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;html&gt;&lt;body&gt;Replace {0} ocurrences of ''{1}'' across&lt;br&gt;{2} files with ''{3}''?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -9498,8 +9506,8 @@ will be changed.</seg>
       <tuv lang="EN-US">
         <seg>Allocated heap size: {0}M   Used: {1}M</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
-        <seg>要配堆大小: {0}M   已使用: {1}M</seg>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180301T145939Z" creationid="pingfangx" creationdate="20171213T025638Z">
+        <seg>分配堆大小: {0}M   已使用: {1}M</seg>
       </tuv>
     </tu>
     <tu>
@@ -29973,6 +29981,14 @@ with covariant return type?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enter type name:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180301T145224Z" creationid="pingfangx" creationdate="20180301T145224Z">
+        <seg>输入类名：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enter {0} License</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -36450,6 +36466,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>转到编辑窗弹出菜单组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go To Type action is not available until indices are built, using Go To File instead</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180301T145309Z" creationid="pingfangx" creationdate="20180301T145309Z">
+        <seg>在建立索引之前，转到类操作是不可用的，请使用转到文件代替</seg>
       </tuv>
     </tu>
     <tu>
@@ -58152,6 +58176,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Quickly navigate to a type by name</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180301T145101Z" creationid="pingfangx" creationdate="20180301T145101Z">
+        <seg>通过名字快速导航到一个类</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Quickly navigate to action by name</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -76695,6 +76727,14 @@ already exists.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Type...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180301T145046Z" creationid="pingfangx" creationdate="20180301T145046Z">
+        <seg>类型...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Type:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -76715,6 +76755,14 @@ already exists.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>多个 catch 中的类型必须是不相交的：''{0}'' 是 ''{1}'' 的子类</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Types matching pattern</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180301T145253Z" creationid="pingfangx" creationdate="20180301T145253Z">
+        <seg>类匹配模式</seg>
       </tuv>
     </tu>
     <tu>
@@ -79741,6 +79789,30 @@ Error message: {1}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>VCS/LVCS 操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VCSannotate</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180301T144957Z" creationid="pingfangx" creationdate="20180301T144957Z">
+        <seg>VCS 注释</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VCSdiff</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180301T145002Z" creationid="pingfangx" creationdate="20180301T145002Z">
+        <seg>VCS 差异</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VCSoperations</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180301T145007Z" creationid="pingfangx" creationdate="20180301T145007Z">
+        <seg>VCS 操作</seg>
       </tuv>
     </tu>
     <tu>
@@ -84893,6 +84965,14 @@ Would you like to open it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>auto indent lines</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180301T144101Z" creationid="pingfangx" creationdate="20180301T144101Z">
+        <seg>自动缩进行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>autoindent closing brace</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -84961,6 +85041,14 @@ Would you like to open it?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>在方法调用中装箱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>branches</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180301T144123Z" creationid="pingfangx" creationdate="20180301T144123Z">
+        <seg>分支</seg>
       </tuv>
     </tu>
     <tu>
@@ -85089,6 +85177,14 @@ Would you like to open it?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>转换</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>change keymap</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180301T144134Z" creationid="pingfangx" creationdate="20180301T144134Z">
+        <seg>更改快捷键</seg>
       </tuv>
     </tu>
     <tu>
@@ -85341,6 +85437,14 @@ Would you like to open it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>comment line</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180301T144149Z" creationid="pingfangx" creationdate="20180301T144149Z">
+        <seg>注释行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>comments</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -85397,6 +85501,14 @@ Would you like to open it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>complete with tab</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180301T144221Z" creationid="pingfangx" creationdate="20180301T144221Z">
+        <seg>使用 tab 完成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>completion import static</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -85417,6 +85529,14 @@ Would you like to open it?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>componentTypeOf(Array)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>conditional breakpoint</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180301T144230Z" creationid="pingfangx" creationdate="20180301T144230Z">
+        <seg>条件断点</seg>
       </tuv>
     </tu>
     <tu>
@@ -85565,6 +85685,14 @@ Would you like to open it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>coverage tool window</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180301T144245Z" creationid="pingfangx" creationdate="20180301T144245Z">
+        <seg>覆盖工具窗口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>create property tag</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -85585,6 +85713,14 @@ Would you like to open it?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>创建测试意图动作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>create unresolved function or field</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180301T144259Z" creationid="pingfangx" creationdate="20180301T144259Z">
+        <seg>创建未解决的方法或字段</seg>
       </tuv>
     </tu>
     <tu>
@@ -85729,6 +85865,14 @@ Would you like to open it?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>守护</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>debugger watches</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180301T144309Z" creationid="pingfangx" creationdate="20180301T144309Z">
+        <seg>调试器观察点</seg>
       </tuv>
     </tu>
     <tu>
@@ -85917,6 +86061,14 @@ Would you like to open it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>duplicate line</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180301T144312Z" creationid="pingfangx" creationdate="20180301T144312Z">
+        <seg>重复行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>duplicate module name</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -86073,6 +86225,14 @@ Would you like to open it?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>资源包中的转义字符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>evaluate expression</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180301T144317Z" creationid="pingfangx" creationdate="20180301T144317Z">
+        <seg>评估表达</seg>
       </tuv>
     </tu>
     <tu>
@@ -86397,10 +86557,26 @@ Would you like to open it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>find action</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180301T144329Z" creationid="pingfangx" creationdate="20180301T144329Z">
+        <seg>查找操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>find in path</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>在路径中查找</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>find keymap</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180301T144335Z" creationid="pingfangx" creationdate="20180301T144335Z">
+        <seg>查找快捷键</seg>
       </tuv>
     </tu>
     <tu>
@@ -86501,6 +86677,14 @@ Would you like to open it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>generate new</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180301T144345Z" creationid="pingfangx" creationdate="20180301T144345Z">
+        <seg>生成 new</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>generic casts</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -86541,6 +86725,14 @@ Would you like to open it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>go get</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180301T145856Z" creationid="pingfangx" creationdate="20180301T145856Z">
+        <seg>go get</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>go to action</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -86573,6 +86765,14 @@ Would you like to open it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>go to folder</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180301T144610Z" creationid="pingfangx" creationdate="20180301T144610Z">
+        <seg>转到文件夹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>go to implementation</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -86585,6 +86785,14 @@ Would you like to open it?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>转到检查</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>go to interface</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180301T144620Z" creationid="pingfangx" creationdate="20180301T144620Z">
+        <seg>转到接口</seg>
       </tuv>
     </tu>
     <tu>
@@ -86645,6 +86853,14 @@ Would you like to open it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>highlight exit points</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180301T144630Z" creationid="pingfangx" creationdate="20180301T144630Z">
+        <seg>高亮退出点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>highlight implements</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -86697,6 +86913,14 @@ Would you like to open it?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>HTML5 大纲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>https://youtrack.jetbrains.com/issue/IDEA-157989</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180301T145234Z" creationid="pingfangx" creationdate="20180301T145234Z">
+        <seg>https://youtrack.jetbrains.com/issue/IDEA-157989</seg>
       </tuv>
     </tu>
     <tu>
@@ -88221,6 +88445,14 @@ Would you like to open it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>implement interface</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180301T144637Z" creationid="pingfangx" creationdate="20180301T144637Z">
+        <seg>实现接口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>implementors of interface (within hierarchy)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -88413,6 +88645,14 @@ Would you like to open it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>inline refactoring</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180301T144646Z" creationid="pingfangx" creationdate="20180301T144646Z">
+        <seg>内联重构</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>inline variable</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -88457,6 +88697,14 @@ Would you like to open it?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>检查代码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>inspect expression</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180301T144657Z" creationid="pingfangx" creationdate="20180301T144657Z">
+        <seg>检查表达式</seg>
       </tuv>
     </tu>
     <tu>
@@ -88697,6 +88945,14 @@ Would you like to open it?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>连接行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>jump between test and test subject</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180301T144706Z" creationid="pingfangx" creationdate="20180301T144706Z">
+        <seg>在测试和测试主题之间跳转</seg>
       </tuv>
     </tu>
     <tu>
@@ -88977,6 +89233,14 @@ Would you like to open it?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>局部元素/类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>local history</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180301T144710Z" creationid="pingfangx" creationdate="20180301T144710Z">
+        <seg>本地历史</seg>
       </tuv>
     </tu>
     <tu>
@@ -89333,6 +89597,14 @@ Would you like to open it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>multiple carets</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180301T144714Z" creationid="pingfangx" creationdate="20180301T144714Z">
+        <seg>多个插入符号</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>multiple projects</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -89613,6 +89885,14 @@ Would you like to open it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>optimize imports</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180301T144718Z" creationid="pingfangx" creationdate="20180301T144718Z">
+        <seg>优化导入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>or</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -89709,6 +89989,14 @@ Would you like to open it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>param info</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180301T144721Z" creationid="pingfangx" creationdate="20180301T144721Z">
+        <seg>参数信息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>parameter</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -89737,6 +90025,30 @@ Would you like to open it?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>父被重命名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>partial completion</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180301T144731Z" creationid="pingfangx" creationdate="20180301T144731Z">
+        <seg>部分补全</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>partialdeclaration</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180301T145635Z" creationid="pingfangx" creationdate="20180301T145635Z">
+        <seg>部分声明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>paste from history</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180301T144738Z" creationid="pingfangx" creationdate="20180301T144738Z">
+        <seg>从历史记录粘贴</seg>
       </tuv>
     </tu>
     <tu>
@@ -89933,6 +90245,22 @@ Would you like to open it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>quick definition</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180301T144742Z" creationid="pingfangx" creationdate="20180301T144742Z">
+        <seg>快速定义</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>quick doc</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180301T144745Z" creationid="pingfangx" creationdate="20180301T144745Z">
+        <seg>快速文档</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>quick doc in suggestion list</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -89953,6 +90281,14 @@ Would you like to open it?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>快速计算表达式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>quick fix</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180301T144751Z" creationid="pingfangx" creationdate="20180301T144751Z">
+        <seg>快速解决</seg>
       </tuv>
     </tu>
     <tu>
@@ -90021,6 +90357,14 @@ Would you like to open it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>reformat code</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180301T144756Z" creationid="pingfangx" creationdate="20180301T144756Z">
+        <seg>重新格式化代码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>reloadgenerators</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180128T062948Z" creationid="pingfangx" creationdate="20180128T062948Z">
@@ -90065,6 +90409,14 @@ Would you like to open it?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>重命名 css 选择器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>rename refactoring</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180301T144759Z" creationid="pingfangx" creationdate="20180301T144759Z">
+        <seg>重命名重构</seg>
       </tuv>
     </tu>
     <tu>
@@ -90165,6 +90517,14 @@ Would you like to open it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ruby motion</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180301T145547Z" creationid="pingfangx" creationdate="20180301T145547Z">
+        <seg>ruby motion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>rubyI18n</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180128T063313Z" creationid="pingfangx" creationdate="20180128T063313Z">
@@ -90185,6 +90545,22 @@ Would you like to open it?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180128T063324Z" creationid="pingfangx" creationdate="20180128T063324Z">
         <seg>运行 rake 任务</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>run with gutter</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180301T144832Z" creationid="pingfangx" creationdate="20180301T144832Z">
+        <seg>使用 gutter 运行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>run with intention action</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180301T144905Z" creationid="pingfangx" creationdate="20180301T144905Z">
+        <seg>使用意向操作运行</seg>
       </tuv>
     </tu>
     <tu>
@@ -90224,6 +90600,14 @@ Would you like to open it?</seg>
         <seg>scratch</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
+        <seg>临时文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>scratch file</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180301T144909Z" creationid="pingfangx" creationdate="20180301T144909Z">
         <seg>临时文件</seg>
       </tuv>
     </tu>
@@ -90357,10 +90741,26 @@ Would you like to open it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>select word</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180301T144912Z" creationid="pingfangx" creationdate="20180301T144912Z">
+        <seg>选择单词</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>selection</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>选择</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>semantic highlighting</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180301T144919Z" creationid="pingfangx" creationdate="20180301T144919Z">
+        <seg>语义高亮</seg>
       </tuv>
     </tu>
     <tu>
@@ -90409,6 +90809,14 @@ Would you like to open it?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>显示隐藏侧栏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>show implementations</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180301T144922Z" creationid="pingfangx" creationdate="20180301T144922Z">
+        <seg>显示实现</seg>
       </tuv>
     </tu>
     <tu>
@@ -90621,6 +91029,14 @@ Would you like to open it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>structure popup</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180301T144930Z" creationid="pingfangx" creationdate="20180301T144930Z">
+        <seg>结构弹窗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>subsequent ''{0}'' call makes sorting useless</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -90665,6 +91081,14 @@ Would you like to open it?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>包围</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>switch camel to snake</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180301T145542Z" creationid="pingfangx" creationdate="20180301T145542Z">
+        <seg>切换驼峰为下划线</seg>
       </tuv>
     </tu>
     <tu>
@@ -91105,6 +91529,14 @@ Would you like to open it?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>未使用的声明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>update project</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180301T144932Z" creationid="pingfangx" creationdate="20180301T144932Z">
+        <seg>更新项目</seg>
       </tuv>
     </tu>
     <tu>
