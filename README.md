@@ -1,11 +1,12 @@
 # JetBrains 系列软件汉化包  
 关键字:  
 Android Studio 3.0-3.0.1 汉化包  
-IntelliJ IDEA 2017.3-2017.3.3 汉化包  
-PhpStorm 2017.3-2017.3.3 汉化包  
+GoLand 2017.3.2 汉化包  
+IntelliJ IDEA 2017.3-2017.3.4 汉化包  
+PhpStorm 2017.3-2017.3.4 汉化包  
 PyCharm 2017.3-2017.3.3 汉化包  
-RubyMine 2017.3.2 汉化包  
-WebStorm 2017.3-2017.3.3 汉化包  
+RubyMine 2017.3.2-2017.3.3 汉化包  
+WebStorm 2017.3-2017.3.4 汉化包  
 
 
 平方X原创汉化，转载请注明出处。  
@@ -32,62 +33,50 @@ Android Studio 更新时会自动删除汉化包，请先备份汉化包或更�
 其中 csdn 的系统会自己提高下载所需的积分，不是作者设置的。可从百度云免积分下载。  
 
 ## Android Studio
-* 3.0.1——resources_cn_AndroidStudio_3.0.1_r4.jar [[百度云]]
-* 3.0.1——resources_cn_AndroidStudio_3.0.1_r3.jar
-[[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10181810)]
-* 3.0.1——resources_cn_AndroidStudio_3.0.1_r2.jar
-[[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10162211)]
-* 3.0.1——resources_cn_AndroidStudio_3.0.1_r1.jar
-[[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10161357)]
-* 3.0——resources_cn_AndroidStudio_3.0_r1.jar
-[[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10156925)]
+* 3.0.1——resources_cn_AndroidStudio_3.0.1_r5.jar [[百度云]]
+* 3.0——resources_cn_AndroidStudio_3.0_r1.jar [[百度云]]
+
+## GoLand
+* 2017.3.2——resources_cn_GoLand_2017.3.2_r1.jar [[百度云]]
 
 ## IntelliJ IDEA
+* 2017.3.4——resources_cn_IntelliJIDEA_2017.3.4_r1.jar [[百度云]]
 * 2017.3.3——resources_cn_IntelliJIDEA_2017.3.3_r2.jar [[百度云]]
-* 2017.3.3——resources_cn_IntelliJIDEA_2017.3.3_r1.jar [[百度云]]
 * 2017.3.2——resources_cn_IntelliJIDEA_2017.3.2_r1.jar
 [[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10181823)]
 * 2017.3.1——resources_cn_IntelliJIDEA_2017.3.1_r2.jar
 [[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10162213)]
-* 2017.3.1——resources_cn_IntelliJIDEA_2017.3.1_r1.jar
-[[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10161361)]
 * 2017.3——resources_cn_IntelliJIDEA_2017.3_r1.jar
 [[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10156934)]
 
 ## PhpStorm
+* 2017.3.4——resources_cn_PhpStorm_2017.3.4_r1.jar [[百度云]]
 * 2017.3.3——resources_cn_PhpStorm_2017.3.3_r2.jar [[百度云]]
-* 2017.3.3——resources_cn_PhpStorm_2017.3.3_r1.jar [[百度云]]
 * 2017.3.2——resources_cn_PhpStorm_2017.3.2_r1.jar
 [[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10181836)]
 * 2017.3.1——resources_cn_PhpStorm_2017.3.1_r2.jar
 [[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10162215)]
-* 2017.3.1——resources_cn_PhpStorm_2017.3.1_r1.jar
-[[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10161363)]
 * 2017.3——resources_cn_PhpStorm_2017.3_r1.jar
 [[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10156940)]
 
 ## PyCharm
-* 2017.3.3——resources_cn_PyCharm_2017.3.3_r2.jar [[百度云]]
-* 2017.3.3——resources_cn_PyCharm_2017.3.3_r1.jar [[百度云]]
+* 2017.3.3——resources_cn_PyCharm_2017.3.3_r3.jar [[百度云]]
 * 2017.3.2——resources_cn_PyCharm_2017.3.2_r1.jar
 [[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10181839)]
 * 2017.3.1——resources_cn_PyCharm_2017.3.1_r2.jar
-[[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10162217)]
-* 2017.3.1——resources_cn_PyCharm_2017.3.1_r1.jar
 [[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10161369)]
 * 2017.3——resources_cn_PyCharm_2017.3_r1.jar
 [[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10156949)]
 
 ## RubyMine
+* 2017.3.3——resources_cn_RubyMine_2017.3.3_r1.jar [[百度云]]
 * 2017.3.2——resources_cn_RubyMine_2017.3.2_r1.jar [[百度云]]
 
 ## WebStorm
+* 2017.3.4——resources_cn_WebStorm_2017.3.4_r1.jar [[百度云]]
 * 2017.3.3——resources_cn_WebStorm_2017.3.3_r2.jar [[百度云]]
-* 2017.3.3——resources_cn_WebStorm_2017.3.3_r1.jar [[百度云]]
 * 2017.3.2——resources_cn_WebStorm_2017.3.2_r1.jar
 [[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10181842)]
-* 2017.3.1——resources_cn_WebStorm_2017.3.1_r2.jar
-[[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10162219)]
 * 2017.3.1——resources_cn_WebStorm_2017.3.1_r1.jar
 [[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10161367)]
 * 2017.3——resources_cn_WebStorm_2017.3_r1.jar
