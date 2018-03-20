@@ -6158,6 +6158,14 @@ No new or edited TODO items, or items located in changed text fragments were fou
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&amp;productName;&lt;/s0&gt; makes it possible to move a module or class to an upper level.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T160034Z" creationid="pingfangx" creationdate="20180320T160034Z">
+        <seg>&lt;s0&gt;&amp;productName;&lt;/s0&gt; 可以将模块或类移动到较高级别。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&amp;productName;&lt;/s0&gt; simplifies your work with colors in Android resource files.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -6174,10 +6182,26 @@ No new or edited TODO items, or items located in changed text fragments were fou
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&amp;shortcut:CommentByBlockComment;&lt;/s0&gt; encloses the selected block in a &lt;s1&gt;begin / end&lt;/s1&gt; pair (&lt;s2&gt;=begin / ... =end&lt;/s2&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T160158Z" creationid="pingfangx" creationdate="20180320T160158Z">
+        <seg>&lt;s0&gt;&amp;shortcut:CommentByBlockComment;&lt;/s0&gt; 将所选块封装在 &lt;s1&gt;begin / end&lt;/s1&gt; 对(&lt;s2&gt;=begin / ... =end&lt;/s2&gt;)中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&amp;shortcut:CommentByBlockComment;&lt;/s0&gt; encloses the selected block in a block comment (&lt;s1&gt;/*...*/&lt;/s1&gt;).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>&lt;s0&gt;&amp;shortcut:CommentByBlockComment;&lt;/s0&gt; 用块注释 (&lt;s1&gt;/*...*/&lt;/s1&gt;)围住所选块。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&amp;shortcut:CommentByLineComment;&lt;/s0&gt; comments or uncomments the current line or selected block with single line comments (&lt;s1&gt;#...&lt;/s1&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T160144Z" creationid="pingfangx" creationdate="20180320T160144Z">
+        <seg>&lt;s0&gt;&amp;shortcut:CommentByLineComment;&lt;/s0&gt; 使用单行注释(&lt;s1&gt;#...&lt;/s1&gt;)注释或取消注释当前行或所选块。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6254,6 +6278,14 @@ No new or edited TODO items, or items located in changed text fragments were fou
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;*&lt;/s0&gt; stands for any symbol.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T155607Z" creationid="pingfangx" creationdate="20180320T155607Z">
+        <seg>&lt;s0&gt;*&lt;/s0&gt; stands for any symbol.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;*&lt;/s0&gt; stands for any symbols.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -6274,6 +6306,14 @@ No new or edited TODO items, or items located in changed text fragments were fou
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>&lt;s0&gt;Ctrl+Click&lt;/s0&gt;  一个编辑器中的选项卡，可以导航到文件路径中的任何部分。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;Ctrl+Click&lt;/s0&gt;(Windows or *nix)/ &lt;s1&gt;Cmd+Click&lt;/s1&gt; (MacOS) a tab in the editor to navigate to any part of the file path.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T160113Z" creationid="pingfangx" creationdate="20180320T160113Z">
+        <seg>&lt;s0&gt;Ctrl+Click&lt;/s0&gt;(Windows 或* nix)/ &lt;s1&gt;Cmd+Click&lt;/s1&gt;(MacOS)编辑器中的选项卡导航到文件路径的任何部分。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8438,6 +8478,14 @@ No new or edited TODO items, or items located in changed text fragments were fou
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add textual notes to the steps of a Cucumber scenario outline.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T155711Z" creationid="pingfangx" creationdate="20180320T155711Z">
+        <seg>将文本注释添加到 Cucumber 场景大纲的步骤中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add the next found occurrence to the selection by pressing &lt;s2&gt;&amp;shortcut:SelectNextOccurrence;&lt;/s2&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -10274,6 +10322,14 @@ as well as for the standard SDK classes resolution.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Another way to accept suggestions is by pressing &lt;s0&gt;!&lt;/s0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T125522Z" creationid="pingfangx" creationdate="20180320T125522Z">
+        <seg>接受建议的另一种方法是按 &lt;s0&gt;!&lt;/s0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Another way to reopen a project is to right-click the &lt;s0&gt;&amp;productName;&lt;/s0&gt; icon on the task bar:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -11260,6 +11316,14 @@ as well as for the standard SDK classes resolution.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As you type the name of the task you want to run, the lookup list shrinks to show the matching entries only.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T161212Z" creationid="pingfangx" creationdate="20180320T161212Z">
+        <seg>当您键入要运行的任务的名称时，查找列表将缩小以仅显示匹配的条目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As you type the name of the utility you want to run, the lookup list shrinks to show the matching entries only.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -11850,6 +11914,14 @@ and replace them with usages of {2} where possible.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>自动贴标签</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Automatic checks of files in editor with Rubocop.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T160929Z" creationid="pingfangx" creationdate="20180320T160929Z">
+        <seg>使用 Rubocop 自动检查编辑器中的文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13868,6 +13940,14 @@ and replace them with usages of {2} where possible.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>无法从实例文档生成 schema 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can't remember the shortcut for a refactoring you need?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154642Z" creationid="pingfangx" creationdate="20180320T154642Z">
+        <seg>不记得您需要重构的快捷方式吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -23063,6 +23143,14 @@ is located below existing content root "{1}".</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create an iOS, OS X or Android RubyMotion app in one simple step, and RubyMine will generate the full project structure and run Bundler for you.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T161131Z" creationid="pingfangx" creationdate="20180320T161131Z">
+        <seg>在一个简单的步骤中创建 iOS，OS X 或 Android RubyMotion 应用程序，RubyMine 将生成完整的项目结构并为您运行 Bundler。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create changelist on failed commit:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -23795,6 +23883,14 @@ is located below existing content root "{1}".</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>剪切(_T)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cucumber features can be rather verbose.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T155634Z" creationid="pingfangx" creationdate="20180320T155634Z">
+        <seg>Cucumber 功能可能比较冗长。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25435,6 +25531,14 @@ is located below existing content root "{1}".</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>根据上下文，您可以选择禁用检查，修复所有问题，更改检查配置文件等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Depending on your platform, find the Gem Manager in &lt;s0&gt;File | Settings &lt;/s0&gt; (on Windows and *nix), or &lt;s1&gt;RubyMine | Preferences&lt;/s1&gt;, on the page &lt;s2&gt;Ruby SDK and Gems&lt;/s2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T155903Z" creationid="pingfangx" creationdate="20180320T155903Z">
+        <seg>根据您的平台，在 &lt;s0&gt;File | Settings &lt;/s0&gt;(在 Windows 和* nix 上)或 &lt;s1&gt;RubyMine | Preferences&lt;/s1&gt;，位于页面 &lt;s2&gt;Ruby SDK and Gems&lt;/s2&gt; 上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29789,6 +29893,14 @@ with covariant return type?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enter a short abbreviation of a template and press &lt;s0&gt;Tab&lt;/s0&gt; or &lt;s1&gt;Enter&lt;/s1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154239Z" creationid="pingfangx" creationdate="20180320T154239Z">
+        <seg>输入模板的缩写，然后按 &lt;s0&gt;Tab&lt;/s0&gt; 或 &lt;s1&gt;Enter&lt;/s1&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enter action or option name:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -30865,6 +30977,14 @@ Plugins were not loaded.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>每个文件的偶数页数(双面打印)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Every parameter and local variable can be highlighted with its own color.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T155019Z" creationid="pingfangx" creationdate="20180320T155019Z">
+        <seg>每个参数和局部变量都可以用自己的颜色突出显示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34284,6 +34404,14 @@ Do you want overwrite it or to append?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Finally, you can enable accepting suggestions by using other punctuation characters (&lt;s0&gt;Settings | Editor | General | Completion | Insert selected variant by typing dot, space, etc.&lt;/s0&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T135159Z" creationid="pingfangx" creationdate="20180320T135159Z">
+        <seg>最后，您可以通过使用其他标点字符来启用接受建议(&lt;s0&gt;Settings | Editor | General | Completion | Insert selected variant by typing dot, space, etc.&lt;/s0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Find</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -35188,6 +35316,14 @@ Do you want overwrite it or to append?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, start typing a class name and press &lt;s1&gt;&amp;shortcut:CodeCompletion;&lt;/s1&gt; to complete it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T125004Z" creationid="pingfangx" creationdate="20180320T125004Z">
+        <seg>例如，先输入一个类名，然后按 &lt;s1&gt;&amp;shortcut:CodeCompletion;&lt;/s1&gt; 来补全它。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, type</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -35200,6 +35336,14 @@ Do you want overwrite it or to append?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>比如，在 Django 模板中输入 &lt;i0&gt;for&lt;/i0&gt; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, type &lt;s0&gt;case&lt;/s0&gt; and press &lt;s1&gt;&amp;shortcut:InsertLiveTemplate;&lt;/s1&gt; to see what happens.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T160416Z" creationid="pingfangx" creationdate="20180320T160416Z">
+        <seg>例如，键入 &lt;s0&gt;case&lt;/s0&gt;，然后按 &lt;s1&gt;&amp;shortcut:InsertLiveTemplate;&lt;/s1&gt; 查看会发生什么情况。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35232,6 +35376,14 @@ Do you want overwrite it or to append?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>例如，你可以用标签等包围 html 块等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, you could select a block of code and press &lt;s0&gt;&amp;shortcut:ExtractMethod;&lt;/s0&gt; (&lt;s1&gt;Refactor | Extract -&gt; Method&lt;/s1&gt;):</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T155731Z" creationid="pingfangx" creationdate="20180320T155731Z">
+        <seg>例如，您可以选择一段代码并按 &lt;s0&gt;&amp;shortcut:ExtractMethod;&lt;/s0&gt;(&lt;s1&gt;Refactor | Extract -&gt; Method&lt;/s1&gt;)：</seg>
       </tuv>
     </tu>
     <tu>
@@ -36474,6 +36626,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180301T145309Z" creationid="pingfangx" creationdate="20180301T145309Z">
         <seg>在建立索引之前，转到类操作是不可用的，请使用转到文件代替</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to &lt;s0&gt;Settings | Keymap&lt;/s0&gt;, click the &lt;s1&gt;Find Actions by Shortcut&lt;/s1&gt; button, press the shortcut you know to see the name of the corresponding action, and then set a new shortcut for it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T153706Z" creationid="pingfangx" creationdate="20180320T153706Z">
+        <seg>转到 &lt;s0&gt;Settings | Keymap&lt;/s0&gt;，单击 &lt;s1&gt;Find Actions by Shortcut&lt;/s1&gt; 按钮，按下您知道的快捷方式查看相应操作的名称，然后为其设置新的快捷方式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38446,6 +38606,14 @@ Compilation will proceed without clearing output directories.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If an edge between model nodes in your Model Dependency diagram corresponds to a many-to-many, or a one-to-many association, RubyMine shows multiplicities for such an edge, and suggests you to choose which part of the association should be navigated to.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T160028Z" creationid="pingfangx" creationdate="20180320T160028Z">
+        <seg>如果模型依赖关系图中模型节点之间的边对应于多对多关联或一对多关联，那么 RubyMine 将显示此类边的多重性，并建议您选择关联的哪个部分应该导航至。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If disabled, use "{0}" to show/hide tooltips</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -38566,10 +38734,34 @@ Compilation will proceed without clearing output directories.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the desired group does not yet exist, create it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T155916Z" creationid="pingfangx" creationdate="20180320T155916Z">
+        <seg>如果所需的组不存在，请创建它。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the import statement refers to the package that is not installed locally, the IDE highlights it with an error.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T153743Z" creationid="pingfangx" creationdate="20180320T153743Z">
+        <seg>如果导入语句引用了本地未安装的软件包，则 IDE 将突出显示该错误。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the lens annoys you, get rid of it by clearing the check box on the context menu of the code analysis marker:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>如果镜头惹恼你，可以通过清除代码分析标记的上下文菜单的复选框摆脱它：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the list of Rails generators seems incomplete, choose &lt;s0&gt;Tools | Run Rails Generators&lt;/s0&gt; in the main menu, or press &lt;s1&gt;&amp;shortcut:org.jetbrains.plugins.ruby.rails.actions.generators.GeneratorsPopupAction;&lt;/s1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T160236Z" creationid="pingfangx" creationdate="20180320T160236Z">
+        <seg>如果 Rails 生成器的列表看起来不完整，请选择 &lt;s0&gt;Tools | Run Rails Generators&lt;/s0&gt;，或按 &lt;s1&gt;&amp;shortcut:org.jetbrains.plugins.ruby.rails.actions.generators.GeneratorsPopupAction;&lt;/s1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38586,6 +38778,14 @@ Compilation will proceed without clearing output directories.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>如果所选模块成为卸载的，它可能在依赖它的模块中导致编译错误。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If there are too many breakpoints in your application, ease the search by giving them names.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T160055Z" creationid="pingfangx" creationdate="20180320T160055Z">
+        <seg>如果应用程序中的断点太多，请通过提供名称来简化搜索。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38638,6 +38838,30 @@ Compilation will proceed without clearing output directories.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you are working with a partial declaration, use the corresponding gutter icon to view the list of other parts of the same declaration, and to navigate to them.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T160133Z" creationid="pingfangx" creationdate="20180320T160133Z">
+        <seg>如果您正在使用部分声明，请使用相应的 gutter 图标查看同一声明的其他部分的列表并导航到它们。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you choose &lt;s4&gt;Default Branch&lt;/s4&gt;, you'll be able to specify the strategy per branch in the &lt;s5&gt;branch.&lt;name&gt;&lt;/s5&gt; section of the &lt;s6&gt;.git/config&lt;/s6&gt; configuration file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T155429Z" creationid="pingfangx" creationdate="20180320T155429Z">
+        <seg>如果您选择 &lt;s4&gt;Default Branch&lt;/s4&gt;，您可以在  &lt;s6&gt;.git/config&lt;/s6&gt; 配置文件中的 &lt;s5&gt;branch.&lt;name&gt;&lt;/s5&gt; 部分为每个分支配置策略。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you click the &lt;s0&gt;Go to view for the action&lt;/s0&gt; gutter on an Action that has no View, the appropriate View can be created instantly.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T160211Z" creationid="pingfangx" creationdate="20180320T160211Z">
+        <seg>如果您单击 &lt;s0&gt;Go to view for the action&lt;/s0&gt; gutter，则可立即创建适当的 View。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you close the dialog, you can always get back to it from the &lt;s0&gt;Help | Tip of the Day&lt;/s0&gt; main menu item.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -38678,6 +38902,14 @@ Compilation will proceed without clearing output directories.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you don't like the default shortcuts, go to &lt;s0&gt;Settings | Keymap&lt;/s0&gt; to change the shortcut for a particular action or customize the whole keymap.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T124923Z" creationid="pingfangx" creationdate="20180320T124923Z">
+        <seg>如果您不喜欢默认快捷键，请转到 &lt;s0&gt;Settings | Keymap&lt;/s0&gt; 更改特定操作的快捷方式或自定义整个键盘映射。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you don't want the "lightbulb" icon to appear in the editor to indicate a particular fix, open the list of available actions by pressing &lt;s0&gt;&amp;shortcut:ShowIntentionActions;&lt;/s0&gt; and toggle the lightbulb icon near the text of the action into inactive state by clicking it with the mouse.&lt;br1&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -38698,6 +38930,14 @@ Compilation will proceed without clearing output directories.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>如果您已经在交互式控制台上工作了一段时间，则不需要重新键入以前输入的命令来重复它们。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you have created a Rake task and still can't see it in the list, choose &lt;s0&gt;Tools | Run Rake Task&lt;/s0&gt; in the main menu, or press &lt;s1&gt;&amp;shortcut:org.jetbrains.plugins.ruby.tasks.rake.actions.RakeTasksPopupAction;&lt;/s1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T160257Z" creationid="pingfangx" creationdate="20180320T160257Z">
+        <seg>如果您创建了 Rake 任务并仍然无法在列表中看到它，请选择 &lt;s0&gt;Tools | Run Rake Task&lt;/s0&gt;，或者按 &lt;s1&gt;&amp;shortcut:org.jetbrains.plugins.ruby.tasks.rake.actions.RakeTasksPopupAction;&lt;/s1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38758,6 +38998,14 @@ Compilation will proceed without clearing output directories.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you run your application or tests with &lt;s0&gt;Coverage&lt;/s0&gt;, you can see the coverage data in the Coverage tool window per class and package as well in the editor per each line of code.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T140342Z" creationid="pingfangx" creationdate="20180320T140342Z">
+        <seg>如果使用 &lt;s0&gt;Coverage&lt;/s0&gt; 运行应用程序或测试，则可以在每行代码的每个类和程序包以及编辑器中的 Coverage 工具窗口中查看覆盖率数据。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you type an asterisk, PyCharm will show the complete list of all the available tasks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -38782,6 +39030,14 @@ Compilation will proceed without clearing output directories.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you want to use block comments, press &lt;s2&gt;&amp;shortcut:CommentByBlockComment;&lt;/s2&gt; (&lt;s3&gt;Code | Comment with Block Comment&lt;/s3&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T125217Z" creationid="pingfangx" creationdate="20180320T125217Z">
+        <seg>如果想使用块注释，按 &lt;s2&gt;&amp;shortcut:CommentByBlockComment;&lt;/s2&gt; (&lt;s3&gt;Code | Comment with Block Comment&lt;/s3&gt;)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you would like to get notified when the exceptions you submit are fixed,
 please fill in your JetBrains Account login and password.</seg>
       </tuv>
@@ -38796,6 +39052,14 @@ please fill in your JetBrains Account login and password.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>如果您更改了代码模板，则它会变成蓝色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If your code references an undeclared method or field, you can quickly declare it automatically with the correct signature or type, by pressing &lt;s0&gt;&amp;shortcut:ShowIntentionActions;&lt;/s0&gt; and choosing the corresponding quick-fix.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T152843Z" creationid="pingfangx" creationdate="20180320T152843Z">
+        <seg>如果您的代码引用了未声明的方法或字段，则可以通过按 &lt;s0&gt;&amp;shortcut:ShowIntentionActions;&lt;/s0&gt; 并选择相应的快速修复，使用正确的签名或类型自动快速声明它。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39608,6 +39872,14 @@ please fill in your JetBrains Account login and password.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In addition to &lt;s0&gt;Basic Completion&lt;/s0&gt; and &lt;s1&gt;Smart Completion&lt;/s1&gt;, which offer suggestions based on language semantics, you can use suggestions based on words used in the current file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154036Z" creationid="pingfangx" creationdate="20180320T154036Z">
+        <seg>除 &lt;s0&gt;Basic Completion&lt;/s0&gt; 和 &lt;s1&gt;Smart Completion&lt;/s1&gt;，它们提供基于语言语义的建议外，还可以使用基于当前文件中使用的单词的建议。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In an already existing project (&lt;s0&gt;Settings/Preferences - Project &lt;project name&gt; - Project Interpreter&lt;/s0&gt;).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -39680,10 +39952,26 @@ please fill in your JetBrains Account login and password.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In order to invoke the refactoring, move the cursor over the local variable and press &lt;s0&gt;&amp;shortcut:Inline;&lt;/s0&gt; (&lt;s1&gt;Refactor | Inline... &lt;/s1&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T160011Z" creationid="pingfangx" creationdate="20180320T160011Z">
+        <seg>为了调用重构，将光标移到局部变量上并按 &lt;s0&gt;&amp;shortcut:Inline;&lt;/s0&gt;(&lt;s1&gt;Refactor | Inline... &lt;/s1&gt;)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In order to invoke the refactoring, move the cursor over the local variable to apply the refactoring to</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>为了调用重构，将光标移到局部变量上以应用重构</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In order to invoke the refactoring, move the cursor over the method caller and press &lt;s0&gt;&amp;shortcut:Inline;&lt;/s0&gt; (&lt;s1&gt;Refactor | Inline... &lt;/s1&gt;):</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T155956Z" creationid="pingfangx" creationdate="20180320T155956Z">
+        <seg>为了调用重构，将光标移到方法调用者上并按下 &lt;s0&gt;&amp;shortcut:Inline;&lt;/s0&gt;(&lt;s1&gt;Refactor | Inline... &lt;/s1&gt;)：</seg>
       </tuv>
     </tu>
     <tu>
@@ -39700,6 +39988,14 @@ please fill in your JetBrains Account login and password.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180128T064318Z" creationid="pingfangx" creationdate="20180128T064318Z">
         <seg>为了调用这个重构，选择一个用要用字段代替的表达式，按 &lt;s0&gt;&amp;shortcut:IntroduceField;&lt;/s0&gt; (&lt;s1&gt;Refactor | Extract -&gt; Field... &lt;/s1&gt;):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In order to invoke the refactoring, select an expression to be replaced with a parameter or place the caret over an expression and press &lt;s0&gt;&amp;shortcut:IntroduceParameter;&lt;/s0&gt; (&lt;s1&gt;Refactor | Extract -&gt; Parameter... &lt;/s1&gt;):</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T155807Z" creationid="pingfangx" creationdate="20180320T155807Z">
+        <seg>为了调用重构，请选择一个要用参数替换的表达式，或将插入符号放在表达式上，然后按 &lt;s0&gt;&amp;shortcut:IntroduceParameter;&lt;/s0&gt;(&lt;s1&gt;Refactor | Extract -&gt; Parameter... &lt;/s1&gt;)：</seg>
       </tuv>
     </tu>
     <tu>
@@ -39748,6 +40044,22 @@ please fill in your JetBrains Account login and password.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>在弹出框架中，输入一个您认为应该与正则表达式匹配的字符串。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this case the suggestion will be added prepended with negation, which may be useful for boolean expressions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T134853Z" creationid="pingfangx" creationdate="20180320T134853Z">
+        <seg>在这种情况下，建议将被添加前置否定，这可能对布尔表达式有用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this case the suggestion will replace the characters to the right of the caret.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T125451Z" creationid="pingfangx" creationdate="20180320T125451Z">
+        <seg>在这种情况下，建议将会替换插入符号右侧的字符。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42702,6 +43014,14 @@ in class ''{1}''</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It will also add the necessary punctuation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T125305Z" creationid="pingfangx" creationdate="20180320T125305Z">
+        <seg>它还会添加必要的标点符号。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It will be created by {2}.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -43660,6 +43980,22 @@ Cannot generate JavaDoc</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>只需开始输入一个正则表达式，然后按 &lt;s0&gt;&amp;shortcut:ShowIntentionActions;&lt;/s0&gt; 并选择 &lt;s1&gt;Edit RegExp&lt;/s1&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Just type &lt;s0&gt;co&lt;/s0&gt; to quickly find &lt;s1&gt;controller&lt;/s1&gt; Rails generator.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T160838Z" creationid="pingfangx" creationdate="20180320T160838Z">
+        <seg>只需键入 &lt;s0&gt;co&lt;/s0&gt; 即可快速找到 &lt;s1&gt;controller&lt;/s1&gt; Rails生成器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Just type &lt;s0&gt;mig&lt;/s0&gt; to quickly find all migration tasks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T160855Z" creationid="pingfangx" creationdate="20180320T160855Z">
+        <seg>只需键入 &lt;s0&gt;mig&lt;/s0&gt; 即可快速查找所有迁移任务。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44850,8 +45186,16 @@ Cannot generate JavaDoc</seg>
       <tuv lang="EN-US">
         <seg>Live Templates allow you to generate many typical code constructs in seconds!</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
-        <seg>代码模板允许你快生成许多典型的代码结构！</seg>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T160500Z" creationid="pingfangx" creationdate="20171213T025638Z">
+        <seg>代码模板允许你快速生成许多典型的代码结构。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Live Templates allow you to generate many typical code constructs in seconds.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T160447Z" creationid="pingfangx" creationdate="20180320T160447Z">
+        <seg>代码模板允许你快速生成许多典型的代码结构。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46124,6 +46468,14 @@ Cannot generate JavaDoc</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>手动排序</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Manual check of project file(s) with Rubocop using &lt;s0&gt;Code| Inspect Code&lt;/s0&gt; or &lt;s1&gt;Code | Run Inspection by Name...&lt;/s1&gt; (&lt;s2&gt;&amp;shortcut:RunInspection;&lt;/s2&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T161100Z" creationid="pingfangx" creationdate="20180320T161100Z">
+        <seg>使用 &lt;s0&gt;Code| Inspect Code&lt;/s0&gt; 或 &lt;s1&gt;Code | Run Inspection by Name...&lt;/s1&gt;（&lt;s2&gt;&amp;shortcut:RunInspection;&lt;/s2&gt;）用 Rubocop 手动检查项目文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47542,6 +47894,14 @@ for this anonymous class.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>模块文件位置：(&amp;U)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Model Dependency diagram provides a convenient way to look at the project models and to navigate through the project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T160516Z" creationid="pingfangx" creationdate="20180320T160516Z">
+        <seg>模型依赖图提供了一种查看项目模型和浏览项目的便捷方式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49896,6 +50256,14 @@ must not contain source root "{1}".</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>下一个匹配项(_X)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Need to navigate to or change an IDE setting?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T153528Z" creationid="pingfangx" creationdate="20180320T153528Z">
+        <seg>需要导航到或更改 IDE 设置？</seg>
       </tuv>
     </tu>
     <tu>
@@ -56184,6 +56552,62 @@ be marked as source paths.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Press &lt;s0&gt;&amp;shortcut:ExtractMethod;&lt;/s0&gt; (&lt;s1&gt;Refactor | Extract | Method&lt;/s1&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T153450Z" creationid="pingfangx" creationdate="20180320T153450Z">
+        <seg>按 &lt;s0&gt;&amp;shortcut:ExtractMethod;&lt;/s0&gt;(&lt;s1&gt;Refactor | Extract | Method&lt;/s1&gt;)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press &lt;s0&gt;&amp;shortcut:GotoAction;&lt;/s0&gt; (&lt;s1&gt;Help | Find Action&lt;/s1&gt;) and enter the name of the action.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T153544Z" creationid="pingfangx" creationdate="20180320T153544Z">
+        <seg>按 &lt;s0&gt;&amp;shortcut:GotoAction;&lt;/s0&gt;(&lt;s1&gt;Help | Find Action&lt;/s1&gt;)并输入操作的名称。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press &lt;s0&gt;&amp;shortcut:GotoImplementation;&lt;/s0&gt; (&lt;s1&gt;Navigate | Implementations&lt;/s1&gt;) or &lt;s2&gt;&amp;shortcut:ShowIntentionActions;&lt;/s2&gt;, and then choose the corresponding intention action.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T155045Z" creationid="pingfangx" creationdate="20180320T155045Z">
+        <seg>按 &lt;s0&gt;&amp;shortcut:GotoImplementation;&lt;/s0&gt;(&lt;s1&gt;Navigate | Implementations&lt;/s1&gt;)或 &lt;s2&gt;&amp;shortcut:ShowIntentionActions;&lt;/s2&gt;，然后选择相应的意图操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press &lt;s0&gt;&amp;shortcut:NewScratchFile;&lt;/s0&gt; (&lt;s1&gt;File | New | Scratch File&lt;/s1&gt;) and confirm the file type.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154851Z" creationid="pingfangx" creationdate="20180320T154851Z">
+        <seg>按 &lt;s0&gt;&amp;shortcut:NewScratchFile;&lt;/s0&gt;(&lt;s1&gt;File | New | Scratch File&lt;/s1&gt;)并确认文件类型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press &lt;s0&gt;&amp;shortcut:OptimizeImports;&lt;/s0&gt; (&lt;s1&gt;Code | Optimize Imports&lt;/s1&gt;) or &lt;s2&gt;&amp;shortcut:ShowIntentionActions;&lt;/s2&gt; (when the caret is on the import statement), and then choose the corresponding quick-fix.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154343Z" creationid="pingfangx" creationdate="20180320T154343Z">
+        <seg>按 &lt;s0&gt;&amp;shortcut:OptimizeImports;&lt;/s0&gt;(&lt;s1&gt;Code | Optimize Imports&lt;/s1&gt;)或 &lt;s2&gt;&amp;shortcut:ShowIntentionActions;&lt;/s2&gt;(当插入符号位于导入语句中时) ，然后选择相应的快速修复。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press &lt;s0&gt;&amp;shortcut:QuickJavaDoc;&lt;/s0&gt; (&lt;s1&gt;View | Quick Documentation&lt;/s1&gt;) to see the documentation for a function, type, package, or any other symbol at the caret.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154555Z" creationid="pingfangx" creationdate="20180320T154555Z">
+        <seg>按 &lt;s0&gt;&amp;shortcut:QuickJavaDoc;&lt;/s0&gt;(&lt;s1&gt;View | Quick Documentation&lt;/s1&gt;)查看插入符号处的函数，类型，包或任何其他符号的文档。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press &lt;s0&gt;&amp;shortcut:Refactorings.QuickListPopupAction;&lt;/s0&gt; (&lt;s1&gt;Refactor | Refactor This&lt;/s1&gt;) and choose the one you need.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154649Z" creationid="pingfangx" creationdate="20180320T154649Z">
+        <seg>按 &lt;s0&gt;&amp;shortcut:Refactorings.QuickListPopupAction;&lt;/s0&gt;(&lt;s1&gt;Refactor | Refactor This&lt;/s1&gt;)并选择你需要的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Press &lt;s0&gt;&amp;shortcut:ViewBreakpoints;&lt;/s0&gt; to show all the existing breakpoints, then right-click the breakpoint you want to give a description, and choose &lt;s1&gt;Edit description&lt;/s1&gt;:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -58612,6 +59036,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>最近的更改</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recent changes can be reverted even if you don't use a VCS.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154308Z" creationid="pingfangx" creationdate="20180320T154308Z">
+        <seg>即使您不使用 VCS，最近的更改也可以恢复。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62976,6 +63408,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>RubyMine smartly takes care of the Ruby gems that are required for your project: detects unresolved references and informs you about the missing gems, leaving you with the task to install the required gems using the Gem Manager.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T155849Z" creationid="pingfangx" creationdate="20180320T155849Z">
+        <seg>RubyMine 巧妙地处理您的项目所需的 Ruby gems：检测未解析的引用并通知您有关缺失的 gems，让您完成使用 Gem Manager 安装所需 gems 的任务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rule with duplicated text will be ignored.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -64860,6 +65300,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>参阅 &lt;s1&gt;File | Settings | Live Templates&lt;/s1&gt; 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See &lt;s1&gt;Live Templates&lt;/s1&gt; of your &lt;s2&gt;Settings/Preferences&lt;/s2&gt; for more details.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T160509Z" creationid="pingfangx" creationdate="20180320T160509Z">
+        <seg>有关更多详细信息，请参阅 &lt;s2&gt;Settings/Preferences&lt;/s2&gt; 的 &lt;s1&gt;Live Templates&lt;/s1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -68258,6 +68706,14 @@ surrounding ranges were commented.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Show the list of all breakpoints (&lt;s0&gt;&amp;shortcut:ViewBreakpoints;&lt;/s0&gt;), right-click the one you are interested in, and choose &lt;s1&gt;Move to Group&lt;/s1&gt; on the context menu.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T155913Z" creationid="pingfangx" creationdate="20180320T155913Z">
+        <seg>显示所有断点列表(&lt;s0&gt;&amp;shortcut:ViewBreakpoints;&lt;/s0&gt;)，右键单击您感兴趣的断点，然后在上下文菜单中选择 &lt;s1&gt;Move to Group&lt;/s1&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Show this page</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -69789,10 +70245,26 @@ cannot be defined in module "{1}" because it belongs to content of nested module
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Start typing to filter the list of members, and use &lt;s2&gt;Enter&lt;/s2&gt; to navigate to the selected item.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T155136Z" creationid="pingfangx" creationdate="20180320T155136Z">
+        <seg>开始输入以过滤成员列表，然后使用 &lt;s2&gt;Enter&lt;/s2&gt; 导航至所选项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Start typing, press &lt;s1&gt;&amp;shortcut:CodeCompletion;&lt;/s1&gt;, and select the desired string from the suggestion list.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>开始输入，按下 &lt;s1&gt;&amp;shortcut:CodeCompletion;&lt;/s1&gt; ，然后从建议列表中选择想要的字符串。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Start typing, press &lt;s2&gt;&amp;shortcut:CodeCompletion;&lt;/s2&gt;, and select the desired string from the suggestion list.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T125046Z" creationid="pingfangx" creationdate="20180320T125046Z">
+        <seg>开始输入，按下 &lt;s2&gt;&amp;shortcut:CodeCompletion;&lt;/s2&gt; ，然后从建议列表中选择想要的字符串。</seg>
       </tuv>
     </tu>
     <tu>
@@ -70657,6 +71129,14 @@ cannot be defined in module "{1}" because it belongs to content of nested module
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>这样字段在接口中是不允许的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Such notes should be enclosed in triple quotes; the text inside is perceived as a string, and displayed when running the scenario step.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T155717Z" creationid="pingfangx" creationdate="20180320T155717Z">
+        <seg>这些注释应该用三个引号括起来;内部文本被视为一个字符串，并在运行场景步骤时显示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -72523,6 +73003,14 @@ already exists in group "{1}".</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>That's why RubyMine's code completion (&lt;s0&gt;&amp;shortcut:CodeCompletion;&lt;/s0&gt;) allows type character strings located anywhere within a description.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T155654Z" creationid="pingfangx" creationdate="20180320T155654Z">
+        <seg>这就是为什么 RubyMine 的代码补全(&lt;s0&gt;&amp;shortcut:CodeCompletion;&lt;/s0&gt;)允许位于描述中的任何位置的类型字符串。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The "To package" field will be automatically filled with the package shown in the opposite commander's panel.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -72601,6 +73089,22 @@ is not an {1} module file (.iml)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>&lt;s0&gt; 'File watcher available' &lt;/s0&gt; 检查器应用于每一个被识别为应用预定义的观察器的对象(SASS, LESS, SCSS, TypeScript, Jade, Dart2JS 或 CoffeeScript)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;s0&gt;Branches&lt;/s0&gt; popup provides branch operations: &lt;s1&gt;Create&lt;/s1&gt;, &lt;s2&gt;Merge&lt;/s2&gt;, &lt;s3&gt;Rebase onto&lt;/s3&gt;, &lt;s4&gt;Delete&lt;/s4&gt; and mark as &lt;s5&gt;Favorite&lt;/s5&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T124720Z" creationid="pingfangx" creationdate="20180320T124622Z">
+        <seg>&lt;s0&gt;Branches&lt;/s0&gt; 弹窗提供分支操作： &lt;s1&gt;Create&lt;/s1&gt;, &lt;s2&gt;Merge&lt;/s2&gt;, &lt;s3&gt;Rebase onto&lt;/s3&gt;, &lt;s4&gt;Delete&lt;/s4&gt; 以及标记为 &lt;s5&gt;Favorite&lt;/s5&gt; 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;s0&gt;Code Completion&lt;/s0&gt; feature lets you quickly complete different kinds of statements in the code.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T124945Z" creationid="pingfangx" creationdate="20180320T124945Z">
+        <seg>代码补全功能可以让您快速补全代码中不同类型的语句。</seg>
       </tuv>
     </tu>
     <tu>
@@ -72709,6 +73213,22 @@ is not an {1} module file (.iml)</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Extract Method refactoring creates method for a fragment of your code.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T155727Z" creationid="pingfangx" creationdate="20180320T155727Z">
+        <seg>Extract Method 重构为您的代码片段创建方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Extract Parameter refactoring creates a parameter which holds the selected expression as the value and replaces its occurrences by reference to this newly created parameter.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T155746Z" creationid="pingfangx" creationdate="20180320T155746Z">
+        <seg>Extract Parameter 重构将创建一个参数，该参数将所选表达式保存为值，并通过引用此新创建的参数来替换其出现次数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Extract Variable refactoring helps you simplify complicated statements in your code.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -72721,6 +73241,30 @@ is not an {1} module file (.iml)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>国际化表达式模板不是有效的表达式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The IDE can complete not only the names of the types, functions, fields, constants, variables, and keywords, but also whole statements.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T125259Z" creationid="pingfangx" creationdate="20180320T125259Z">
+        <seg>IDE 不仅可以补全类型，函数，字段，常量，变量以及关键字的名称，还可以补全整个语句。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The IDE comes with a predefined list of code constructs that can be inserted into your code.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154232Z" creationid="pingfangx" creationdate="20180320T154232Z">
+        <seg>IDE 附带了可以插入代码的预定义代码结构列表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The IDE constantly analyzes your code, highlights any detected issues, and offers automatic fixes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154603Z" creationid="pingfangx" creationdate="20180320T154603Z">
+        <seg>IDE 不断分析您的代码，突出显示检测到的问题，并提供自动修复。</seg>
       </tuv>
     </tu>
     <tu>
@@ -72741,10 +73285,82 @@ is not an {1} module file (.iml)</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The IDE offers code completion for the name of a function or field even if the name of its qualifier is not complete.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154403Z" creationid="pingfangx" creationdate="20180320T154403Z">
+        <seg>即使其限定符的名称未完成，IDE 也会为函数或字段的名称提供代码完成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The IDE supports multiple carets.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154316Z" creationid="pingfangx" creationdate="20180320T154316Z">
+        <seg>IDE 支持多个插入符号。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The IDE will generate interface functions with the correct signatures.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154116Z" creationid="pingfangx" creationdate="20180320T154116Z">
+        <seg>IDE 将使用正确的签名生成接口函数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The IDE will prompt you to confirm the expression to extract and ask if you want to replace the occurrences of that expression in other places within a function, if any.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T153511Z" creationid="pingfangx" creationdate="20180320T153511Z">
+        <seg>IDE 会提示您确认表达式以提取并询问您是否要在函数内的其他位置替换该表达式的出现位置（如果有）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The IDE will show a preview of the results as you type the search expression.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T153641Z" creationid="pingfangx" creationdate="20180320T153641Z">
+        <seg>在您键入搜索表达式时，IDE 将显示结果预览。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The IDE will update all references of the constant and replace them with the value.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154130Z" creationid="pingfangx" creationdate="20180320T154130Z">
+        <seg>IDE 将更新该常量的所有引用并将其替换为该值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The IDE will update all references of the renamed symbol.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154718Z" creationid="pingfangx" creationdate="20180320T154718Z">
+        <seg>IDE 将更新重命名符号的所有引用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Inline Method refactoring replaces method caller(s) with a method body.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T155925Z" creationid="pingfangx" creationdate="20180320T155925Z">
+        <seg>Inline 方法重构用方法主体替换方法调用者。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Inline Variable refactoring replaces redundant variable usage with its last assigned value</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>内联变量重构用其上次分配的值替换冗余变量用法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Inline Variable refactoring replaces redundant variable usage with its last assigned value.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T160007Z" creationid="pingfangx" creationdate="20180320T160007Z">
+        <seg>内联变量重构用其上次分配的值替换冗余变量用法。</seg>
       </tuv>
     </tu>
     <tu>
@@ -73045,10 +73661,26 @@ is not an {1} module file (.iml)</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The easiest way to run a Rake task is to choose &lt;s0&gt;Run Rake task&lt;/s0&gt; in the &lt;s1&gt;Tools&lt;/s1&gt; menu, or to press &lt;s2&gt;&amp;shortcut:org.jetbrains.plugins.ruby.tasks.rake.actions.RakeTasksPopupAction;&lt;/s2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T161206Z" creationid="pingfangx" creationdate="20180320T161206Z">
+        <seg>运行 Rake 任务的最简单方法是在 &lt;s1&gt;Tools&lt;/s1&gt; 菜单中选择 &lt;s0&gt;Run Rake task&lt;/s0&gt;，或按 &lt;s2&gt;&amp;shortcut:org.jetbrains.plugins.ruby.tasks.rake.actions.RakeTasksPopupAction;&lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The easiest way to run a utility of the &lt;s0&gt;manage.py&lt;/s0&gt; task is to choose &lt;s1&gt;Run manage.py Task&lt;/s1&gt; in the &lt;s2&gt;Tools&lt;/s2&gt; menu, or press &lt;s3&gt;&amp;shortcut:Django.RunManageTaskAction;&lt;/s3&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>运行 &lt;s0&gt;manage.py&lt;/s0&gt; 任务最简单的方法是在 &lt;s2&gt;Tools&lt;/s2&gt; 菜单中选择 &lt;s1&gt;Run manage.py Task&lt;/s1&gt; 或者按 &lt;s3&gt;&amp;shortcut:Django.RunManageTaskAction;&lt;/s3&gt; 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The easiest way to toggle the spelling of a symbol between the CamelCase and the snake_case is to select the symbol and press &lt;s0&gt;&amp;shortcut:ToggleCamelSnakeCase;&lt;/s0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T161330Z" creationid="pingfangx" creationdate="20180320T161330Z">
+        <seg>在 CamelCase（驼峰） 和 snake_case（下划线） 之间切换符号拼写的最简单方法是选择符号，然后按 &lt;s0&gt;&amp;shortcut:ToggleCamelSnakeCase;&lt;/s0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -73365,6 +73997,14 @@ Please update modules configuration</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>可用选项的列表 ("wrappers") 是基于上下文的，并取决于你当前使用的语言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The list of available options is context-sensitive and depends on the language that you are currently using.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154620Z" creationid="pingfangx" creationdate="20180320T154620Z">
+        <seg>可用选项列表是上下文相关的，取决于您当前使用的语言。</seg>
       </tuv>
     </tu>
     <tu>
@@ -73737,6 +74377,14 @@ Please update modules configuration</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The same action can be used to generate new tests for a function, file or package.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154225Z" creationid="pingfangx" creationdate="20180320T154225Z">
+        <seg>可以使用相同的操作为函数，文件或包生成新的测试。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The sample code featuring selected template will be shown here.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -73813,6 +74461,14 @@ Please update modules configuration</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>所选模块依赖的{1, choice, 1#模块 ''''{2}'''' |2#{1} 模块} 当前是卸载的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The selection will move to the first matching item, with the matching part of the caption highlighted.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T155119Z" creationid="pingfangx" creationdate="20180320T155119Z">
+        <seg>选择将移至第一个匹配项目，突出显示标题的匹配部分。</seg>
       </tuv>
     </tu>
     <tu>
@@ -73997,6 +74653,22 @@ Any JAR files created will be named after the name of the main module.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The tab is hidden by default; use the &lt;s2&gt;Variables&lt;/s2&gt; pane to manage the watches.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T152940Z" creationid="pingfangx" creationdate="20180320T152940Z">
+        <seg>该选项卡默认为隐藏;使用 &lt;s2&gt;Variables&lt;/s2&gt; 窗格来管理观察点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The transformation is performed based on the predefined template (&lt;s1&gt;Settings | Editor | General | Postfix Completion&lt;/s1&gt;), the current context, and the expression type.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154503Z" creationid="pingfangx" creationdate="20180320T154503Z">
+        <seg>转换基于预定义的模板(&lt;s1&gt;Settings | Editor | General | Postfix Completion&lt;/s1&gt;)，当前上下文和表达式类型执行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The type of field ''{0}'' is ''{1}''</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -74033,6 +74705,14 @@ Any JAR files created will be named after the name of the main module.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>分配给 {1} 的值 {0} 从未使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The variants that contain the specified string as prefixes will be listed at the top of the suggestion list, followed by the variants with the arbitrary location of the search string.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T155703Z" creationid="pingfangx" creationdate="20180320T155703Z">
+        <seg>包含指定字符串作为前缀的变体将列在建议列表的顶部，随后是带有搜索字符串任意位置的变体。</seg>
       </tuv>
     </tu>
     <tu>
@@ -74099,6 +74779,22 @@ already exists.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>然后，使用 "Built-in server port" spin box 来设置新的值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then, in the pop-up window, choose &lt;s0&gt;[Reload Rake tasks list]&lt;/s0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T160304Z" creationid="pingfangx" creationdate="20180320T160304Z">
+        <seg>然后，在弹出窗口中，选择 &lt;s0&gt;[Reload Rake tasks list]&lt;/s0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then, in the pop-up window, choose &lt;s0&gt;[Reload generators list]&lt;/s0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T160239Z" creationid="pingfangx" creationdate="20180320T160239Z">
+        <seg>然后，在弹出窗口中，选择 &lt;s0&gt;[Reload generators list]&lt;/s0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -74439,6 +75135,22 @@ already exists.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There's no need to start from the beginning of the generator name.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T160543Z" creationid="pingfangx" creationdate="20180320T160543Z">
+        <seg>没有必要从生成器名称的开头开始。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There's no need to start from the beginning of the task name.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T160850Z" creationid="pingfangx" creationdate="20180320T160850Z">
+        <seg>没有必要从任务名称的开始处开始。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These package prefixes will be changed.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -74515,6 +75227,22 @@ already exists.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>该 SDK 将被所有项目模块默认使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This action is also available from the context menu (&lt;s1&gt;Git | Annotate&lt;/s1&gt;) on a file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T155453Z" creationid="pingfangx" creationdate="20180320T155453Z">
+        <seg>此操作也可从文件上的上下文菜单(&lt;s1&gt;Git | Annotate&lt;/s1&gt;)使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This action will also optimize import statements and delete unused ones.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154702Z" creationid="pingfangx" creationdate="20180320T154702Z">
+        <seg>此操作还将优化导入语句并删除未使用的语句。</seg>
       </tuv>
     </tu>
     <tu>
@@ -74763,6 +75491,22 @@ already exists.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>这将生成以下内容：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This works in the Ruby code and ERB/RHTML files inside Ruby on Rails projects.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T160914Z" creationid="pingfangx" creationdate="20180320T160914Z">
+        <seg>这适用于 Ruby on Rails 项目中的 Ruby 代码和 ERB / RHTML 文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This would result in the following:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T155736Z" creationid="pingfangx" creationdate="20180320T155736Z">
+        <seg>这将导致以下结果：</seg>
       </tuv>
     </tu>
     <tu>
@@ -75063,6 +75807,14 @@ already exists.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To access Rails generators quickly, press &lt;s0&gt;&amp;shortcut:org.jetbrains.plugins.ruby.rails.actions.generators.GeneratorsPopupAction;&lt;/s0&gt; or use &lt;s1&gt;Tools | Run Rails Generator&lt;/s1&gt; and start typing the generator name.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T160539Z" creationid="pingfangx" creationdate="20180320T160539Z">
+        <seg>要快速访问 Rails 生成器，请按 &lt;s0&gt;&amp;shortcut:org.jetbrains.plugins.ruby.rails.actions.generators.GeneratorsPopupAction;&lt;/s0&gt; 或使用 &lt;s1&gt;Tools | Run Rails Generator&lt;/s1&gt; 并开始输入生成器名称。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To access the corresponding settings, use &lt;s1&gt;File | Settings | Code Style | Imports&lt;/s1&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -75071,10 +75823,34 @@ already exists.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To add a name to a breakpoint, show the list of all breakpoints (&lt;s0&gt;&amp;shortcut:ViewBreakpoints;&lt;/s0&gt;), right-click the one you are interested in, and edit its description.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T160059Z" creationid="pingfangx" creationdate="20180320T160059Z">
+        <seg>要为断点添加名称，请显示所有断点的列表(&lt;s0&gt;&amp;shortcut:ViewBreakpoints;&lt;/s0&gt;)，右键单击您感兴趣的断点并编辑其描述。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To add another caret at a specific place in the code, left-click that place in the editor while holding &lt;s2&gt;Alt+Shift&lt;/s2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154331Z" creationid="pingfangx" creationdate="20180320T154331Z">
+        <seg>要在代码的特定位置添加另一个插入符号，请在按住 &lt;s2&gt;Alt+Shift&lt;/s2&gt; 的同时在编辑器中左键单击该位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To add item to favorites list use: Main Menu -&gt; View -&gt; Add To Favorites</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>要添加项目到收藏夹列表，请使用：主菜单 - &gt;查看 - &gt;添加到收藏夹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To apply a fix for the issue at the caret, press &lt;s0&gt;&amp;shortcut:ShowIntentionActions;&lt;/s0&gt; and choose the quick-fix.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154612Z" creationid="pingfangx" creationdate="20180320T154612Z">
+        <seg>要对插入的问题应用修补程序，请按 &lt;s0&gt;&amp;shortcut:ShowIntentionActions;&lt;/s0&gt; 并选择快速修复。</seg>
       </tuv>
     </tu>
     <tu>
@@ -75179,6 +75955,14 @@ already exists.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>要这样做，只需在版本控制工具窗口的上下文菜单中选择 &lt;s0&gt;Move to Changelist&lt;/s0&gt; 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To do that, place the caret at a module or class name and then press &lt;s0&gt;&amp;shortcut:Move;&lt;/s0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T160038Z" creationid="pingfangx" creationdate="20180320T160038Z">
+        <seg>为此，请将插入符号放在模块或类名称中，然后按 &lt;s0&gt;&amp;shortcut:Move;&lt;/s0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -75311,10 +76095,58 @@ already exists.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To extend or shrink the selection at the caret, press &lt;s0&gt;&amp;shortcut:EditorSelectWord;&lt;/s0&gt; (&lt;s1&gt;Edit | Extend Selection&lt;/s1&gt;) or &lt;s2&gt;&amp;shortcut:EditorUnSelectWord;&lt;/s2&gt; (&lt;s3&gt;Edit | Shrink Selection&lt;/s3&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T155003Z" creationid="pingfangx" creationdate="20180320T155003Z">
+        <seg>要扩展或缩小插入符号处的选择，按下 &lt;s0&gt;&amp;shortcut:EditorSelectWord;&lt;/s0&gt;(&lt;s1&gt;Edit | Extend Selection&lt;/s1&gt;)或 &lt;s2&gt;&amp;shortcut:EditorUnSelectWord;&lt;/s2&gt; (&lt;s3&gt;Edit | Shrink Selection&lt;/s3&gt;)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To find the author who last made changes to a specific line of code, right-click the left gutter and select &lt;s0&gt;Annotate&lt;/s0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T155448Z" creationid="pingfangx" creationdate="20180320T155448Z">
+        <seg>要查找最后一次对特定代码行进行更改的作者，请右键单击左侧的 gutter 并选择 &lt;s0&gt;Annotate&lt;/s0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To find where a certain text is used across all project files, press &lt;s0&gt;&amp;shortcut:FindInPath;&lt;/s0&gt; (&lt;s1&gt;Edit | Find | Find in Path&lt;/s1&gt;), enter a search expression (regular expressions are supported), and then choose the search scope.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T153637Z" creationid="pingfangx" creationdate="20180320T153637Z">
+        <seg>要找到在所有项目文件中使用某个文本的位置，请按 &lt;s0&gt;&amp;shortcut:FindInPath;&lt;/s0&gt;（&lt;s1&gt;Edit | Find | Find in Path&lt;/s1&gt;），输入搜索表达式（支持正则），然后选择搜索范围。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To get JPDA libraries please visit</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>要获得 JPDA 库，请访问</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To get only those code completion suggestions that are applicable in the current context, press &lt;s0&gt;&amp;shortcut:SmartTypeCompletion;&lt;/s0&gt; (&lt;s1&gt;Code | Completion | SmartType&lt;/s1&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T155059Z" creationid="pingfangx" creationdate="20180320T155059Z">
+        <seg>要仅获取适用于当前上下文的代码完成建议，请按 &lt;s0&gt;&amp;shortcut:SmartTypeCompletion;&lt;/s0&gt;(&lt;s1&gt;Code | Completion | SmartType&lt;/s1&gt;)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To get this type of completion, press &lt;s2&gt;&amp;shortcut:HippieCompletion;&lt;/s2&gt; (&lt;s3&gt;Code | Completion | Cyclick Expan Word&lt;/s3&gt;) and &lt;s4&gt;&amp;shortcut:HippieBackwardCompletion;&lt;/s4&gt; (&lt;s5&gt;Code | Completion | Cyclick Expan Word Backward&lt;/s5&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154102Z" creationid="pingfangx" creationdate="20180320T154102Z">
+        <seg>要获得该类型补全，按 &lt;s2&gt;&amp;shortcut:HippieCompletion;&lt;/s2&gt;(&lt;s3&gt;Code | Completion | Cyclick Expan Word&lt;/s3&gt;)和 &lt;s4&gt;&amp;shortcut:HippieBackwardCompletion;&lt;/s4&gt; (&lt;s5&gt;Code | Completion | Cyclick Expan Word Backward&lt;/s5&gt;)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To have a statement completed, press &lt;s0&gt;&amp;shortcut:EditorCompleteStatement;&lt;/s0&gt; (&lt;s1&gt;Code | Complete Current Statement&lt;/s1&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T125336Z" creationid="pingfangx" creationdate="20180320T125336Z">
+        <seg>要补全语句，请按 &lt;s0&gt;&amp;shortcut:EditorCompleteStatement;&lt;/s0&gt; (&lt;s1&gt;Code | Complete Current Statement&lt;/s1&gt;)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -75335,6 +76167,22 @@ already exists.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To insert the stub into the code at the caret, press &lt;s0&gt;&amp;shortcut:Generate;&lt;/s0&gt; (&lt;s1&gt;Code | Generate&lt;/s1&gt;) and choose the stub.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T153735Z" creationid="pingfangx" creationdate="20180320T153735Z">
+        <seg>要将存根插入插入符号中的代码，请按 &lt;s0&gt;&amp;shortcut:Generate;&lt;/s0&gt;(&lt;s1&gt;Code | Generate&lt;/s1&gt;)并选择存根。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To install it, press &lt;s0&gt;&amp;shortcut:ShowIntentionActions;&lt;/s0&gt; and choose the corresponding quick-fix.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T153748Z" creationid="pingfangx" creationdate="20180320T153748Z">
+        <seg>要安装它，请按 &lt;s0&gt;&amp;shortcut:ShowIntentionActions;&lt;/s0&gt; 并选择相应的快速修复。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To make sure you didn't miss some slash of quotation mark, place the caret somewhere in the expression you want to check, and press &lt;s0&gt;&amp;shortcut:ShowIntentionActions;&lt;/s0&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -75347,6 +76195,46 @@ already exists.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>为了确保你不会遗漏引号中的斜线，将插入符号放到想检查表达式处，然后按 &lt;s0&gt;&amp;shortcut:ShowIntentionActions;&lt;/s0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To narrow the list down, start typing the name of the item you're looking for.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154632Z" creationid="pingfangx" creationdate="20180320T154632Z">
+        <seg>要缩小列表的范围，请输入您要查找的项目的名称。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To navigate to a file by its name, press &lt;s0&gt;&amp;shortcut:GotoFile;&lt;/s0&gt; (&lt;s1&gt;Navigate | File&lt;/s1&gt;) and start typing the name.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T153856Z" creationid="pingfangx" creationdate="20180320T153856Z">
+        <seg>要通过名称导航到文件，请按 &lt;s0&gt;&amp;shortcut:GotoFile;&lt;/s0&gt;(&lt;s1&gt;Navigate | File&lt;/s1&gt;)并开始输入名称。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To navigate to a folder by its name, use the same steps as for navigating to a file: press &lt;s0&gt;&amp;shortcut:GotoFile;&lt;/s0&gt; (&lt;s1&gt;Navigate | File&lt;/s1&gt;), start typing the folder name, and add a slash at the end.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T153916Z" creationid="pingfangx" creationdate="20180320T153916Z">
+        <seg>要按照名称导航到文件夹，请使用与导航到文件相同的步骤：按 &lt;s0&gt;&amp;shortcut:GotoFile;&lt;/s0&gt;(&lt;s1&gt;Navigate | File&lt;/s1&gt;)，开始输入文件夹名称，并在末尾添加斜杠。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To navigate to a type by its name, press &lt;s0&gt;&amp;shortcut:GotoClass;&lt;/s0&gt; (&lt;s1&gt;Navigate | Class&lt;/s1&gt;) and start typing the name.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T153807Z" creationid="pingfangx" creationdate="20180320T153807Z">
+        <seg>要按名称导航到某个类，请按 &lt;s0&gt;&amp;shortcut:GotoClass;&lt;/s0&gt;(&lt;s1&gt;Navigate | Class&lt;/s1&gt;)并开始输入名称。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To navigate to a type, function, field, or constant by its name, press &lt;s0&gt;&amp;shortcut:GotoSymbol;&lt;/s0&gt; (&lt;s1&gt;Navigate | Symbol&lt;/s1&gt;) and start typing the name.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T153931Z" creationid="pingfangx" creationdate="20180320T153931Z">
+        <seg>要按名称导航到类型，函数，字段或常量，请按 &lt;s0&gt;&amp;shortcut:GotoSymbol;&lt;/s0&gt;(&lt;s1&gt;Navigate | Symbol&lt;/s1&gt;)并开始输入名称。</seg>
       </tuv>
     </tu>
     <tu>
@@ -75367,6 +76255,14 @@ already exists.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To navigate to the declaration of a type, function, field, variable, or any other symbol, press &lt;s0&gt;&amp;shortcut:GotoDeclaration;&lt;/s0&gt; (&lt;s1&gt;Navigate | Declaration&lt;/s1&gt;) when the caret is at the symbol, or simply left-click the symbol while holding &lt;s2&gt;Meta&lt;/s2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T153849Z" creationid="pingfangx" creationdate="20180320T153849Z">
+        <seg>要导航到类，函数，字段，变量或任何其他符号的声明，请在插入符号在符号处时按 &lt;s0&gt;&amp;shortcut:GotoDeclaration;&lt;/s0&gt;(&lt;s1&gt;Navigate | Declaration&lt;/s1&gt;)，或者只需在按住 &lt;s2&gt;Meta&lt;/s2&gt; 的同时左键单击该符号。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To navigate to the implementation(s) of an abstract method, position the caret at its usage or its name in the declaration and press &lt;s0&gt;&amp;shortcut:GotoImplementation;&lt;/s0&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -75379,6 +76275,14 @@ already exists.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>最近缩进位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To open a project in the same window with the already opened one, choose &lt;s1&gt;Open directory&lt;/s1&gt;, then in the &lt;s2&gt;Open project&lt;/s2&gt; dialog box, select the option &lt;s3&gt;Open in current window&lt;/s3&gt;, and select the check box &lt;s4&gt;Add to currently opened projects&lt;/s4&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T160051Z" creationid="pingfangx" creationdate="20180320T160051Z">
+        <seg>要在已打开的窗口中打开项目，请选择 &lt;s1&gt;Open directory&lt;/s1&gt;，然后在 &lt;s2&gt;Open project&lt;/s2&gt; 对话框中选择选项 &lt;s3&gt;Open in current window&lt;/s3&gt;，然后选中复选框 &lt;s4&gt;Add to currently opened projects&lt;/s4&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -75431,6 +76335,14 @@ already exists.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To open the diagram, use &lt;s0&gt;View | Model Dependency Diagram&lt;/s0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T160520Z" creationid="pingfangx" creationdate="20180320T160520Z">
+        <seg>要打开图表，请使用 &lt;s0&gt;View | Model Dependency Diagram&lt;/s0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To open your browser with documentation for the element at the editor's caret, press &lt;s0&gt;&amp;shortcut:ExternalJavaDoc;&lt;/s0&gt; (&lt;s1&gt;View | External Documentation&lt;/s1&gt;).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -75443,6 +76355,14 @@ already exists.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>到包(&amp;G)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To paste a specific entry from the clipboard, press &lt;s0&gt;&amp;shortcut:PasteMultiple;&lt;/s0&gt; (&lt;s1&gt;Edit | Paste from History&lt;/s1&gt;) and select the entry you need.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154420Z" creationid="pingfangx" creationdate="20180320T154420Z">
+        <seg>要从剪贴板粘贴特定条目，请按 &lt;s0&gt;&amp;shortcut:PasteMultiple;&lt;/s0&gt;(&lt;s1&gt;Edit | Paste from History&lt;/s1&gt;)并选择您需要的条目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -75463,6 +76383,14 @@ already exists.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To quickly comment or uncomment the line at the caret, or multiple selected lines, press &lt;s0&gt;&amp;shortcut:CommentByLineComment;&lt;/s0&gt; (&lt;s1&gt;Code | Comment with Line Comment&lt;/s1&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T125140Z" creationid="pingfangx" creationdate="20180320T125140Z">
+        <seg>要快速注释或取消注释插入符号处的行，或选中的多行，按 &lt;s0&gt;&amp;shortcut:CommentByLineComment;&lt;/s0&gt; (&lt;s1&gt;Code | Comment with Line Comment&lt;/s1&gt;)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To quickly complete a method call of a static method located anywhere in your project, libraries or JDK, enter a prefix and press &lt;s0&gt;&amp;shortcut:CodeCompletion;&lt;/s0&gt; twice.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -75479,6 +76407,22 @@ already exists.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To quickly execute a Rake task press &lt;s0&gt;&amp;shortcut:org.jetbrains.plugins.ruby.tasks.rake.actions.RakeTasksPopupAction;&lt;/s0&gt; or use &lt;s1&gt;Tools | Run Rake task&lt;/s1&gt; and start typing the task name.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T160847Z" creationid="pingfangx" creationdate="20180320T160847Z">
+        <seg>要快速执行 Rake 任务，请按 &lt;s0&gt;&amp;shortcut:org.jetbrains.plugins.ruby.tasks.rake.actions.RakeTasksPopupAction;&lt;/s0&gt; 或使用 &lt;s1&gt;Tools | Run Rake task&lt;/s1&gt; 并开始输入任务名称。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To quickly find a file, class, symbol, or even an IDE setting, use Search Everywhere by pressing &lt;s0&gt;Shift&lt;/s0&gt; twice.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154907Z" creationid="pingfangx" creationdate="20180320T154907Z">
+        <seg>要快速查找文件，类，符号甚至 IDE 设置，请按 &lt;s0&gt;Shift&lt;/s0&gt; 两次使用 Search Everywhere。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To quickly find a menu command or toolbar action, you do not need to look through the menus.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -75487,10 +76431,74 @@ already exists.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To quickly find an item in a tree, list, or table, start typing its caption.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T155113Z" creationid="pingfangx" creationdate="20180320T155113Z">
+        <seg>要快速查找树，列表或表格中的项目，请开始键入其标题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To quickly find and run an inspection, press &lt;s0&gt;&amp;shortcut:RunInspection;&lt;/s0&gt; and start typing the name of the inspection or its group.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>要快速查找和运行检查，按 &lt;s0&gt;&amp;shortcut:RunInspection;&lt;/s0&gt; 并开始输入检查的或检查组的名字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To quickly invoke a VCS-related action, use the &lt;s0&gt;VCS Operations&lt;/s0&gt; popup (&lt;s1&gt;VCS | VCS Operations Pop-up&lt;/s1&gt;) by pressing &lt;s2&gt;&amp;shortcut:Vcs.QuickListPopupAction;&lt;/s2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T155557Z" creationid="pingfangx" creationdate="20180320T155557Z">
+        <seg>要快速调用与 VCS 相关的操作，请按 &lt;s2&gt;&amp;shortcut:Vcs.QuickListPopupAction;&lt;/s2&gt; 使用 &lt;s0&gt;VCS Operations&lt;/s0&gt; 弹出窗口（&lt;s1&gt;VCS | VCS Operations Pop-up&lt;/s1&gt;。(&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To quickly navigate from a Rails model to its controller, from a controller to a helper, test or a view, use &lt;s0&gt;&amp;shortcut:GotoRelated;&lt;/s0&gt; or &lt;s1&gt;Navigate | Related File&lt;/s1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T160533Z" creationid="pingfangx" creationdate="20180320T160533Z">
+        <seg>要从 Rails 模型快速导航到其控制器，从控制器到助手，测试或视图，请使用 &lt;s0&gt;&amp;shortcut:GotoRelated;&lt;/s0&gt; 或 &lt;s1&gt;Navigate | Related File&lt;/s1&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To quickly navigate over the recently opened files or tool windows, press &lt;s0&gt;&amp;shortcut:RecentFiles;&lt;/s0&gt; (&lt;s1&gt;View | Recent Files&lt;/s1&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154627Z" creationid="pingfangx" creationdate="20180320T154627Z">
+        <seg>要快速浏览最近打开的文件或工具窗口，请按 &lt;s0&gt;&amp;shortcut:RecentFiles;&lt;/s0&gt;(&lt;s1&gt;View | Recent Files&lt;/s1&gt;)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To quickly prototype some code, you can create a temporary file (without giving it a name or storing it in your project).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154848Z" creationid="pingfangx" creationdate="20180320T154848Z">
+        <seg>为了快速建立一些代码的原型，你可以创建一个临时文件(不需要指定名称或将其存储在项目中)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To quickly run a main or test function at the caret, click the icon in the left gutter and choose whether you want to &lt;s0&gt;Run&lt;/s0&gt; it, &lt;s1&gt;Debug&lt;/s1&gt; it, or run with &lt;s2&gt;Coverage&lt;/s2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154757Z" creationid="pingfangx" creationdate="20180320T154757Z">
+        <seg>要快速运行插入符号处的主函数或测试函数，请单击左侧阴影线中的图标，然后选择是否要 &lt;s0&gt;Run&lt;/s0&gt; 它，&lt;s1&gt;Debug&lt;/s1&gt; 它或运行 &lt;s2&gt;Coverage&lt;/s2&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To quickly run a main or test function at the caret, press &lt;s0&gt;&amp;shortcut:ShowIntentionActions;&lt;/s0&gt; and select the &lt;s1&gt;Run&lt;/s1&gt; intention action.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154839Z" creationid="pingfangx" creationdate="20180320T154839Z">
+        <seg>要快速在插入符号处运行主函数或测试函数，请按 &lt;s0&gt;&amp;shortcut:ShowIntentionActions;&lt;/s0&gt; 并选择 &lt;s1&gt;Run&lt;/s1&gt; 意向操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To quickly see all return and panic statements within a function, press &lt;s0&gt;&amp;shortcut:HighlightUsagesInFile;&lt;/s0&gt; when the caret is at the func and return keywords or the panic function.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154022Z" creationid="pingfangx" creationdate="20180320T154022Z">
+        <seg>要快速查看函数中的所有返回和 panic 语句，请在插入符号位于 func 并返回关键字或 panic 函数时按 &lt;s0&gt;&amp;shortcut:HighlightUsagesInFile;&lt;/s0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -75519,6 +76527,14 @@ already exists.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To quickly select the current file in a specific tool window or in the browser, press &lt;s0&gt;&amp;shortcut:SelectIn;&lt;/s0&gt; (&lt;s1&gt;Navigate | Select In&lt;/s1&gt;) and select where you'd like to open the file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154916Z" creationid="pingfangx" creationdate="20180320T154916Z">
+        <seg>要在特定工具窗口或浏览器中快速选择当前文件，请按 &lt;s0&gt;&amp;shortcut:SelectIn;&lt;/s0&gt;(&lt;s1&gt;Navigate | Select In&lt;/s1&gt;)并选择您想要的位置打开文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To quickly select the currently edited element (class, file, method or field) in any view (&lt;s0&gt;Project&lt;/s0&gt; view, &lt;s1&gt;Structure&lt;/s1&gt; view or other), press &lt;s2&gt;&amp;shortcut:SelectIn;&lt;/s2&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -75535,10 +76551,50 @@ already exists.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To repeatedly evaluate an expression in the context of the current stack frame, you can use &lt;s0&gt;Watches&lt;/s0&gt; inside the &lt;s1&gt;Debugger&lt;/s1&gt; tool window.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T152923Z" creationid="pingfangx" creationdate="20180320T152923Z">
+        <seg>要在当前堆栈帧的上下文中重复计算表达式，可以在 &lt;s1&gt;Debugger&lt;/s1&gt; 工具窗口中使用 &lt;s0&gt;Watches&lt;/s0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To see all the available scratch files, choose Scratches view in the Project tool window.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>要查看所有可用的临时文件，请在 Project（项目）工具窗口中选择 Scratches 视图。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To see or revert recent changes to a file, folder, or even the entire project, use &lt;s0&gt;Local History&lt;/s0&gt; (&lt;s1&gt;VCS | Local History&lt;/s1&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154303Z" creationid="pingfangx" creationdate="20180320T154303Z">
+        <seg>要查看或还原对文件，文件夹或甚至整个项目的最近更改，请使用 &lt;s0&gt;Local History&lt;/s0&gt;(&lt;s1&gt;VCS | Local History&lt;/s1&gt;)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To see the declaration of a function, type, package, or any other symbol at the caret, press &lt;s0&gt;&amp;shortcut:QuickImplementations;&lt;/s0&gt; (&lt;s1&gt;View | Quick Definition&lt;/s1&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154541Z" creationid="pingfangx" creationdate="20180320T154541Z">
+        <seg>要查看插入符号处的方法，类型，包或任何其他符号的声明，请按 &lt;s0&gt;&amp;shortcut:QuickImplementations;&lt;/s0&gt;(&lt;s1&gt;View | Quick Definition&lt;/s1&gt;)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To see the full list of issues the IDE has detected in your code, press &lt;s0&gt;&amp;shortcut:CodeInspection.OnEditor;&lt;/s0&gt; (&lt;s1&gt;Code | Inspect Code&lt;/s1&gt;), choose a particular scope (e.g. across the whole project), and select &lt;s2&gt;Inspection Profile&lt;/s2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154143Z" creationid="pingfangx" creationdate="20180320T154143Z">
+        <seg>要查看 IDE 在代码中检测到的完整问题列表，请按 &lt;s0&gt;&amp;shortcut:CodeInspection.OnEditor;&lt;/s0&gt;（&lt;s1&gt;Code | Inspect Code&lt;/s1&gt;），选择一个特定范围例如在整个项目中），然后选择 &lt;s2&gt;Inspection Profile&lt;/s2&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To see the information on the available signatures, as well the parameter expected at the caret (within a function call), press &lt;s0&gt;&amp;shortcut:ParameterInfo;&lt;/s0&gt; (&lt;s1&gt;View | Quick Documentation&lt;/s1&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154354Z" creationid="pingfangx" creationdate="20180320T154354Z">
+        <seg>要查看可用签名的信息以及插入符号(在函数调用中)期望的参数，请按 &lt;s0&gt;&amp;shortcut:ParameterInfo;&lt;/s0&gt;(&lt;s1&gt;View | Quick Documentation&lt;/s1&gt; )。</seg>
       </tuv>
     </tu>
     <tu>
@@ -75555,6 +76611,22 @@ already exists.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>要查看所选方法的继承层次，按 &lt;s0&gt;&amp;shortcut:TypeHierarchy;&lt;/s0&gt; (&lt;s1&gt;View | Type Hierarchy&lt;/s1&gt;)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To see the popup, either click the &lt;s6&gt;Branches&lt;/s6&gt; widget on the right side of the status bar, or click &lt;s7&gt;VCS | Git&lt;/s7&gt; (or &lt;s8&gt;Mercurial&lt;/s8&gt;) &lt;s9&gt;| Branches&lt;/s9&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T124716Z" creationid="pingfangx" creationdate="20180320T124716Z">
+        <seg>要查看弹窗，点击状态栏右侧的 &lt;s6&gt;Branches&lt;/s6&gt; 小部件，或者点击 &lt;s7&gt;VCS | Git&lt;/s7&gt; (或 &lt;s8&gt;Mercurial&lt;/s8&gt;) &lt;s9&gt;| Branches&lt;/s9&gt; 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To see the structure of the current file or quickly navigate to one of its members, press &lt;s0&gt;&amp;shortcut:FileStructurePopup;&lt;/s0&gt; (&lt;s1&gt;Navigate | File Structure&lt;/s1&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T155132Z" creationid="pingfangx" creationdate="20180320T155132Z">
+        <seg>要查看当前文件的结构或快速导航到其中一个成员，请按 &lt;s0&gt;&amp;shortcut:FileStructurePopup;&lt;/s0&gt;(&lt;s1&gt;Navigate | File Structure&lt;/s1&gt;)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -75599,6 +76671,22 @@ already exists.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To select the next occurrence of the symbol at the caret, press &lt;s0&gt;&amp;shortcut:SelectNextOccurrence;&lt;/s0&gt; (&lt;s1&gt;Edit | Find | Add Selection for Next Occurrence&lt;/s1&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154324Z" creationid="pingfangx" creationdate="20180320T154324Z">
+        <seg>要选择插入符号中下一次出现的符号，请按 &lt;s0&gt;&amp;shortcut:SelectNextOccurrence;&lt;/s0&gt;(&lt;s1&gt;Edit | Find | Add Selection for Next Occurrence&lt;/s1&gt;)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To set a breakpoint with a condition, select the appropriate check-box in its settings and enter the desired expression in the &lt;s0&gt;Condition&lt;/s0&gt; field.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T135945Z" creationid="pingfangx" creationdate="20180320T135945Z">
+        <seg>要用条件设置断点，请在其设置中选中相应的复选框，然后在&lt;s0&gt;Condition&lt;/s0&gt;字段中输入所需的表达式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To show separator lines between methods in the editor, open the editor settings and select the &lt;s0&gt;Show method separators&lt;/s0&gt; check box in the &lt;s1&gt;Appearance&lt;/s1&gt; page.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -75635,6 +76723,14 @@ already exists.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>要这样做，将插入符号放到你想重命名的变量处，然后按 &lt;s0&gt;&amp;shortcut:RenameElement;&lt;/s0&gt; (&lt;s1&gt;Refactor | Rename&lt;/s1&gt;)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To turn this highlighting on, enable &lt;s0&gt;Semantic Highlighting&lt;/s0&gt; (&lt;s1&gt;Settings | Editor | Color Scheme | Language Defaults&lt;/s1&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T155027Z" creationid="pingfangx" creationdate="20180320T155027Z">
+        <seg>要打开此突出显示，请启用 &lt;s0&gt;Semantic Highlighting&lt;/s0&gt;(&lt;s1&gt;Settings | Editor | Color Scheme | Language Defaults&lt;/s1&gt;)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -75947,6 +77043,14 @@ already exists.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>在分割线上使用 Ctrl+click (Windows/*nix) 或 Cmd+click (Mac) ，可以在工具窗口的垂直放置和并排放置之间切换：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Toggle between the vertical and side-by-side placement of the tool windows by Ctrl+click on the splitter:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T161516Z" creationid="pingfangx" creationdate="20180320T161516Z">
+        <seg>在工具窗口的垂直位置和并排位置之间切换，方法是按住 Ctrl 并单击分隔线：</seg>
       </tuv>
     </tu>
     <tu>
@@ -78977,6 +80081,14 @@ Error message: {1}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use &lt;s2&gt;Space&lt;/s2&gt; for toggling IDE settings.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T153553Z" creationid="pingfangx" creationdate="20180320T153553Z">
+        <seg>使用 &lt;s2&gt;Space&lt;/s2&gt; 切换 IDE 设置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use @throws rather than @exception</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -79069,6 +80181,30 @@ Error message: {1}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>使用抗锯齿字体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use arrows to select the file, and &lt;s2&gt;Enter&lt;/s2&gt; to jump to it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T153901Z" creationid="pingfangx" creationdate="20180320T153901Z">
+        <seg>使用箭头选择文件，&lt;s2&gt;Enter&lt;/s2&gt; 跳转到该文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use arrows to select the symbol, and &lt;s2&gt;Enter&lt;/s2&gt; to jump to its declaration.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T153937Z" creationid="pingfangx" creationdate="20180320T153937Z">
+        <seg>使用箭头选择符号，&lt;s2&gt;Enter&lt;/s2&gt; 跳转到其声明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use arrows to select the type, and &lt;s2&gt;Enter&lt;/s2&gt; to jump to it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T153811Z" creationid="pingfangx" creationdate="20180320T153811Z">
+        <seg>使用箭头选择类型，然后 &lt;s2&gt;Enter&lt;/s2&gt; 跳转到该类型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -79717,6 +80853,14 @@ Error message: {1}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>使用定义类型加载失败</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using this action multiple times will select the function name, then the expression that calls that function, then the whole statement, then the containing block, etc.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T155012Z" creationid="pingfangx" creationdate="20180320T155012Z">
+        <seg>多次使用此操作将选择函数名称，然后选择调用该函数的表达式，然后选择整个语句，然后选择包含块等。</seg>
       </tuv>
     </tu>
     <tu>
@@ -80737,6 +81881,38 @@ Error message: {1}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Want to call an action but don't know its shortcut?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T153549Z" creationid="pingfangx" creationdate="20180320T153522Z">
+        <seg>想要调用某个操作但不知道其快捷方式？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Want to change a shortcut but don’t know its name?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T153657Z" creationid="pingfangx" creationdate="20180320T153657Z">
+        <seg>想更改一个快捷键，但不知道它的名字？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Want to see the list of all refactorings applicable to the symbol at the caret?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154646Z" creationid="pingfangx" creationdate="20180320T154646Z">
+        <seg>想要查看适用于插入符号处的所有重构列表吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Want to see the list of all types that implement the interface or any of its methods at the caret, or to quickly navigate to one of them?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T155039Z" creationid="pingfangx" creationdate="20180320T155039Z">
+        <seg>想要查看在插入符处实现接口或其任何方法的所有类型的列表，还是要快速导航到其中的一个？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Warning</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -80915,16 +82091,24 @@ Error message: {1}</seg>
       <tuv lang="EN-US">
         <seg>Welcome to PyCharm &amp;majorVersion;.&amp;minorVersion;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
-        <seg>欢迎使用 PyCharm &amp;majorVersion;.&amp;minorVersion;</seg>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T161432Z" creationid="pingfangx" creationdate="20171213T025638Z">
+        <seg>欢迎使用 &amp;productName; &amp;majorVersion;.&amp;minorVersion;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Welcome to PyCharm Productivity Guide</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
-        <seg>欢迎来到 PyCharm 生产力指南</seg>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T161504Z" creationid="pingfangx" creationdate="20171213T025638Z">
+        <seg>欢迎来到 &amp;productName; 生产力指南</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Welcome to RubyMine &amp;majorVersion;.&amp;minorVersion;!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T161420Z" creationid="pingfangx" creationdate="20180320T161420Z">
+        <seg>欢迎使用 &amp;productName; &amp;majorVersion;.&amp;minorVersion;</seg>
       </tuv>
     </tu>
     <tu>
@@ -81017,6 +82201,30 @@ Error message: {1}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When comparing two files or two revisions of the same file, click the arrow icons to apply changes from one side to another.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T155501Z" creationid="pingfangx" creationdate="20180320T155501Z">
+        <seg>在比较同一文件的两个文件或两个修订版本时，单击箭头图标可将更改从一侧应用到另一侧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When debugging, you can evaluate an arbitrary expression in the context of the current stack frame by pressing &lt;s0&gt;&amp;shortcut:QuickEvaluateExpression;&lt;/s0&gt; (&lt;s1&gt;Run | Evaluate Expression&lt;/s1&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T153424Z" creationid="pingfangx" creationdate="20180320T153424Z">
+        <seg>调试时，您可以通过按 &lt;s0&gt;&amp;shortcut:QuickEvaluateExpression;&lt;/s0&gt;(&lt;s1&gt;Run | Evaluate Expression&lt;/s1&gt;)来计算当前堆栈帧上下文中的任意表达式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When debugging, you can quickly evaluate an arbitrary expression from the editor – left-click the expression while holding &lt;s0&gt;Alt&lt;/s0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154158Z" creationid="pingfangx" creationdate="20180320T154158Z">
+        <seg>调试时，您可以快速评估编辑器中的任意表达式/在按住 &lt;s0&gt;Alt&lt;/s0&gt; 的同时左键单击该表达式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When expanding a node</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -81073,6 +82281,14 @@ Error message: {1}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When in the &lt;s0&gt;Code Completion&lt;/s0&gt; lookup, you can ease the search by filtering the list with the help of the "camel words" prefixes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T124853Z" creationid="pingfangx" creationdate="20180320T124853Z">
+        <seg>在代码补全的查找中，您可以借助 "驼峰词" 前缀过滤列表，来轻松完成搜索。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When in the &lt;s0&gt;Go to Class&lt;/s0&gt;, &lt;s1&gt;Go to Symbol&lt;/s1&gt;, or &lt;s2&gt;Go to File&lt;/s2&gt; popup, you can ease the search by filtering the lookup list with the help of the "camel words" prefixes.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -81085,6 +82301,14 @@ Error message: {1}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>在代码补全的查找中，您可以借助 "驼峰词" 前缀过滤列表，来轻松完成搜索。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When later you'll look through the list in search of a particular breakpoint, just start typing its name:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T160105Z" creationid="pingfangx" creationdate="20180320T160105Z">
+        <seg>稍后，您将查看列表以查找特定断点，只需输入其名称即可：</seg>
       </tuv>
     </tu>
     <tu>
@@ -81145,6 +82369,14 @@ Error message: {1}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When searching for a text string in a file, use recent history: with the search pane already open, click the search icon to show the list of recent entries.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T160223Z" creationid="pingfangx" creationdate="20180320T160223Z">
+        <seg>在文件中搜索文本字符串时，请使用近期记录：在搜索窗格已打开的情况下，单击搜索图标以显示最近条目的列表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When searching for a text string in a file, use recent history: with the search pane already open, press &lt;s0&gt;&amp;shortcut:Find;&lt;/s0&gt; once again to show the list of recent entries.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -81165,6 +82397,14 @@ Error message: {1}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>当没有选择时，光标处的行将被移动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When typing the expression, you can use &lt;s2&gt;&amp;shortcut:CodeCompletion;&lt;/s2&gt; just like in the editor.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T153432Z" creationid="pingfangx" creationdate="20180320T153432Z">
+        <seg>输入表达式时，可以使用 &lt;s2&gt;&amp;shortcut:CodeCompletion;&lt;/s2&gt;，就像在编辑器中一样。</seg>
       </tuv>
     </tu>
     <tu>
@@ -81241,6 +82481,14 @@ Error message: {1}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When you are finding text in the current file (&lt;s0&gt;&amp;shortcut:Find;&lt;/s0&gt;), you don't need to type the whole search string: &lt;s1&gt;Basic Code Completion&lt;/s1&gt; is available in the search field.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T125028Z" creationid="pingfangx" creationdate="20180320T125028Z">
+        <seg>当你在当前文件中查找文件时 (&lt;s0&gt;&amp;shortcut:Find;&lt;/s0&gt;)，你不需要输入整个查找字符串，在搜索字段时，基本代码补全是可以使用的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When you are finding text in the current file (&lt;s0&gt;&amp;shortcut:Find;&lt;/s0&gt;), you don't need to type the whole search string: Basic Code Completion is available in the search field.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -81265,6 +82513,14 @@ Error message: {1}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When you copy something to the clipboard, the IDE doesn't erase the previous entry but keeps it in a queue so you can paste it from there later.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154414Z" creationid="pingfangx" creationdate="20180320T154414Z">
+        <seg>将某些内容复制到剪贴板时，IDE 不会擦除上一个条目，而是将其保留在队列中，以便稍后将其粘贴。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When you invoke the &lt;s0&gt;Move&lt;/s0&gt; refactoring (&lt;s1&gt;&amp;shortcut:Move;&lt;/s1&gt;) on an inner class that is declared &lt;s2&gt;static&lt;/s2&gt;, you are provided with an option to either make it a top-level class, or move it to another class.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -81277,6 +82533,14 @@ Error message: {1}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>当你在 Java 中使用基本补全时 (&lt;s0&gt;&amp;shortcut:CodeCompletion;&lt;/s0&gt;) ，如果没有在列表中找到你所需的类，这意味着它没有导入到当前文件中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you need a struct at the caret to implement an interface, press &lt;s0&gt;&amp;shortcut:ImplementMethods;&lt;/s0&gt; (&lt;s1&gt;Code | Implement Methods&lt;/s1&gt;) or &lt;s2&gt;&amp;shortcut:ShowIntentionActions;&lt;/s2&gt;, and then choose the corresponding quick-fix.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154110Z" creationid="pingfangx" creationdate="20180320T154110Z">
+        <seg>当你需要一个结构在插入符号来实现一个接口时，按 &lt;s0&gt;&amp;shortcut:ImplementMethods;&lt;/s0&gt;(&lt;s1&gt;Code | Implement Methods&lt;/s1&gt;)或&lt;s2&gt;＆快捷键：ShowIntentionActions; &lt;/-s2&gt;，然后选择相应的快速修复。</seg>
       </tuv>
     </tu>
     <tu>
@@ -81341,6 +82605,30 @@ Error message: {1}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>当您运行或调试程序并且在控制台视图中跟踪一些异常时，您可以轻松地导航到此堆栈跟踪的源代码行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you see the list of issues grouped by type, you can apply quick-fixes to the whole scope.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154148Z" creationid="pingfangx" creationdate="20180320T154148Z">
+        <seg>当您看到按类型分组的问题列表时，您可以将快速修复应用到整个范围。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you use &lt;s0&gt;&amp;shortcut:UpdateProject;&lt;/s0&gt; (&lt;s1&gt;VCS | Update Project&lt;/s1&gt;) to pull changes from VCS, you can choose whether you want to &lt;s2&gt;Merge&lt;/s2&gt; your local changes or &lt;s3&gt;Rebase&lt;/s3&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T155154Z" creationid="pingfangx" creationdate="20180320T155154Z">
+        <seg>当您使用 &lt;s0&gt;&amp;shortcut:UpdateProject;&lt;/s0&gt;(&lt;s1&gt;VCS | Update Project&lt;/s1&gt;)从 VCS 中提取更改时，您可以选择是否要 &lt;s2&gt;Merge&lt;/s2&gt; 您的本地更改或 &lt;s3&gt;Rebase&lt;/s3&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you want to add a condition around a code fragment in the editor, press &lt;s0&gt;&amp;shortcut:SurroundWith;&lt;/s0&gt; (&lt;s1&gt;Code | Surround With&lt;/s1&gt;) and choose &lt;s2&gt;if...end&lt;/s2&gt; or &lt;s3&gt;if...then...end&lt;/s3&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T160904Z" creationid="pingfangx" creationdate="20180320T160904Z">
+        <seg>当您想在编辑器中的代码片段周围添加条件时，请按 &lt;s0&gt;&amp;shortcut:SurroundWith;&lt;/s0&gt;(&lt;s1&gt;Code | Surround With&lt;/s1&gt;)并选择 &lt;s2&gt;if...end&lt;/s2&gt; 或 &lt;s3&gt;if...then...end&lt;/s3&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -82525,6 +83813,14 @@ as a source directory?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can accept completion suggestions by pressing &lt;s0&gt;Tab&lt;/s0&gt; instead of &lt;s1&gt;Enter&lt;/s1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T125426Z" creationid="pingfangx" creationdate="20180320T125426Z">
+        <seg>你可以按 &lt;s0&gt;Tab&lt;/s0&gt; 而不用 &lt;s1&gt;Enter&lt;/s1&gt; 来接受补全建议。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can add a brief description of any breakpoint, to ease search in future.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -82717,6 +84013,14 @@ as a source directory?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can customize the bodies of the generated blocks on the &lt;s0&gt;Code&lt;/s0&gt; tab of &lt;s1&gt;File and Code Templates&lt;/s1&gt; of your &lt;s2&gt;Settings/Preferences&lt;/s2&gt; .</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T160920Z" creationid="pingfangx" creationdate="20180320T160920Z">
+        <seg>您可以在 &lt;s2&gt;Settings/Preferences&lt;/s2&gt; 的 &lt;s1&gt;File and Code Templates&lt;/s1&gt; 的 &lt;s0&gt;Code&lt;/s0&gt; 选项卡上自定义生成块的主体。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can customize the bodies of the generated catch blocks on the &lt;s0&gt;Code&lt;/s0&gt; tab of &lt;s1&gt;File | Settings | File and Code Templates&lt;/s1&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -82733,10 +84037,34 @@ as a source directory?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can delete import statements for all unused packages within a file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154337Z" creationid="pingfangx" creationdate="20180320T154337Z">
+        <seg>您可以删除文件中所有未使用的包的导入语句。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can delete the line at the caret simply by pressing &lt;s0&gt;&amp;shortcut:EditorDeleteLine;&lt;/s0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T153355Z" creationid="pingfangx" creationdate="20180320T153355Z">
+        <seg>只需按 &lt;s0&gt;&amp;shortcut:EditorDeleteLine;&lt;/s0&gt; 即可删除插入符号处的行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can drag an external file from the Explorer or Finder, and drop it onto the &lt;s0&gt;Favorites&lt;/s0&gt; tool window.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>您可以从 Explorer 或 Finder 拖动外部文件，并将其放在 &lt;s0&gt; Favorites &lt;/s0&gt; 工具窗口中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can duplicate the line at the caret simply by pressing &lt;s0&gt;&amp;shortcut:EditorDuplicate;&lt;/s0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T153405Z" creationid="pingfangx" creationdate="20180320T153405Z">
+        <seg>只需按 &lt;s0&gt;&amp;shortcut:EditorDuplicate;&lt;/s0&gt; 即可复制插入符号处的行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -82821,6 +84149,22 @@ as a source directory?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can extend the list of existing live templates with your own.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154253Z" creationid="pingfangx" creationdate="20180320T154253Z">
+        <seg>您可以使用自己的扩展现有代码模板的列表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can extract a method from an expression at the caret, or from a group of selected statements.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T153442Z" creationid="pingfangx" creationdate="20180320T153442Z">
+        <seg>您可以从插入符号处的表达式或一组选定的语句中提取方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can gain quick access to the available tool windows: hover your mouse pointer over &lt;i0&gt; icon in the lower left corner of the IDE window.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -82829,10 +84173,34 @@ as a source directory?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can get rid of the hard-coded strings: use the &lt;s0&gt;I18n string value&lt;/s0&gt; intention action to extract a string and keep it as a property.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T161110Z" creationid="pingfangx" creationdate="20180320T161110Z">
+        <seg>您可以删除硬编码的字符串：使用 &lt;s0&gt;I18n string value&lt;/s0&gt; 意图操作来提取字符串并将其保留为属性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can have a test, benchmark, copyright comment, or example function stub generated for you by the IDE.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T153726Z" creationid="pingfangx" creationdate="20180320T153726Z">
+        <seg>您可以拥有由 IDE 为您生成的测试，基准测试，版权注释或示例功能存根。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can import settings using ''File|Import Settings''.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>您可以使用 ''文件|导入设置'' 来导入设置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can inline a constant or function at the caret by pressing &lt;s0&gt;&amp;shortcut:Inline;&lt;/s0&gt; (&lt;s1&gt;Refactor | Inline&lt;/s1&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154124Z" creationid="pingfangx" creationdate="20180320T154124Z">
+        <seg>您可以通过按 &lt;s0&gt;&amp;shortcut:Inline;&lt;/s0&gt;(&lt;s1&gt;Refactor | Inline&lt;/s1&gt;)在插入符处插入常量或函数。</seg>
       </tuv>
     </tu>
     <tu>
@@ -82877,6 +84245,14 @@ as a source directory?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can navigate to an interface implemented by a struct at the caret by pressing &lt;s0&gt;&amp;shortcut:ShowIntentionActions;&lt;/s0&gt; and choosing the corresponding intention action.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T153924Z" creationid="pingfangx" creationdate="20180320T153924Z">
+        <seg>您可以按 &lt;s0&gt;&amp;shortcut:ShowIntentionActions;&lt;/s0&gt; 并选择相应的意向操作，导航到由插入符处的结构实现的接口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can only i18nize Java string literal or substring thereof.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -82901,10 +84277,26 @@ as a source directory?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can organize breakpoints into groups, to mark out breakpoints for a specific problem.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T155907Z" creationid="pingfangx" creationdate="20180320T155907Z">
+        <seg>您可以将断点组织成组，以标记特定问题的断点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can preview HTML files in a browser of your choice by clicking the browser icons toolbar:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>您可以通过单击浏览器图标工具栏在您选择的浏览器中预览 HTML 文件：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can quickly extract an expression at the caret as a variable, by pressing &lt;s0&gt;&amp;shortcut:IntroduceVariable;&lt;/s0&gt; (&lt;s1&gt;Refactor | Extract | Variable&lt;/s1&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T153459Z" creationid="pingfangx" creationdate="20180320T153459Z">
+        <seg>通过按 &lt;s0&gt;&amp;shortcut:IntroduceVariable;&lt;/s0&gt;(&lt;s1&gt;Refactor | Extract | Variable&lt;/s1&gt;)，可以快速提取插入符号中的表达式作为变量。</seg>
       </tuv>
     </tu>
     <tu>
@@ -82941,10 +84333,34 @@ as a source directory?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can quickly fix the indentation for the line at the caret simply by pressing &lt;s0&gt;&amp;shortcut:AutoIndentLines;&lt;/s0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T124524Z" creationid="pingfangx" creationdate="20180320T124524Z">
+        <seg>只需按 &lt;s0&gt;&amp;shortcut:AutoIndentLines;&lt;/s0&gt; 即可快速修复插入符号行的缩进。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can quickly format the selected code, the current file, or even an entire folder by pressing &lt;s0&gt;&amp;shortcut:ReformatCode;&lt;/s0&gt; (&lt;s1&gt;Code | Reformat Code&lt;/s1&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154658Z" creationid="pingfangx" creationdate="20180320T154658Z">
+        <seg>您可以通过按下 &lt;s0&gt;&amp;shortcut:ReformatCode;&lt;/s0&gt;(&lt;s1&gt;Code | Reformat Code&lt;/s1&gt;)快速格式化所选代码，当前文件或整个文件夹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can quickly get familiar with the main features of the IDE by reading these tips.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>您可以通过阅读这些技巧来快速了解 IDE 的主要功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can quickly navigate from a test to the type or function being tested, and back, by pressing &lt;s0&gt;&amp;shortcut:GotoTest;&lt;/s0&gt; (&lt;s1&gt;Navigate | Test Subject&lt;/s1&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154217Z" creationid="pingfangx" creationdate="20180320T154217Z">
+        <seg>您可以通过按 &lt;s0&gt;&amp;shortcut:GotoTest;&lt;/s0&gt;(&lt;s1&gt;Navigate | Test Subject&lt;/s1&gt;)从测试快速导航到正在测试的类型或功能，以及返回。</seg>
       </tuv>
     </tu>
     <tu>
@@ -82997,6 +84413,14 @@ as a source directory?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can rename any field, function, type, variable, package, or any other symbol at the caret by pressing &lt;s0&gt;&amp;shortcut:RenameElement;&lt;/s0&gt; (&lt;s1&gt;Refactor | Rename&lt;/s1&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154714Z" creationid="pingfangx" creationdate="20180320T154714Z">
+        <seg>您可以通过按 &lt;s0&gt;&amp;shortcut:RenameElement;&lt;/s0&gt;(&lt;s1&gt;Refactor | Rename&lt;/s1&gt;)重命名插入符号中的任何字段，函数，类型，变量，包或任何其他符号。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can replace special characters in the XML or HTML files with their ASCII values that start with an apostrophe.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -83045,10 +84469,26 @@ as a source directory?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can transform an already entered expression to another one by adding a postfix to it after a dot and pressing &lt;s0&gt;Tab&lt;/s0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154431Z" creationid="pingfangx" creationdate="20180320T154431Z">
+        <seg>您可以将一个已经输入的表达式转换为另一个表达式，方法是在一个点之后添加一个后缀并按 &lt;s0&gt;Tab&lt;/s0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can try out the features described in the tips while this dialog stays open on the screen.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>当对话框在屏幕上保持打开状态时，您也可以尝试提示中描述的功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can use &lt;s0&gt;&amp;shortcut:InsertLiveTemplate;&lt;/s0&gt; to complete any valid Live Template abbreviation if you don't remember it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T160410Z" creationid="pingfangx" creationdate="20180320T160410Z">
+        <seg>如果您不记得它，可以使用 &lt;s0&gt;&amp;shortcut:InsertLiveTemplate;&lt;/s0&gt; 来完成任何有效的代码模板缩写。</seg>
       </tuv>
     </tu>
     <tu>
@@ -83081,6 +84521,14 @@ as a source directory?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>即使在不完整的语句上，也可以使用&lt;s0&gt;Extract Variable（提取变量）&lt;/s0&gt;重构。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can use the gutters along the code to switch between Action methods and Views.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T160322Z" creationid="pingfangx" creationdate="20180320T160322Z">
+        <seg>您可以沿着代码使用 gutters 在 Action 方法和 Views 之间切换。</seg>
       </tuv>
     </tu>
     <tu>
@@ -87029,6 +88477,14 @@ Would you like to open it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>images/RunRakeTask.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T161213Z" creationid="pingfangx" creationdate="20180320T161213Z">
+        <seg>images/RunRakeTask.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>images/SSHKeyUpload.png</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -87357,6 +88813,22 @@ Would you like to open it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>images/create_view_from_action1.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T160212Z" creationid="pingfangx" creationdate="20180320T160212Z">
+        <seg>images/create_view_from_action1.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/create_view_from_action2.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T160213Z" creationid="pingfangx" creationdate="20180320T160213Z">
+        <seg>images/create_view_from_action2.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>images/cssColor.png</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -87397,6 +88869,14 @@ Would you like to open it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>images/cucumberCodeCompletion.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T155704Z" creationid="pingfangx" creationdate="20180320T155704Z">
+        <seg>images/cucumberCodeCompletion.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>images/dddisable.png</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -87417,6 +88897,14 @@ Would you like to open it?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>images/dragToOpen.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/edgeMultiplicities.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T160028Z" creationid="pingfangx" creationdate="20180320T160028Z">
+        <seg>images/edgeMultiplicities.png</seg>
       </tuv>
     </tu>
     <tu>
@@ -87493,6 +88981,46 @@ Would you like to open it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>images/extract_field_2.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T155720Z" creationid="pingfangx" creationdate="20180320T155720Z">
+        <seg>images/extract_field_2.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/extract_method_1.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T155733Z" creationid="pingfangx" creationdate="20180320T155733Z">
+        <seg>images/extract_method_1.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/extract_method_2.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T155736Z" creationid="pingfangx" creationdate="20180320T155736Z">
+        <seg>images/extract_method_2.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/extract_parameter_1.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T155808Z" creationid="pingfangx" creationdate="20180320T155808Z">
+        <seg>images/extract_parameter_1.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/extract_parameter_2.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T155809Z" creationid="pingfangx" creationdate="20180320T155809Z">
+        <seg>images/extract_parameter_2.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>images/extract_variable_1.png</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -87529,6 +89057,542 @@ Would you like to open it?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>images/fix_doc_comment.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/go_tod_1_basic_completion.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T125005Z" creationid="pingfangx" creationdate="20180320T125005Z">
+        <seg>images/go_tod_1_basic_completion.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/go_tod_1_branches.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T124721Z" creationid="pingfangx" creationdate="20180320T124721Z">
+        <seg>images/go_tod_1_branches.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/go_tod_1_change_keymap.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T124931Z" creationid="pingfangx" creationdate="20180320T124931Z">
+        <seg>images/go_tod_1_change_keymap.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/go_tod_1_comment_line.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T125218Z" creationid="pingfangx" creationdate="20180320T125218Z">
+        <seg>images/go_tod_1_comment_line.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/go_tod_1_completion_camel_humps.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T124854Z" creationid="pingfangx" creationdate="20180320T124854Z">
+        <seg>images/go_tod_1_completion_camel_humps.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/go_tod_1_completion_quick_definition.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T152846Z" creationid="pingfangx" creationdate="20180320T152846Z">
+        <seg>images/go_tod_1_completion_quick_definition.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/go_tod_1_completion_sorting.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T124935Z" creationid="pingfangx" creationdate="20180320T124935Z">
+        <seg>images/go_tod_1_completion_sorting.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/go_tod_1_conditional_breakpoint.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T135946Z" creationid="pingfangx" creationdate="20180320T135946Z">
+        <seg>images/go_tod_1_conditional_breakpoint.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/go_tod_1_coverage_tool_window.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T140343Z" creationid="pingfangx" creationdate="20180320T140343Z">
+        <seg>images/go_tod_1_coverage_tool_window.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/go_tod_1_create_unresolved_method.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T152844Z" creationid="pingfangx" creationdate="20180320T152844Z">
+        <seg>images/go_tod_1_create_unresolved_method.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/go_tod_1_evaluate_expresion.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T153433Z" creationid="pingfangx" creationdate="20180320T153433Z">
+        <seg>images/go_tod_1_evaluate_expresion.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/go_tod_1_extract_method.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T153451Z" creationid="pingfangx" creationdate="20180320T153451Z">
+        <seg>images/go_tod_1_extract_method.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/go_tod_1_extract_var.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T153512Z" creationid="pingfangx" creationdate="20180320T153512Z">
+        <seg>images/go_tod_1_extract_var.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/go_tod_1_find_action.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T153555Z" creationid="pingfangx" creationdate="20180320T153555Z">
+        <seg>images/go_tod_1_find_action.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/go_tod_1_find_in_path.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T153642Z" creationid="pingfangx" creationdate="20180320T153642Z">
+        <seg>images/go_tod_1_find_in_path.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/go_tod_1_find_keymap.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T153706Z" creationid="pingfangx" creationdate="20180320T153706Z">
+        <seg>images/go_tod_1_find_keymap.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/go_tod_1_generate_new.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T153736Z" creationid="pingfangx" creationdate="20180320T153736Z">
+        <seg>images/go_tod_1_generate_new.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/go_tod_1_git_update.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T155430Z" creationid="pingfangx" creationdate="20180320T155430Z">
+        <seg>images/go_tod_1_git_update.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/go_tod_1_go_get.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T153749Z" creationid="pingfangx" creationdate="20180320T153749Z">
+        <seg>images/go_tod_1_go_get.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/go_tod_1_go_to_class.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T153811Z" creationid="pingfangx" creationdate="20180320T153811Z">
+        <seg>images/go_tod_1_go_to_class.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/go_tod_1_go_to_declaration.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T153850Z" creationid="pingfangx" creationdate="20180320T153850Z">
+        <seg>images/go_tod_1_go_to_declaration.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/go_tod_1_go_to_file.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T153901Z" creationid="pingfangx" creationdate="20180320T153901Z">
+        <seg>images/go_tod_1_go_to_file.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/go_tod_1_go_to_folder.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T153917Z" creationid="pingfangx" creationdate="20180320T153917Z">
+        <seg>images/go_tod_1_go_to_folder.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/go_tod_1_go_to_interface.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T153924Z" creationid="pingfangx" creationdate="20180320T153924Z">
+        <seg>images/go_tod_1_go_to_interface.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/go_tod_1_go_to_symbol.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T153938Z" creationid="pingfangx" creationdate="20180320T153938Z">
+        <seg>images/go_tod_1_go_to_symbol.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/go_tod_1_go_to_test.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154225Z" creationid="pingfangx" creationdate="20180320T154225Z">
+        <seg>images/go_tod_1_go_to_test.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/go_tod_1_highlight_entry_points.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154023Z" creationid="pingfangx" creationdate="20180320T154023Z">
+        <seg>images/go_tod_1_highlight_entry_points.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/go_tod_1_implement_interface.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154117Z" creationid="pingfangx" creationdate="20180320T154117Z">
+        <seg>images/go_tod_1_implement_interface.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/go_tod_1_inline.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154131Z" creationid="pingfangx" creationdate="20180320T154131Z">
+        <seg>images/go_tod_1_inline.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/go_tod_1_inspect_expression.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154159Z" creationid="pingfangx" creationdate="20180320T154159Z">
+        <seg>images/go_tod_1_inspect_expression.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/go_tod_1_inspections.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154149Z" creationid="pingfangx" creationdate="20180320T154149Z">
+        <seg>images/go_tod_1_inspections.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/go_tod_1_live_templates.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154254Z" creationid="pingfangx" creationdate="20180320T154254Z">
+        <seg>images/go_tod_1_live_templates.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/go_tod_1_multiple_carets.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154332Z" creationid="pingfangx" creationdate="20180320T154332Z">
+        <seg>images/go_tod_1_multiple_carets.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/go_tod_1_new_scratch_file.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154852Z" creationid="pingfangx" creationdate="20180320T154852Z">
+        <seg>images/go_tod_1_new_scratch_file.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/go_tod_1_optimize_imports.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154343Z" creationid="pingfangx" creationdate="20180320T154343Z">
+        <seg>images/go_tod_1_optimize_imports.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/go_tod_1_param_info.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154354Z" creationid="pingfangx" creationdate="20180320T154354Z">
+        <seg>images/go_tod_1_param_info.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/go_tod_1_partial_qualifier_completion.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154403Z" creationid="pingfangx" creationdate="20180320T154403Z">
+        <seg>images/go_tod_1_partial_qualifier_completion.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/go_tod_1_paste_from_history.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154420Z" creationid="pingfangx" creationdate="20180320T154420Z">
+        <seg>images/go_tod_1_paste_from_history.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/go_tod_1_postfix_completion.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154504Z" creationid="pingfangx" creationdate="20180320T154504Z">
+        <seg>images/go_tod_1_postfix_completion.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/go_tod_1_quick_def.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154541Z" creationid="pingfangx" creationdate="20180320T154541Z">
+        <seg>images/go_tod_1_quick_def.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/go_tod_1_quick_doc.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154556Z" creationid="pingfangx" creationdate="20180320T154556Z">
+        <seg>images/go_tod_1_quick_doc.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/go_tod_1_recent_files.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154633Z" creationid="pingfangx" creationdate="20180320T154633Z">
+        <seg>images/go_tod_1_recent_files.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/go_tod_1_recent_search.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154635Z" creationid="pingfangx" creationdate="20180320T154635Z">
+        <seg>images/go_tod_1_recent_search.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/go_tod_1_refactor_this.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154650Z" creationid="pingfangx" creationdate="20180320T154650Z">
+        <seg>images/go_tod_1_refactor_this.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/go_tod_1_reformat_code.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154703Z" creationid="pingfangx" creationdate="20180320T154703Z">
+        <seg>images/go_tod_1_reformat_code.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/go_tod_1_rename.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154719Z" creationid="pingfangx" creationdate="20180320T154719Z">
+        <seg>images/go_tod_1_rename.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/go_tod_1_run_quick_fix.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154839Z" creationid="pingfangx" creationdate="20180320T154839Z">
+        <seg>images/go_tod_1_run_quick_fix.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/go_tod_1_run_with_gutter.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154831Z" creationid="pingfangx" creationdate="20180320T154831Z">
+        <seg>images/go_tod_1_run_with_gutter.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/go_tod_1_search_completion.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T125048Z" creationid="pingfangx" creationdate="20180320T125048Z">
+        <seg>images/go_tod_1_search_completion.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/go_tod_1_search_everywhere.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154908Z" creationid="pingfangx" creationdate="20180320T154908Z">
+        <seg>images/go_tod_1_search_everywhere.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/go_tod_1_select_in.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154917Z" creationid="pingfangx" creationdate="20180320T154917Z">
+        <seg>images/go_tod_1_select_in.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/go_tod_1_semantic_highlighting.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T155028Z" creationid="pingfangx" creationdate="20180320T155028Z">
+        <seg>images/go_tod_1_semantic_highlighting.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/go_tod_1_show_implementations.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T155046Z" creationid="pingfangx" creationdate="20180320T155046Z">
+        <seg>images/go_tod_1_show_implementations.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/go_tod_1_show_quick_fix.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154613Z" creationid="pingfangx" creationdate="20180320T154613Z">
+        <seg>images/go_tod_1_show_quick_fix.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/go_tod_1_show_usages.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T155048Z" creationid="pingfangx" creationdate="20180320T155048Z">
+        <seg>images/go_tod_1_show_usages.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/go_tod_1_smart_completion.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T155059Z" creationid="pingfangx" creationdate="20180320T155059Z">
+        <seg>images/go_tod_1_smart_completion.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/go_tod_1_speed_search.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T155119Z" creationid="pingfangx" creationdate="20180320T155119Z">
+        <seg>images/go_tod_1_speed_search.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/go_tod_1_structure_popup.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T155136Z" creationid="pingfangx" creationdate="20180320T155136Z">
+        <seg>images/go_tod_1_structure_popup.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/go_tod_1_surroun_with.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154620Z" creationid="pingfangx" creationdate="20180320T154620Z">
+        <seg>images/go_tod_1_surroun_with.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/go_tod_1_switcher.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T155142Z" creationid="pingfangx" creationdate="20180320T155142Z">
+        <seg>images/go_tod_1_switcher.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/go_tod_1_vcs_annotate.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T155454Z" creationid="pingfangx" creationdate="20180320T155454Z">
+        <seg>images/go_tod_1_vcs_annotate.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/go_tod_1_vcs_diff.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T155502Z" creationid="pingfangx" creationdate="20180320T155502Z">
+        <seg>images/go_tod_1_vcs_diff.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/go_tod_1_vcs_local_history.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T154308Z" creationid="pingfangx" creationdate="20180320T154308Z">
+        <seg>images/go_tod_1_vcs_local_history.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/go_tod_1_vcs_popup.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T155603Z" creationid="pingfangx" creationdate="20180320T155603Z">
+        <seg>images/go_tod_1_vcs_popup.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/go_tod_1_watches.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T152942Z" creationid="pingfangx" creationdate="20180320T152942Z">
+        <seg>images/go_tod_1_watches.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/go_tod_1_wildcard_expression.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T155609Z" creationid="pingfangx" creationdate="20180320T155609Z">
+        <seg>images/go_tod_1_wildcard_expression.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/go_tod_1_word_selection.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T155013Z" creationid="pingfangx" creationdate="20180320T155013Z">
+        <seg>images/go_tod_1_word_selection.png</seg>
       </tuv>
     </tu>
     <tu>
@@ -87597,6 +89661,14 @@ Would you like to open it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>images/groups_of_breakpoints.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T155917Z" creationid="pingfangx" creationdate="20180320T155917Z">
+        <seg>images/groups_of_breakpoints.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>images/hierarchy_browser.png</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -87637,6 +89709,14 @@ Would you like to open it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>images/i18nStringValue.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T161112Z" creationid="pingfangx" creationdate="20180320T161112Z">
+        <seg>images/i18nStringValue.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>images/image_completion.png</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -87649,6 +89729,22 @@ Would you like to open it?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>images/image_lookup.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/inline_method_1.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T155958Z" creationid="pingfangx" creationdate="20180320T155958Z">
+        <seg>images/inline_method_1.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/inline_method_2.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T160000Z" creationid="pingfangx" creationdate="20180320T160000Z">
+        <seg>images/inline_method_2.png</seg>
       </tuv>
     </tu>
     <tu>
@@ -87721,6 +89817,14 @@ Would you like to open it?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>images/launch_console_in_debugger.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/launch_rails_generator.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T160839Z" creationid="pingfangx" creationdate="20180320T160839Z">
+        <seg>images/launch_rails_generator.png</seg>
       </tuv>
     </tu>
     <tu>
@@ -87813,10 +89917,26 @@ Would you like to open it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>images/model_diagram.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T160521Z" creationid="pingfangx" creationdate="20180320T160521Z">
+        <seg>images/model_diagram.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>images/move_inner.png</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>images/move_inner.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/move_module.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T160039Z" creationid="pingfangx" creationdate="20180320T160039Z">
+        <seg>images/move_module.png</seg>
       </tuv>
     </tu>
     <tu>
@@ -87933,6 +90053,14 @@ Would you like to open it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>images/navigate_2_rails.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T160533Z" creationid="pingfangx" creationdate="20180320T160533Z">
+        <seg>images/navigate_2_rails.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>images/navigationbar.png</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -87953,6 +90081,14 @@ Would you like to open it?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>images/param_info.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/partialDeclarations.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T160134Z" creationid="pingfangx" creationdate="20180320T160134Z">
+        <seg>images/partialDeclarations.png</seg>
       </tuv>
     </tu>
     <tu>
@@ -88045,6 +90181,22 @@ Would you like to open it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>images/rails_switch_to_action.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T160325Z" creationid="pingfangx" creationdate="20180320T160325Z">
+        <seg>images/rails_switch_to_action.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/rails_switch_to_view.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T160323Z" creationid="pingfangx" creationdate="20180320T160323Z">
+        <seg>images/rails_switch_to_view.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>images/recentSearch.png</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -88101,6 +90253,22 @@ Would you like to open it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>images/reloadGenerators.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T160240Z" creationid="pingfangx" creationdate="20180320T160240Z">
+        <seg>images/reloadGenerators.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/reloadRakeTasks.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T160305Z" creationid="pingfangx" creationdate="20180320T160305Z">
+        <seg>images/reloadRakeTasks.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>images/remote.png</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
@@ -88153,6 +90321,22 @@ Would you like to open it?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
         <seg>images/resource_bundle_2.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/rubymotion.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T161132Z" creationid="pingfangx" creationdate="20180320T161132Z">
+        <seg>images/rubymotion.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/run_rake_task.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T160855Z" creationid="pingfangx" creationdate="20180320T160855Z">
+        <seg>images/run_rake_task.png</seg>
       </tuv>
     </tu>
     <tu>
@@ -88177,6 +90361,14 @@ Would you like to open it?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180128T055818Z" creationid="pingfangx" creationdate="20180128T055818Z">
         <seg>images/scenarioOutlineAngleBrackets.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/scenarioOutlineComments.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T155718Z" creationid="pingfangx" creationdate="20180320T155718Z">
+        <seg>images/scenarioOutlineComments.png</seg>
       </tuv>
     </tu>
     <tu>
@@ -88637,10 +90829,26 @@ Would you like to open it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>inline all occurrences of the method, and delete the method</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T155940Z" creationid="pingfangx" creationdate="20180320T155940Z">
+        <seg>内联该方法的所有匹配项，并删除该方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>inline method</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180128T062850Z" creationid="pingfangx" creationdate="20180128T062850Z">
         <seg>内联方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>inline only a single occurrence, and retain the method</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180320T155952Z" creationid="pingfangx" creationdate="20180320T155952Z">
+        <seg>内联仅一个匹配项，并保留该方法</seg>
       </tuv>
     </tu>
     <tu>
