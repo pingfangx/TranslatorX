@@ -34454,8 +34454,8 @@ Do you want overwrite it or to append?</seg>
       <tuv lang="EN-US">
         <seg>Find Pre_vious / Move to Previous Occurrence</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
-        <seg>查找上一个/移动到上一个匹配项(_V)</seg>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180321T134849Z" creationid="pingfangx" creationdate="20171213T025638Z">
+        <seg>查找上一个/移到上一个匹配项(_V)</seg>
       </tuv>
     </tu>
     <tu>
@@ -46162,8 +46162,8 @@ Cannot generate JavaDoc</seg>
       <tuv lang="EN-US">
         <seg>Make Files/Directories {0,choice,0#Read-only|1#Writeable}</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
-        <seg>使文件/目录 {0,choice,0#Read-only|1#Writeable}</seg>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180321T144542Z" creationid="pingfangx" creationdate="20171213T025638Z">
+        <seg>使文件/目录{0,choice,0#只读|1#可写}</seg>
       </tuv>
     </tu>
     <tu>
@@ -46362,16 +46362,16 @@ Cannot generate JavaDoc</seg>
       <tuv lang="EN-US">
         <seg>Make {2,choice,1#File|2#Files} {0,choice,0#Read-only|1#Writeable}</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
-        <seg>使 {2,choice,1#File|2#Files} {0,choice,0#Read-only|1#Writeable}</seg>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180321T144535Z" creationid="pingfangx" creationdate="20171213T025638Z">
+        <seg>使文件{0,choice,0#只读|1#可写}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Make {3,choice,1#Directory|2#Directories} {0,choice,0#Read-only|1#Writeable}</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
-        <seg>使 {3,choice,1#Directory|2#Directories} {0,choice,0#Read-only|1#Writeable}</seg>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180321T144537Z" creationid="pingfangx" creationdate="20171213T025638Z">
+        <seg>使目录{0,choice,0#只读|1#可写}</seg>
       </tuv>
     </tu>
     <tu>
@@ -49046,8 +49046,8 @@ must not contain source root "{1}".</seg>
       <tuv lang="EN-US">
         <seg>Move Right</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
-        <seg>向右移动</seg>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180321T135704Z" creationid="pingfangx" creationdate="20171213T025638Z">
+        <seg>右移</seg>
       </tuv>
     </tu>
     <tu>
@@ -63666,16 +63666,16 @@ Code Style</seg>
       <tuv lang="EN-US">
         <seg>Run to _Cursor</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
-        <seg>运行至光标位置(_C)</seg>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180321T135432Z" creationid="pingfangx" creationdate="20171213T025638Z">
+        <seg>运行到光标处(_C)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Run to cursor</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
-        <seg>运行至光标处</seg>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180321T135437Z" creationid="pingfangx" creationdate="20171213T025638Z">
+        <seg>运行到光标处</seg>
       </tuv>
     </tu>
     <tu>
@@ -66508,8 +66508,8 @@ surrounding ranges were commented.</seg>
       <tuv lang="EN-US">
         <seg>Selection</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20171213T025638Z" creationid="pingfangx" creationdate="20171213T025638Z">
-        <seg>选择</seg>
+      <tuv lang="ZH-CN" changeid="pingfangx" changedate="20180321T135117Z" creationid="pingfangx" creationdate="20171213T025638Z">
+        <seg>所选部分</seg>
       </tuv>
     </tu>
     <tu>
