@@ -1,12 +1,12 @@
 # JetBrains 系列软件汉化包  
 关键字:  
-Android Studio 3.0-3.0.1 汉化包  
+Android Studio 3.0-3.1 汉化包  
 GoLand 2017.3.2-2017.3.3 汉化包  
-IntelliJ IDEA 2017.3-2017.3.5 汉化包  
+IntelliJ IDEA 2017.3-2018.1 汉化包  
 PhpStorm 2017.3-2017.3.6 汉化包  
 PyCharm 2017.3-2017.3.4 汉化包  
 RubyMine 2017.3.2-2017.3.3 汉化包  
-WebStorm 2017.3-2017.3.5 汉化包  
+WebStorm 2017.3-2018.1 汉化包  
 
 
 平方X原创汉化，转载请注明出处。  
@@ -44,6 +44,8 @@ WebStorm 2017.3-2017.3.5 汉化包
 其中 csdn 的系统会自己提高下载所需的积分，不是作者设置的。可从百度云免积分下载。  
 
 ## Android Studio
+* 3.1——resources_cn_AndroidStudio_3.1_r1.jar 
+[[百度云]][[csdn](https://download.csdn.net/download/pingfangx/10314617)]
 * 3.0.1——resources_cn_AndroidStudio_3.0.1_r5.jar 
 [[百度云]][[csdn](https://download.csdn.net/download/pingfangx/10301230)]
 * 3.0——resources_cn_AndroidStudio_3.0_r1.jar 
@@ -54,6 +56,7 @@ WebStorm 2017.3-2017.3.5 汉化包
 * 2017.3.2——resources_cn_GoLand_2017.3.2_r1.jar [[百度云]]
 
 ## IntelliJ IDEA
+* 2018.1——resources_cn_IntelliJIDEA_2018.1_r1.jar [[百度云]]
 * 2017.3.5——resources_cn_IntelliJIDEA_2017.3.5_r1.jar [[百度云]]
 * 2017.3.4——resources_cn_IntelliJIDEA_2017.3.4_r1.jar [[百度云]]
 * 2017.3.3——resources_cn_IntelliJIDEA_2017.3.3_r2.jar [[百度云]]
@@ -90,6 +93,7 @@ WebStorm 2017.3-2017.3.5 汉化包
 * 2017.3.2——resources_cn_RubyMine_2017.3.2_r1.jar [[百度云]]
 
 ## WebStorm
+* 2018.1——resources_cn_WebStorm_2018.1_r1.jar [[百度云]]
 * 2017.3.5——resources_cn_WebStorm_2017.3.5_r1.jar [[百度云]]
 * 2017.3.4——resources_cn_WebStorm_2017.3.4_r1.jar [[百度云]]
 * 2017.3.3——resources_cn_WebStorm_2017.3.3_r2.jar [[百度云]]
