@@ -1,10 +1,10 @@
 # JetBrains 系列软件汉化包  
 关键字:  
 Android Studio 3.0-3.1 汉化包  
-GoLand 2017.3.2-2017.3.3 汉化包  
+GoLand 2017.3.2-2018.1 汉化包  
 IntelliJ IDEA 2017.3-2018.1 汉化包  
-PhpStorm 2017.3-2017.3.6 汉化包  
-PyCharm 2017.3-2017.3.4 汉化包  
+PhpStorm 2017.3-2018.1 汉化包  
+PyCharm 2017.3-2018.1 汉化包  
 RubyMine 2017.3.2-2017.3.3 汉化包  
 WebStorm 2017.3-2018.1 汉化包  
 
@@ -52,6 +52,7 @@ WebStorm 2017.3-2018.1 汉化包
 [[百度云]][[csdn](http://download.csdn.net/download/pingfangx/10156925)]
 
 ## GoLand
+* 2018.1——resources_cn_GoLand_2017.8.1_r1.jar [[百度云]]
 * 2017.3.3——resources_cn_GoLand_2017.3.3_r1.jar [[百度云]]
 * 2017.3.2——resources_cn_GoLand_2017.3.2_r1.jar [[百度云]]
 
@@ -68,6 +69,7 @@ WebStorm 2017.3-2018.1 汉化包
 [[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10156934)]
 
 ## PhpStorm
+* 2018.1——resources_cn_PhpStorm_2018.1_r1.jar [[百度云]]
 * 2017.3.6——resources_cn_PhpStorm_2017.3.6_r1.jar [[百度云]]
 * 2017.3.4——resources_cn_PhpStorm_2017.3.4_r1.jar [[百度云]]
 * 2017.3.3——resources_cn_PhpStorm_2017.3.3_r2.jar [[百度云]]
@@ -79,6 +81,7 @@ WebStorm 2017.3-2018.1 汉化包
 [[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10156940)]
 
 ## PyCharm
+* 2018.1——resources_cn_PyCharm_2018.1_r1.jar [[百度云]]
 * 2017.3.4——resources_cn_PyCharm_2017.3.4_r3.jar [[百度云]]
 * 2017.3.3——resources_cn_PyCharm_2017.3.3_r3.jar [[百度云]]
 * 2017.3.2——resources_cn_PyCharm_2017.3.2_r1.jar
