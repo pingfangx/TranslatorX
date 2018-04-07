@@ -1,0 +1,45 @@
+<idea-plugin>
+  <extensions defaultExtensionNs="com.intellij">
+    <tipAndTrick file="Welcome.html"/>
+    <tipAndTrick file="QuickFix.html"/>
+    <tipAndTrick file="CodeCompletion.html"/>
+    <tipAndTrick file="SmartTypeCompletion.html"/>
+    <tipAndTrick file="ChangeSorting.html"/>
+    <tipAndTrick file="GoToClass.html"/>
+    <tipAndTrick file="CamelHumps.html"/>
+    <tipAndTrick file="FindUsages.html"/>
+    <tipAndTrick file="ShowUsages.html"/>
+    <tipAndTrick file="HighlightUsagesInFile.html"/>
+    <tipAndTrick file="GoToDeclaration.html"/>
+    <tipAndTrick file="GutterNavigation.html"/>
+    <tipAndTrick file="TypeHierarchy.html"/>
+    <tipAndTrick file="QuickDefinition.html"/>
+    <tipAndTrick file="QuickDocumentation.html"/>
+    <tipAndTrick file="GenerateDoxygen.html"/>
+    <tipAndTrick file="ParameterInfo.html"/>
+    <tipAndTrick file="FileStructurePopup.html"/>
+    <tipAndTrick file="SelectIn.html"/>
+    <tipAndTrick file="LiveTemplates.html"/>
+    <tipAndTrick file="SurroundWith.html"/>
+    <tipAndTrick file="CompleteStatement.html"/>
+    <tipAndTrick file="Generate.html"/>
+    <tipAndTrick file="Rename.html"/>
+    <tipAndTrick file="Move.html"/>
+    <tipAndTrick file="InlineVariable.html"/>
+    <tipAndTrick file="ExtractVariable.html"/>
+    <tipAndTrick file="ExtractMethod.html"/>
+    <tipAndTrick file="ExtractDefine.html"/>
+    <tipAndTrick file="ExtractTypedef.html"/>
+    <tipAndTrick file="ExtractParameter.html"/>
+    <tipAndTrick file="ExtractConstant.html"/>
+    <tipAndTrick file="ExtractClass.html"/>
+    <tipAndTrick file="PullMembers.html"/>
+    <tipAndTrick file="ChangeSignature.html"/>
+    <tipAndTrick file="OverrideImplementMethods.html"/>
+    <tipAndTrick file="GenerateDefinitions.html"/>
+    <tipAndTrick file="LayoutCode.html"/>
+    <tipAndTrick file="PredefinedCodeStyle.html"/>
+    <tipAndTrick file="RunInspectionByName.html"/>
+    <tipAndTrick file="RemoteDebug.html"/>
+  </extensions>
+</idea-plugin>
