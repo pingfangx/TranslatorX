@@ -1,11 +1,12 @@
 # JetBrains 系列软件汉化包  
 关键字:  
 Android Studio 3.0-3.1 汉化包  
+CLion 2018.1 汉化包  
 GoLand 2017.3.2-2018.1 汉化包  
 IntelliJ IDEA 2017.3-2018.1 汉化包  
 PhpStorm 2017.3-2018.1 汉化包  
 PyCharm 2017.3-2018.1 汉化包  
-RubyMine 2017.3.2-2017.3.3 汉化包  
+RubyMine 2017.3.2-2018.1 汉化包  
 WebStorm 2017.3-2018.1 汉化包  
 
 
@@ -44,20 +45,23 @@ WebStorm 2017.3-2018.1 汉化包
 其中 csdn 的系统会自己提高下载所需的积分，不是作者设置的。可从百度云免积分下载。  
 
 ## Android Studio
-* 3.1——resources_cn_AndroidStudio_3.1_r1.jar 
-[[百度云]][[csdn](https://download.csdn.net/download/pingfangx/10314617)]
+* 3.1——resources_cn_AndroidStudio_3.1_r2.jar 
+[[百度云]][[csdn](https://download.csdn.net/download/pingfangx/10331988)]
 * 3.0.1——resources_cn_AndroidStudio_3.0.1_r5.jar 
 [[百度云]][[csdn](https://download.csdn.net/download/pingfangx/10301230)]
 * 3.0——resources_cn_AndroidStudio_3.0_r1.jar 
 [[百度云]][[csdn](http://download.csdn.net/download/pingfangx/10156925)]
 
+## CLion
+* 2018.1——resources_cn_CLion_2018.1_r1.jar [[百度云]]
+
 ## GoLand
-* 2018.1——resources_cn_GoLand_2017.8.1_r1.jar [[百度云]]
+* 2018.1——resources_cn_GoLand_2017.8.1_r2.jar [[百度云]]
 * 2017.3.3——resources_cn_GoLand_2017.3.3_r1.jar [[百度云]]
 * 2017.3.2——resources_cn_GoLand_2017.3.2_r1.jar [[百度云]]
 
 ## IntelliJ IDEA
-* 2018.1——resources_cn_IntelliJIDEA_2018.1_r1.jar [[百度云]]
+* 2018.1——resources_cn_IntelliJIDEA_2018.1_r2.jar [[百度云]]
 * 2017.3.5——resources_cn_IntelliJIDEA_2017.3.5_r1.jar [[百度云]]
 * 2017.3.4——resources_cn_IntelliJIDEA_2017.3.4_r1.jar [[百度云]]
 * 2017.3.3——resources_cn_IntelliJIDEA_2017.3.3_r2.jar [[百度云]]
@@ -69,7 +73,7 @@ WebStorm 2017.3-2018.1 汉化包
 [[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10156934)]
 
 ## PhpStorm
-* 2018.1——resources_cn_PhpStorm_2018.1_r1.jar [[百度云]]
+* 2018.1——resources_cn_PhpStorm_2018.1_r2.jar [[百度云]]
 * 2017.3.6——resources_cn_PhpStorm_2017.3.6_r1.jar [[百度云]]
 * 2017.3.4——resources_cn_PhpStorm_2017.3.4_r1.jar [[百度云]]
 * 2017.3.3——resources_cn_PhpStorm_2017.3.3_r2.jar [[百度云]]
@@ -81,7 +85,7 @@ WebStorm 2017.3-2018.1 汉化包
 [[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10156940)]
 
 ## PyCharm
-* 2018.1——resources_cn_PyCharm_2018.1_r1.jar [[百度云]]
+* 2018.1——resources_cn_PyCharm_2018.1_r2.jar [[百度云]]
 * 2017.3.4——resources_cn_PyCharm_2017.3.4_r3.jar [[百度云]]
 * 2017.3.3——resources_cn_PyCharm_2017.3.3_r3.jar [[百度云]]
 * 2017.3.2——resources_cn_PyCharm_2017.3.2_r1.jar
@@ -92,11 +96,12 @@ WebStorm 2017.3-2018.1 汉化包
 [[百度云]] [[csdn](http://download.csdn.net/download/pingfangx/10156949)]
 
 ## RubyMine
+* 2018.1——resources_cn_RubyMine_2018.1_r1.jar [[百度云]]
 * 2017.3.3——resources_cn_RubyMine_2017.3.3_r1.jar [[百度云]]
 * 2017.3.2——resources_cn_RubyMine_2017.3.2_r1.jar [[百度云]]
 
 ## WebStorm
-* 2018.1——resources_cn_WebStorm_2018.1_r1.jar [[百度云]]
+* 2018.1——resources_cn_WebStorm_2018.1_r2.jar [[百度云]]
 * 2017.3.5——resources_cn_WebStorm_2017.3.5_r1.jar [[百度云]]
 * 2017.3.4——resources_cn_WebStorm_2017.3.4_r1.jar [[百度云]]
 * 2017.3.3——resources_cn_WebStorm_2017.3.3_r2.jar [[百度云]]
@@ -123,6 +128,28 @@ WebStorm 2017.3-2018.1 汉化包
 
 ## 4.3 汉化包放入 lib 中之后，汉化没有生效
 请换用 resources_en.jar 的汉化包，如果还不可以请提求 issue
+
+## 4.4 汉化完整度
+使用汉化包后，会发现有一部分内容没有汉化，这是因为部分内容可能没有从资源中文件中加载，或是从插件资源中加载的。  
+主程序的资源为 resources_en.jar，汉化内容如下表，绝大部分内容已完全汉化，没有汉化的部分即使汉化了，也并不会明显提升程序汉化比例，故没有汉化。
+
+目录名|目录介绍|汉化比例
+-|-|-  
+com及org|部分程序使用的 Bundle，除下述5个文件外都已完成|  
+(AndroidStudio)|com/jetbrains/cidr/lang/OCBundle.properties|(0/208)  
+(AndroidStudio)|com/siyeh/InspectionGadgetsBundle.properties|(0/377)   
+(AndroidStudio)|com/siyeh/IntentionPowerPackBundle.properties|(0/2226)  
+(PyCharm)|com/jetbrains/python/PyBundle.properties|(0/689)  
+(RubyMine)|org/jetbrains/plugins/ruby/RBundle.properties|(0/1826)  
+fileTemplates|文件模版，不需汉化|(0/0)  
+i18n|包含 ExternalSystemBundle ，已全部汉化|(100%)  
+inspectionDescriptions|检查描述，未汉化，含有约 1002 个文件|(0/1002)  
+intentionDescriptions|意向操作描述，未汉化，含有约 212 个文件|(0/212)  
+messages|消息 Bundle，程序大部分显示的内容都在这个文件夹，已全部汉化|(100%)  
+META-INF|不需要汉化|(0/0)  
+search|搜索操作相关文件，不需要汉化|(0/0)  
+tips|每日提示，已全部汉化|(100%)  
+(根目录)|放在根目录的文件，如 CidrDebuggerBundle 、 RuntimeBundle|(100%)  
 
 # 0x05 关于
 汉化是个出力不讨好的活。  
