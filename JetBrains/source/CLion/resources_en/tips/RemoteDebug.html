@@ -1,0 +1,17 @@
+<html>
+<head>
+  <link rel="stylesheet" type="text/css" href="css/tips.css">
+</head>
+<body>
+
+
+<p>There are cases when you develop on one machine and run on another one. And sometimes you need to debug remotely. CLion supports remote debug with <em>GDB/gdbserver</em>. That means that having executable running on one machine under <em>gdbserver</em>, you can connect to it with the <em>GDB</em> from CLion from another machine and inspect the code using all the benefits of CLion’s debugger UI: set breakpoints from the IDE, view variable values, evaluate expressions and more.</p>
+<p>To connect remotely with GDB to the target host, create GDB Remote Debug configuration (go to <span class="control">Run | Edit Configurations</span> and create it from the template) and provide settings for the remote connection, like GDB to use, medium to carry the debugging packets (serial line, or an IP network using TCP or UDP), debug symbols, sysroot, path mappings:</p>
+<p class="image"><img src="images/RemoteDebug/image.png"></p>
+
+<p>For attaching to processes running locally on your machine but not started from the IDE, check <span class="control">Run | Attach to Local Process...</span>.</p>
+
+
+
+</body>
+</html>
