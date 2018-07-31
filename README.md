@@ -30,6 +30,7 @@ WebStorm 2017.3-2018.2 汉化包
 * 扣群：[663247250](https://jq.qq.com/?_wv=1027&k=5Nhkg8u)
 * 源码：[https://github.com/pingfangx/TranslatorX](https://github.com/pingfangx/TranslatorX)  
 * 反馈：[https://github.com/pingfangx/TranslatorX/issues](https://github.com/pingfangx/TranslatorX/issues)
+* 领和花支付宝红包支持作者 [https://www.pingfangx.com/xx/translation/support](https://www.pingfangx.com/xx/translation/support)
 
 # 0x03 如何下载
 
