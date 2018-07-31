@@ -1,0 +1,3 @@
+[submodule "JetBrains/jars"]
+	path = JetBrains/jars
+	url = https://github.com/pingfangx/jetbrains-in-chinese.git
