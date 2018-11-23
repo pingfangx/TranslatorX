@@ -1,0 +1,24 @@
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="css/tips.css">
+</head>
+<body>
+    <p>
+        The Change Signature refactoring combines several different modifications that can be applied to a function signature. You can use this refactoring for the following purposes:
+<ul>
+        <li>To change the function name.</li>
+        <li>To change the function return type.</li>
+        <li>To add new parameters and remove the existing ones.</li>
+        <li>To reorder parameters.</li></ul>
+        When changing a function signature, CLion searches for all usages of the function and updates all the calls, implementations, and override replacements of the function that can be safely modified to reflect the change.</p>
+    <p>
+        For example, in the code fragment below, you could place the caret within the function signature and press <span class="shortcut">&shortcut:ChangeSignature;</span>
+        (<span class="control">Refactor | Change Signature</span>):</p>
+    <p class="image">
+        <img src="images/ChangeSignature/image1.png"></p>
+
+    <p>Make all the necessary changes to the function signature and check the preview:</p>
+    <p class="image">
+        <img src="images/ChangeSignature/image2.png"></p>
+</body>
+</html>
