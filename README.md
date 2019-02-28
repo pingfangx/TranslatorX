@@ -1,7 +1,7 @@
 # JetBrains 系列软件汉化包  
 关键字:  
-Android Studio 3.2.1 汉化包  
-CLion 2018.2 汉化包  
+Android Studio 3.3 汉化包  
+CLion 2018.3 汉化包  
 GoLand 2018.3 汉化包  
 IntelliJ IDEA 2018.3 汉化包  
 PhpStorm 2018.3 汉化包  
