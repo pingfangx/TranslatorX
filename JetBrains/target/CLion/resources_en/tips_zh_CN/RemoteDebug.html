@@ -1,0 +1,18 @@
+<html>
+<head>
+  <link rel="stylesheet" type="text/css" href="css/tips.css">
+</head>
+<body>
+    <h1>RemoteDebug(远程调试) <a href='https://www.pingfangx.com/xx/translation/feedback?from=tips'>[汉化反馈]</a></h1>
+
+
+<p>有时会在一台机器上开发并在另一台机器上运行。有时你需要远程调试。CLion 支持使用 <em>GDB/gdbserver</em> 进行远程调试。这意味着在 <em>gdbserver</em> 下的一台机器上运行可执行文件，您可以使用另一台机器上的 CLion 的 <em>GDB</em> 连接它，并使用 CLion 调试器的所有有用的检查代码 UI：从 IDE 中设置断点，查看变量值，计算表达式等等。</p>
+<p>要与 GDB 远程连接到目标主机，请创建 GDB 远程调试配置(转至 <span class="control">Run | Edit Configurations</span> 并从模板创建它)，并提供远程连接设置，例如使用 GDB，介质(串行线路或使用 TCP 或 UDP 的 IP 网络)，调试符号，sysroot，路径映射：</p>
+<p class="image"><img src="images/RemoteDebug/image.png"></p>
+
+<p>要附加到在您的机器上本地运行而不是从 IDE 启动的进程，请选中 <span class="control">Run | Attach to Local Process...</span>。</p>
+
+
+
+</body>
+</html>
