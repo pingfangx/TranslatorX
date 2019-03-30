@@ -1,13 +1,13 @@
 # JetBrains 系列软件汉化包  
 关键字:  
 Android Studio 3.3 汉化包  
-CLion 2018.3 汉化包  
-GoLand 2018.3 汉化包  
-IntelliJ IDEA 2018.3 汉化包  
-PhpStorm 2018.3 汉化包  
-PyCharm 2018.3 汉化包  
+CLion 2019.1 汉化包  
+GoLand 2019.1 汉化包  
+IntelliJ IDEA 2019.1 汉化包  
+PhpStorm 2019.1 汉化包  
+PyCharm 2019.1 汉化包  
 RubyMine 2018.3 汉化包  
-WebStorm 2018.3 汉化包  
+WebStorm 2019.1 汉化包  
 
 
 平方X原创汉化，转载请注明出处。  
@@ -48,7 +48,7 @@ WebStorm 2018.3 汉化包
 
 # 0x04 常见问题
 ## 汉化不生效
-请检查 [使用方法] 是否正确
+请按照 [使用方法] 检查是否正确
 
 常见原因
 * 没有将汉化包放在 lib 目录（错放在 bin）
