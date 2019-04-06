@@ -2,11 +2,12 @@
 关键字:  
 Android Studio 3.3 汉化包  
 CLion 2019.1 汉化包  
+DataGrip 2019.1 汉化包  
 GoLand 2019.1 汉化包  
 IntelliJ IDEA 2019.1 汉化包  
 PhpStorm 2019.1 汉化包  
 PyCharm 2019.1 汉化包  
-RubyMine 2018.3 汉化包  
+RubyMine 2019.1 汉化包  
 WebStorm 2019.1 汉化包  
 
 
