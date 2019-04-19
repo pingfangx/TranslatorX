@@ -1,6 +1,6 @@
 # JetBrains 系列软件汉化包  
 关键字:  
-Android Studio 3.3 汉化包  
+Android Studio 3.4 汉化包  
 CLion 2019.1 汉化包  
 DataGrip 2019.1 汉化包  
 GoLand 2019.1 汉化包  
@@ -52,9 +52,12 @@ WebStorm 2019.1 汉化包
 请按照 [使用方法] 检查是否正确
 
 常见原因
-* 没有将汉化包放在 lib 目录（错放在 bin）
-* 汉化包未正常下载（从 github 下载的大小不正确）
-* 操作环境需要设为中文（zh_CN）
+* 没有将汉化包放在 lib 目录（比如错放在 bin）  
+请检查所放目录是否有 resources_en.jar
+* 汉化包未正常下载（从 github 下载的大小不正确）  
+请检查下载的汉化包大小是否正常，是否可以解压
+* 操作环境需要设为中文（zh_CN）  
+请尝试将 resources_en.jar 移动到其他目录，打开软件看报错信息，查看 locale
 
 ## 设置打不开
 系统原本的 resources_en.jar 被损坏，恢复该 jar 包，按正确 [使用方法] 重新使用汉化包。
