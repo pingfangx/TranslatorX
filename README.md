@@ -12,14 +12,14 @@ WebStorm 2019.1 汉化包
 
 
 平方X原创汉化，转载请注明出处。  
-[https://www.pingfangx.com/xx/translation](http://www.pingfangx.com/xx/translation)  
+[https://www.pingfangx.com/xx/translation/jetbrains](https://www.pingfangx.com/xx/translation/jetbrains)  
 
 ![预览图](https://pingfangx.github.io/resource/blogx/2421.1.png)
 
 
 # 0x01 下载
-从 [[github](https://github.com/pingfangx/jetbrains-in-chinese)]
-或者 [[百度云](https://pan.baidu.com/s/1c1UVmPa)]  
+从 [[github](https://www.pingfangx.com/xx/translation/jetbrains/download/github)]
+或者 [[百度云(提取码:2222)](https://www.pingfangx.com/xx/translation/jetbrains/download/baidu)]  
 下载软件对应的汉化包  
 命名为 `resources_zh_CN_<软件名>_<版本>.jar`
 
@@ -29,7 +29,7 @@ WebStorm 2019.1 汉化包
 * Android Studio 更新时会自动删除汉化包，请先备份汉化包或更新后重新下载。
 
 # 0x02 使用
-[图文教程](https://github.com/pingfangx/TranslatorX/wiki/Usage#%E5%9B%BE%E6%96%87%E6%95%99%E7%A8%8B)  
+[图文教程](https://www.pingfangx.com/xx/translation/jetbrains/usage/image)  
 
 将 resources_zh_CN_\*.jar ，放到软件安装路径下的 **lib** 目录中，重启软件即可  
 * 注意是 **lib** 不是 **bin**
@@ -42,10 +42,10 @@ WebStorm 2019.1 汉化包
 见常见问题。  
 如果还有疑问，可提 issue 或加群反馈。
 
-* [扣群 663247250](https://jq.qq.com/?_wv=1027&k=5Nhkg8u)
-* [源码](https://www.pingfangx.com/xx/translation)
-* [Issues](https://github.com/pingfangx/TranslatorX/issues)
-* [支持作者](https://www.pingfangx.com/xx/translation/support)
+* [扣群 663247250](https://www.pingfangx.com/xx/translation/jetbrains/feedback/qqgroup)
+* [源码](https://www.pingfangx.com/xx/translation/jetbrains/download/sources)
+* [Issues](https://www.pingfangx.com/xx/translation/jetbrains/feedback/issues)
+* [支持作者](https://www.pingfangx.com/xx/translation/jetbrains/feedback/support)
 
 # 0x04 常见问题
 ## 汉化不生效
@@ -98,4 +98,4 @@ WebStorm 2019.1 汉化包
 [3].[ACXNX.《AndroidStudio 中文汉化包》](https://github.com/ACXNX/AndroidStudio-ChineseLanguagePackage)  
 [4].[韩梦飞沙 韩亚飞.《安卓工作室 韩梦飞沙 汉化 使用 教程》](http://www.cnblogs.com/yue31313/p/7464727.html)  
 
-[使用方法]: https://github.com/pingfangx/TranslatorX/wiki/Usage (使用方法)
+[使用方法]: https://www.pingfangx.com/xx/translation/jetbrains/usage (使用方法)
