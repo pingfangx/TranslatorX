@@ -1,0 +1,51 @@
+#英文	中文	[不使用的翻译|]备注
+
+# 区分翻译的词
+remove	移除	删除|
+delete	删除	两者好像没有区别,但还是根据不同的单词进行不同的翻译
+
+cursor	光标
+caret	插入符	光标|与光标区分开
+
+label	标签
+tab	选项卡	标签|
+
+change	更改,变更	改变|如果名词性不强,就使用“变更”
+
+super	超,super
+parent	父	两者应该没区别
+
+argument	参数,实参
+parameter	参数,形参	应该是混用的,只是在代码样式→换行和括号中补区分
+formal and actual parameters	形参和实参
+
+# 统一翻译的词
+live template	代码模板
+Soft Wraps	自动换行
+complete	补全,完整,完成,完全
+code complete	代码补全
+evaluated	计算,解析	常用于调试部分,如计算表达式,无法解析字段
+expected	预期,期望	如期望一个布尔值
+occurrence	匹配项	出现|有时也被翻译为出现,表示查找结果时统一为匹配项
+reference	引用,参考
+annotation	注解	注释|
+scratch	临时文件,草稿,临时	不会列入项目中
+repository	仓库	存储库,版本库|git 中统一翻译
+
+# 大多数情况应使用的翻译
+call	调用	电话,呼叫|
+
+# 简写词
+bidi	双向	bidirectional
+i18n	国际化	internationalization
+L10n	本地化	localization
+
+# 各种符号
+parentheses	括号,小括号
+brackets,square brackets	括号,中括号,方括号
+braces,curly braces	括号,大括号,花括号
+angle brackets	尖括号
+period	句号
+comma	逗号
+semicolon	分号
+asterisk	星号
