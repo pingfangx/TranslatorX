@@ -1,14 +1,15 @@
 # JetBrains 系列软件汉化包  
 关键字:  
 Android Studio 3.4 汉化包  
-CLion 2019.1 汉化包  
-DataGrip 2019.1 汉化包  
-GoLand 2019.1 汉化包  
-IntelliJ IDEA 2019.1 汉化包  
-PhpStorm 2019.1 汉化包  
-PyCharm 2019.1 汉化包  
-RubyMine 2019.1 汉化包  
-WebStorm 2019.1 汉化包  
+CLion 2019.2 汉化包  
+DataGrip 2019.2 汉化包  
+GoLand 2019.2 汉化包  
+IntelliJ IDEA 2019.2 汉化包  
+PhpStorm 2019.2 汉化包  
+PyCharm 2019.2 汉化包  
+Rider 2019.1.3 汉化包  
+RubyMine 2019.2 汉化包  
+WebStorm 2019.2 汉化包  
 
 
 平方X原创汉化，转载请注明出处。  
@@ -34,12 +35,13 @@ WebStorm 2019.1 汉化包
 将 resources_zh_CN_\*.jar ，放到软件安装路径下的 **lib** 目录中，重启软件即可  
 * 注意是 **lib** 不是 **bin**
 * 不需要重命名，不需要解压，不需要删除任何 jar 包，不会覆盖任何 jar 包
-* 软件的安装路径，如 `D:\software\JetBrains\AndroidStudio\lib`
+* 软件安装路径的 lib 目录示例 `D:\software\JetBrains\AndroidStudio\lib`
 * 该目录下应该有一个文件: resources_en.jar 如果没有，说明没有找对路径
 * MAC 用户请在 Finder > 应用程序 中找到软件，右键 > 显示包内容
 
 # 0x03 反馈
-见常见问题。  
+请认真阅读 [使用方法] 。  
+请查阅下方的常见问题。  
 如果还有疑问，可提 issue 或加群反馈。
 
 * [扣群 663247250](https://www.pingfangx.com/xx/translation/jetbrains/feedback/qqgroup)
@@ -52,15 +54,20 @@ WebStorm 2019.1 汉化包
 请按照 [使用方法] 检查是否正确
 
 常见原因
-* 没有将汉化包放在 lib 目录（比如错放在 bin）  
-请检查所放目录是否有 resources_en.jar
-* 汉化包未正常下载（从 github 下载的大小不正确）  
-请检查下载的汉化包大小是否正常，是否可以解压
-* 操作环境需要设为中文（zh_CN）  
-请尝试将 resources_en.jar 移动到其他目录，打开软件看报错信息，查看 locale
+1. 没有将汉化包放到 lib 目录（比如错放在 bin）  
+请检查所放目录中是否有 resources_en.jar
+0. 汉化包未正常下载（从 github 下载的大小可能不正确）  
+请检查下载的汉化包大小是否正常，是否可以作为压缩包正常解压
+0. 当前语言环境不是中文（zh_CN）  
+请打开软件，选择 Help → Edit Custom VM Options...  
+加上两行  
+    -Duser.language=zh  
+    -Duser.region=CN  
+然后重启软件
+
 
 ## 设置打不开
-系统原本的 resources_en.jar 被损坏，恢复该 jar 包，按正确 [使用方法] 重新使用汉化包。
+系统原本的 resources_en.jar 被损坏，请重新安装恢复该 jar 包，按正确 [使用方法] 重新使用汉化包。
 
 常见原因
 * 不需要将汉化包内容解压到 resources_en.jar 中（这是通常网上不正确的汉化包使用方法）
