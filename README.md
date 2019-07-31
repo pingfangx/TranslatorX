@@ -47,6 +47,7 @@ WebStorm 2019.2 汉化包
 * [扣群 663247250](https://www.pingfangx.com/xx/translation/jetbrains/feedback/qqgroup)
 * [源码](https://www.pingfangx.com/xx/translation/jetbrains/download/sources)
 * [Issues](https://www.pingfangx.com/xx/translation/jetbrains/feedback/issues)
+* [Contributing](https://www.pingfangx.com/xx/translation/jetbrains/feedback/contributing)
 * [支持作者](https://www.pingfangx.com/xx/translation/jetbrains/feedback/support)
 
 # 0x04 常见问题
