@@ -1,10 +1,20 @@
+AdaptiveWelcome
+
+AltInsertInEditor
+
 AnnotationsAndDiffs
+
+Antivirus
+
+BreakpointSpeedmenu
 
 CamelHumpsInCodeCompletion
 
 CamelPrefixesInNavigationPopups
 
 CancelByControlArrows
+
+ChangeSignatureAfterMovingParameters
 
 ChangeSorting
 
@@ -15,6 +25,10 @@ CheckRegExp
 ClipboardStack
 
 CloseOthers
+
+ClosingTabsWithMiddleMouse
+
+ClosingTag
 
 CodeCompletion
 
@@ -30,11 +44,37 @@ ColorFiles
 
 ColumnSelection
 
+CommentCode
+
 CommitCtrlK
+
+Compare
+
+CompleteMethod
+
+CompleteStatement
+
+CompletionImportStatic
 
 CompletionInHTML
 
+ConfiguringTerminal
+
+ConstructorDocs
+
+ContextInfo
+
+CopyClass
+
+CopyPasteReference
+
 CopyWithNoSelection
+
+CreatePropertyTag
+
+CreateTargetTag
+
+CreateTestIntentionAction
 
 CtrlD
 
@@ -48,21 +88,37 @@ CtrlW
 
 DeleteLine
 
+DiffChevron
+
 DirDiff
+
+DisableBulb
 
 DotEtcInLookups
 
 DragToOpen
 
+EclipseQuickOpen
+
 EditRegExp
+
+Emmet
 
 EnterDirectoryInGotoFile
 
 Escape
 
+EscapeCharactersInResourceBundle
+
 EvaluateExpressionInEditor
 
 ExcludeFromProject
+
+ExternalJavaDoc
+
+FavoritesToolWindow1
+
+FavoritesToolWindow2
 
 FileStructurePopup
 
@@ -72,6 +128,12 @@ FindReplaceToggle
 
 FindUsages
 
+FinishByExclamation
+
+FinishBySmartEnter
+
+FixDocComment
+
 GoToAction
 
 GoToClass
@@ -80,11 +142,21 @@ GoToDeclaration
 
 GoToFile
 
+GoToImplementation
+
 GoToInspection
 
 GoToSymbol
 
 GotoLineInFile
+
+HierarchyBrowser
+
+HighlightImplements
+
+HighlightMethodExitPoint
+
+HighlightThrows
 
 HighlightUsagesInFile
 
@@ -96,13 +168,31 @@ ImageFileCompletion
 
 ImagesLookup
 
+InsertLiveTemplate
+
 InspectCode
 
 IntroduceVariable
 
+IntroduceVariableIncompleteCode
+
 IssueNavigation
 
+JarDiff
+
+JoinLines
+
 JumpToLastEdit
+
+LayoutCode
+
+LensMode
+
+LineEndings
+
+LineEndingsFolder
+
+LiveTemplates
 
 LiveTemplatesRestore
 
@@ -110,27 +200,49 @@ LocalVCS
 
 LocateDuplicates
 
+MavenQuickOpen
+
 MenuItemsDescriptions
 
 MethodSeparators
 
 MethodUpDown
 
+MoveInnerToUpper
+
 MoveToChangelist
+
+MoveUpDown
 
 Multicursor
 
 Multicursor1
 
+Multiselection1
+
+Multiselection2
+
+MultiselectionWords
+
 NavBar
 
 NavigateToFilePath
+
+NextPrevError
+
+NotReadyYet
+
+OverrideImplementMethods
 
 ParameterInfo
 
 PostfixCompletion
 
 PreviewTODO
+
+PrintKeywords
+
+PropertiesCompletion
 
 QuickDocInSuggestionList
 
@@ -152,11 +264,15 @@ RecentFiles
 
 RecentSearch
 
+RefactorThis
+
 RemoveToolWindowButton
 
 Rename
 
 RenameCssSelector
+
+RichTextCopy
 
 RunConfigFolders
 
@@ -164,9 +280,21 @@ ScopesInTODO
 
 Scratch
 
+ScratchesView
+
 SearchEverywhere
 
 SearchInSettings
+
+SecondBasicClassNameCompletion
+
+SecondSmartCompletionArrayMember
+
+SecondSmartCompletionAsList
+
+SecondSmartCompletionChain
+
+SecondSmartCompletionToar
 
 SelectIn
 
@@ -180,6 +308,12 @@ ShowHideSideBars
 
 ShowUsages
 
+SmartTypeAfterNew
+
+SmartTypeCasting
+
+SmartTypeCompletion
+
 SpecialCharacters
 
 SpeedSearch
@@ -190,6 +324,8 @@ Spellchecker
 
 SpellcheckerDictionaries
 
+SurroundWith
+
 Switcher
 
 TabInEditorClose
@@ -198,15 +334,25 @@ TabInLookups
 
 TagNameCompletion
 
+Terminal
+
 TerminalOpen
 
 UploadSshKey
 
+VariableNameCompletion
+
 VcsQuickList
+
+Welcome
+
+WideScreen
 
 WildcardsInNavigationPopups
 
 WordCompletion
 
 moveFileToChangelist
+
+todo
 
