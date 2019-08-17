@@ -7,7 +7,7 @@ GoLand 2019.2 汉化包
 IntelliJ IDEA 2019.2 汉化包  
 PhpStorm 2019.2 汉化包  
 PyCharm 2019.2 汉化包  
-Rider 2019.1.3 汉化包  
+Rider 2019.2 汉化包  
 RubyMine 2019.2 汉化包  
 WebStorm 2019.2 汉化包  
 
