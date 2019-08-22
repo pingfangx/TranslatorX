@@ -1,6 +1,6 @@
 # JetBrains 系列软件汉化包  
 关键字:  
-Android Studio 3.4 汉化包  
+Android Studio 3.5 汉化包  
 CLion 2019.2 汉化包  
 DataGrip 2019.2 汉化包  
 GoLand 2019.2 汉化包  
