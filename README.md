@@ -1,15 +1,15 @@
 # JetBrains 系列软件汉化包  
 关键字:  
 Android Studio 3.5 汉化包  
-CLion 2019.2 汉化包  
+CLion 2019.3 汉化包  
 DataGrip 2019.2 汉化包  
-GoLand 2019.2 汉化包  
-IntelliJ IDEA 2019.2 汉化包  
-PhpStorm 2019.2 汉化包  
+GoLand 2019.3 汉化包  
+IntelliJ IDEA 2019.3 汉化包  
+PhpStorm 2019.3 汉化包  
 PyCharm 2019.2 汉化包  
 Rider 2019.2 汉化包  
-RubyMine 2019.2 汉化包  
-WebStorm 2019.2 汉化包  
+RubyMine 2019.3 汉化包  
+WebStorm 2019.3 汉化包  
 
 
 平方X原创汉化，转载请注明出处。  
