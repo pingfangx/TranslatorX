@@ -264,8 +264,6 @@ Reopen
 
 RichTextCopy
 
-RubyMotion
-
 RunConfigFolders
 
 RunRakeTask

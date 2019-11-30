@@ -198,8 +198,6 @@ LiveTemplatesRestore
 
 LocalVCS
 
-LocateDuplicates
-
 MavenQuickOpen
 
 MenuItemsDescriptions

@@ -1,24 +1,10 @@
-AddMissingMethods
-
 AnnotationsAndDiffs
-
-AutoIndentLines
-
-AutocompleteNegation
-
-AutocompletionforAnonymousFunctionsandStructures
-
-Branches
-
-CallHierarchyFeature
 
 CamelHumpsInCodeCompletion
 
 CamelPrefixesInNavigationPopups
 
 CancelByControlArrows
-
-ChangeKeymap
 
 ChangeSorting
 
@@ -44,27 +30,11 @@ ColorFiles
 
 ColumnSelection
 
-CommentLine
-
 CommitCtrlK
-
-CompleteStatement
-
-CompleteWithTab
 
 CompletionInHTML
 
-ConditionalBreakpoint
-
-CopyStack
-
 CopyWithNoSelection
-
-CoverageToolWindow
-
-CreateScratchFileforSelection
-
-CreateUnresolvedFunctionOrField
 
 CtrlD
 
@@ -76,27 +46,13 @@ CtrlShiftIForLookup
 
 CtrlW
 
-CustomizeKeymap
-
-DebuggerWatches
-
-DefineNestingRules
-
 DeleteLine
 
 DirDiff
 
-DisableandEnableInspections
-
 DotEtcInLookups
 
-DotImportAlias
-
-DownloadAndManageSDK
-
 DragToOpen
-
-DuplicateLine
 
 EditRegExp
 
@@ -104,43 +60,17 @@ EnterDirectoryInGotoFile
 
 Escape
 
-EvaluateExpression
-
 EvaluateExpressionInEditor
 
 ExcludeFromProject
 
-ExtractInterface
-
-ExtractMethod
-
-ExtractVariable
-
 FileStructurePopup
 
-FindAction
-
 FindInPath
-
-FindKeymap
 
 FindReplaceToggle
 
 FindUsages
-
-FormatStringArgument
-
-GenerateConstructor
-
-GenerateGetterSetter
-
-GenerateNew
-
-GenerateParameterNamesAutomatically
-
-GoCoreDumps
-
-GoGet
 
 GoToAction
 
@@ -150,17 +80,11 @@ GoToDeclaration
 
 GoToFile
 
-GoToFolder
-
 GoToInspection
-
-GoToInterface
 
 GoToSymbol
 
 GotoLineInFile
-
-HighlightExitPoints
 
 HighlightUsagesInFile
 
@@ -168,39 +92,23 @@ HippieCompletion
 
 HorizontalScrolling
 
-HtmlTemplates
-
 ImageFileCompletion
 
 ImagesLookup
 
-ImplementInterface
-
-InlineRefactoring
-
 InspectCode
-
-InspectExpression
 
 IntroduceVariable
 
 IssueNavigation
 
-JumpBetweenTestAndTestSubject
-
 JumpToLastEdit
 
-LiveTemplates
-
 LiveTemplatesRestore
-
-LocalHistory
 
 LocalVCS
 
 MenuItemsDescriptions
-
-MethodLikeCompletionforFunctions
 
 MethodSeparators
 
@@ -208,55 +116,25 @@ MethodUpDown
 
 MoveToChangelist
 
-MoveToPackage
-
-MozillaRR
-
 Multicursor
 
 Multicursor1
-
-MultipleCarets
 
 NavBar
 
 NavigateToFilePath
 
-NilnessAnalyzer
-
-NonSuspendingBreakpoints
-
-OpenOnGithub
-
-OptimizeImports
-
-ParamInfo
-
 ParameterInfo
-
-PartialCompletion
-
-PartialGitCommits
-
-PasteFromHistory
 
 PostfixCompletion
 
 PreviewTODO
-
-Profilers
-
-QuickDefinition
-
-QuickDoc
 
 QuickDocInSuggestionList
 
 QuickDocOnMouseMove
 
 QuickEvaluateExpression
-
-QuickFix
 
 QuickFixRightArrow
 
@@ -266,17 +144,11 @@ QuickJavaDocInLookups
 
 QuickSwitchScheme
 
-RREandRRVPostfixCompletion
-
 RecentChanges
 
 RecentFiles
 
 RecentSearch
-
-RefactorThis
-
-ReformatCode
 
 RemoveToolWindowButton
 
@@ -284,33 +156,15 @@ Rename
 
 RenameCssSelector
 
-RenameRefactoring
-
 RunConfigFolders
-
-RunToCursor
-
-RunWithGutter
-
-RunWithIntentionAction
-
-RunWithSudo
 
 ScopesInTODO
 
 Scratch
 
-ScratchFile
-
 SearchEverywhere
 
 SearchInSettings
-
-SeeInterfaceandImplementedTypes
-
-SelectAllOccurrences
-
-SelectColorScheme
 
 SelectIn
 
@@ -318,25 +172,11 @@ SelectRunDebugConfiguration
 
 SelectTasks
 
-SelectWord
-
-SemanticHighlighting
-
 ShowAppliedStyles
-
-ShowDependencyDiagram
 
 ShowHideSideBars
 
-ShowImplementations
-
 ShowUsages
-
-SmartStepInto
-
-SmartTypeCompletion
-
-SortPostfixCompletion
 
 SpecialCharacters
 
@@ -348,10 +188,6 @@ Spellchecker
 
 SpellcheckerDictionaries
 
-StructurePopup
-
-SurroundWith
-
 Switcher
 
 TabInEditorClose
@@ -362,27 +198,11 @@ TagNameCompletion
 
 TerminalOpen
 
-UpdateProject
-
 UploadSshKey
-
-VCSAnnotate
-
-VCSDiff
-
-VCSOperations
 
 VcsQuickList
 
-VendoringMode
-
-ViewIntAs
-
-Welcome
-
 WildcardsInNavigationPopups
-
-WindowsMinidumpsSupport
 
 WordCompletion
 
