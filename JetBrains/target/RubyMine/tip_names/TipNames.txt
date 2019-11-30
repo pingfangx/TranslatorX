@@ -264,8 +264,6 @@ Rake 弹窗
 
 富文本复制
 
-RubyMotion
-
 分组运行配置
 
 运行 Rake 任务
