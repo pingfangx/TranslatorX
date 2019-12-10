@@ -66,6 +66,12 @@ CtrlW
 
 DeleteLine
 
+DiagramShow
+
+DiagramShowDiff
+
+DiagramShowPopup
+
 DiffChevron
 
 DirDiff
@@ -125,6 +131,8 @@ Html5Outline
 ImageFileCompletion
 
 ImagesLookup
+
+InjectSQLLanguage
 
 InlineVariable
 
@@ -259,6 +267,8 @@ Terminal
 TerminalOpen
 
 ToolWindowsQuickAccess
+
+UmlClassDiagram
 
 UploadSshKey
 

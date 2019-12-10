@@ -170,6 +170,8 @@ ImageFileCompletion
 
 ImagesLookup
 
+InjectSQLLanguage
+
 InsertLiveTemplate
 
 InspectCode
@@ -185,6 +187,14 @@ JarDiff
 JoinLines
 
 JumpToLastEdit
+
+Kotlin
+
+Kotlin_Java_convert
+
+Kotlin_mix
+
+Kotlin_project
 
 LayoutCode
 

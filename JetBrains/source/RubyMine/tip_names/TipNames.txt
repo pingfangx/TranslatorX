@@ -46,6 +46,8 @@ ColumnSelection
 
 CommitCtrlK
 
+CompareDataSources
+
 CompletionInHTML
 
 ConfiguringTerminal
@@ -68,9 +70,51 @@ CucumberCreateExamples
 
 CucumberCreateExamplesComments
 
+DBAutoSync
+
+DBColors
+
+DBConsole
+
+DBDDLDataSourceByDragAndDrop
+
+DBDataSourceByDragAndDrop
+
+DBDiagramShow
+
+DBDiagramShowPopup
+
+DBMakeDataSourceReadonly
+
+DBMakeTableReadonly
+
+DBQuickDoc
+
+DBRunQuery
+
+DBRunQueryIntention
+
+DBTableEditor
+
+DBTableViewForCSVFiles
+
+DBTransposedRowView
+
+DBValueView
+
 DDDisable
 
+DDLDataSources
+
+DataSources
+
 DeleteLine
+
+DiagramShow
+
+DiagramShowDiff
+
+DiagramShowPopup
 
 DiffChevron
 
@@ -143,6 +187,10 @@ Html5Outline
 ImageFileCompletion
 
 ImagesLookup
+
+ImportDataSource
+
+InjectSQLLanguage
 
 InlineMethod
 
@@ -268,6 +316,8 @@ RunConfigFolders
 
 RunRakeTask
 
+SQLDialects
+
 ScopesInTODO
 
 Scratch
@@ -289,6 +339,8 @@ ShowAppliedStyles
 ShowHideSideBars
 
 ShowUsages
+
+SmartCompletion
 
 SpecialCharacters
 
@@ -315,6 +367,8 @@ Terminal
 TerminalOpen
 
 ToolWindowsQuickAccess
+
+UmlClassDiagram
 
 UploadSshKey
 

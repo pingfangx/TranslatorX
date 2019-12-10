@@ -36,6 +36,8 @@ ColumnSelection
 
 CommitCtrlK
 
+CompareDataSources
+
 CompleteStatement
 
 CompletionInHTML
@@ -52,7 +54,49 @@ CtrlShiftIForLookup
 
 CtrlW
 
+DBAutoSync
+
+DBColors
+
+DBConsole
+
+DBDDLDataSourceByDragAndDrop
+
+DBDataSourceByDragAndDrop
+
+DBDiagramShow
+
+DBDiagramShowPopup
+
+DBMakeDataSourceReadonly
+
+DBMakeTableReadonly
+
+DBQuickDoc
+
+DBRunQuery
+
+DBRunQueryIntention
+
+DBTableEditor
+
+DBTableViewForCSVFiles
+
+DBTransposedRowView
+
+DBValueView
+
+DDLDataSources
+
+DataSources
+
 DeleteLine
+
+DiagramShow
+
+DiagramShowDiff
+
+DiagramShowPopup
 
 DirDiff
 
@@ -123,6 +167,10 @@ HorizontalScrolling
 ImageFileCompletion
 
 ImagesLookup
+
+ImportDataSource
+
+InjectSQLLanguage
 
 InlineVariable
 
@@ -212,6 +260,8 @@ RunConfigFolders
 
 RunInspectionByName
 
+SQLDialects
+
 ScopesInTODO
 
 Scratch
@@ -231,6 +281,8 @@ ShowAppliedStyles
 ShowHideSideBars
 
 ShowUsages
+
+SmartCompletion
 
 SmartTypeCompletion
 
@@ -257,6 +309,8 @@ TagNameCompletion
 TerminalOpen
 
 TypeHierarchy
+
+UmlClassDiagram
 
 UploadSshKey
 

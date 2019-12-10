@@ -50,6 +50,8 @@ CommitCtrlK
 
 Compare
 
+CompareDataSources
+
 CompleteMethod
 
 CompleteStatement
@@ -86,7 +88,49 @@ CtrlShiftIForLookup
 
 CtrlW
 
+DBAutoSync
+
+DBColors
+
+DBConsole
+
+DBDDLDataSourceByDragAndDrop
+
+DBDataSourceByDragAndDrop
+
+DBDiagramShow
+
+DBDiagramShowPopup
+
+DBMakeDataSourceReadonly
+
+DBMakeTableReadonly
+
+DBQuickDoc
+
+DBRunQuery
+
+DBRunQueryIntention
+
+DBTableEditor
+
+DBTableViewForCSVFiles
+
+DBTransposedRowView
+
+DBValueView
+
+DDLDataSources
+
+DataSources
+
 DeleteLine
+
+DiagramShow
+
+DiagramShowDiff
+
+DiagramShowPopup
 
 DiffChevron
 
@@ -168,6 +212,10 @@ ImageFileCompletion
 
 ImagesLookup
 
+ImportDataSource
+
+InjectSQLLanguage
+
 InsertLiveTemplate
 
 InspectCode
@@ -183,6 +231,14 @@ JarDiff
 JoinLines
 
 JumpToLastEdit
+
+Kotlin
+
+Kotlin_Java_convert
+
+Kotlin_mix
+
+Kotlin_project
 
 LayoutCode
 
@@ -274,6 +330,8 @@ RichTextCopy
 
 RunConfigFolders
 
+SQLDialects
+
 ScopesInTODO
 
 Scratch
@@ -306,6 +364,8 @@ ShowHideSideBars
 
 ShowUsages
 
+SmartCompletion
+
 SmartTypeAfterNew
 
 SmartTypeCasting
@@ -322,6 +382,16 @@ Spellchecker
 
 SpellcheckerDictionaries
 
+SpringCreateBeanFromUsage
+
+SpringGotoRelated
+
+SpringGotoSymbol
+
+SpringInject
+
+SpringOpenBean
+
 SurroundWith
 
 Switcher
@@ -335,6 +405,8 @@ TagNameCompletion
 Terminal
 
 TerminalOpen
+
+UmlClassDiagram
 
 UploadSshKey
 

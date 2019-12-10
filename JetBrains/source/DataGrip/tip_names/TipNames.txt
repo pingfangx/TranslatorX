@@ -1,18 +1,10 @@
-AttachDirectorytoProject
-
-CamelHumpsInCodeCompletion
-
-CamelPrefixesInNavigationPopups
-
 CancelByControlArrows
 
 ChangeSorting
 
 ClipboardStack
 
-CloseOthers
-
-CodeCompletion
+Close_all_editor_tabs
 
 CodeCompletionInSearch
 
@@ -20,11 +12,7 @@ CodeCompletionMiddle
 
 ColumnSelection
 
-CommentCode
-
-ConsolesAndScratches
-
-CopyClass
+CompareDataSources
 
 CopyWithNoSelection
 
@@ -32,19 +20,47 @@ CtrlD
 
 CtrlDotInLookups
 
-CtrlShiftI
+DBAutoSync
 
-CtrlShiftIForLookup
+DBColors
 
-CtrlW
+DBConsole
 
-DBGit
+DBDDLDataSourceByDragAndDrop
 
-DBGoToSymbolFQN
+DBDataSourceByDragAndDrop
 
-DBPlugins
+DBDiagramShow
 
-DBTerminal
+DBDiagramShowPopup
+
+DBMakeDataSourceReadonly
+
+DBMakeTableReadonly
+
+DBQuickDoc
+
+DBRunQuery
+
+DBRunQueryIntention
+
+DBTableEditor
+
+DBTableViewForCSVFiles
+
+DBTransposedRowView
+
+DBValueView
+
+DDLDataSources
+
+DataSources
+
+DiagramShow
+
+DiagramShowDiff
+
+DiagramShowPopup
 
 DirDiff
 
@@ -52,17 +68,17 @@ DotEtcInLookups
 
 DragToOpen
 
+EditorConfig
+
 Escape
 
 FileStructurePopup
 
+FindInPath
+
 FindReplaceToggle
 
-FindUsages
-
 GoToAction
-
-GoToDeclaration
 
 GoToFile
 
@@ -70,15 +86,17 @@ GoToInspection
 
 GoToSymbol
 
-GoToTable
-
 HighlightUsagesInFile
+
+HippieCompletion
 
 HorizontalScrolling
 
-InsertLiveTemplate
+ImportDataSource
 
-JarDiff
+InjectSQLLanguage
+
+InsertLiveTemplate
 
 JoinLines
 
@@ -90,19 +108,7 @@ LiveTemplates
 
 LocalVCS
 
-MenuItemsDescriptions
-
-MoveUpDown
-
-NavBar
-
-NavigateToFilePath
-
-NextPrevError
-
-QuickJavaDoc
-
-QuickJavaDocInLookups
+PostfixCompletion
 
 QuickSwitchScheme
 
@@ -110,19 +116,13 @@ RecentChanges
 
 RecentFiles
 
-RecentSearch
+SQLDialects
 
-RemoveToolWindowButton
-
-Rename
-
-SearchInSettings
-
-SelectIn
+SearchEverywhere
 
 ShowUsages
 
-SpeedSearch
+SmartCompletion
 
 SurroundWith
 
@@ -130,15 +130,79 @@ Switcher
 
 TabInEditorClose
 
-TabInLookups
-
-TagNameCompletion
+UmlClassDiagram
 
 UploadSshKey
 
-Welcome
+db_tip_attach_directory
 
-WildcardsInNavigationPopups
+db_tip_back_up_table
 
-WordCompletion
+db_tip_code_completion_for_abbreviated_function_names
+
+db_tip_code_completion_for_abbreviated_object_names
+
+db_tip_code_completion_in_code_editor
+
+db_tip_consoles_scratch_files_and_buffers
+
+db_tip_create_ddl_data_source
+
+db_tip_customize_query_execution
+
+db_tip_drag_csv_file_to_create_table
+
+db_tip_duplicate_entire_lines
+
+db_tip_expand_list_of_columns
+
+db_tip_expand_selection_of_cells
+
+db_tip_forget_cached_schemas
+
+db_tip_group_sort_database_objects
+
+db_tip_hippie_completion
+
+db_tip_live_connection
+
+db_tip_prefer_ddl_over_view
+
+db_tip_qualify_unqualify_identifiers
+
+db_tip_quick_definition_of_file
+
+db_tip_recently_edited_files
+
+db_tip_search_for_table_procedure_with_abbreviations
+
+db_tip_show_parameter_information
+
+db_tip_text_search_result_set_or_editor
+
+db_tip_transposed_view
+
+db_tip_view_console_history
+
+find_action
+
+find_usages
+
+jump_to_colors_fonts
+
+smart_selection
+
+tips_db_AttachDirectorytoProject
+
+tips_db_DBGoToSymbolFQN
+
+tips_db_DBPlugins
+
+tips_db_DBTerminal
+
+tips_db_GoToTable
+
+tips_db_JarDiff
+
+tips_db_WordCompletion
 
