@@ -2,12 +2,12 @@
 关键字:  
 Android Studio 3.5 汉化包  
 CLion 2019.3 汉化包  
-DataGrip 2019.2 汉化包  
+DataGrip 2019.3 汉化包  
 GoLand 2019.3 汉化包  
 IntelliJ IDEA 2019.3 汉化包  
 PhpStorm 2019.3 汉化包  
-PyCharm 2019.2 汉化包  
-Rider 2019.2 汉化包  
+PyCharm 2019.3 汉化包  
+Rider 2019.3 汉化包  
 RubyMine 2019.3 汉化包  
 WebStorm 2019.3 汉化包  
 
@@ -33,11 +33,12 @@ WebStorm 2019.3 汉化包
 [图文教程](https://www.pingfangx.com/xx/translation/jetbrains/usage/image)  
 
 将 resources_zh_CN_\*.jar ，放到软件安装路径下的 **lib** 目录中，重启软件即可  
-* 注意是 **lib** 不是 **bin**
+* 理论上不可能汉化失败，如果汉化不生效，请认真学习下方的常见问题，仍有问题可反馈
 * 不需要重命名，不需要解压，不需要删除任何 jar 包，不会覆盖任何 jar 包
 * 软件安装路径的 lib 目录示例 `D:\software\JetBrains\AndroidStudio\lib`
 * 该目录下应该有一个文件: resources_en.jar 如果没有，说明没有找对路径
 * MAC 用户请在 Finder > 应用程序 中找到软件，右键 > 显示包内容
+* 汉化后如果需要还原，删除汉化包即可
 
 # 0x03 反馈
 请认真阅读 [使用方法] 。  
