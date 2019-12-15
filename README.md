@@ -20,7 +20,7 @@ WebStorm 2019.3 汉化包
 
 # 0x01 下载
 从 [[github](https://www.pingfangx.com/xx/translation/jetbrains/download/github)]
-或者 [[百度云(提取码:2222)](https://www.pingfangx.com/xx/translation/jetbrains/download/baidu)]  
+或者 [[百度云](https://www.pingfangx.com/xx/translation/jetbrains/download/baidu)]  
 下载软件对应的汉化包  
 命名为 `resources_zh_CN_<软件名>_<版本>.jar`
 
